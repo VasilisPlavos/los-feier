@@ -23,6 +23,10 @@ function throwingStorage(): Storage {
 }
 
 describe("storage", () => {
+  test("uses the los-feier keys", () => {
+    expect([STORAGE_KEY, BACKUP_KEY]).toEqual(["los-feier.state", "los-feier.state.backup"]);
+  });
+
   test("round-trips the state", () => {
     const storage = memoryStorage();
     const state = { ...createDefaultState(), leave: { "2026-04-07": 1 as const } };

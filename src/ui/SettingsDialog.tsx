@@ -60,7 +60,7 @@ export function SettingsDialog({ open, onClose, state, dispatch }: Props) {
 
       <fieldset>
         <legend>{t("settings.data")}</legend>
-        <button type="button" onClick={() => downloadText(`holidays-${todayIso()}.json`, exportStateJson(state))}>
+        <button type="button" onClick={() => downloadText(`los-feier-${todayIso()}.json`, exportStateJson(state))}>
           {t("settings.export")}
         </button>
         <label>

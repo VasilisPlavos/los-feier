@@ -2,8 +2,8 @@ import type { AppState } from "../core/types";
 import { createDefaultState } from "./defaults";
 import { parseStateText } from "./schema";
 
-export const STORAGE_KEY = "holidays.state";
-export const BACKUP_KEY = "holidays.state.backup";
+export const STORAGE_KEY = "los-feier.state";
+export const BACKUP_KEY = "los-feier.state.backup";
 
 /** localStorage if it can actually be written, otherwise null (private mode, blocked, …). */
 export function getStorage(): Storage | null {
