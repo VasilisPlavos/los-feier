@@ -45,6 +45,13 @@ afterEach(() => {
 const seed = (overrides = {}) => localStorage.setItem(STORAGE_KEY, JSON.stringify(makeState(overrides)));
 
 describe("App", () => {
+  test("shows the Los Feier brand in the header in every language", async () => {
+    stubFetch();
+    seed({ language: "el" });
+    render(<App />);
+    expect(await screen.findByRole("heading", { level: 1, name: "Los Feier" })).toBeInTheDocument();
+  });
+
   test("first run asks for calendars with the browser-language suggestion checked", async () => {
     stubFetch();
     setLanguages(["de-CH"]);
