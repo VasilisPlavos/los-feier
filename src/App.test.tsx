@@ -49,7 +49,53 @@ describe("App", () => {
     stubFetch();
     seed({ language: "el" });
     render(<App />);
-    expect(await screen.findByRole("heading", { level: 1, name: "Los Feier" })).toBeInTheDocument();
+    expect(await screen.findByRole("heading", { level: 1, name: "Los Feier!" })).toBeInTheDocument();
+  });
+
+  test("the header bar has the year, About and Settings, and no year arrows", async () => {
+    stubFetch();
+    seed();
+    render(<App />);
+    const header = screen.getByRole("banner");
+    expect(within(header).getByRole("combobox", { name: "Year" })).toHaveValue("2026");
+    expect(within(header).getByRole("button", { name: "About" })).toBeInTheDocument();
+    expect(within(header).getByRole("button", { name: "Settings" })).toBeInTheDocument();
+    expect(screen.queryByRole("button", { name: "Previous year" })).not.toBeInTheDocument();
+    expect(screen.queryByRole("button", { name: "Next year" })).not.toBeInTheDocument();
+  });
+
+  test("the year list runs from the first to the last year in the calendar data", async () => {
+    stubFetch();
+    seed();
+    render(<App />);
+    const select = screen.getByRole("combobox", { name: "Year" });
+    await waitFor(() => expect(within(select).getAllByRole("option")).toHaveLength(11));
+    expect(within(select).getAllByRole("option")[0]).toHaveTextContent("2021");
+    expect(within(select).getAllByRole("option")[10]).toHaveTextContent("2031");
+  });
+
+  test("a year outside the data in the link moves to the nearest year with data", async () => {
+    stubFetch();
+    seed();
+    window.location.hash = "#2040";
+    render(<App />);
+    await waitFor(() => expect(screen.getByRole("combobox", { name: "Year" })).toHaveValue("2031"));
+    expect(window.location.hash).toBe("#2031");
+  });
+
+  test("the hero introduces the year on screen", async () => {
+    stubFetch();
+    seed();
+    render(<App />);
+    expect(screen.getByRole("heading", { level: 2, name: "Holiday calendar 2026" })).toBeInTheDocument();
+  });
+
+  test("About opens the about dialog", async () => {
+    stubFetch();
+    seed();
+    render(<App />);
+    await userEvent.click(screen.getByRole("button", { name: "About" }));
+    expect(screen.getByRole("dialog", { name: "About Los Feier" })).toBeInTheDocument();
   });
 
   test("first run asks for calendars with the browser-language suggestion checked", async () => {
@@ -85,17 +131,17 @@ describe("App", () => {
     seed();
     render(<App />);
     await screen.findAllByText(/4-day breaks/);
-    await userEvent.click(screen.getByRole("button", { name: "Next year" }));
+    await userEvent.selectOptions(screen.getByRole("combobox", { name: "Year" }), "2027");
     await userEvent.click(await screen.findByRole("checkbox", { name: "Counts as holiday: New Year's Day" }));
     const stored = () => Object.keys(JSON.parse(localStorage.getItem(STORAGE_KEY)!).profiles).sort();
     await waitFor(() => expect(stored()).toEqual(["2020", "2027"]));
     expect(screen.getByRole("button", { name: /Calendars \(1\) · from 2027/ })).toBeInTheDocument();
 
-    await userEvent.click(screen.getByRole("button", { name: "Previous year" }));
+    await userEvent.selectOptions(screen.getByRole("combobox", { name: "Year" }), "2026");
     expect(screen.getByRole("button", { name: /from 2020/ })).toBeInTheDocument();
     expect(screen.getByRole("checkbox", { name: "Counts as holiday: New Year's Day" })).toBeChecked();
 
-    await userEvent.click(screen.getByRole("button", { name: "Next year" }));
+    await userEvent.selectOptions(screen.getByRole("combobox", { name: "Year" }), "2027");
     await userEvent.click(screen.getByRole("button", { name: /Calendars \(1\)/ }));
     await userEvent.click(screen.getByRole("button", { name: "Remove the 2027 settings" }));
     await waitFor(() => expect(stored()).toEqual(["2020"]));
@@ -152,22 +198,23 @@ describe("App", () => {
     expect(JSON.parse(localStorage.getItem(STORAGE_KEY)!).leave).toEqual({ "2026-04-07": 1 });
   });
 
-  test("year navigation updates the hash", async () => {
+  test("choosing a year updates the hash", async () => {
     stubFetch();
     seed();
     render(<App />);
-    await userEvent.click(screen.getByRole("button", { name: "Next year" }));
-    expect(screen.getByText("2027")).toBeInTheDocument();
+    await screen.findAllByText(/4-day breaks/);
+    await userEvent.selectOptions(screen.getByRole("combobox", { name: "Year" }), "2027");
+    expect(screen.getByRole("heading", { name: "Holiday calendar 2027" })).toBeInTheDocument();
     expect(window.location.hash).toBe("#2027");
   });
 
   test("REVIEW FOCUS: a year without data shows a banner but keeps working", async () => {
     stubFetch();
     seed();
-    window.location.hash = "#2019";
+    window.location.hash = "#2021";
     render(<App />);
-    expect(await screen.findByText(/There is no holiday data for 2019/)).toBeInTheDocument();
-    await userEvent.click(document.querySelector<HTMLButtonElement>('[data-date="2019-04-09"]')!);
+    expect(await screen.findByText(/There is no holiday data for 2021/)).toBeInTheDocument();
+    await userEvent.click(document.querySelector<HTMLButtonElement>('[data-date="2021-04-06"]')!);
     expect(screen.getByRole("heading", { name: "Leave days: 1" })).toBeInTheDocument();
   });
 

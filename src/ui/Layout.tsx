@@ -1,19 +1,22 @@
 import { useEffect, useMemo, useState, type ReactNode } from "react";
 import { datesBetween, todayIso } from "../core/dates";
 import { calendarIdsFor, profileFor } from "../core/profiles";
-import { hasDataForYear, suggestCalendarId } from "../data/calendars";
+import { clampYear, hasDataForYear, suggestCalendarId, yearBounds } from "../data/calendars";
 import { useCalendarIndex, useCalendars } from "../data/hooks";
 import { useI18n } from "../i18n/I18nProvider";
 import { downloadText } from "../state/exportImport";
 import { useStore } from "../state/StoreProvider";
+import { AboutDialog } from "./AboutDialog";
 import { CalendarPickerDialog, type CalendarChoice } from "./CalendarPickerDialog";
 import { CalendarsPanel } from "./CalendarsPanel";
+import { Hero } from "./Hero";
 import { HolidayListPanel } from "./HolidayListPanel";
 import { SettingsDialog } from "./SettingsDialog";
 import { SummaryPanel } from "./SummaryPanel";
 import { useYearModel } from "./useYearModel";
 import { WeeklyPlanPanel } from "./WeeklyPlanPanel";
 import { YearGrid } from "./YearGrid";
+import { YearPicker } from "./YearPicker";
 
 type Tab = "plan" | "breaks" | "holidays";
 
@@ -28,10 +31,12 @@ export function Layout() {
   const [year, setYear] = useState(() => yearFromHash(window.location.hash) ?? new Date().getFullYear());
   const [tab, setTab] = useState<Tab>("breaks");
   const [settingsOpen, setSettingsOpen] = useState(false);
+  const [aboutOpen, setAboutOpen] = useState(false);
   const [pickerOpen, setPickerOpen] = useState(false);
   const [selectedStart, setSelectedStart] = useState<string | null>(null);
 
   const index = useCalendarIndex();
+  const bounds = useMemo(() => (index.index ? yearBounds(index.index) : null), [index.index]);
   const profile = profileFor(state.profiles, year);
   // Neighbouring years too: breaks that cross New Year read the other year's holidays. Ids the
   // index no longer lists are not fetched: they can never load, and the panel marks them instead.
@@ -41,6 +46,11 @@ export function Layout() {
   );
   const model = useYearModel(state, cals.calendars, year);
   const today = todayIso();
+
+  // A year from the link (or today) outside the calendar data moves to the nearest year the list offers.
+  useEffect(() => {
+    setYear((y) => clampYear(y, bounds));
+  }, [bounds]);
 
   useEffect(() => {
     history.replaceState(null, "", `#${year}`);
@@ -101,16 +111,11 @@ export function Layout() {
     <div className="app">
       <header className="header">
         <h1>{t("app.title")}</h1>
-        <nav className="year-nav">
-          <button type="button" className="icon-button" aria-label={t("header.prevYear")} onClick={() => setYear((y) => y - 1)}>
-            ‹
-          </button>
-          <strong>{year}</strong>
-          <button type="button" className="icon-button" aria-label={t("header.nextYear")} onClick={() => setYear((y) => y + 1)}>
-            ›
-          </button>
-        </nav>
         <span className="spacer" />
+        <YearPicker year={year} bounds={bounds} onChange={setYear} />
+        <button type="button" className="header-link" onClick={() => setAboutOpen(true)}>
+          {t("header.about")}
+        </button>
         <button type="button" className="icon-button" aria-label={t("header.settings")} onClick={() => setSettingsOpen(true)}>
           ⚙
         </button>
@@ -120,6 +125,7 @@ export function Layout() {
       </header>
 
       <main className="main">
+        <Hero year={year} />
         {recoveredBackup !== null && (
           <div className="banner" data-kind="error" role="alert">
             {t("errors.recovered")}
@@ -213,6 +219,8 @@ export function Layout() {
         }}
         onClose={() => setPickerOpen(false)}
       />
+
+      <AboutDialog open={aboutOpen} onClose={() => setAboutOpen(false)} />
 
       <SettingsDialog open={settingsOpen} onClose={() => setSettingsOpen(false)} state={state} dispatch={dispatch} />
     </div>
