@@ -44,7 +44,8 @@ describe("App", () => {
     setLanguages(["de-CH"]);
     render(<App />);
     expect(await screen.findByText("Using “Holidays in Switzerland”.")).toBeInTheDocument();
-    expect(JSON.parse(localStorage.getItem(STORAGE_KEY)!).calendar.id).toBe("en.ch");
+    // Auto-save runs in an effect after the render that shows the banner.
+    await waitFor(() => expect(JSON.parse(localStorage.getItem(STORAGE_KEY)!).calendar.id).toBe("en.ch"));
   });
 
   test("first run without a suggestion opens the settings", async () => {
