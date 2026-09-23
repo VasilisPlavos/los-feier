@@ -84,5 +84,13 @@
   "picker.save": "Αποθήκευση",
   "picker.cancel": "Άκυρο",
   "picker.continue": "Συνέχεια",
-  "picker.close": "Κλείσιμο"
+  "picker.close": "Κλείσιμο",
+  "calendars.title": "Ημερολόγια ({n})",
+  "calendars.none": "Κανένα ημερολόγιο",
+  "calendars.from": "από {year}",
+  "calendars.edit": "Αλλαγή",
+  "calendars.choose": "Επιλογή",
+  "calendars.removeProfile": "Κατάργηση ρυθμίσεων {year}",
+  "calendars.loadFailed": "δεν φορτώθηκε",
+  "calendars.unknown": "δεν είναι πια διαθέσιμο"
 }

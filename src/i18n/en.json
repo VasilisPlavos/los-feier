@@ -84,5 +84,13 @@
   "picker.save": "Save",
   "picker.cancel": "Cancel",
   "picker.continue": "Continue",
-  "picker.close": "Close"
+  "picker.close": "Close",
+  "calendars.title": "Calendars ({n})",
+  "calendars.none": "No calendar",
+  "calendars.from": "from {year}",
+  "calendars.edit": "Change",
+  "calendars.choose": "Choose",
+  "calendars.removeProfile": "Remove the {year} settings",
+  "calendars.loadFailed": "could not be loaded",
+  "calendars.unknown": "no longer available"
 }
