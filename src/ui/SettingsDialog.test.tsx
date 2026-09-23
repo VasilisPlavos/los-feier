@@ -49,7 +49,7 @@ describe("SettingsDialog", () => {
     const { dispatch } = setup();
     expect(screen.getByLabelText("Zurich")).toBeChecked();
     await userEvent.click(screen.getByLabelText("Bern"));
-    expect(dispatch).toHaveBeenCalledWith({ type: "setRegions", regions: ["Bern", "Zurich"] });
+    expect(dispatch).toHaveBeenCalledWith({ type: "setRegions", regions: ["Zurich", "Bern"] });
     await userEvent.click(screen.getByLabelText("Treat observances as holidays"));
     expect(dispatch).toHaveBeenCalledWith({ type: "setIncludeObservances", value: true });
   });

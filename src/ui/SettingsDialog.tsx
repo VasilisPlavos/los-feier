@@ -36,10 +36,9 @@ export function SettingsDialog({ open, onClose, index, calendar, state, dispatch
 
   const toggleRegion = (region: string) => {
     const selected = state.calendar.regions;
-    const updated = selected.includes(region) ? selected.filter((r) => r !== region) : [...selected, region];
     dispatch({
       type: "setRegions",
-      regions: updated.sort(),
+      regions: selected.includes(region) ? selected.filter((r) => r !== region) : [...selected, region],
     });
   };
 
