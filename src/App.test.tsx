@@ -113,6 +113,18 @@ describe("App", () => {
     expect(await screen.findByText("Christmas Eve")).toBeInTheDocument();
   });
 
+  test("REVIEW: a calendar that is no longer in the index gives no un-retryable load-error banner", async () => {
+    const fetchMock = stubFetch();
+    seed({ calendars: [{ id: "en.ch", regions: ["Zurich"] }, { id: "en.gone", regions: [] }] });
+    render(<App />);
+    await screen.findAllByText(/4-day breaks/);
+    await waitFor(() => expect(screen.queryByText("The holiday calendar could not be loaded.")).not.toBeInTheDocument());
+    const before = fetchMock.mock.calls.length;
+    await userEvent.click(screen.getByRole("button", { name: /Calendars \(2\)/ }));
+    expect(screen.getByText("en.gone").closest("li")).toHaveTextContent("no longer available");
+    expect(fetchMock.mock.calls.length).toBe(before);
+  });
+
   test("a year where only some calendars have data names the missing ones", async () => {
     stubFetch();
     seed({ calendars: [{ id: "en.ch", regions: ["Zurich"] }, { id: "en.long", regions: [] }] });

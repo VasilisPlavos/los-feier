@@ -68,6 +68,24 @@ describe("resolveYearHolidays", () => {
     expect(xmas).toEqual([expect.objectContaining({ enabled: false, hasRule: true })]);
   });
 
+  test("REVIEW: Google's regional-holiday suffix does not stop the merge (real calendar names)", () => {
+    const ch = makeCalendar("en.ch", "CH", [
+      { date: "2026-04-03", name: "Good Friday (regional holiday)", type: "public", regions: ["Zurich"] },
+    ]);
+    const de = makeCalendar("de.ch", "DE", [
+      { date: "2026-04-06", name: "Ostermontag (regionaler Feiertag)", type: "public", regions: ["Zurich"] },
+    ]);
+    const profile = makeProfile({
+      calendars: [{ id: "en.ch", regions: ["Zurich"] }, { id: "de.ch", regions: ["Zurich"] }, { id: "en.christian", regions: [] }],
+      holidayRules: { "Good Friday": { fraction: 0.5 } },
+    });
+    const list = resolveYearHolidays(profile, [ch, de, christianFixture], 2026);
+    expect(list.filter((h) => h.date === "2026-04-03")).toEqual([
+      expect.objectContaining({ name: "Good Friday", type: "public", fraction: 0.5, hasRule: true, calendarIds: ["en.ch", "en.christian"] }),
+    ]);
+    expect(names(list)).toContain("Ostermontag");
+  });
+
   test("tentative only when every source is tentative", () => {
     const a = makeCalendar("en.aa", "A", [{ date: "2026-05-01", name: "Feast", type: "public", tentative: true }]);
     const b = makeCalendar("en.bb", "B", [{ date: "2026-05-01", name: "Feast", type: "public" }]);

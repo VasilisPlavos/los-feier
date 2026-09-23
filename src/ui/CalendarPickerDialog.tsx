@@ -1,4 +1,4 @@
-import { useEffect, useMemo, useRef, useState } from "react";
+import { useLayoutEffect, useMemo, useRef, useState } from "react";
 import type { CalendarIndexEntry, SelectedCalendar } from "../core/types";
 import { calendarRegions, matchesQuery } from "../data/calendars";
 import { useCalendars } from "../data/hooks";
@@ -155,7 +155,8 @@ function RegionGroup({ name, regions, selected, onChange }: RegionGroupProps) {
   const chosen = visible.filter((r) => selected.includes(r)).length;
   const all = visible.length > 0 && chosen === visible.length;
 
-  useEffect(() => {
+  // Before paint, so the box never flashes the wrong state.
+  useLayoutEffect(() => {
     if (selectAllRef.current) selectAllRef.current.indeterminate = chosen > 0 && !all;
   }, [chosen, all]);
 

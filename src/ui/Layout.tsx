@@ -33,8 +33,12 @@ export function Layout() {
 
   const index = useCalendarIndex();
   const profile = profileFor(state.profiles, year);
-  // Neighbouring years too: breaks that cross New Year read the other year's holidays.
-  const cals = useCalendars(calendarIdsFor(state.profiles, [year - 1, year, year + 1]));
+  // Neighbouring years too: breaks that cross New Year read the other year's holidays. Ids the
+  // index no longer lists are not fetched: they can never load, and the panel marks them instead.
+  const wantedIds = calendarIdsFor(state.profiles, [year - 1, year, year + 1]);
+  const cals = useCalendars(
+    index.status === "ready" && index.index ? wantedIds.filter((id) => index.index!.some((c) => c.id === id)) : wantedIds,
+  );
   const model = useYearModel(state, cals.calendars, year);
   const today = todayIso();
 

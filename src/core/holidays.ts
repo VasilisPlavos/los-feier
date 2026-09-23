@@ -14,6 +14,14 @@ interface Occurrence {
   calendarIds: string[];
 }
 
+/** Google marks regional holidays with a suffix, per calendar language. */
+const REGIONAL_SUFFIX = / \((regional holiday|regionaler Feiertag|jour férié local|festività regionale)\)$/;
+
+/** The holiday's name without Google's regional marker, so the same holiday from another calendar merges with it. */
+export function holidayName(raw: string): string {
+  return raw.replace(REGIONAL_SUFFIX, "");
+}
+
 function isVisible(regions: string[] | undefined, selected: string[]): boolean {
   return !regions || regions.some((r) => selected.includes(r));
 }
@@ -44,13 +52,14 @@ export function resolveYearHolidays(profile: YearProfile, calendars: CalendarFil
     for (const event of calendar.events) {
       if (!isVisible(event.regions, selected.regions)) continue;
       const tentative = event.tentative === true;
+      const name = holidayName(event.name);
       for (let i = 0; i < (event.days ?? 1); i++) {
         const date = addDays(event.date, i);
         if (yearOf(date) !== year) continue;
-        const key = `${date}|${event.name}`;
+        const key = `${date}|${name}`;
         const existing = merged.get(key);
         if (!existing) {
-          merged.set(key, { date, name: event.name, type: event.type, tentative, calendarIds: [calendar.id] });
+          merged.set(key, { date, name, type: event.type, tentative, calendarIds: [calendar.id] });
           continue;
         }
         if (event.type === "public") existing.type = "public";
