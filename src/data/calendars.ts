@@ -45,6 +45,21 @@ export function hasDataForYear(calendar: CalendarFile, year: number): boolean {
   return year >= calendar.from && year <= calendar.to;
 }
 
+export interface YearBounds {
+  min: number;
+  max: number;
+}
+
+/** First to last year that any calendar has data for; null when there are no calendars. */
+export function yearBounds(index: CalendarIndexEntry[]): YearBounds | null {
+  if (index.length === 0) return null;
+  return { min: Math.min(...index.map((c) => c.from)), max: Math.max(...index.map((c) => c.to)) };
+}
+
+export function clampYear(year: number, bounds: YearBounds | null): number {
+  return bounds ? Math.min(Math.max(year, bounds.min), bounds.max) : year;
+}
+
 /** Google's older ids for some countries (ISO region → id suffix). */
 const REGION_ALIASES: Record<string, string> = {
   at: "austrian", au: "australian", br: "brazilian", ca: "canadian", cn: "china", de: "german",
