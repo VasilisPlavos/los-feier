@@ -7,6 +7,12 @@ import { renderWithI18n } from "../test/render";
 import type { Stretch } from "../core/types";
 
 describe("WeeklyPlanPanel", () => {
+  test("explains what the user picks there", () => {
+    renderWithI18n(<WeeklyPlanPanel plan={[0, 0, 0, 0, 0, 1, 1]} onCycle={() => {}} />);
+    const region = screen.getByRole("region", { name: "Weekly plan" });
+    expect(region).toHaveAccessibleDescription(/Your usual working week\. Tap a day to switch it/);
+  });
+
   test("shows 7 days with their state and cycles on click", async () => {
     const onCycle = vi.fn();
     renderWithI18n(<WeeklyPlanPanel plan={[0, 0, 0, 0, 0.5, 1, 1]} onCycle={onCycle} />);
