@@ -7,7 +7,7 @@ import { makeState, zurichFixture } from "../test/fixtures";
 import { renderWithI18n } from "../test/render";
 
 function setup(stateOverrides = {}, onToggle = vi.fn()) {
-  const resolve = createDayResolver(makeState(stateOverrides), zurichFixture);
+  const resolve = createDayResolver(makeState(stateOverrides), [zurichFixture]);
   renderWithI18n(
     <YearGrid year={2026} resolve={resolve} today="2026-04-07" stretchDays={new Set(["2026-04-03"])}
       highlightDays={new Set()} onToggle={onToggle} />,

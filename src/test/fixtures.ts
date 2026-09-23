@@ -44,3 +44,10 @@ export function makeState(overrides: StateOverrides = {}): AppState {
     profiles: profiles ?? { "2020": makeProfile(profile) },
   };
 }
+
+/** A tiny religious calendar without regions that overlaps the Swiss one by name and date. */
+export const christianFixture: CalendarFile = makeCalendar("en.christian", "Christian Holidays", [
+  { date: "2026-04-03", name: "Good Friday", type: "observance" },
+  { date: "2026-12-24", name: "Christmas Eve", type: "observance", tentative: true },
+  { date: "2026-12-25", name: "Christmas Day", type: "observance" },
+]);

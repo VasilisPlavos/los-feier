@@ -86,8 +86,8 @@ export interface ResolvedHoliday {
   enabled: boolean;
   fraction: Fraction;
   customId?: string;
+  calendarIds: string[]; // calendars this holiday comes from; [] for custom holidays
   hasRule: boolean; // a holidayRules entry exists for this name
-  hasYearOverride: boolean; // a yearOverrides entry exists for this name in this year
 }
 
 /** Everything the UI and the statistics need to know about one date. */
