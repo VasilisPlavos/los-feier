@@ -70,5 +70,19 @@
   "tabs.holidays": "Αργίες",
   "firstRun.using": "Χρησιμοποιείται το «{name}».",
   "firstRun.change": "Αλλαγή",
-  "common.dismiss": "Κλείσιμο"
+  "common.dismiss": "Κλείσιμο",
+  "picker.title": "Ημερολόγια αργιών · ισχύουν από το {year} και μετά",
+  "picker.firstRunTitle": "Παρακαλώ επιλέξτε ημερολόγια",
+  "picker.search": "Αναζήτηση ημερολογίου…",
+  "picker.loading": "Φόρτωση ημερολογίων…",
+  "picker.loadingRegions": "Φόρτωση περιοχών…",
+  "picker.regionsFor": "Περιοχές · {name}",
+  "picker.regionsHint": "Χωρίς επιλογή = μόνο οι εθνικές αργίες.",
+  "picker.searchRegions": "Αναζήτηση περιοχής…",
+  "picker.selectAll": "Επιλογή όλων",
+  "picker.observances": "Οι εορτές να μετράνε ως αργίες",
+  "picker.save": "Αποθήκευση",
+  "picker.cancel": "Άκυρο",
+  "picker.continue": "Συνέχεια",
+  "picker.close": "Κλείσιμο"
 }

@@ -70,5 +70,19 @@
   "tabs.holidays": "Holidays",
   "firstRun.using": "Using “{name}”.",
   "firstRun.change": "Change",
-  "common.dismiss": "Dismiss"
+  "common.dismiss": "Dismiss",
+  "picker.title": "Holiday calendars · from {year} onwards",
+  "picker.firstRunTitle": "Please choose your holiday calendars",
+  "picker.search": "Search calendars…",
+  "picker.loading": "Loading calendars…",
+  "picker.loadingRegions": "Loading regions…",
+  "picker.regionsFor": "Regions · {name}",
+  "picker.regionsHint": "Nothing selected = national holidays only.",
+  "picker.searchRegions": "Search regions…",
+  "picker.selectAll": "Select all",
+  "picker.observances": "Treat observances as holidays",
+  "picker.save": "Save",
+  "picker.cancel": "Cancel",
+  "picker.continue": "Continue",
+  "picker.close": "Close"
 }
