@@ -112,10 +112,10 @@ button, input, select { font: inherit; color: inherit; }
 .weekly-day[data-value="0.5"] { background: linear-gradient(135deg, var(--weekend) 50%, var(--surface) 50%); }
 .stretch { width: 100%; text-align: left; border: 1px solid transparent; background: none; border-radius: 8px; padding: 4px 6px; cursor: pointer; }
 .stretch[aria-pressed="true"] { border-color: var(--stretch); background: var(--info-bg); }
-.holiday { display: grid; grid-template-columns: auto 4.5em 1fr auto auto auto; align-items: center; gap: 6px; font-size: 13px; }
+.holiday { display: grid; grid-template-columns: auto 4.5em 1fr auto auto; align-items: center; gap: 6px; font-size: 13px; }
 .holiday[data-enabled="false"] { color: var(--muted); }
 .holiday small { color: var(--muted); }
-.fraction, .badge, .holiday button { border: 1px solid var(--border); background: var(--surface); border-radius: 6px; padding: 2px 6px; cursor: pointer; font-size: 12px; }
+.fraction, .holiday button { border: 1px solid var(--border); background: var(--surface); border-radius: 6px; padding: 2px 6px; cursor: pointer; font-size: 12px; }
 .custom-form { display: grid; gap: 6px; }
 
 /* ---------- Settings dialog ---------- */
