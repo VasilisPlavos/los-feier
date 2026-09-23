@@ -1,4 +1,4 @@
-import { useState, type Dispatch } from "react";
+import { useEffect, useRef, useState, type Dispatch } from "react";
 import { todayIso } from "../core/dates";
 import type { AppState, CalendarFile, CalendarIndexEntry, Theme } from "../core/types";
 import { calendarRegions } from "../data/calendars";
@@ -17,15 +17,65 @@ interface Props {
   dispatch: Dispatch<Action>;
 }
 
+const FOCUSABLE_SELECTOR = 'button, [href], input, select, textarea, [tabindex]:not([tabindex="-1"])';
+
 export function SettingsDialog({ open, onClose, index, calendar, state, dispatch }: Props) {
   const { t } = useI18n();
   const [query, setQuery] = useState("");
   const [importError, setImportError] = useState<string | null>(null);
+  const dialogRef = useRef<HTMLDivElement>(null);
+  const previousFocus = useRef<HTMLElement | null>(null);
+
+  const handleClose = () => {
+    previousFocus.current?.focus();
+    onClose();
+  };
+
+  // Move focus into the dialog when it opens; keep the opener so we can restore it on close.
+  useEffect(() => {
+    if (!open) return;
+    previousFocus.current = document.activeElement as HTMLElement | null;
+    const dialog = dialogRef.current;
+    const first = dialog?.querySelector<HTMLElement>(FOCUSABLE_SELECTOR);
+    (first ?? dialog)?.focus();
+  }, [open]);
+
+  // Escape closes from anywhere on the page while open; Tab/Shift+Tab stay inside the dialog.
+  useEffect(() => {
+    if (!open) return;
+    const onKeyDown = (e: KeyboardEvent) => {
+      if (e.key === "Escape") {
+        handleClose();
+        return;
+      }
+      if (e.key !== "Tab") return;
+      const dialog = dialogRef.current;
+      if (!dialog) return;
+      const focusables = [...dialog.querySelectorAll<HTMLElement>(FOCUSABLE_SELECTOR)].filter(
+        (el) => !el.hasAttribute("disabled"),
+      );
+      if (focusables.length === 0) return;
+      const first = focusables[0];
+      const last = focusables[focusables.length - 1];
+      if (e.shiftKey && document.activeElement === first) {
+        e.preventDefault();
+        last.focus();
+      } else if (!e.shiftKey && document.activeElement === last) {
+        e.preventDefault();
+        first.focus();
+      }
+    };
+    document.addEventListener("keydown", onKeyDown);
+    return () => document.removeEventListener("keydown", onKeyDown);
+  }, [open]);
+
   if (!open) return null;
 
   const q = query.trim().toLowerCase();
   const options = (index ?? []).filter((c) => !q || c.name.toLowerCase().includes(q) || c.id.includes(q));
-  const regions = calendar ? calendarRegions(calendar) : [];
+  const regions = calendar
+    ? [...new Set([...calendarRegions(calendar), ...state.calendar.regions])].sort((a, b) => a.localeCompare(b))
+    : [];
 
   const chooseCalendar = (id: string) => {
     if (!id || id === state.calendar.id) return;
@@ -54,13 +104,14 @@ export function SettingsDialog({ open, onClose, index, calendar, state, dispatch
   };
 
   return (
-    <div className="dialog-backdrop" onClick={(e) => e.target === e.currentTarget && onClose()}>
+    <div className="dialog-backdrop" onClick={(e) => e.target === e.currentTarget && handleClose()}>
       <div
         className="dialog"
         role="dialog"
         aria-modal="true"
         aria-labelledby="settings-title"
-        onKeyDown={(e) => e.key === "Escape" && onClose()}
+        ref={dialogRef}
+        tabIndex={-1}
       >
         <h2 id="settings-title">{t("settings.title")}</h2>
 
@@ -145,7 +196,16 @@ export function SettingsDialog({ open, onClose, index, calendar, state, dispatch
           </button>
           <label>
             {t("settings.import")}
-            <input type="file" accept="application/json,.json" onChange={(e) => void importFile(e.target.files?.[0])} />
+            <input
+              type="file"
+              accept="application/json,.json"
+              onChange={(e) => {
+                const input = e.target;
+                void importFile(input.files?.[0]).finally(() => {
+                  input.value = "";
+                });
+              }}
+            />
           </label>
           {importError && (
             <p className="error-text" role="alert">
@@ -157,7 +217,7 @@ export function SettingsDialog({ open, onClose, index, calendar, state, dispatch
           </button>
         </fieldset>
 
-        <button type="button" onClick={onClose}>
+        <button type="button" onClick={handleClose}>
           {t("settings.close")}
         </button>
       </div>

@@ -17,8 +17,11 @@ export function HolidayListPanel({ year, holidays, state, dispatch }: Props) {
   const [adding, setAdding] = useState(false);
   const yearLabel = String(year);
 
-  const currentRule = (name: string): HolidayRule =>
-    scope === "all" ? (state.holidayRules[name] ?? {}) : (state.yearOverrides[yearLabel]?.[name] ?? {});
+  const currentRule = (name: string): HolidayRule => {
+    if (scope === "all") return Object.hasOwn(state.holidayRules, name) ? state.holidayRules[name] : {};
+    const yearRules = state.yearOverrides[yearLabel];
+    return yearRules && Object.hasOwn(yearRules, name) ? yearRules[name] : {};
+  };
 
   const update = (h: ResolvedHoliday, change: HolidayRule) => {
     if (h.source === "custom" && scope === "all") {

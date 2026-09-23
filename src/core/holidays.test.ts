@@ -90,6 +90,18 @@ describe("resolveYearHolidays", () => {
   });
 });
 
+describe("prototype-safe name lookups (F6)", () => {
+  test("a custom holiday named like an Object.prototype member resolves with hasYearOverride false", () => {
+    const state = makeState({
+      customHolidays: [{ id: "x", name: "constructor", fraction: 1, rule: { type: "yearly", month: 6, day: 15 } }],
+    });
+    const list = resolveYearHolidays(state, zurichFixture, 2026).filter((h) => h.source === "custom");
+    expect(list).toEqual([
+      expect.objectContaining({ name: "constructor", enabled: true, hasYearOverride: false }),
+    ]);
+  });
+});
+
 describe("holidayFractions", () => {
   test("uses the largest enabled fraction per date and ignores disabled holidays", () => {
     const map = holidayFractions([

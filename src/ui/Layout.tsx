@@ -1,7 +1,6 @@
 import { useEffect, useMemo, useState, type ReactNode } from "react";
 import { datesBetween, todayIso } from "../core/dates";
-import type { Stretch } from "../core/types";
-import { hasDataForYear, suggestCalendarId } from "../data/calendars";
+import { calendarRegions, hasDataForYear, suggestCalendarId } from "../data/calendars";
 import { useCalendar, useCalendarIndex } from "../data/hooks";
 import { useI18n } from "../i18n/I18nProvider";
 import { downloadText } from "../state/exportImport";
@@ -26,7 +25,7 @@ export function Layout() {
   const [year, setYear] = useState(() => yearFromHash(window.location.hash) ?? new Date().getFullYear());
   const [tab, setTab] = useState<Tab>("breaks");
   const [settingsOpen, setSettingsOpen] = useState(false);
-  const [selected, setSelected] = useState<Stretch | null>(null);
+  const [selectedStart, setSelectedStart] = useState<string | null>(null);
   const [firstRunName, setFirstRunName] = useState<string | null>(null);
 
   const index = useCalendarIndex();
@@ -36,7 +35,7 @@ export function Layout() {
 
   useEffect(() => {
     history.replaceState(null, "", `#${year}`);
-    setSelected(null);
+    setSelectedStart(null);
   }, [year]);
 
   useEffect(() => {
@@ -65,14 +64,25 @@ export function Layout() {
     () => new Set(model.stretches.flatMap((s) => datesBetween(s.start, s.end))),
     [model.stretches],
   );
+  // Derived from the current model instead of stored, so an edit that shifts or removes the
+  // selected stretch can never leave a stale (or vanished) range highlighted.
+  const selectedStretch = useMemo(
+    () => (selectedStart ? (model.stretches.find((s) => s.start === selectedStart) ?? null) : null),
+    [model.stretches, selectedStart],
+  );
   const highlightDays = useMemo(
-    () => new Set(selected ? datesBetween(selected.start, selected.end) : []),
-    [selected],
+    () => new Set(selectedStretch ? datesBetween(selectedStretch.start, selectedStretch.end) : []),
+    [selectedStretch],
   );
 
   const calendarName = index.index?.find((c) => c.id === state.calendar.id)?.name;
+  // Only show regions that still exist in the loaded calendar; once it's not loaded yet, fall
+  // back to the stored regions so the label doesn't flicker empty while data is in flight.
+  const visibleRegions = cal.calendar
+    ? state.calendar.regions.filter((r) => calendarRegions(cal.calendar!).includes(r))
+    : state.calendar.regions;
   const calendarLabel = calendarName
-    ? [calendarName, ...state.calendar.regions].join(" · ")
+    ? [calendarName, ...visibleRegions].join(" · ")
     : t("header.noCalendar");
   const loadFailed = index.status === "error" || cal.status === "error";
   const noData = cal.status === "ready" && cal.calendar !== null && !hasDataForYear(cal.calendar, year);
@@ -149,7 +159,15 @@ export function Layout() {
 
       <aside className="sidebar">
         {slot("plan", <WeeklyPlanPanel plan={state.weeklyPlan} onCycle={(weekday) => dispatch({ type: "cycleWeekly", weekday })} />)}
-        {slot("breaks", <SummaryPanel leaveTotal={model.leaveTotal} stretches={model.stretches} selected={selected} onSelect={setSelected} />)}
+        {slot(
+          "breaks",
+          <SummaryPanel
+            leaveTotal={model.leaveTotal}
+            stretches={model.stretches}
+            selected={selectedStretch}
+            onSelect={(s) => setSelectedStart(s ? s.start : null)}
+          />,
+        )}
         {slot("holidays", <HolidayListPanel year={year} holidays={model.holidays} state={state} dispatch={dispatch} />)}
       </aside>
 

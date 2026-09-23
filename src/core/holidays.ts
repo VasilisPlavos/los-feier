@@ -30,8 +30,8 @@ export function resolveYearHolidays(state: AppState, calendar: CalendarFile | nu
 
   for (const event of calendar?.events ?? []) {
     if (!isVisible(event.regions, state.calendar.regions)) continue;
-    const globalRule = state.holidayRules[event.name];
-    const yearRule = yearRules[event.name];
+    const globalRule = Object.hasOwn(state.holidayRules, event.name) ? state.holidayRules[event.name] : undefined;
+    const yearRule = Object.hasOwn(yearRules, event.name) ? yearRules[event.name] : undefined;
     const effective = applyRules(
       { enabled: event.type === "public" || state.calendar.includeObservances, fraction: 1 },
       globalRule,
@@ -56,7 +56,7 @@ export function resolveYearHolidays(state: AppState, calendar: CalendarFile | nu
   for (const custom of state.customHolidays) {
     const date = custom.rule.type === "once" ? custom.rule.date : isoFromParts(year, custom.rule.month, custom.rule.day);
     if (!isValidIsoDate(date) || yearOf(date) !== year) continue;
-    const yearRule = yearRules[custom.name];
+    const yearRule = Object.hasOwn(yearRules, custom.name) ? yearRules[custom.name] : undefined;
     out.push({
       date,
       name: custom.name,

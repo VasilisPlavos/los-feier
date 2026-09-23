@@ -101,4 +101,80 @@ describe("SettingsDialog", () => {
     fireEvent.keyDown(screen.getByRole("dialog"), { key: "Escape" });
     expect(onClose).toHaveBeenCalled();
   });
+
+  test("REVIEW FOCUS: opening moves focus into the dialog; Escape from anywhere restores it to the opener (F1)", async () => {
+    const opener = document.createElement("button");
+    opener.textContent = "open settings";
+    document.body.appendChild(opener);
+    opener.focus();
+    expect(document.activeElement).toBe(opener);
+
+    const onClose = vi.fn();
+    renderWithI18n(
+      <SettingsDialog open onClose={onClose} index={INDEX} calendar={zurichFixture} state={makeState()} dispatch={() => {}} />,
+    );
+
+    await waitFor(() => expect(screen.getByRole("dialog")).toContainElement(document.activeElement as HTMLElement));
+    expect(document.activeElement).not.toBe(opener);
+
+    fireEvent.keyDown(document, { key: "Escape" });
+    expect(onClose).toHaveBeenCalled();
+    expect(document.activeElement).toBe(opener);
+
+    opener.remove();
+  });
+
+  test("F1: Tab wraps focus at the end of the dialog back to the start", async () => {
+    setup();
+    const dialog = screen.getByRole("dialog");
+    const focusables = dialog.querySelectorAll<HTMLElement>(
+      'button, [href], input, select, textarea, [tabindex]:not([tabindex="-1"])',
+    );
+    const first = focusables[0];
+    const last = focusables[focusables.length - 1];
+    last.focus();
+    fireEvent.keyDown(document, { key: "Tab" });
+    expect(document.activeElement).toBe(first);
+  });
+
+  test("F3: stale regions from a previous calendar stay visible until unchecked", async () => {
+    const dispatch = vi.fn();
+    renderWithI18n(
+      <SettingsDialog
+        open
+        onClose={() => {}}
+        index={INDEX}
+        calendar={zurichFixture}
+        state={makeState({ calendar: { id: "en.ch", regions: ["Zurich", "Geneva"], includeObservances: false } })}
+        dispatch={dispatch}
+      />,
+    );
+    expect(screen.getByLabelText("Geneva")).toBeChecked();
+    await userEvent.click(screen.getByLabelText("Geneva"));
+    expect(dispatch).toHaveBeenCalledWith({ type: "setRegions", regions: ["Zurich"] });
+  });
+
+  test("F5: choosing a file clears the input's value afterwards, so re-choosing the same file fires change again", async () => {
+    setup();
+    const input = screen.getByLabelText("Import JSON") as HTMLInputElement;
+    // jsdom reports "" for a file input's .value both before and after a file is chosen, so
+    // reading input.value after the fact can't tell fixed from unfixed code. Instead, shadow the
+    // instance's own "value" accessor (jsdom defines one per-element, not just on the prototype)
+    // to record every write, the way a real browser's "only '' is a legal value" rule would let
+    // us observe the reset that re-arms the input for picking the same file again.
+    const own = Object.getOwnPropertyDescriptor(input, "value")!;
+    const writes: string[] = [];
+    Object.defineProperty(input, "value", {
+      configurable: true,
+      get: own.get,
+      set(v: string) {
+        writes.push(v);
+        own.set!.call(this, v);
+      },
+    });
+    const file = new File(["{nope"], "backup.json", { type: "application/json" });
+    fireEvent.change(input, { target: { files: [file] } });
+    await screen.findByText("The file is not valid JSON.");
+    expect(writes).toContain("");
+  });
 });

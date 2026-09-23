@@ -50,6 +50,10 @@ This runs `scripts/fetch-google-holidays.mjs`, which downloads every calendar li
 
 Copy `src/i18n/en.json` to `src/i18n/<code>.json`, translate the values, then register it in `src/i18n/index.ts` (`MESSAGES` and `LANGUAGE_NAMES`). The unit tests check that every language has all keys.
 
+## Deployment
+
+The included workflow (`.github/workflows/deploy.yml`) publishes `dist/` to GitHub Pages on every push to `main`; GitHub Pages must be set once, in Settings → Pages → Source, to “GitHub Actions” for it to take effect.
+
 ## Data source
 
 Holiday data: Google Calendar public holiday calendars (`https://calendar.google.com/calendar/ical/<id>%23holiday%40group.v.calendar.google.com/public/basic.ics`). Dates may change; always double-check with official sources.

@@ -4,6 +4,7 @@ import {
   type FetchLike,
 } from "./calendars";
 import { zurichFixture } from "../test/fixtures";
+import realIndex from "../../data/holidays/index.json";
 import type { CalendarIndexEntry } from "../core/types";
 
 const entry = (id: string): CalendarIndexEntry => ({ id, name: id, lang: id.split(".")[0], from: 2021, to: 2031, count: 1 });
@@ -25,6 +26,29 @@ describe("suggestCalendarId", () => {
     [[], null],
   ])("%j → %s", (langs, expected) => {
     expect(suggestCalendarId(langs, INDEX)).toBe(expected);
+  });
+});
+
+describe("suggestCalendarId against the real data (F2)", () => {
+  const REAL_INDEX = realIndex as CalendarIndexEntry[];
+
+  test.each([
+    [["el-GR"], "el.greek"],
+    [["de-CH"], "de.ch"],
+    [["en-US"], "en.usa"],
+    [["en-GB"], "en.uk"], // Google id is not ISO; gb→uk alias
+    [["en-ZA"], "en.sa"], // "Holidays in South Africa"; za→sa alias
+    [["ar-SA"], null], // Saudi Arabia: no calendar exists; must not fall through to en.sa (South Africa)
+    [["en-SA"], null],
+  ])("%j → %s", (langs, expected) => {
+    expect(suggestCalendarId(langs, REAL_INDEX)).toBe(expected);
+  });
+
+  test("fr-FR resolves to a French calendar, if one exists in the index", () => {
+    const found = suggestCalendarId(["fr-FR"], REAL_INDEX);
+    expect(found).not.toBeNull();
+    const entry = REAL_INDEX.find((c) => c.id === found);
+    expect(entry?.name).toMatch(/france/i);
   });
 });
 

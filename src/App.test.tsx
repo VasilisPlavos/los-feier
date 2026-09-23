@@ -105,6 +105,39 @@ describe("App", () => {
     expect(await screen.findByText(/could not be read/)).toBeInTheDocument();
   });
 
+  test("F3: header omits a stale region no longer present in the loaded calendar", async () => {
+    stubFetch();
+    seed({ calendar: { id: "en.ch", regions: ["Geneva", "Zurich"], includeObservances: false } });
+    render(<App />);
+    const button = await screen.findByRole("button", { name: /Holidays in Switzerland/ });
+    expect(button.textContent).toContain("Zurich");
+    expect(button.textContent).not.toContain("Geneva");
+  });
+
+  test("F4: selecting a stretch highlights its days", async () => {
+    stubFetch();
+    seed();
+    render(<App />);
+    await screen.findAllByText(/4-day breaks/);
+    await userEvent.click(screen.getByRole("button", { name: /4 days · 0 leave/ }));
+    expect(document.querySelector('[data-date="2026-04-03"]')).toHaveAttribute("data-highlight", "true");
+    expect(document.querySelector('[data-date="2026-04-06"]')).toHaveAttribute("data-highlight", "true");
+    expect(document.querySelector('[data-date="2026-04-02"]')).not.toHaveAttribute("data-highlight");
+  });
+
+  test("F4: a selected stretch that vanishes after an edit is no longer highlighted", async () => {
+    stubFetch();
+    seed();
+    render(<App />);
+    await screen.findAllByText(/4-day breaks/);
+    await userEvent.click(screen.getByRole("button", { name: /4 days · 0 leave/ }));
+    expect(document.querySelector('[data-date="2026-04-03"]')).toHaveAttribute("data-highlight", "true");
+
+    // Disabling Good Friday breaks the Apr 3-6 stretch; the stale selection must not stay highlighted.
+    await userEvent.click(screen.getByRole("checkbox", { name: "Counts as holiday: Good Friday" }));
+    expect(document.querySelector('[data-date="2026-04-03"]')).not.toHaveAttribute("data-highlight");
+  });
+
   test("Greek UI from the saved language preference, theme on <html>", async () => {
     stubFetch();
     seed({ language: "el", theme: "dark" });

@@ -48,22 +48,29 @@ export function hasDataForYear(calendar: CalendarFile, year: number): boolean {
 /** Google's older ids for some countries (ISO region → id suffix). */
 const REGION_ALIASES: Record<string, string> = {
   at: "austrian", au: "australian", br: "brazilian", ca: "canadian", cn: "china", de: "german",
-  dk: "danish", es: "spain", fi: "finnish", fr: "french", gr: "greek", hk: "hong_kong",
+  dk: "danish", es: "spain", fi: "finnish", fr: "french", gb: "uk", gr: "greek", hk: "hong_kong",
   id: "indonesian", ie: "irish", il: "jewish", in: "indian", it: "italian", jp: "japanese",
   kr: "south_korea", mx: "mexican", my: "malaysia", nl: "dutch", no: "norwegian", nz: "new_zealand",
   ph: "philippines", pl: "polish", pt: "portuguese", ru: "russian", se: "swedish", sg: "singapore",
-  tw: "taiwan", us: "usa", vn: "vietnamese",
+  tw: "taiwan", us: "usa", vn: "vietnamese", za: "sa",
 };
 
 /** Region to assume when the browser language has none (e.g. "el" → Greece). */
 const LANGUAGE_DEFAULT_REGION: Record<string, string> = { el: "gr" };
+
+/**
+ * ISO regions with no real calendar despite a literal id match: "sa" is Saudi Arabia in
+ * BCP 47, but Google's "en.sa" calendar is "Holidays in South Africa" (reached instead via
+ * the za→sa alias above). There is no Saudi calendar, so this region must never resolve.
+ */
+const NO_CALENDAR_REGIONS = new Set(["sa"]);
 
 export function suggestCalendarId(languages: readonly string[], index: CalendarIndexEntry[]): string | null {
   const ids = new Set(index.map((c) => c.id));
   for (const tag of languages) {
     const [lang, maybeRegion] = tag.toLowerCase().split("-");
     const region = maybeRegion ?? LANGUAGE_DEFAULT_REGION[lang];
-    if (!region) continue;
+    if (!region || NO_CALENDAR_REGIONS.has(region)) continue;
     const alias = REGION_ALIASES[region] ?? region;
     const candidates = [`${lang}.${alias}`, `${lang}.${region}`, `en.${alias}`, `en.${region}`];
     const found = candidates.find((id) => ids.has(id));
