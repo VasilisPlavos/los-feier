@@ -24,7 +24,7 @@
   "holidays.resetYear": "Undo the change for {year}",
   "holidays.observance": "observance",
   "holidays.tentative": "date may change",
-  "holidays.customAllYearsHint": "Delete it with × or switch to \"Only {year}\"",
+  "holidays.customAllYearsHint": "Delete it with × or switch to “Only {year}”",
   "holidays.add": "+ My holiday",
   "holidays.delete": "Delete",
   "holidays.empty": "No holidays for this year.",
@@ -74,7 +74,7 @@
   "tabs.plan": "Plan",
   "tabs.breaks": "Breaks",
   "tabs.holidays": "Holidays",
-  "firstRun.using": "Using \"{name}\".",
+  "firstRun.using": "Using “{name}”.",
   "firstRun.change": "Change",
   "common.dismiss": "Dismiss"
 }
