@@ -1,10 +1,10 @@
-# Holidays
+# los-feier
 
 Plan your leave around public holidays. See the whole year as 12 months (3 × 4), pick your country and region, adjust holidays, set your weekly working days, click the days you take off, and instantly see how many leave days you used and every 3-, 4-, … day break you get.
 
 A modern, open-source successor of the old argies.gr calendar.
 
-**Live:** https://vasilisplavos.github.io/holidays/
+**Live:** https://vasilisplavos.github.io/losfeier/
 
 ## Features
 
@@ -22,12 +22,12 @@ Requirements: Node.js 20+.
 
 ```bash
 npm install
-npm run dev          # http://localhost:5173/holidays/
+npm run dev          # http://localhost:5173/los-feier/
 npm run test         # unit tests (watch mode)
 npm run test:run     # unit tests once
 npm run test:e2e     # Playwright mobile tests (first time: npx playwright install chromium)
 npm run build        # production build into dist/
-npm run preview      # serve dist/ at http://localhost:4173/holidays/
+npm run preview      # serve dist/ at http://localhost:4173/los-feier/
 ```
 
 ## Updating the holiday data
