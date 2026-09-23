@@ -5,687 +5,687 @@
  "from": 2021,
  "to": 2031,
  "count": 136,
- "fetchedAt": "2026-09-23T12:14:40.768Z",
+ "fetchedAt": "2026-09-23T12:37:49.972Z",
  "events": [
   {
    "date": "2021-01-07",
    "name": "Genna",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2021-01-19",
    "name": "Timket",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2021-03-02",
    "name": "Adwa Victory Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2021-04-30",
    "name": "Siklet",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2021-05-01",
    "name": "International Labor Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2021-05-02",
    "name": "Fasika",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2021-05-05",
    "name": "Patriots' Victory Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2021-05-13",
    "name": "Eid al-Fitr",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2021-05-28",
    "name": "Derg Downfall Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2021-07-20",
    "name": "Eid al-Adha",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2021-09-11",
    "name": "Enkutatash",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2021-09-27",
    "name": "Meskel",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2021-10-18",
    "name": "Mawlid",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2022-01-07",
    "name": "Genna",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2022-01-19",
    "name": "Timket",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2022-03-02",
    "name": "Adwa Victory Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2022-04-22",
    "name": "Siklet",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2022-04-24",
    "name": "Fasika",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2022-05-01",
    "name": "International Labor Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2022-05-02",
    "name": "Eid al-Fitr",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2022-05-05",
    "name": "Patriots' Victory Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2022-05-28",
    "name": "Derg Downfall Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2022-07-09",
    "name": "Eid al-Adha",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2022-09-11",
    "name": "Enkutatash",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2022-09-27",
    "name": "Meskel",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2022-10-08",
    "name": "Mawlid",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2023-01-07",
    "name": "Genna",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2023-01-19",
    "name": "Timket",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2023-03-02",
    "name": "Adwa Victory Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2023-04-14",
    "name": "Siklet",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2023-04-16",
    "name": "Fasika",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2023-04-21",
    "name": "Eid al-Fitr",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2023-05-01",
    "name": "International Labor Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2023-05-05",
    "name": "Patriots' Victory Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2023-05-28",
    "name": "Derg Downfall Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2023-06-28",
    "name": "Eid al-Adha",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2023-09-12",
    "name": "Enkutatash",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2023-09-27",
    "name": "Mawlid",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2023-09-28",
    "name": "Meskel",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2024-01-07",
    "name": "Genna",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2024-01-20",
    "name": "Timket",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2024-03-02",
    "name": "Adwa Victory Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2024-04-10",
    "name": "Eid al-Fitr",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2024-05-01",
    "name": "International Labor Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2024-05-03",
    "name": "Siklet",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2024-05-05",
    "name": "Fasika",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2024-05-05",
    "name": "Patriots' Victory Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2024-05-28",
    "name": "Derg Downfall Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2024-06-16",
    "name": "Eid al-Adha",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2024-09-11",
    "name": "Enkutatash",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2024-09-15",
    "name": "Mawlid",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2024-09-27",
    "name": "Meskel",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2025-01-07",
    "name": "Genna",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2025-01-19",
    "name": "Timket",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2025-03-02",
    "name": "Adwa Victory Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2025-03-30",
    "name": "Eid al-Fitr",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2025-04-18",
    "name": "Siklet",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2025-04-20",
    "name": "Fasika",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2025-05-01",
    "name": "International Labor Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2025-05-05",
    "name": "Patriots' Victory Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2025-06-06",
    "name": "Eid al-Adha",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2025-09-04",
    "name": "Mawlid",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2025-09-11",
    "name": "Enkutatash",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2025-09-27",
    "name": "Meskel",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2026-01-07",
    "name": "Genna",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2026-01-19",
    "name": "Timket",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2026-03-02",
    "name": "Adwa Victory Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2026-03-20",
    "name": "Eid al-Fitr",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2026-04-10",
    "name": "Siklet",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2026-04-12",
    "name": "Fasika",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2026-05-01",
    "name": "International Labor Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2026-05-05",
    "name": "Patriots' Victory Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2026-05-27",
    "name": "Eid al-Adha",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2026-08-25",
    "name": "Mawlid",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2026-09-11",
    "name": "Enkutatash",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2026-09-27",
    "name": "Meskel",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2027-01-07",
    "name": "Genna",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2027-01-19",
    "name": "Timket",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2027-03-02",
    "name": "Adwa Victory Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2027-03-10",
    "name": "Eid al-Fitr (tentative)",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2027-04-30",
    "name": "Siklet",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2027-05-01",
    "name": "International Labor Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2027-05-02",
    "name": "Fasika",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2027-05-05",
    "name": "Patriots' Victory Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2027-05-17",
    "name": "Eid al-Adha (tentative)",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2027-08-15",
    "name": "Mawlid (tentative)",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2027-09-12",
    "name": "Enkutatash",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2027-09-28",
    "name": "Meskel",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2028-01-07",
    "name": "Genna",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2028-01-20",
    "name": "Timket",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2028-02-27",
    "name": "Eid al-Fitr (tentative)",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2028-03-02",
    "name": "Adwa Victory Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2028-04-14",
    "name": "Siklet",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2028-04-16",
    "name": "Fasika",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2028-05-01",
    "name": "International Labor Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2028-05-05",
    "name": "Eid al-Adha (tentative)",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2028-05-05",
    "name": "Patriots' Victory Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2028-08-03",
    "name": "Mawlid (tentative)",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2028-09-11",
    "name": "Enkutatash",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2028-09-27",
    "name": "Meskel",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2029-01-07",
    "name": "Genna",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2029-01-19",
    "name": "Timket",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2029-02-15",
    "name": "Eid al-Fitr (tentative)",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2029-03-02",
    "name": "Adwa Victory Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2029-04-06",
    "name": "Siklet",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2029-04-08",
    "name": "Fasika",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2029-04-24",
    "name": "Eid al-Adha (tentative)",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2029-05-01",
    "name": "International Labor Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2029-05-05",
    "name": "Patriots' Victory Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2029-07-24",
    "name": "Mawlid (tentative)",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2029-09-11",
    "name": "Enkutatash",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2029-09-27",
    "name": "Meskel",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2030-01-07",
    "name": "Genna",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2030-01-19",
    "name": "Timket",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2030-02-05",
    "name": "Eid al-Fitr (tentative)",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2030-03-02",
    "name": "Adwa Victory Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2030-04-14",
    "name": "Eid al-Adha (tentative)",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2030-04-26",
    "name": "Siklet",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2030-04-28",
    "name": "Fasika",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2030-05-01",
    "name": "International Labor Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2030-05-05",
    "name": "Patriots' Victory Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2030-07-13",
    "name": "Mawlid (tentative)",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2030-09-11",
    "name": "Enkutatash",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2030-09-27",
    "name": "Meskel",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2031-01-07",
    "name": "Genna",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2031-01-19",
    "name": "Timket",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2031-01-25",
    "name": "Eid al-Fitr (tentative)",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2031-03-02",
    "name": "Adwa Victory Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2031-04-03",
    "name": "Eid al-Adha (tentative)",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2031-04-11",
    "name": "Siklet",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2031-04-13",
    "name": "Fasika",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2031-05-01",
    "name": "International Labor Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2031-05-05",
    "name": "Patriots' Victory Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2031-07-02",
    "name": "Mawlid (tentative)",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2031-09-12",
    "name": "Enkutatash",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2031-09-28",
    "name": "Meskel",
-   "type": "Public holiday"
+   "type": "public"
   }
  ]
 }

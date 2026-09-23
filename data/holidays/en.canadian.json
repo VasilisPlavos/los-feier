@@ -5,12 +5,12 @@
  "from": 2021,
  "to": 2031,
  "count": 422,
- "fetchedAt": "2026-09-23T12:14:40.708Z",
+ "fetchedAt": "2026-09-23T12:37:49.943Z",
  "events": [
   {
    "date": "2021-01-01",
    "name": "New Year's Day (regional holiday)",
-   "type": "Public holiday",
+   "type": "public",
    "regions": [
     "Alberta",
     "British Columbia",
@@ -30,32 +30,32 @@
   {
    "date": "2021-01-06",
    "name": "Epiphany",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2021-01-07",
    "name": "Orthodox Christmas Day",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2021-01-14",
    "name": "Orthodox New Year",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2021-02-02",
    "name": "Groundhog Day",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2021-02-14",
    "name": "Valentine's Day",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2021-02-26",
    "name": "Yukon Heritage Day (Yukon)",
-   "type": "Observance",
+   "type": "observance",
    "regions": [
     "Yukon"
    ]
@@ -63,22 +63,22 @@
   {
    "date": "2021-03-08",
    "name": "Commonwealth Day",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2021-03-14",
    "name": "Daylight Saving Time starts",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2021-03-17",
    "name": "St. Patrick's Day",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2021-04-02",
    "name": "Good Friday (regional holiday)",
-   "type": "Public holiday",
+   "type": "public",
    "regions": [
     "Alberta",
     "British Columbia",
@@ -99,12 +99,12 @@
   {
    "date": "2021-04-04",
    "name": "Easter Sunday",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2021-04-05",
    "name": "Easter Monday (regional holiday)",
-   "type": "Public holiday",
+   "type": "public",
    "regions": [
     "Alberta",
     "Alberta",
@@ -130,32 +130,32 @@
   {
    "date": "2021-04-06",
    "name": "Tartan Day",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2021-04-09",
    "name": "Vimy Ridge Day",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2021-04-30",
    "name": "Orthodox Good Friday",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2021-05-02",
    "name": "Orthodox Easter Sunday",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2021-05-09",
    "name": "Mother’s Day",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2021-05-24",
    "name": "Victoria Day (regional holiday)",
-   "type": "Public holiday",
+   "type": "public",
    "regions": [
     "Alberta",
     "British Columbia",
@@ -176,17 +176,17 @@
   {
    "date": "2021-06-20",
    "name": "Father’s Day",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2021-06-21",
    "name": "National Indigenous Peoples Day",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2021-07-01",
    "name": "Canada Day (regional holiday)",
-   "type": "Public holiday",
+   "type": "public",
    "regions": [
     "Alberta",
     "British Columbia",
@@ -206,12 +206,12 @@
   {
    "date": "2021-08-02",
    "name": "Civic/Provincial Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2021-08-02",
    "name": "Heritage Day (Alberta)",
-   "type": "Observance",
+   "type": "observance",
    "regions": [
     "Alberta"
    ]
@@ -219,7 +219,7 @@
   {
    "date": "2021-08-02",
    "name": "Natal Day (Nova Scotia)",
-   "type": "Observance",
+   "type": "observance",
    "regions": [
     "Nova Scotia"
    ]
@@ -227,7 +227,7 @@
   {
    "date": "2021-09-06",
    "name": "Labour Day (regional holiday)",
-   "type": "Public holiday",
+   "type": "public",
    "regions": [
     "Alberta",
     "British Columbia",
@@ -247,7 +247,7 @@
   {
    "date": "2021-09-30",
    "name": "National Day for Truth and Reconciliation (regional holiday)",
-   "type": "Public holiday",
+   "type": "public",
    "regions": [
     "Alberta",
     "British Columbia",
@@ -267,7 +267,7 @@
   {
    "date": "2021-10-11",
    "name": "Thanksgiving Day (regional holiday)",
-   "type": "Public holiday",
+   "type": "public",
    "regions": [
     "Alberta",
     "British Columbia",
@@ -288,17 +288,17 @@
   {
    "date": "2021-10-31",
    "name": "Halloween",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2021-11-07",
    "name": "Daylight Saving Time ends",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2021-11-11",
    "name": "Remembrance Day (regional holiday)",
-   "type": "Public holiday",
+   "type": "public",
    "regions": [
     "Alberta",
     "British Columbia",
@@ -320,17 +320,17 @@
   {
    "date": "2021-12-11",
    "name": "Anniversary of the Statute of Westminster",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2021-12-24",
    "name": "Christmas Eve",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2021-12-25",
    "name": "Christmas Day (regional holiday)",
-   "type": "Public holiday",
+   "type": "public",
    "regions": [
     "Alberta",
     "British Columbia",
@@ -350,7 +350,7 @@
   {
    "date": "2021-12-26",
    "name": "Boxing Day / Christmas Holiday (regional holiday)",
-   "type": "Public holiday",
+   "type": "public",
    "regions": [
     "Alberta",
     "Alberta",
@@ -375,7 +375,7 @@
   {
    "date": "2021-12-27",
    "name": "Boxing Day / Christmas Holiday (regional holiday)",
-   "type": "Public holiday",
+   "type": "public",
    "regions": [
     "New Brunswick",
     "Northwest Territories",
@@ -389,7 +389,7 @@
   {
    "date": "2021-12-28",
    "name": "Boxing Day / Christmas Holiday (regional holiday)",
-   "type": "Public holiday",
+   "type": "public",
    "regions": [
     "New Brunswick",
     "Ontario"
@@ -398,12 +398,12 @@
   {
    "date": "2021-12-31",
    "name": "New Year's Eve",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2022-01-01",
    "name": "New Year's Day (regional holiday)",
-   "type": "Public holiday",
+   "type": "public",
    "regions": [
     "Alberta",
     "British Columbia",
@@ -423,7 +423,7 @@
   {
    "date": "2022-01-03",
    "name": "New Year's Day Holiday (regional holiday)",
-   "type": "Public holiday",
+   "type": "public",
    "regions": [
     "New Brunswick",
     "Northwest Territories",
@@ -437,32 +437,32 @@
   {
    "date": "2022-01-06",
    "name": "Epiphany",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2022-01-07",
    "name": "Orthodox Christmas Day",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2022-01-14",
    "name": "Orthodox New Year",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2022-02-02",
    "name": "Groundhog Day",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2022-02-14",
    "name": "Valentine's Day",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2022-02-25",
    "name": "Yukon Heritage Day (Yukon)",
-   "type": "Observance",
+   "type": "observance",
    "regions": [
     "Yukon"
    ]
@@ -470,32 +470,32 @@
   {
    "date": "2022-03-13",
    "name": "Daylight Saving Time starts",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2022-03-14",
    "name": "Commonwealth Day",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2022-03-17",
    "name": "St. Patrick's Day",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2022-04-06",
    "name": "Tartan Day",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2022-04-09",
    "name": "Vimy Ridge Day",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2022-04-15",
    "name": "Good Friday (regional holiday)",
-   "type": "Public holiday",
+   "type": "public",
    "regions": [
     "Alberta",
     "British Columbia",
@@ -516,12 +516,12 @@
   {
    "date": "2022-04-17",
    "name": "Easter Sunday",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2022-04-18",
    "name": "Easter Monday (regional holiday)",
-   "type": "Public holiday",
+   "type": "public",
    "regions": [
     "Alberta",
     "Alberta",
@@ -547,22 +547,22 @@
   {
    "date": "2022-04-22",
    "name": "Orthodox Good Friday",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2022-04-24",
    "name": "Orthodox Easter Sunday",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2022-05-08",
    "name": "Mother’s Day",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2022-05-23",
    "name": "Victoria Day (regional holiday)",
-   "type": "Public holiday",
+   "type": "public",
    "regions": [
     "Alberta",
     "British Columbia",
@@ -583,17 +583,17 @@
   {
    "date": "2022-06-19",
    "name": "Father’s Day",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2022-06-21",
    "name": "National Indigenous Peoples Day",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2022-07-01",
    "name": "Canada Day (regional holiday)",
-   "type": "Public holiday",
+   "type": "public",
    "regions": [
     "Alberta",
     "British Columbia",
@@ -613,7 +613,7 @@
   {
    "date": "2022-07-11",
    "name": "Day off for Nunavut Day (Nunavut)",
-   "type": "Observance",
+   "type": "observance",
    "regions": [
     "Nunavut"
    ]
@@ -621,12 +621,12 @@
   {
    "date": "2022-08-01",
    "name": "Civic/Provincial Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2022-08-01",
    "name": "Heritage Day (Alberta)",
-   "type": "Observance",
+   "type": "observance",
    "regions": [
     "Alberta"
    ]
@@ -634,7 +634,7 @@
   {
    "date": "2022-08-01",
    "name": "Natal Day (Nova Scotia)",
-   "type": "Observance",
+   "type": "observance",
    "regions": [
     "Nova Scotia"
    ]
@@ -642,7 +642,7 @@
   {
    "date": "2022-09-05",
    "name": "Labour Day (regional holiday)",
-   "type": "Public holiday",
+   "type": "public",
    "regions": [
     "Alberta",
     "British Columbia",
@@ -662,12 +662,12 @@
   {
    "date": "2022-09-19",
    "name": "Queen Elizabeth II's Funeral Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2022-09-30",
    "name": "National Day for Truth and Reconciliation (regional holiday)",
-   "type": "Public holiday",
+   "type": "public",
    "regions": [
     "Alberta",
     "Alberta",
@@ -689,7 +689,7 @@
   {
    "date": "2022-10-10",
    "name": "Thanksgiving Day (regional holiday)",
-   "type": "Public holiday",
+   "type": "public",
    "regions": [
     "Alberta",
     "British Columbia",
@@ -710,17 +710,17 @@
   {
    "date": "2022-10-31",
    "name": "Halloween",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2022-11-06",
    "name": "Daylight Saving Time ends",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2022-11-11",
    "name": "Remembrance Day (regional holiday)",
-   "type": "Public holiday",
+   "type": "public",
    "regions": [
     "Alberta",
     "British Columbia",
@@ -742,17 +742,17 @@
   {
    "date": "2022-12-11",
    "name": "Anniversary of the Statute of Westminster",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2022-12-24",
    "name": "Christmas Eve",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2022-12-25",
    "name": "Christmas Day (regional holiday)",
-   "type": "Public holiday",
+   "type": "public",
    "regions": [
     "Alberta",
     "British Columbia",
@@ -772,7 +772,7 @@
   {
    "date": "2022-12-26",
    "name": "Boxing Day / Christmas Holiday (regional holiday)",
-   "type": "Public holiday",
+   "type": "public",
    "regions": [
     "Alberta",
     "Alberta",
@@ -797,7 +797,7 @@
   {
    "date": "2022-12-27",
    "name": "Boxing Day / Christmas Holiday (regional holiday)",
-   "type": "Public holiday",
+   "type": "public",
    "regions": [
     "New Brunswick",
     "Northwest Territories",
@@ -809,12 +809,12 @@
   {
    "date": "2022-12-31",
    "name": "New Year's Eve",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2023-01-01",
    "name": "New Year's Day (regional holiday)",
-   "type": "Public holiday",
+   "type": "public",
    "regions": [
     "Alberta",
     "British Columbia",
@@ -834,7 +834,7 @@
   {
    "date": "2023-01-02",
    "name": "New Year's Day Holiday (regional holiday)",
-   "type": "Public holiday",
+   "type": "public",
    "regions": [
     "New Brunswick",
     "Northwest Territories",
@@ -848,32 +848,32 @@
   {
    "date": "2023-01-06",
    "name": "Epiphany",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2023-01-07",
    "name": "Orthodox Christmas Day",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2023-01-14",
    "name": "Orthodox New Year",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2023-02-02",
    "name": "Groundhog Day",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2023-02-14",
    "name": "Valentine's Day",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2023-02-24",
    "name": "Yukon Heritage Day (Yukon)",
-   "type": "Observance",
+   "type": "observance",
    "regions": [
     "Yukon"
    ]
@@ -881,27 +881,27 @@
   {
    "date": "2023-03-12",
    "name": "Daylight Saving Time starts",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2023-03-13",
    "name": "Commonwealth Day",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2023-03-17",
    "name": "St. Patrick's Day",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2023-04-06",
    "name": "Tartan Day",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2023-04-07",
    "name": "Good Friday (regional holiday)",
-   "type": "Public holiday",
+   "type": "public",
    "regions": [
     "Alberta",
     "British Columbia",
@@ -922,17 +922,17 @@
   {
    "date": "2023-04-09",
    "name": "Easter Sunday",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2023-04-09",
    "name": "Vimy Ridge Day",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2023-04-10",
    "name": "Easter Monday (regional holiday)",
-   "type": "Public holiday",
+   "type": "public",
    "regions": [
     "Alberta",
     "Alberta",
@@ -958,27 +958,27 @@
   {
    "date": "2023-04-14",
    "name": "Orthodox Good Friday",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2023-04-16",
    "name": "Orthodox Easter Sunday",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2023-05-06",
    "name": "The Coronation of King Charles III",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2023-05-14",
    "name": "Mother’s Day",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2023-05-22",
    "name": "Victoria Day (regional holiday)",
-   "type": "Public holiday",
+   "type": "public",
    "regions": [
     "Alberta",
     "British Columbia",
@@ -999,17 +999,17 @@
   {
    "date": "2023-06-18",
    "name": "Father’s Day",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2023-06-21",
    "name": "National Indigenous Peoples Day",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2023-07-01",
    "name": "Canada Day (regional holiday)",
-   "type": "Public holiday",
+   "type": "public",
    "regions": [
     "Alberta",
     "British Columbia",
@@ -1029,7 +1029,7 @@
   {
    "date": "2023-07-03",
    "name": "Canada Day Holiday (regional holiday)",
-   "type": "Public holiday",
+   "type": "public",
    "regions": [
     "New Brunswick",
     "Northwest Territories",
@@ -1043,7 +1043,7 @@
   {
    "date": "2023-07-10",
    "name": "Day off for Nunavut Day (Nunavut)",
-   "type": "Observance",
+   "type": "observance",
    "regions": [
     "Nunavut"
    ]
@@ -1051,12 +1051,12 @@
   {
    "date": "2023-08-07",
    "name": "Civic/Provincial Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2023-08-07",
    "name": "Heritage Day (Alberta)",
-   "type": "Observance",
+   "type": "observance",
    "regions": [
     "Alberta"
    ]
@@ -1064,7 +1064,7 @@
   {
    "date": "2023-08-07",
    "name": "Natal Day (Nova Scotia)",
-   "type": "Observance",
+   "type": "observance",
    "regions": [
     "Nova Scotia"
    ]
@@ -1072,7 +1072,7 @@
   {
    "date": "2023-09-04",
    "name": "Labour Day (regional holiday)",
-   "type": "Public holiday",
+   "type": "public",
    "regions": [
     "Alberta",
     "British Columbia",
@@ -1092,7 +1092,7 @@
   {
    "date": "2023-09-30",
    "name": "National Day for Truth and Reconciliation (regional holiday)",
-   "type": "Public holiday",
+   "type": "public",
    "regions": [
     "Alberta",
     "Alberta",
@@ -1114,7 +1114,7 @@
   {
    "date": "2023-10-02",
    "name": "National Day for Truth and Reconciliation Holiday (regional holiday)",
-   "type": "Public holiday",
+   "type": "public",
    "regions": [
     "Northwest Territories",
     "Nunavut",
@@ -1124,7 +1124,7 @@
   {
    "date": "2023-10-09",
    "name": "Thanksgiving Day (regional holiday)",
-   "type": "Public holiday",
+   "type": "public",
    "regions": [
     "Alberta",
     "British Columbia",
@@ -1145,17 +1145,17 @@
   {
    "date": "2023-10-31",
    "name": "Halloween",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2023-11-05",
    "name": "Daylight Saving Time ends",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2023-11-11",
    "name": "Remembrance Day (regional holiday)",
-   "type": "Public holiday",
+   "type": "public",
    "regions": [
     "Alberta",
     "British Columbia",
@@ -1177,7 +1177,7 @@
   {
    "date": "2023-11-13",
    "name": "Remembrance Day Holiday (regional holiday)",
-   "type": "Public holiday",
+   "type": "public",
    "regions": [
     "Manitoba",
     "New Brunswick",
@@ -1189,17 +1189,17 @@
   {
    "date": "2023-12-11",
    "name": "Anniversary of the Statute of Westminster",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2023-12-24",
    "name": "Christmas Eve",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2023-12-25",
    "name": "Christmas Day (regional holiday)",
-   "type": "Public holiday",
+   "type": "public",
    "regions": [
     "Alberta",
     "British Columbia",
@@ -1219,7 +1219,7 @@
   {
    "date": "2023-12-26",
    "name": "Boxing Day / Christmas Holiday (regional holiday)",
-   "type": "Public holiday",
+   "type": "public",
    "regions": [
     "Alberta",
     "Alberta",
@@ -1244,12 +1244,12 @@
   {
    "date": "2023-12-31",
    "name": "New Year's Eve",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2024-01-01",
    "name": "New Year's Day (regional holiday)",
-   "type": "Public holiday",
+   "type": "public",
    "regions": [
     "Alberta",
     "British Columbia",
@@ -1269,32 +1269,32 @@
   {
    "date": "2024-01-06",
    "name": "Epiphany",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2024-01-07",
    "name": "Orthodox Christmas Day",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2024-01-14",
    "name": "Orthodox New Year",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2024-02-02",
    "name": "Groundhog Day",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2024-02-14",
    "name": "Valentine's Day",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2024-02-23",
    "name": "Yukon Heritage Day (Yukon)",
-   "type": "Observance",
+   "type": "observance",
    "regions": [
     "Yukon"
    ]
@@ -1302,22 +1302,22 @@
   {
    "date": "2024-03-10",
    "name": "Daylight Saving Time starts",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2024-03-11",
    "name": "Commonwealth Day",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2024-03-17",
    "name": "St. Patrick's Day",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2024-03-29",
    "name": "Good Friday (regional holiday)",
-   "type": "Public holiday",
+   "type": "public",
    "regions": [
     "Alberta",
     "British Columbia",
@@ -1338,12 +1338,12 @@
   {
    "date": "2024-03-31",
    "name": "Easter Sunday",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2024-04-01",
    "name": "Easter Monday (regional holiday)",
-   "type": "Public holiday",
+   "type": "public",
    "regions": [
     "Alberta",
     "Alberta",
@@ -1369,32 +1369,32 @@
   {
    "date": "2024-04-06",
    "name": "Tartan Day",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2024-04-09",
    "name": "Vimy Ridge Day",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2024-05-03",
    "name": "Orthodox Good Friday",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2024-05-05",
    "name": "Orthodox Easter Sunday",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2024-05-12",
    "name": "Mother’s Day",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2024-05-20",
    "name": "Victoria Day (regional holiday)",
-   "type": "Public holiday",
+   "type": "public",
    "regions": [
     "Alberta",
     "British Columbia",
@@ -1415,17 +1415,17 @@
   {
    "date": "2024-06-16",
    "name": "Father’s Day",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2024-06-21",
    "name": "National Indigenous Peoples Day",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2024-07-01",
    "name": "Canada Day (regional holiday)",
-   "type": "Public holiday",
+   "type": "public",
    "regions": [
     "Alberta",
     "British Columbia",
@@ -1445,12 +1445,12 @@
   {
    "date": "2024-08-05",
    "name": "Civic/Provincial Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2024-08-05",
    "name": "Heritage Day (Alberta)",
-   "type": "Observance",
+   "type": "observance",
    "regions": [
     "Alberta"
    ]
@@ -1458,7 +1458,7 @@
   {
    "date": "2024-08-05",
    "name": "Natal Day (Nova Scotia)",
-   "type": "Observance",
+   "type": "observance",
    "regions": [
     "Nova Scotia"
    ]
@@ -1466,7 +1466,7 @@
   {
    "date": "2024-09-02",
    "name": "Labour Day (regional holiday)",
-   "type": "Public holiday",
+   "type": "public",
    "regions": [
     "Alberta",
     "British Columbia",
@@ -1486,7 +1486,7 @@
   {
    "date": "2024-09-30",
    "name": "National Day for Truth and Reconciliation (regional holiday)",
-   "type": "Public holiday",
+   "type": "public",
    "regions": [
     "Alberta",
     "Alberta",
@@ -1508,7 +1508,7 @@
   {
    "date": "2024-10-14",
    "name": "Thanksgiving Day (regional holiday)",
-   "type": "Public holiday",
+   "type": "public",
    "regions": [
     "Alberta",
     "British Columbia",
@@ -1529,17 +1529,17 @@
   {
    "date": "2024-10-31",
    "name": "Halloween",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2024-11-03",
    "name": "Daylight Saving Time ends",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2024-11-11",
    "name": "Remembrance Day (regional holiday)",
-   "type": "Public holiday",
+   "type": "public",
    "regions": [
     "Alberta",
     "British Columbia",
@@ -1561,17 +1561,17 @@
   {
    "date": "2024-12-11",
    "name": "Anniversary of the Statute of Westminster",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2024-12-24",
    "name": "Christmas Eve",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2024-12-25",
    "name": "Christmas Day (regional holiday)",
-   "type": "Public holiday",
+   "type": "public",
    "regions": [
     "Alberta",
     "British Columbia",
@@ -1591,7 +1591,7 @@
   {
    "date": "2024-12-26",
    "name": "Boxing Day / Christmas Holiday (regional holiday)",
-   "type": "Public holiday",
+   "type": "public",
    "regions": [
     "Alberta",
     "Alberta",
@@ -1616,12 +1616,12 @@
   {
    "date": "2024-12-31",
    "name": "New Year's Eve",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2025-01-01",
    "name": "New Year's Day (regional holiday)",
-   "type": "Public holiday",
+   "type": "public",
    "regions": [
     "Alberta",
     "British Columbia",
@@ -1641,32 +1641,32 @@
   {
    "date": "2025-01-06",
    "name": "Epiphany",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2025-01-07",
    "name": "Orthodox Christmas Day",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2025-01-14",
    "name": "Orthodox New Year",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2025-02-02",
    "name": "Groundhog Day",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2025-02-14",
    "name": "Valentine's Day",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2025-02-21",
    "name": "Yukon Heritage Day (Yukon)",
-   "type": "Observance",
+   "type": "observance",
    "regions": [
     "Yukon"
    ]
@@ -1674,32 +1674,32 @@
   {
    "date": "2025-03-09",
    "name": "Daylight Saving Time starts",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2025-03-10",
    "name": "Commonwealth Day",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2025-03-17",
    "name": "St. Patrick's Day",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2025-04-06",
    "name": "Tartan Day",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2025-04-09",
    "name": "Vimy Ridge Day",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2025-04-18",
    "name": "Good Friday (regional holiday)",
-   "type": "Public holiday",
+   "type": "public",
    "regions": [
     "Alberta",
     "British Columbia",
@@ -1720,22 +1720,22 @@
   {
    "date": "2025-04-18",
    "name": "Orthodox Good Friday",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2025-04-20",
    "name": "Easter Sunday",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2025-04-20",
    "name": "Orthodox Easter Sunday",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2025-04-21",
    "name": "Easter Monday (regional holiday)",
-   "type": "Public holiday",
+   "type": "public",
    "regions": [
     "Alberta",
     "Alberta",
@@ -1761,12 +1761,12 @@
   {
    "date": "2025-05-11",
    "name": "Mother’s Day",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2025-05-19",
    "name": "Victoria Day (regional holiday)",
-   "type": "Public holiday",
+   "type": "public",
    "regions": [
     "Alberta",
     "British Columbia",
@@ -1787,17 +1787,17 @@
   {
    "date": "2025-06-15",
    "name": "Father’s Day",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2025-06-21",
    "name": "National Indigenous Peoples Day",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2025-06-23",
    "name": "National Indigenous Peoples Day Holiday (Northwest Territories)",
-   "type": "Observance",
+   "type": "observance",
    "regions": [
     "Northwest Territories"
    ]
@@ -1805,7 +1805,7 @@
   {
    "date": "2025-07-01",
    "name": "Canada Day (regional holiday)",
-   "type": "Public holiday",
+   "type": "public",
    "regions": [
     "Alberta",
     "British Columbia",
@@ -1825,12 +1825,12 @@
   {
    "date": "2025-08-04",
    "name": "Civic/Provincial Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2025-08-04",
    "name": "Heritage Day (Alberta)",
-   "type": "Observance",
+   "type": "observance",
    "regions": [
     "Alberta"
    ]
@@ -1838,7 +1838,7 @@
   {
    "date": "2025-08-04",
    "name": "Natal Day (Nova Scotia)",
-   "type": "Observance",
+   "type": "observance",
    "regions": [
     "Nova Scotia"
    ]
@@ -1846,7 +1846,7 @@
   {
    "date": "2025-09-01",
    "name": "Labour Day (regional holiday)",
-   "type": "Public holiday",
+   "type": "public",
    "regions": [
     "Alberta",
     "British Columbia",
@@ -1866,7 +1866,7 @@
   {
    "date": "2025-09-30",
    "name": "National Day for Truth and Reconciliation (regional holiday)",
-   "type": "Public holiday",
+   "type": "public",
    "regions": [
     "Alberta",
     "Alberta",
@@ -1888,7 +1888,7 @@
   {
    "date": "2025-10-13",
    "name": "Thanksgiving Day (regional holiday)",
-   "type": "Public holiday",
+   "type": "public",
    "regions": [
     "Alberta",
     "British Columbia",
@@ -1909,17 +1909,17 @@
   {
    "date": "2025-10-31",
    "name": "Halloween",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2025-11-02",
    "name": "Daylight Saving Time ends",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2025-11-11",
    "name": "Remembrance Day (regional holiday)",
-   "type": "Public holiday",
+   "type": "public",
    "regions": [
     "Alberta",
     "British Columbia",
@@ -1941,17 +1941,17 @@
   {
    "date": "2025-12-11",
    "name": "Anniversary of the Statute of Westminster",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2025-12-24",
    "name": "Christmas Eve",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2025-12-25",
    "name": "Christmas Day (regional holiday)",
-   "type": "Public holiday",
+   "type": "public",
    "regions": [
     "Alberta",
     "British Columbia",
@@ -1971,7 +1971,7 @@
   {
    "date": "2025-12-26",
    "name": "Boxing Day / Christmas Holiday (regional holiday)",
-   "type": "Public holiday",
+   "type": "public",
    "regions": [
     "Alberta",
     "Alberta",
@@ -1996,12 +1996,12 @@
   {
    "date": "2025-12-31",
    "name": "New Year's Eve",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2026-01-01",
    "name": "New Year's Day (regional holiday)",
-   "type": "Public holiday",
+   "type": "public",
    "regions": [
     "Alberta",
     "British Columbia",
@@ -2021,32 +2021,32 @@
   {
    "date": "2026-01-06",
    "name": "Epiphany",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2026-01-07",
    "name": "Orthodox Christmas Day",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2026-01-14",
    "name": "Orthodox New Year",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2026-02-02",
    "name": "Groundhog Day",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2026-02-14",
    "name": "Valentine's Day",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2026-02-20",
    "name": "Yukon Heritage Day (Yukon)",
-   "type": "Observance",
+   "type": "observance",
    "regions": [
     "Yukon"
    ]
@@ -2054,22 +2054,22 @@
   {
    "date": "2026-03-08",
    "name": "Daylight Saving Time starts",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2026-03-09",
    "name": "Commonwealth Day",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2026-03-17",
    "name": "St. Patrick's Day",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2026-04-03",
    "name": "Good Friday (regional holiday)",
-   "type": "Public holiday",
+   "type": "public",
    "regions": [
     "Alberta",
     "British Columbia",
@@ -2090,12 +2090,12 @@
   {
    "date": "2026-04-05",
    "name": "Easter Sunday",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2026-04-06",
    "name": "Easter Monday (regional holiday)",
-   "type": "Public holiday",
+   "type": "public",
    "regions": [
     "Alberta",
     "Alberta",
@@ -2121,32 +2121,32 @@
   {
    "date": "2026-04-06",
    "name": "Tartan Day",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2026-04-09",
    "name": "Vimy Ridge Day",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2026-04-10",
    "name": "Orthodox Good Friday",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2026-04-12",
    "name": "Orthodox Easter Sunday",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2026-05-10",
    "name": "Mother’s Day",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2026-05-18",
    "name": "Victoria Day (regional holiday)",
-   "type": "Public holiday",
+   "type": "public",
    "regions": [
     "Alberta",
     "British Columbia",
@@ -2167,17 +2167,17 @@
   {
    "date": "2026-06-21",
    "name": "Father’s Day",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2026-06-21",
    "name": "National Indigenous Peoples Day",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2026-06-22",
    "name": "National Indigenous Peoples Day Holiday (Northwest Territories)",
-   "type": "Observance",
+   "type": "observance",
    "regions": [
     "Northwest Territories"
    ]
@@ -2185,7 +2185,7 @@
   {
    "date": "2026-07-01",
    "name": "Canada Day (regional holiday)",
-   "type": "Public holiday",
+   "type": "public",
    "regions": [
     "Alberta",
     "British Columbia",
@@ -2205,12 +2205,12 @@
   {
    "date": "2026-08-03",
    "name": "Civic/Provincial Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2026-08-03",
    "name": "Heritage Day (Alberta)",
-   "type": "Observance",
+   "type": "observance",
    "regions": [
     "Alberta"
    ]
@@ -2218,7 +2218,7 @@
   {
    "date": "2026-08-03",
    "name": "Natal Day (Nova Scotia)",
-   "type": "Observance",
+   "type": "observance",
    "regions": [
     "Nova Scotia"
    ]
@@ -2226,7 +2226,7 @@
   {
    "date": "2026-09-07",
    "name": "Labour Day (regional holiday)",
-   "type": "Public holiday",
+   "type": "public",
    "regions": [
     "Alberta",
     "British Columbia",
@@ -2246,7 +2246,7 @@
   {
    "date": "2026-09-30",
    "name": "National Day for Truth and Reconciliation (regional holiday)",
-   "type": "Public holiday",
+   "type": "public",
    "regions": [
     "Alberta",
     "Alberta",
@@ -2268,7 +2268,7 @@
   {
    "date": "2026-10-12",
    "name": "Thanksgiving Day (regional holiday)",
-   "type": "Public holiday",
+   "type": "public",
    "regions": [
     "Alberta",
     "British Columbia",
@@ -2289,17 +2289,17 @@
   {
    "date": "2026-10-31",
    "name": "Halloween",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2026-11-01",
    "name": "Daylight Saving Time ends",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2026-11-11",
    "name": "Remembrance Day (regional holiday)",
-   "type": "Public holiday",
+   "type": "public",
    "regions": [
     "Alberta",
     "British Columbia",
@@ -2321,17 +2321,17 @@
   {
    "date": "2026-12-11",
    "name": "Anniversary of the Statute of Westminster",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2026-12-24",
    "name": "Christmas Eve",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2026-12-25",
    "name": "Christmas Day (regional holiday)",
-   "type": "Public holiday",
+   "type": "public",
    "regions": [
     "Alberta",
     "British Columbia",
@@ -2351,7 +2351,7 @@
   {
    "date": "2026-12-26",
    "name": "Boxing Day / Christmas Holiday (regional holiday)",
-   "type": "Public holiday",
+   "type": "public",
    "regions": [
     "Alberta",
     "Alberta",
@@ -2376,7 +2376,7 @@
   {
    "date": "2026-12-28",
    "name": "Boxing Day / Christmas Holiday (regional holiday)",
-   "type": "Public holiday",
+   "type": "public",
    "regions": [
     "Alberta",
     "British Columbia",
@@ -2398,12 +2398,12 @@
   {
    "date": "2026-12-31",
    "name": "New Year's Eve",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2027-01-01",
    "name": "New Year's Day (regional holiday)",
-   "type": "Public holiday",
+   "type": "public",
    "regions": [
     "Alberta",
     "British Columbia",
@@ -2423,32 +2423,32 @@
   {
    "date": "2027-01-06",
    "name": "Epiphany",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2027-01-07",
    "name": "Orthodox Christmas Day",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2027-01-14",
    "name": "Orthodox New Year",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2027-02-02",
    "name": "Groundhog Day",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2027-02-14",
    "name": "Valentine's Day",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2027-02-26",
    "name": "Yukon Heritage Day (Yukon)",
-   "type": "Observance",
+   "type": "observance",
    "regions": [
     "Yukon"
    ]
@@ -2456,22 +2456,22 @@
   {
    "date": "2027-03-08",
    "name": "Commonwealth Day",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2027-03-14",
    "name": "Daylight Saving Time starts",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2027-03-17",
    "name": "St. Patrick's Day",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2027-03-26",
    "name": "Good Friday (regional holiday)",
-   "type": "Public holiday",
+   "type": "public",
    "regions": [
     "Alberta",
     "British Columbia",
@@ -2492,12 +2492,12 @@
   {
    "date": "2027-03-28",
    "name": "Easter Sunday",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2027-03-29",
    "name": "Easter Monday (regional holiday)",
-   "type": "Public holiday",
+   "type": "public",
    "regions": [
     "Alberta",
     "Alberta",
@@ -2523,32 +2523,32 @@
   {
    "date": "2027-04-06",
    "name": "Tartan Day",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2027-04-09",
    "name": "Vimy Ridge Day",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2027-04-30",
    "name": "Orthodox Good Friday",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2027-05-02",
    "name": "Orthodox Easter Sunday",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2027-05-09",
    "name": "Mother’s Day",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2027-05-24",
    "name": "Victoria Day (regional holiday)",
-   "type": "Public holiday",
+   "type": "public",
    "regions": [
     "Alberta",
     "British Columbia",
@@ -2569,17 +2569,17 @@
   {
    "date": "2027-06-20",
    "name": "Father’s Day",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2027-06-21",
    "name": "National Indigenous Peoples Day",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2027-07-01",
    "name": "Canada Day (regional holiday)",
-   "type": "Public holiday",
+   "type": "public",
    "regions": [
     "Alberta",
     "British Columbia",
@@ -2599,12 +2599,12 @@
   {
    "date": "2027-08-02",
    "name": "Civic/Provincial Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2027-08-02",
    "name": "Heritage Day (Alberta)",
-   "type": "Observance",
+   "type": "observance",
    "regions": [
     "Alberta"
    ]
@@ -2612,7 +2612,7 @@
   {
    "date": "2027-08-02",
    "name": "Natal Day (Nova Scotia)",
-   "type": "Observance",
+   "type": "observance",
    "regions": [
     "Nova Scotia"
    ]
@@ -2620,7 +2620,7 @@
   {
    "date": "2027-09-06",
    "name": "Labour Day (regional holiday)",
-   "type": "Public holiday",
+   "type": "public",
    "regions": [
     "Alberta",
     "British Columbia",
@@ -2640,7 +2640,7 @@
   {
    "date": "2027-09-30",
    "name": "National Day for Truth and Reconciliation (regional holiday)",
-   "type": "Public holiday",
+   "type": "public",
    "regions": [
     "Alberta",
     "Alberta",
@@ -2662,7 +2662,7 @@
   {
    "date": "2027-10-11",
    "name": "Thanksgiving Day (regional holiday)",
-   "type": "Public holiday",
+   "type": "public",
    "regions": [
     "Alberta",
     "British Columbia",
@@ -2683,17 +2683,17 @@
   {
    "date": "2027-10-31",
    "name": "Halloween",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2027-11-07",
    "name": "Daylight Saving Time ends",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2027-11-11",
    "name": "Remembrance Day (regional holiday)",
-   "type": "Public holiday",
+   "type": "public",
    "regions": [
     "Alberta",
     "British Columbia",
@@ -2715,17 +2715,17 @@
   {
    "date": "2027-12-11",
    "name": "Anniversary of the Statute of Westminster",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2027-12-24",
    "name": "Christmas Eve",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2027-12-25",
    "name": "Christmas Day (regional holiday)",
-   "type": "Public holiday",
+   "type": "public",
    "regions": [
     "Alberta",
     "British Columbia",
@@ -2745,7 +2745,7 @@
   {
    "date": "2027-12-26",
    "name": "Boxing Day / Christmas Holiday (regional holiday)",
-   "type": "Public holiday",
+   "type": "public",
    "regions": [
     "Alberta",
     "Alberta",
@@ -2770,7 +2770,7 @@
   {
    "date": "2027-12-27",
    "name": "Boxing Day / Christmas Holiday (regional holiday)",
-   "type": "Public holiday",
+   "type": "public",
    "regions": [
     "New Brunswick",
     "Northwest Territories",
@@ -2784,7 +2784,7 @@
   {
    "date": "2027-12-28",
    "name": "Boxing Day / Christmas Holiday (regional holiday)",
-   "type": "Public holiday",
+   "type": "public",
    "regions": [
     "New Brunswick",
     "Ontario"
@@ -2793,12 +2793,12 @@
   {
    "date": "2027-12-31",
    "name": "New Year's Eve",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2028-01-01",
    "name": "New Year's Day (regional holiday)",
-   "type": "Public holiday",
+   "type": "public",
    "regions": [
     "Alberta",
     "British Columbia",
@@ -2818,7 +2818,7 @@
   {
    "date": "2028-01-03",
    "name": "New Year's Day Holiday (regional holiday)",
-   "type": "Public holiday",
+   "type": "public",
    "regions": [
     "New Brunswick",
     "Northwest Territories",
@@ -2832,32 +2832,32 @@
   {
    "date": "2028-01-06",
    "name": "Epiphany",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2028-01-07",
    "name": "Orthodox Christmas Day",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2028-01-14",
    "name": "Orthodox New Year",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2028-02-02",
    "name": "Groundhog Day",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2028-02-14",
    "name": "Valentine's Day",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2028-02-25",
    "name": "Yukon Heritage Day (Yukon)",
-   "type": "Observance",
+   "type": "observance",
    "regions": [
     "Yukon"
    ]
@@ -2865,32 +2865,32 @@
   {
    "date": "2028-03-12",
    "name": "Daylight Saving Time starts",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2028-03-13",
    "name": "Commonwealth Day",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2028-03-17",
    "name": "St. Patrick's Day",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2028-04-06",
    "name": "Tartan Day",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2028-04-09",
    "name": "Vimy Ridge Day",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2028-04-14",
    "name": "Good Friday (regional holiday)",
-   "type": "Public holiday",
+   "type": "public",
    "regions": [
     "Alberta",
     "British Columbia",
@@ -2911,22 +2911,22 @@
   {
    "date": "2028-04-14",
    "name": "Orthodox Good Friday",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2028-04-16",
    "name": "Easter Sunday",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2028-04-16",
    "name": "Orthodox Easter Sunday",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2028-04-17",
    "name": "Easter Monday (regional holiday)",
-   "type": "Public holiday",
+   "type": "public",
    "regions": [
     "Alberta",
     "Alberta",
@@ -2952,12 +2952,12 @@
   {
    "date": "2028-05-14",
    "name": "Mother’s Day",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2028-05-22",
    "name": "Victoria Day (regional holiday)",
-   "type": "Public holiday",
+   "type": "public",
    "regions": [
     "Alberta",
     "British Columbia",
@@ -2978,17 +2978,17 @@
   {
    "date": "2028-06-18",
    "name": "Father’s Day",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2028-06-21",
    "name": "National Indigenous Peoples Day",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2028-07-01",
    "name": "Canada Day (regional holiday)",
-   "type": "Public holiday",
+   "type": "public",
    "regions": [
     "Alberta",
     "British Columbia",
@@ -3008,7 +3008,7 @@
   {
    "date": "2028-07-03",
    "name": "Canada Day Holiday (regional holiday)",
-   "type": "Public holiday",
+   "type": "public",
    "regions": [
     "New Brunswick",
     "Northwest Territories",
@@ -3022,7 +3022,7 @@
   {
    "date": "2028-07-10",
    "name": "Day off for Nunavut Day (Nunavut)",
-   "type": "Observance",
+   "type": "observance",
    "regions": [
     "Nunavut"
    ]
@@ -3030,12 +3030,12 @@
   {
    "date": "2028-08-07",
    "name": "Civic/Provincial Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2028-08-07",
    "name": "Heritage Day (Alberta)",
-   "type": "Observance",
+   "type": "observance",
    "regions": [
     "Alberta"
    ]
@@ -3043,7 +3043,7 @@
   {
    "date": "2028-08-07",
    "name": "Natal Day (Nova Scotia)",
-   "type": "Observance",
+   "type": "observance",
    "regions": [
     "Nova Scotia"
    ]
@@ -3051,7 +3051,7 @@
   {
    "date": "2028-09-04",
    "name": "Labour Day (regional holiday)",
-   "type": "Public holiday",
+   "type": "public",
    "regions": [
     "Alberta",
     "British Columbia",
@@ -3071,7 +3071,7 @@
   {
    "date": "2028-09-30",
    "name": "National Day for Truth and Reconciliation (regional holiday)",
-   "type": "Public holiday",
+   "type": "public",
    "regions": [
     "Alberta",
     "Alberta",
@@ -3093,7 +3093,7 @@
   {
    "date": "2028-10-02",
    "name": "National Day for Truth and Reconciliation Holiday (regional holiday)",
-   "type": "Public holiday",
+   "type": "public",
    "regions": [
     "Northwest Territories",
     "Nunavut",
@@ -3103,7 +3103,7 @@
   {
    "date": "2028-10-09",
    "name": "Thanksgiving Day (regional holiday)",
-   "type": "Public holiday",
+   "type": "public",
    "regions": [
     "Alberta",
     "British Columbia",
@@ -3124,17 +3124,17 @@
   {
    "date": "2028-10-31",
    "name": "Halloween",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2028-11-05",
    "name": "Daylight Saving Time ends",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2028-11-11",
    "name": "Remembrance Day (regional holiday)",
-   "type": "Public holiday",
+   "type": "public",
    "regions": [
     "Alberta",
     "British Columbia",
@@ -3156,7 +3156,7 @@
   {
    "date": "2028-11-13",
    "name": "Remembrance Day Holiday (regional holiday)",
-   "type": "Public holiday",
+   "type": "public",
    "regions": [
     "Manitoba",
     "New Brunswick",
@@ -3168,17 +3168,17 @@
   {
    "date": "2028-12-11",
    "name": "Anniversary of the Statute of Westminster",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2028-12-24",
    "name": "Christmas Eve",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2028-12-25",
    "name": "Christmas Day (regional holiday)",
-   "type": "Public holiday",
+   "type": "public",
    "regions": [
     "Alberta",
     "British Columbia",
@@ -3198,7 +3198,7 @@
   {
    "date": "2028-12-26",
    "name": "Boxing Day / Christmas Holiday (regional holiday)",
-   "type": "Public holiday",
+   "type": "public",
    "regions": [
     "Alberta",
     "Alberta",
@@ -3223,12 +3223,12 @@
   {
    "date": "2028-12-31",
    "name": "New Year's Eve",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2029-01-01",
    "name": "New Year's Day (regional holiday)",
-   "type": "Public holiday",
+   "type": "public",
    "regions": [
     "Alberta",
     "British Columbia",
@@ -3248,32 +3248,32 @@
   {
    "date": "2029-01-06",
    "name": "Epiphany",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2029-01-07",
    "name": "Orthodox Christmas Day",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2029-01-14",
    "name": "Orthodox New Year",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2029-02-02",
    "name": "Groundhog Day",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2029-02-14",
    "name": "Valentine's Day",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2029-02-23",
    "name": "Yukon Heritage Day (Yukon)",
-   "type": "Observance",
+   "type": "observance",
    "regions": [
     "Yukon"
    ]
@@ -3281,22 +3281,22 @@
   {
    "date": "2029-03-11",
    "name": "Daylight Saving Time starts",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2029-03-12",
    "name": "Commonwealth Day",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2029-03-17",
    "name": "St. Patrick's Day",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2029-03-30",
    "name": "Good Friday (regional holiday)",
-   "type": "Public holiday",
+   "type": "public",
    "regions": [
     "Alberta",
     "British Columbia",
@@ -3317,12 +3317,12 @@
   {
    "date": "2029-04-01",
    "name": "Easter Sunday",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2029-04-02",
    "name": "Easter Monday (regional holiday)",
-   "type": "Public holiday",
+   "type": "public",
    "regions": [
     "Alberta",
     "Alberta",
@@ -3348,32 +3348,32 @@
   {
    "date": "2029-04-06",
    "name": "Orthodox Good Friday",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2029-04-06",
    "name": "Tartan Day",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2029-04-08",
    "name": "Orthodox Easter Sunday",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2029-04-09",
    "name": "Vimy Ridge Day",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2029-05-13",
    "name": "Mother’s Day",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2029-05-21",
    "name": "Victoria Day (regional holiday)",
-   "type": "Public holiday",
+   "type": "public",
    "regions": [
     "Alberta",
     "British Columbia",
@@ -3394,17 +3394,17 @@
   {
    "date": "2029-06-17",
    "name": "Father’s Day",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2029-06-21",
    "name": "National Indigenous Peoples Day",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2029-07-01",
    "name": "Canada Day (regional holiday)",
-   "type": "Public holiday",
+   "type": "public",
    "regions": [
     "Alberta",
     "British Columbia",
@@ -3424,17 +3424,17 @@
   {
    "date": "2029-07-02",
    "name": "Canada Day Holiday",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2029-08-06",
    "name": "Civic/Provincial Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2029-08-06",
    "name": "Heritage Day (Alberta)",
-   "type": "Observance",
+   "type": "observance",
    "regions": [
     "Alberta"
    ]
@@ -3442,7 +3442,7 @@
   {
    "date": "2029-08-06",
    "name": "Natal Day (Nova Scotia)",
-   "type": "Observance",
+   "type": "observance",
    "regions": [
     "Nova Scotia"
    ]
@@ -3450,7 +3450,7 @@
   {
    "date": "2029-09-03",
    "name": "Labour Day (regional holiday)",
-   "type": "Public holiday",
+   "type": "public",
    "regions": [
     "Alberta",
     "British Columbia",
@@ -3470,7 +3470,7 @@
   {
    "date": "2029-09-30",
    "name": "National Day for Truth and Reconciliation (regional holiday)",
-   "type": "Public holiday",
+   "type": "public",
    "regions": [
     "Alberta",
     "Alberta",
@@ -3492,7 +3492,7 @@
   {
    "date": "2029-10-01",
    "name": "National Day for Truth and Reconciliation Holiday (regional holiday)",
-   "type": "Public holiday",
+   "type": "public",
    "regions": [
     "Northwest Territories",
     "Nunavut",
@@ -3502,7 +3502,7 @@
   {
    "date": "2029-10-08",
    "name": "Thanksgiving Day (regional holiday)",
-   "type": "Public holiday",
+   "type": "public",
    "regions": [
     "Alberta",
     "British Columbia",
@@ -3523,17 +3523,17 @@
   {
    "date": "2029-10-31",
    "name": "Halloween",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2029-11-04",
    "name": "Daylight Saving Time ends",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2029-11-11",
    "name": "Remembrance Day (regional holiday)",
-   "type": "Public holiday",
+   "type": "public",
    "regions": [
     "Alberta",
     "British Columbia",
@@ -3555,7 +3555,7 @@
   {
    "date": "2029-11-12",
    "name": "Remembrance Day Holiday (regional holiday)",
-   "type": "Public holiday",
+   "type": "public",
    "regions": [
     "Manitoba",
     "New Brunswick",
@@ -3567,17 +3567,17 @@
   {
    "date": "2029-12-11",
    "name": "Anniversary of the Statute of Westminster",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2029-12-24",
    "name": "Christmas Eve",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2029-12-25",
    "name": "Christmas Day (regional holiday)",
-   "type": "Public holiday",
+   "type": "public",
    "regions": [
     "Alberta",
     "British Columbia",
@@ -3597,7 +3597,7 @@
   {
    "date": "2029-12-26",
    "name": "Boxing Day / Christmas Holiday (regional holiday)",
-   "type": "Public holiday",
+   "type": "public",
    "regions": [
     "Alberta",
     "Alberta",
@@ -3622,12 +3622,12 @@
   {
    "date": "2029-12-31",
    "name": "New Year's Eve",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2030-01-01",
    "name": "New Year's Day (regional holiday)",
-   "type": "Public holiday",
+   "type": "public",
    "regions": [
     "Alberta",
     "British Columbia",
@@ -3647,32 +3647,32 @@
   {
    "date": "2030-01-06",
    "name": "Epiphany",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2030-01-07",
    "name": "Orthodox Christmas Day",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2030-01-14",
    "name": "Orthodox New Year",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2030-02-02",
    "name": "Groundhog Day",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2030-02-14",
    "name": "Valentine's Day",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2030-02-22",
    "name": "Yukon Heritage Day (Yukon)",
-   "type": "Observance",
+   "type": "observance",
    "regions": [
     "Yukon"
    ]
@@ -3680,32 +3680,32 @@
   {
    "date": "2030-03-10",
    "name": "Daylight Saving Time starts",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2030-03-11",
    "name": "Commonwealth Day",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2030-03-17",
    "name": "St. Patrick's Day",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2030-04-06",
    "name": "Tartan Day",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2030-04-09",
    "name": "Vimy Ridge Day",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2030-04-19",
    "name": "Good Friday (regional holiday)",
-   "type": "Public holiday",
+   "type": "public",
    "regions": [
     "Alberta",
     "British Columbia",
@@ -3726,12 +3726,12 @@
   {
    "date": "2030-04-21",
    "name": "Easter Sunday",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2030-04-22",
    "name": "Easter Monday (regional holiday)",
-   "type": "Public holiday",
+   "type": "public",
    "regions": [
     "Alberta",
     "Alberta",
@@ -3757,22 +3757,22 @@
   {
    "date": "2030-04-26",
    "name": "Orthodox Good Friday",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2030-04-28",
    "name": "Orthodox Easter Sunday",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2030-05-12",
    "name": "Mother’s Day",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2030-05-20",
    "name": "Victoria Day (regional holiday)",
-   "type": "Public holiday",
+   "type": "public",
    "regions": [
     "Alberta",
     "British Columbia",
@@ -3793,17 +3793,17 @@
   {
    "date": "2030-06-16",
    "name": "Father’s Day",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2030-06-21",
    "name": "National Indigenous Peoples Day",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2030-07-01",
    "name": "Canada Day (regional holiday)",
-   "type": "Public holiday",
+   "type": "public",
    "regions": [
     "Alberta",
     "British Columbia",
@@ -3823,12 +3823,12 @@
   {
    "date": "2030-08-05",
    "name": "Civic/Provincial Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2030-08-05",
    "name": "Heritage Day (Alberta)",
-   "type": "Observance",
+   "type": "observance",
    "regions": [
     "Alberta"
    ]
@@ -3836,7 +3836,7 @@
   {
    "date": "2030-08-05",
    "name": "Natal Day (Nova Scotia)",
-   "type": "Observance",
+   "type": "observance",
    "regions": [
     "Nova Scotia"
    ]
@@ -3844,7 +3844,7 @@
   {
    "date": "2030-09-02",
    "name": "Labour Day (regional holiday)",
-   "type": "Public holiday",
+   "type": "public",
    "regions": [
     "Alberta",
     "British Columbia",
@@ -3864,7 +3864,7 @@
   {
    "date": "2030-09-30",
    "name": "National Day for Truth and Reconciliation (regional holiday)",
-   "type": "Public holiday",
+   "type": "public",
    "regions": [
     "Alberta",
     "Alberta",
@@ -3886,7 +3886,7 @@
   {
    "date": "2030-10-14",
    "name": "Thanksgiving Day (regional holiday)",
-   "type": "Public holiday",
+   "type": "public",
    "regions": [
     "Alberta",
     "British Columbia",
@@ -3907,17 +3907,17 @@
   {
    "date": "2030-10-31",
    "name": "Halloween",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2030-11-03",
    "name": "Daylight Saving Time ends",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2030-11-11",
    "name": "Remembrance Day (regional holiday)",
-   "type": "Public holiday",
+   "type": "public",
    "regions": [
     "Alberta",
     "British Columbia",
@@ -3939,17 +3939,17 @@
   {
    "date": "2030-12-11",
    "name": "Anniversary of the Statute of Westminster",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2030-12-24",
    "name": "Christmas Eve",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2030-12-25",
    "name": "Christmas Day (regional holiday)",
-   "type": "Public holiday",
+   "type": "public",
    "regions": [
     "Alberta",
     "British Columbia",
@@ -3969,7 +3969,7 @@
   {
    "date": "2030-12-26",
    "name": "Boxing Day / Christmas Holiday (regional holiday)",
-   "type": "Public holiday",
+   "type": "public",
    "regions": [
     "Alberta",
     "Alberta",
@@ -3994,12 +3994,12 @@
   {
    "date": "2030-12-31",
    "name": "New Year's Eve",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2031-01-01",
    "name": "New Year's Day (regional holiday)",
-   "type": "Public holiday",
+   "type": "public",
    "regions": [
     "Alberta",
     "British Columbia",
@@ -4019,32 +4019,32 @@
   {
    "date": "2031-01-06",
    "name": "Epiphany",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2031-01-07",
    "name": "Orthodox Christmas Day",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2031-01-14",
    "name": "Orthodox New Year",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2031-02-02",
    "name": "Groundhog Day",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2031-02-14",
    "name": "Valentine's Day",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2031-02-21",
    "name": "Yukon Heritage Day (Yukon)",
-   "type": "Observance",
+   "type": "observance",
    "regions": [
     "Yukon"
    ]
@@ -4052,32 +4052,32 @@
   {
    "date": "2031-03-09",
    "name": "Daylight Saving Time starts",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2031-03-10",
    "name": "Commonwealth Day",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2031-03-17",
    "name": "St. Patrick's Day",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2031-04-06",
    "name": "Tartan Day",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2031-04-09",
    "name": "Vimy Ridge Day",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2031-04-11",
    "name": "Good Friday (regional holiday)",
-   "type": "Public holiday",
+   "type": "public",
    "regions": [
     "Alberta",
     "British Columbia",
@@ -4098,22 +4098,22 @@
   {
    "date": "2031-04-11",
    "name": "Orthodox Good Friday",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2031-04-13",
    "name": "Easter Sunday",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2031-04-13",
    "name": "Orthodox Easter Sunday",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2031-04-14",
    "name": "Easter Monday (regional holiday)",
-   "type": "Public holiday",
+   "type": "public",
    "regions": [
     "Alberta",
     "Alberta",
@@ -4139,12 +4139,12 @@
   {
    "date": "2031-05-11",
    "name": "Mother’s Day",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2031-05-19",
    "name": "Victoria Day (regional holiday)",
-   "type": "Public holiday",
+   "type": "public",
    "regions": [
     "Alberta",
     "British Columbia",
@@ -4165,17 +4165,17 @@
   {
    "date": "2031-06-15",
    "name": "Father’s Day",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2031-06-21",
    "name": "National Indigenous Peoples Day",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2031-06-23",
    "name": "National Indigenous Peoples Day Holiday (Northwest Territories)",
-   "type": "Observance",
+   "type": "observance",
    "regions": [
     "Northwest Territories"
    ]
@@ -4183,7 +4183,7 @@
   {
    "date": "2031-07-01",
    "name": "Canada Day (regional holiday)",
-   "type": "Public holiday",
+   "type": "public",
    "regions": [
     "Alberta",
     "British Columbia",
@@ -4203,12 +4203,12 @@
   {
    "date": "2031-08-04",
    "name": "Civic/Provincial Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2031-08-04",
    "name": "Heritage Day (Alberta)",
-   "type": "Observance",
+   "type": "observance",
    "regions": [
     "Alberta"
    ]
@@ -4216,7 +4216,7 @@
   {
    "date": "2031-08-04",
    "name": "Natal Day (Nova Scotia)",
-   "type": "Observance",
+   "type": "observance",
    "regions": [
     "Nova Scotia"
    ]
@@ -4224,7 +4224,7 @@
   {
    "date": "2031-09-01",
    "name": "Labour Day (regional holiday)",
-   "type": "Public holiday",
+   "type": "public",
    "regions": [
     "Alberta",
     "British Columbia",
@@ -4244,7 +4244,7 @@
   {
    "date": "2031-09-30",
    "name": "National Day for Truth and Reconciliation (regional holiday)",
-   "type": "Public holiday",
+   "type": "public",
    "regions": [
     "Alberta",
     "Alberta",
@@ -4266,7 +4266,7 @@
   {
    "date": "2031-10-13",
    "name": "Thanksgiving Day (regional holiday)",
-   "type": "Public holiday",
+   "type": "public",
    "regions": [
     "Alberta",
     "British Columbia",
@@ -4287,17 +4287,17 @@
   {
    "date": "2031-10-31",
    "name": "Halloween",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2031-11-02",
    "name": "Daylight Saving Time ends",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2031-11-11",
    "name": "Remembrance Day (regional holiday)",
-   "type": "Public holiday",
+   "type": "public",
    "regions": [
     "Alberta",
     "British Columbia",
@@ -4319,17 +4319,17 @@
   {
    "date": "2031-12-11",
    "name": "Anniversary of the Statute of Westminster",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2031-12-24",
    "name": "Christmas Eve",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2031-12-25",
    "name": "Christmas Day (regional holiday)",
-   "type": "Public holiday",
+   "type": "public",
    "regions": [
     "Alberta",
     "British Columbia",
@@ -4349,7 +4349,7 @@
   {
    "date": "2031-12-26",
    "name": "Boxing Day / Christmas Holiday (regional holiday)",
-   "type": "Public holiday",
+   "type": "public",
    "regions": [
     "Alberta",
     "Alberta",
@@ -4374,7 +4374,7 @@
   {
    "date": "2031-12-31",
    "name": "New Year's Eve",
-   "type": "Observance"
+   "type": "observance"
   }
  ]
 }

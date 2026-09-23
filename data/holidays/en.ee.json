@@ -5,1382 +5,1382 @@
  "from": 2021,
  "to": 2031,
  "count": 275,
- "fetchedAt": "2026-09-23T12:14:40.763Z",
+ "fetchedAt": "2026-09-23T12:37:49.969Z",
  "events": [
   {
    "date": "2021-01-01",
    "name": "New Year's Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2021-01-06",
    "name": "Epiphany",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2021-02-02",
    "name": "Anniversary of Tartu Peace Treaty",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2021-02-24",
    "name": "Independence Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2021-03-14",
    "name": "Mother Tongue Day",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2021-04-02",
    "name": "Good Friday",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2021-04-04",
    "name": "Easter Sunday",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2021-05-01",
    "name": "Labor Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2021-05-09",
    "name": "Mothers' Day",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2021-05-23",
    "name": "Pentecost",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2021-06-04",
    "name": "Flag Day",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2021-06-14",
    "name": "Day of Mourning",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2021-06-23",
    "name": "Victory Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2021-06-24",
    "name": "Midsummer Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2021-08-20",
    "name": "Independence Restoration Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2021-08-23",
    "name": "Day of Remembrance for Victims of Communism and Nazism",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2021-09-12",
    "name": "Grandparents' Day",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2021-09-22",
    "name": "Resistance Day",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2021-10-16",
    "name": "Finno-Ugric Day",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2021-11-02",
    "name": "All Soul's Day",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2021-11-14",
    "name": "Father's Day",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2021-11-16",
    "name": "Day of Declaration of Sovereignty",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2021-12-24",
    "name": "Christmas Eve",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2021-12-25",
    "name": "Christmas Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2021-12-26",
    "name": "Boxing Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2022-01-01",
    "name": "New Year's Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2022-01-06",
    "name": "Epiphany",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2022-02-02",
    "name": "Anniversary of Tartu Peace Treaty",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2022-02-24",
    "name": "Independence Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2022-03-14",
    "name": "Mother Tongue Day",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2022-04-15",
    "name": "Good Friday",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2022-04-17",
    "name": "Easter Sunday",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2022-05-01",
    "name": "Labor Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2022-05-08",
    "name": "Mothers' Day",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2022-06-04",
    "name": "Flag Day",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2022-06-05",
    "name": "Pentecost",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2022-06-14",
    "name": "Day of Mourning",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2022-06-23",
    "name": "Victory Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2022-06-24",
    "name": "Midsummer Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2022-08-20",
    "name": "Independence Restoration Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2022-08-23",
    "name": "Day of Remembrance for Victims of Communism and Nazism",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2022-09-11",
    "name": "Grandparents' Day",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2022-09-22",
    "name": "Resistance Day",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2022-10-15",
    "name": "Finno-Ugric Day",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2022-11-02",
    "name": "All Soul's Day",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2022-11-13",
    "name": "Father's Day",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2022-11-16",
    "name": "Day of Declaration of Sovereignty",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2022-12-24",
    "name": "Christmas Eve",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2022-12-25",
    "name": "Christmas Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2022-12-26",
    "name": "Boxing Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2023-01-01",
    "name": "New Year's Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2023-01-06",
    "name": "Epiphany",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2023-02-02",
    "name": "Anniversary of Tartu Peace Treaty",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2023-02-24",
    "name": "Independence Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2023-03-14",
    "name": "Mother Tongue Day",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2023-04-07",
    "name": "Good Friday",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2023-04-09",
    "name": "Easter Sunday",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2023-05-01",
    "name": "Labor Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2023-05-14",
    "name": "Mothers' Day",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2023-05-28",
    "name": "Pentecost",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2023-06-04",
    "name": "Flag Day",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2023-06-14",
    "name": "Day of Mourning",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2023-06-23",
    "name": "Victory Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2023-06-24",
    "name": "Midsummer Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2023-08-20",
    "name": "Independence Restoration Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2023-08-23",
    "name": "Day of Remembrance for Victims of Communism and Nazism",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2023-09-10",
    "name": "Grandparents' Day",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2023-09-22",
    "name": "Resistance Day",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2023-10-21",
    "name": "Finno-Ugric Day",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2023-11-02",
    "name": "All Soul's Day",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2023-11-12",
    "name": "Father's Day",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2023-11-16",
    "name": "Day of Declaration of Sovereignty",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2023-12-24",
    "name": "Christmas Eve",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2023-12-25",
    "name": "Christmas Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2023-12-26",
    "name": "Boxing Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2024-01-01",
    "name": "New Year's Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2024-01-06",
    "name": "Epiphany",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2024-02-02",
    "name": "Anniversary of Tartu Peace Treaty",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2024-02-24",
    "name": "Independence Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2024-03-14",
    "name": "Mother Tongue Day",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2024-03-29",
    "name": "Good Friday",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2024-03-31",
    "name": "Easter Sunday",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2024-05-01",
    "name": "Labor Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2024-05-12",
    "name": "Mothers' Day",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2024-05-19",
    "name": "Pentecost",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2024-06-04",
    "name": "Flag Day",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2024-06-14",
    "name": "Day of Mourning",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2024-06-23",
    "name": "Victory Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2024-06-24",
    "name": "Midsummer Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2024-08-20",
    "name": "Independence Restoration Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2024-08-23",
    "name": "Day of Remembrance for Victims of Communism and Nazism",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2024-09-08",
    "name": "Grandparents' Day",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2024-09-22",
    "name": "Resistance Day",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2024-10-19",
    "name": "Finno-Ugric Day",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2024-11-02",
    "name": "All Soul's Day",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2024-11-10",
    "name": "Father's Day",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2024-11-16",
    "name": "Day of Declaration of Sovereignty",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2024-12-24",
    "name": "Christmas Eve",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2024-12-25",
    "name": "Christmas Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2024-12-26",
    "name": "Boxing Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2025-01-01",
    "name": "New Year's Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2025-01-06",
    "name": "Epiphany",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2025-02-02",
    "name": "Anniversary of Tartu Peace Treaty",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2025-02-24",
    "name": "Independence Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2025-03-14",
    "name": "Mother Tongue Day",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2025-04-18",
    "name": "Good Friday",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2025-04-20",
    "name": "Easter Sunday",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2025-05-01",
    "name": "Labor Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2025-05-11",
    "name": "Mothers' Day",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2025-06-04",
    "name": "Flag Day",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2025-06-08",
    "name": "Pentecost",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2025-06-14",
    "name": "Day of Mourning",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2025-06-23",
    "name": "Victory Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2025-06-24",
    "name": "Midsummer Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2025-08-20",
    "name": "Independence Restoration Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2025-08-23",
    "name": "Day of Remembrance for Victims of Communism and Nazism",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2025-09-14",
    "name": "Grandparents' Day",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2025-09-22",
    "name": "Resistance Day",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2025-10-18",
    "name": "Finno-Ugric Day",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2025-11-02",
    "name": "All Soul's Day",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2025-11-09",
    "name": "Father's Day",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2025-11-16",
    "name": "Day of Declaration of Sovereignty",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2025-12-24",
    "name": "Christmas Eve",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2025-12-25",
    "name": "Christmas Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2025-12-26",
    "name": "Boxing Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2026-01-01",
    "name": "New Year's Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2026-01-06",
    "name": "Epiphany",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2026-02-02",
    "name": "Anniversary of Tartu Peace Treaty",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2026-02-24",
    "name": "Independence Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2026-03-14",
    "name": "Mother Tongue Day",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2026-04-03",
    "name": "Good Friday",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2026-04-05",
    "name": "Easter Sunday",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2026-05-01",
    "name": "Labor Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2026-05-10",
    "name": "Mothers' Day",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2026-05-24",
    "name": "Pentecost",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2026-06-04",
    "name": "Flag Day",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2026-06-14",
    "name": "Day of Mourning",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2026-06-23",
    "name": "Victory Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2026-06-24",
    "name": "Midsummer Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2026-08-20",
    "name": "Independence Restoration Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2026-08-23",
    "name": "Day of Remembrance for Victims of Communism and Nazism",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2026-09-13",
    "name": "Grandparents' Day",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2026-09-22",
    "name": "Resistance Day",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2026-10-17",
    "name": "Finno-Ugric Day",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2026-11-02",
    "name": "All Soul's Day",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2026-11-08",
    "name": "Father's Day",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2026-11-16",
    "name": "Day of Declaration of Sovereignty",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2026-12-24",
    "name": "Christmas Eve",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2026-12-25",
    "name": "Christmas Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2026-12-26",
    "name": "Boxing Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2027-01-01",
    "name": "New Year's Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2027-01-06",
    "name": "Epiphany",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2027-02-02",
    "name": "Anniversary of Tartu Peace Treaty",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2027-02-24",
    "name": "Independence Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2027-03-14",
    "name": "Mother Tongue Day",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2027-03-26",
    "name": "Good Friday",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2027-03-28",
    "name": "Easter Sunday",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2027-05-01",
    "name": "Labor Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2027-05-09",
    "name": "Mothers' Day",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2027-05-16",
    "name": "Pentecost",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2027-06-04",
    "name": "Flag Day",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2027-06-14",
    "name": "Day of Mourning",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2027-06-23",
    "name": "Victory Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2027-06-24",
    "name": "Midsummer Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2027-08-20",
    "name": "Independence Restoration Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2027-08-23",
    "name": "Day of Remembrance for Victims of Communism and Nazism",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2027-09-12",
    "name": "Grandparents' Day",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2027-09-22",
    "name": "Resistance Day",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2027-10-16",
    "name": "Finno-Ugric Day",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2027-11-02",
    "name": "All Soul's Day",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2027-11-14",
    "name": "Father's Day",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2027-11-16",
    "name": "Day of Declaration of Sovereignty",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2027-12-24",
    "name": "Christmas Eve",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2027-12-25",
    "name": "Christmas Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2027-12-26",
    "name": "Boxing Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2028-01-01",
    "name": "New Year's Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2028-01-06",
    "name": "Epiphany",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2028-02-02",
    "name": "Anniversary of Tartu Peace Treaty",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2028-02-24",
    "name": "Independence Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2028-03-14",
    "name": "Mother Tongue Day",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2028-04-14",
    "name": "Good Friday",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2028-04-16",
    "name": "Easter Sunday",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2028-05-01",
    "name": "Labor Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2028-05-14",
    "name": "Mothers' Day",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2028-06-04",
    "name": "Flag Day",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2028-06-04",
    "name": "Pentecost",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2028-06-14",
    "name": "Day of Mourning",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2028-06-23",
    "name": "Victory Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2028-06-24",
    "name": "Midsummer Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2028-08-20",
    "name": "Independence Restoration Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2028-08-23",
    "name": "Day of Remembrance for Victims of Communism and Nazism",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2028-09-10",
    "name": "Grandparents' Day",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2028-09-22",
    "name": "Resistance Day",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2028-10-21",
    "name": "Finno-Ugric Day",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2028-11-02",
    "name": "All Soul's Day",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2028-11-12",
    "name": "Father's Day",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2028-11-16",
    "name": "Day of Declaration of Sovereignty",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2028-12-24",
    "name": "Christmas Eve",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2028-12-25",
    "name": "Christmas Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2028-12-26",
    "name": "Boxing Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2029-01-01",
    "name": "New Year's Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2029-01-06",
    "name": "Epiphany",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2029-02-02",
    "name": "Anniversary of Tartu Peace Treaty",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2029-02-24",
    "name": "Independence Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2029-03-14",
    "name": "Mother Tongue Day",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2029-03-30",
    "name": "Good Friday",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2029-04-01",
    "name": "Easter Sunday",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2029-05-01",
    "name": "Labor Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2029-05-13",
    "name": "Mothers' Day",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2029-05-20",
    "name": "Pentecost",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2029-06-04",
    "name": "Flag Day",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2029-06-14",
    "name": "Day of Mourning",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2029-06-23",
    "name": "Victory Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2029-06-24",
    "name": "Midsummer Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2029-08-20",
    "name": "Independence Restoration Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2029-08-23",
    "name": "Day of Remembrance for Victims of Communism and Nazism",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2029-09-09",
    "name": "Grandparents' Day",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2029-09-22",
    "name": "Resistance Day",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2029-10-20",
    "name": "Finno-Ugric Day",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2029-11-02",
    "name": "All Soul's Day",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2029-11-11",
    "name": "Father's Day",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2029-11-16",
    "name": "Day of Declaration of Sovereignty",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2029-12-24",
    "name": "Christmas Eve",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2029-12-25",
    "name": "Christmas Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2029-12-26",
    "name": "Boxing Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2030-01-01",
    "name": "New Year's Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2030-01-06",
    "name": "Epiphany",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2030-02-02",
    "name": "Anniversary of Tartu Peace Treaty",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2030-02-24",
    "name": "Independence Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2030-03-14",
    "name": "Mother Tongue Day",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2030-04-19",
    "name": "Good Friday",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2030-04-21",
    "name": "Easter Sunday",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2030-05-01",
    "name": "Labor Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2030-05-12",
    "name": "Mothers' Day",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2030-06-04",
    "name": "Flag Day",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2030-06-09",
    "name": "Pentecost",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2030-06-14",
    "name": "Day of Mourning",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2030-06-23",
    "name": "Victory Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2030-06-24",
    "name": "Midsummer Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2030-08-20",
    "name": "Independence Restoration Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2030-08-23",
    "name": "Day of Remembrance for Victims of Communism and Nazism",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2030-09-08",
    "name": "Grandparents' Day",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2030-09-22",
    "name": "Resistance Day",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2030-10-19",
    "name": "Finno-Ugric Day",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2030-11-02",
    "name": "All Soul's Day",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2030-11-10",
    "name": "Father's Day",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2030-11-16",
    "name": "Day of Declaration of Sovereignty",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2030-12-24",
    "name": "Christmas Eve",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2030-12-25",
    "name": "Christmas Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2030-12-26",
    "name": "Boxing Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2031-01-01",
    "name": "New Year's Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2031-01-06",
    "name": "Epiphany",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2031-02-02",
    "name": "Anniversary of Tartu Peace Treaty",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2031-02-24",
    "name": "Independence Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2031-03-14",
    "name": "Mother Tongue Day",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2031-04-11",
    "name": "Good Friday",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2031-04-13",
    "name": "Easter Sunday",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2031-05-01",
    "name": "Labor Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2031-05-11",
    "name": "Mothers' Day",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2031-06-01",
    "name": "Pentecost",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2031-06-04",
    "name": "Flag Day",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2031-06-14",
    "name": "Day of Mourning",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2031-06-23",
    "name": "Victory Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2031-06-24",
    "name": "Midsummer Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2031-08-20",
    "name": "Independence Restoration Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2031-08-23",
    "name": "Day of Remembrance for Victims of Communism and Nazism",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2031-09-14",
    "name": "Grandparents' Day",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2031-09-22",
    "name": "Resistance Day",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2031-10-18",
    "name": "Finno-Ugric Day",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2031-11-02",
    "name": "All Soul's Day",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2031-11-09",
    "name": "Father's Day",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2031-11-16",
    "name": "Day of Declaration of Sovereignty",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2031-12-24",
    "name": "Christmas Eve",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2031-12-25",
    "name": "Christmas Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2031-12-26",
    "name": "Boxing Day",
-   "type": "Public holiday"
+   "type": "public"
   }
  ]
 }

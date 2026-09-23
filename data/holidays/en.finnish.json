@@ -5,1052 +5,1052 @@
  "from": 2021,
  "to": 2031,
  "count": 209,
- "fetchedAt": "2026-09-23T12:14:40.770Z",
+ "fetchedAt": "2026-09-23T12:37:49.973Z",
  "events": [
   {
    "date": "2021-01-01",
    "name": "New Year's Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2021-01-06",
    "name": "Epiphany",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2021-02-14",
    "name": "Valentine’s Day",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2021-04-02",
    "name": "Good Friday",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2021-04-04",
    "name": "Easter Sunday",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2021-04-05",
    "name": "Easter Monday",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2021-05-01",
    "name": "May Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2021-05-09",
    "name": "Mother's Day",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2021-05-13",
    "name": "Ascension Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2021-05-23",
    "name": "Whit Sunday",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2021-06-25",
    "name": "Midsummer Eve",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2021-06-26",
    "name": "Midsummer",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2021-11-06",
    "name": "All Saints' Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2021-11-14",
    "name": "Father's Day",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2021-12-06",
    "name": "Independence Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2021-12-24",
    "name": "Christmas Eve",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2021-12-25",
    "name": "Christmas Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2021-12-26",
    "name": "Boxing Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2021-12-31",
    "name": "New Year's Eve",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2022-01-01",
    "name": "New Year's Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2022-01-06",
    "name": "Epiphany",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2022-02-14",
    "name": "Valentine’s Day",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2022-04-15",
    "name": "Good Friday",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2022-04-17",
    "name": "Easter Sunday",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2022-04-18",
    "name": "Easter Monday",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2022-05-01",
    "name": "May Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2022-05-08",
    "name": "Mother's Day",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2022-05-26",
    "name": "Ascension Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2022-06-05",
    "name": "Whit Sunday",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2022-06-24",
    "name": "Midsummer Eve",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2022-06-25",
    "name": "Midsummer",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2022-11-05",
    "name": "All Saints' Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2022-11-13",
    "name": "Father's Day",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2022-12-06",
    "name": "Independence Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2022-12-24",
    "name": "Christmas Eve",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2022-12-25",
    "name": "Christmas Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2022-12-26",
    "name": "Boxing Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2022-12-31",
    "name": "New Year's Eve",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2023-01-01",
    "name": "New Year's Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2023-01-06",
    "name": "Epiphany",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2023-02-14",
    "name": "Valentine’s Day",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2023-04-07",
    "name": "Good Friday",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2023-04-09",
    "name": "Easter Sunday",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2023-04-10",
    "name": "Easter Monday",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2023-05-01",
    "name": "May Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2023-05-14",
    "name": "Mother's Day",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2023-05-18",
    "name": "Ascension Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2023-05-28",
    "name": "Whit Sunday",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2023-06-23",
    "name": "Midsummer Eve",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2023-06-24",
    "name": "Midsummer",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2023-11-04",
    "name": "All Saints' Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2023-11-12",
    "name": "Father's Day",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2023-12-06",
    "name": "Independence Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2023-12-24",
    "name": "Christmas Eve",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2023-12-25",
    "name": "Christmas Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2023-12-26",
    "name": "Boxing Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2023-12-31",
    "name": "New Year's Eve",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2024-01-01",
    "name": "New Year's Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2024-01-06",
    "name": "Epiphany",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2024-02-14",
    "name": "Valentine’s Day",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2024-03-29",
    "name": "Good Friday",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2024-03-31",
    "name": "Easter Sunday",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2024-04-01",
    "name": "Easter Monday",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2024-05-01",
    "name": "May Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2024-05-09",
    "name": "Ascension Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2024-05-12",
    "name": "Mother's Day",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2024-05-19",
    "name": "Whit Sunday",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2024-06-21",
    "name": "Midsummer Eve",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2024-06-22",
    "name": "Midsummer",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2024-11-02",
    "name": "All Saints' Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2024-11-10",
    "name": "Father's Day",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2024-12-06",
    "name": "Independence Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2024-12-24",
    "name": "Christmas Eve",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2024-12-25",
    "name": "Christmas Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2024-12-26",
    "name": "Boxing Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2024-12-31",
    "name": "New Year's Eve",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2025-01-01",
    "name": "New Year's Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2025-01-06",
    "name": "Epiphany",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2025-02-14",
    "name": "Valentine’s Day",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2025-04-18",
    "name": "Good Friday",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2025-04-20",
    "name": "Easter Sunday",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2025-04-21",
    "name": "Easter Monday",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2025-05-01",
    "name": "May Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2025-05-11",
    "name": "Mother's Day",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2025-05-29",
    "name": "Ascension Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2025-06-08",
    "name": "Whit Sunday",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2025-06-20",
    "name": "Midsummer Eve",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2025-06-21",
    "name": "Midsummer",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2025-11-01",
    "name": "All Saints' Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2025-11-09",
    "name": "Father's Day",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2025-12-06",
    "name": "Independence Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2025-12-24",
    "name": "Christmas Eve",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2025-12-25",
    "name": "Christmas Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2025-12-26",
    "name": "Boxing Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2025-12-31",
    "name": "New Year's Eve",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2026-01-01",
    "name": "New Year's Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2026-01-06",
    "name": "Epiphany",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2026-02-14",
    "name": "Valentine’s Day",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2026-04-03",
    "name": "Good Friday",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2026-04-05",
    "name": "Easter Sunday",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2026-04-06",
    "name": "Easter Monday",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2026-05-01",
    "name": "May Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2026-05-10",
    "name": "Mother's Day",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2026-05-14",
    "name": "Ascension Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2026-05-24",
    "name": "Whit Sunday",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2026-06-19",
    "name": "Midsummer Eve",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2026-06-20",
    "name": "Midsummer",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2026-10-31",
    "name": "All Saints' Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2026-11-08",
    "name": "Father's Day",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2026-12-06",
    "name": "Independence Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2026-12-24",
    "name": "Christmas Eve",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2026-12-25",
    "name": "Christmas Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2026-12-26",
    "name": "Boxing Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2026-12-31",
    "name": "New Year's Eve",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2027-01-01",
    "name": "New Year's Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2027-01-06",
    "name": "Epiphany",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2027-02-14",
    "name": "Valentine’s Day",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2027-03-26",
    "name": "Good Friday",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2027-03-28",
    "name": "Easter Sunday",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2027-03-29",
    "name": "Easter Monday",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2027-05-01",
    "name": "May Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2027-05-06",
    "name": "Ascension Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2027-05-09",
    "name": "Mother's Day",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2027-05-16",
    "name": "Whit Sunday",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2027-06-25",
    "name": "Midsummer Eve",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2027-06-26",
    "name": "Midsummer",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2027-11-06",
    "name": "All Saints' Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2027-11-14",
    "name": "Father's Day",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2027-12-06",
    "name": "Independence Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2027-12-24",
    "name": "Christmas Eve",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2027-12-25",
    "name": "Christmas Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2027-12-26",
    "name": "Boxing Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2027-12-31",
    "name": "New Year's Eve",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2028-01-01",
    "name": "New Year's Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2028-01-06",
    "name": "Epiphany",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2028-02-14",
    "name": "Valentine’s Day",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2028-04-14",
    "name": "Good Friday",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2028-04-16",
    "name": "Easter Sunday",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2028-04-17",
    "name": "Easter Monday",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2028-05-01",
    "name": "May Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2028-05-14",
    "name": "Mother's Day",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2028-05-25",
    "name": "Ascension Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2028-06-04",
    "name": "Whit Sunday",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2028-06-23",
    "name": "Midsummer Eve",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2028-06-24",
    "name": "Midsummer",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2028-11-04",
    "name": "All Saints' Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2028-11-12",
    "name": "Father's Day",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2028-12-06",
    "name": "Independence Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2028-12-24",
    "name": "Christmas Eve",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2028-12-25",
    "name": "Christmas Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2028-12-26",
    "name": "Boxing Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2028-12-31",
    "name": "New Year's Eve",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2029-01-01",
    "name": "New Year's Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2029-01-06",
    "name": "Epiphany",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2029-02-14",
    "name": "Valentine’s Day",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2029-03-30",
    "name": "Good Friday",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2029-04-01",
    "name": "Easter Sunday",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2029-04-02",
    "name": "Easter Monday",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2029-05-01",
    "name": "May Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2029-05-10",
    "name": "Ascension Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2029-05-13",
    "name": "Mother's Day",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2029-05-20",
    "name": "Whit Sunday",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2029-06-22",
    "name": "Midsummer Eve",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2029-06-23",
    "name": "Midsummer",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2029-11-03",
    "name": "All Saints' Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2029-11-11",
    "name": "Father's Day",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2029-12-06",
    "name": "Independence Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2029-12-24",
    "name": "Christmas Eve",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2029-12-25",
    "name": "Christmas Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2029-12-26",
    "name": "Boxing Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2029-12-31",
    "name": "New Year's Eve",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2030-01-01",
    "name": "New Year's Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2030-01-06",
    "name": "Epiphany",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2030-02-14",
    "name": "Valentine’s Day",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2030-04-19",
    "name": "Good Friday",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2030-04-21",
    "name": "Easter Sunday",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2030-04-22",
    "name": "Easter Monday",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2030-05-01",
    "name": "May Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2030-05-12",
    "name": "Mother's Day",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2030-05-30",
    "name": "Ascension Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2030-06-09",
    "name": "Whit Sunday",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2030-06-21",
    "name": "Midsummer Eve",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2030-06-22",
    "name": "Midsummer",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2030-11-02",
    "name": "All Saints' Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2030-11-10",
    "name": "Father's Day",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2030-12-06",
    "name": "Independence Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2030-12-24",
    "name": "Christmas Eve",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2030-12-25",
    "name": "Christmas Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2030-12-26",
    "name": "Boxing Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2030-12-31",
    "name": "New Year's Eve",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2031-01-01",
    "name": "New Year's Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2031-01-06",
    "name": "Epiphany",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2031-02-14",
    "name": "Valentine’s Day",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2031-04-11",
    "name": "Good Friday",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2031-04-13",
    "name": "Easter Sunday",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2031-04-14",
    "name": "Easter Monday",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2031-05-01",
    "name": "May Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2031-05-11",
    "name": "Mother's Day",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2031-05-22",
    "name": "Ascension Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2031-06-01",
    "name": "Whit Sunday",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2031-06-20",
    "name": "Midsummer Eve",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2031-06-21",
    "name": "Midsummer",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2031-11-01",
    "name": "All Saints' Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2031-11-09",
    "name": "Father's Day",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2031-12-06",
    "name": "Independence Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2031-12-24",
    "name": "Christmas Eve",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2031-12-25",
    "name": "Christmas Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2031-12-26",
    "name": "Boxing Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2031-12-31",
    "name": "New Year's Eve",
-   "type": "Observance"
+   "type": "observance"
   }
  ]
 }

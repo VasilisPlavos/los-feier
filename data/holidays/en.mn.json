@@ -5,1517 +5,1517 @@
  "from": 2021,
  "to": 2031,
  "count": 302,
- "fetchedAt": "2026-09-23T12:14:40.926Z",
+ "fetchedAt": "2026-09-23T12:37:50.054Z",
  "events": [
   {
    "date": "2021-01-01",
    "name": "New Year",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2021-01-13",
    "name": "Constitution Day",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2021-02-12",
    "name": "Tsagaan Sar",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2021-02-13",
    "name": "Tsagaan Sar Holiday",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2021-02-14",
    "name": "Tsagaan Sar Holiday",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2021-02-14",
    "name": "Valentine's Day",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2021-03-01",
    "name": "Patriots' Day",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2021-03-08",
    "name": "International Women's Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2021-03-18",
    "name": "Soldiers' Day",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2021-04-07",
    "name": "Health Day",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2021-04-26",
    "name": "Intellectual Property Day",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2021-05-15",
    "name": "Family Day",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2021-05-26",
    "name": "Great Buddha Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2021-06-01",
    "name": "Children's Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2021-06-09",
    "name": "Election Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2021-07-10",
    "name": "Political Flag Day",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2021-07-11",
    "name": "Naadam Holiday (National Day)",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2021-07-12",
    "name": "Naadam Holiday (National Day Holiday)",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2021-07-13",
    "name": "Naadam Holiday (National Day Holiday)",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2021-07-14",
    "name": "Naadam Holiday (National Day Holiday)",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2021-07-15",
    "name": "Naadam Holiday (National Day Holiday)",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2021-07-16",
    "name": "Naadam Holiday (National Day Holiday)",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2021-08-25",
    "name": "Youths Day",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2021-09-10",
    "name": "Repression Victims' Day",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2021-10-01",
    "name": "Elders' Day",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2021-10-29",
    "name": "Capital City Day",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2021-11-05",
    "name": "Genghis Khan Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2021-11-26",
    "name": "Republic Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2021-12-10",
    "name": "Human Rights Day",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2021-12-29",
    "name": "Independence Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2022-01-01",
    "name": "New Year",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2022-01-13",
    "name": "Constitution Day",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2022-02-02",
    "name": "Tsagaan Sar",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2022-02-03",
    "name": "Tsagaan Sar Holiday",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2022-02-04",
    "name": "Tsagaan Sar Holiday",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2022-02-14",
    "name": "Valentine's Day",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2022-03-01",
    "name": "Patriots' Day",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2022-03-08",
    "name": "International Women's Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2022-03-18",
    "name": "Soldiers' Day",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2022-04-07",
    "name": "Health Day",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2022-04-26",
    "name": "Intellectual Property Day",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2022-05-15",
    "name": "Family Day",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2022-06-01",
    "name": "Children's Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2022-06-14",
    "name": "Great Buddha Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2022-07-10",
    "name": "Political Flag Day",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2022-07-11",
    "name": "Naadam Holiday (National Day)",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2022-07-12",
    "name": "Naadam Holiday (National Day Holiday)",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2022-07-13",
    "name": "Naadam Holiday (National Day Holiday)",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2022-07-14",
    "name": "Naadam Holiday (National Day Holiday)",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2022-07-15",
    "name": "Naadam Holiday (National Day Holiday)",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2022-08-25",
    "name": "Youths Day",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2022-09-10",
    "name": "Repression Victims' Day",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2022-10-01",
    "name": "Elders' Day",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2022-10-29",
    "name": "Capital City Day",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2022-11-24",
    "name": "Genghis Khan Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2022-11-26",
    "name": "Republic Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2022-12-10",
    "name": "Human Rights Day",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2022-12-29",
    "name": "Independence Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2023-01-01",
    "name": "New Year",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2023-01-13",
    "name": "Constitution Day",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2023-02-14",
    "name": "Valentine's Day",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2023-02-21",
    "name": "Tsagaan Sar",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2023-02-22",
    "name": "Tsagaan Sar Holiday",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2023-02-23",
    "name": "Tsagaan Sar Holiday",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2023-03-01",
    "name": "Patriots' Day",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2023-03-08",
    "name": "International Women's Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2023-03-18",
    "name": "Soldiers' Day",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2023-04-07",
    "name": "Health Day",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2023-04-26",
    "name": "Intellectual Property Day",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2023-05-15",
    "name": "Family Day",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2023-06-01",
    "name": "Children's Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2023-06-04",
    "name": "Great Buddha Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2023-07-10",
    "name": "Naadam Holiday (National Day Holiday)",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2023-07-10",
    "name": "Political Flag Day",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2023-07-11",
    "name": "Naadam Holiday (National Day)",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2023-07-12",
    "name": "Naadam Holiday (National Day Holiday)",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2023-07-13",
    "name": "Naadam Holiday (National Day Holiday)",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2023-07-14",
    "name": "Naadam Holiday (National Day Holiday)",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2023-07-15",
    "name": "Naadam Holiday (National Day Holiday)",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2023-08-25",
    "name": "Youths Day",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2023-09-10",
    "name": "Repression Victims' Day",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2023-10-01",
    "name": "Elders' Day",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2023-10-29",
    "name": "Capital City Day",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2023-11-14",
    "name": "Genghis Khan Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2023-11-26",
    "name": "Republic Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2023-12-10",
    "name": "Human Rights Day",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2023-12-29",
    "name": "Independence Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2024-01-01",
    "name": "New Year",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2024-01-13",
    "name": "Constitution Day",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2024-02-10",
    "name": "Tsagaan Sar",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2024-02-11",
    "name": "Tsagaan Sar Holiday",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2024-02-12",
    "name": "Tsagaan Sar Holiday",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2024-02-14",
    "name": "Valentine's Day",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2024-03-01",
    "name": "Patriots' Day",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2024-03-08",
    "name": "International Women's Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2024-03-18",
    "name": "Soldiers' Day",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2024-04-07",
    "name": "Health Day",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2024-04-26",
    "name": "Intellectual Property Day",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2024-05-15",
    "name": "Family Day",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2024-05-23",
    "name": "Great Buddha Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2024-06-01",
    "name": "Children's Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2024-06-28",
    "name": "Election Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2024-07-10",
    "name": "Naadam Holiday (National Day Holiday)",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2024-07-10",
    "name": "Political Flag Day",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2024-07-11",
    "name": "Naadam Holiday (National Day)",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2024-07-12",
    "name": "Naadam Holiday (National Day Holiday)",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2024-07-13",
    "name": "Naadam Holiday (National Day Holiday)",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2024-07-14",
    "name": "Naadam Holiday (National Day Holiday)",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2024-07-15",
    "name": "Naadam Holiday (National Day Holiday)",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2024-08-25",
    "name": "Youths Day",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2024-09-10",
    "name": "Repression Victims' Day",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2024-10-01",
    "name": "Elders' Day",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2024-10-29",
    "name": "Capital City Day",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2024-11-16",
    "name": "Genghis Khan Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2024-11-26",
    "name": "Republic Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2024-12-10",
    "name": "Human Rights Day",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2024-12-29",
    "name": "Independence Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2025-01-01",
    "name": "New Year",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2025-01-13",
    "name": "Constitution Day",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2025-02-14",
    "name": "Valentine's Day",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2025-03-01",
    "name": "Patriots' Day",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2025-03-01",
    "name": "Tsagaan Sar",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2025-03-02",
    "name": "Tsagaan Sar Holiday",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2025-03-03",
    "name": "Tsagaan Sar Holiday",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2025-03-08",
    "name": "International Women's Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2025-03-18",
    "name": "Soldiers' Day",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2025-04-07",
    "name": "Health Day",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2025-04-26",
    "name": "Intellectual Property Day",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2025-05-15",
    "name": "Family Day",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2025-06-01",
    "name": "Children's Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2025-06-11",
    "name": "Great Buddha Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2025-07-10",
    "name": "Naadam Holiday (National Day Holiday)",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2025-07-10",
    "name": "Political Flag Day",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2025-07-11",
    "name": "Naadam Holiday (National Day)",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2025-07-12",
    "name": "Naadam Holiday (National Day Holiday)",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2025-07-13",
    "name": "Naadam Holiday (National Day Holiday)",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2025-07-14",
    "name": "Naadam Holiday (National Day Holiday)",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2025-07-15",
    "name": "Naadam Holiday (National Day Holiday)",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2025-07-16",
    "name": "Naadam Holiday (National Day Holiday)",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2025-07-17",
    "name": "Naadam Holiday (National Day Holiday)",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2025-08-25",
    "name": "Youths Day",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2025-09-10",
    "name": "Repression Victims' Day",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2025-10-01",
    "name": "Elders' Day",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2025-10-29",
    "name": "Capital City Day",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2025-11-21",
    "name": "Genghis Khan Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2025-11-26",
    "name": "Republic Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2025-12-10",
    "name": "Human Rights Day",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2025-12-29",
    "name": "Independence Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2026-01-01",
    "name": "New Year",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2026-01-13",
    "name": "Constitution Day",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2026-02-14",
    "name": "Valentine's Day",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2026-02-17",
    "name": "Tsagaan Sar Holiday",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2026-02-18",
    "name": "Tsagaan Sar",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2026-02-19",
    "name": "Tsagaan Sar Holiday",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2026-02-20",
    "name": "Tsagaan Sar Holiday",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2026-02-28",
    "name": "Working Day for Tsagaan Sar Holiday",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2026-03-01",
    "name": "Patriots' Day",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2026-03-08",
    "name": "International Women's Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2026-03-18",
    "name": "Soldiers' Day",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2026-04-07",
    "name": "Health Day",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2026-04-26",
    "name": "Intellectual Property Day",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2026-05-15",
    "name": "Family Day",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2026-05-31",
    "name": "Great Buddha Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2026-06-01",
    "name": "Children's Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2026-07-10",
    "name": "Naadam Holiday (National Day Holiday)",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2026-07-10",
    "name": "Political Flag Day",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2026-07-11",
    "name": "Naadam Holiday (National Day)",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2026-07-12",
    "name": "Naadam Holiday (National Day Holiday)",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2026-07-13",
    "name": "Naadam Holiday (National Day Holiday)",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2026-07-14",
    "name": "Naadam Holiday (National Day Holiday)",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2026-07-15",
    "name": "Naadam Holiday (National Day Holiday)",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2026-08-25",
    "name": "Youths Day",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2026-09-10",
    "name": "Repression Victims' Day",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2026-10-01",
    "name": "Elders' Day",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2026-10-29",
    "name": "Capital City Day",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2026-11-10",
    "name": "Genghis Khan Day (tentative)",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2026-11-26",
    "name": "Republic Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2026-12-10",
    "name": "Human Rights Day",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2026-12-29",
    "name": "Independence Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2027-01-01",
    "name": "New Year",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2027-01-13",
    "name": "Constitution Day",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2027-02-06",
    "name": "Tsagaan Sar",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2027-02-07",
    "name": "Tsagaan Sar Holiday",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2027-02-08",
    "name": "Tsagaan Sar Holiday",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2027-02-14",
    "name": "Valentine's Day",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2027-03-01",
    "name": "Patriots' Day",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2027-03-08",
    "name": "International Women's Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2027-03-18",
    "name": "Soldiers' Day",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2027-04-07",
    "name": "Health Day",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2027-04-26",
    "name": "Intellectual Property Day",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2027-05-15",
    "name": "Family Day",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2027-06-01",
    "name": "Children's Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2027-07-10",
    "name": "Naadam Holiday (National Day Holiday)",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2027-07-10",
    "name": "Political Flag Day",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2027-07-11",
    "name": "Naadam Holiday (National Day)",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2027-07-12",
    "name": "Naadam Holiday (National Day Holiday)",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2027-07-13",
    "name": "Naadam Holiday (National Day Holiday)",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2027-07-14",
    "name": "Naadam Holiday (National Day Holiday)",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2027-07-15",
    "name": "Naadam Holiday (National Day Holiday)",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2027-08-25",
    "name": "Youths Day",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2027-09-10",
    "name": "Repression Victims' Day",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2027-10-01",
    "name": "Elders' Day",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2027-10-29",
    "name": "Capital City Day",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2027-11-26",
    "name": "Republic Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2027-12-10",
    "name": "Human Rights Day",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2027-12-29",
    "name": "Independence Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2028-01-01",
    "name": "New Year",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2028-01-13",
    "name": "Constitution Day",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2028-02-14",
    "name": "Valentine's Day",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2028-03-01",
    "name": "Patriots' Day",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2028-03-08",
    "name": "International Women's Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2028-03-18",
    "name": "Soldiers' Day",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2028-04-07",
    "name": "Health Day",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2028-04-26",
    "name": "Intellectual Property Day",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2028-05-15",
    "name": "Family Day",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2028-06-01",
    "name": "Children's Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2028-07-10",
    "name": "Naadam Holiday (National Day Holiday)",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2028-07-10",
    "name": "Political Flag Day",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2028-07-11",
    "name": "Naadam Holiday (National Day)",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2028-07-12",
    "name": "Naadam Holiday (National Day Holiday)",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2028-07-13",
    "name": "Naadam Holiday (National Day Holiday)",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2028-07-14",
    "name": "Naadam Holiday (National Day Holiday)",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2028-07-15",
    "name": "Naadam Holiday (National Day Holiday)",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2028-08-25",
    "name": "Youths Day",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2028-09-10",
    "name": "Repression Victims' Day",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2028-10-01",
    "name": "Elders' Day",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2028-10-29",
    "name": "Capital City Day",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2028-11-26",
    "name": "Republic Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2028-12-10",
    "name": "Human Rights Day",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2028-12-29",
    "name": "Independence Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2029-01-01",
    "name": "New Year",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2029-01-13",
    "name": "Constitution Day",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2029-02-14",
    "name": "Valentine's Day",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2029-03-01",
    "name": "Patriots' Day",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2029-03-08",
    "name": "International Women's Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2029-03-18",
    "name": "Soldiers' Day",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2029-04-07",
    "name": "Health Day",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2029-04-26",
    "name": "Intellectual Property Day",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2029-05-15",
    "name": "Family Day",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2029-06-01",
    "name": "Children's Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2029-07-10",
    "name": "Naadam Holiday (National Day Holiday)",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2029-07-10",
    "name": "Political Flag Day",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2029-07-11",
    "name": "Naadam Holiday (National Day)",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2029-07-12",
    "name": "Naadam Holiday (National Day Holiday)",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2029-07-13",
    "name": "Naadam Holiday (National Day Holiday)",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2029-07-14",
    "name": "Naadam Holiday (National Day Holiday)",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2029-07-15",
    "name": "Naadam Holiday (National Day Holiday)",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2029-08-25",
    "name": "Youths Day",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2029-09-10",
    "name": "Repression Victims' Day",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2029-10-01",
    "name": "Elders' Day",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2029-10-29",
    "name": "Capital City Day",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2029-11-26",
    "name": "Republic Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2029-12-10",
    "name": "Human Rights Day",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2029-12-29",
    "name": "Independence Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2030-01-01",
    "name": "New Year",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2030-01-13",
    "name": "Constitution Day",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2030-02-14",
    "name": "Valentine's Day",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2030-03-01",
    "name": "Patriots' Day",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2030-03-08",
    "name": "International Women's Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2030-03-18",
    "name": "Soldiers' Day",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2030-04-07",
    "name": "Health Day",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2030-04-26",
    "name": "Intellectual Property Day",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2030-05-15",
    "name": "Family Day",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2030-06-01",
    "name": "Children's Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2030-07-10",
    "name": "Naadam Holiday (National Day Holiday)",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2030-07-10",
    "name": "Political Flag Day",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2030-07-11",
    "name": "Naadam Holiday (National Day)",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2030-07-12",
    "name": "Naadam Holiday (National Day Holiday)",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2030-07-13",
    "name": "Naadam Holiday (National Day Holiday)",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2030-07-14",
    "name": "Naadam Holiday (National Day Holiday)",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2030-07-15",
    "name": "Naadam Holiday (National Day Holiday)",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2030-08-25",
    "name": "Youths Day",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2030-09-10",
    "name": "Repression Victims' Day",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2030-10-01",
    "name": "Elders' Day",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2030-10-29",
    "name": "Capital City Day",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2030-11-26",
    "name": "Republic Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2030-12-10",
    "name": "Human Rights Day",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2030-12-29",
    "name": "Independence Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2031-01-01",
    "name": "New Year",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2031-01-13",
    "name": "Constitution Day",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2031-02-14",
    "name": "Valentine's Day",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2031-03-01",
    "name": "Patriots' Day",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2031-03-08",
    "name": "International Women's Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2031-03-18",
    "name": "Soldiers' Day",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2031-04-07",
    "name": "Health Day",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2031-04-26",
    "name": "Intellectual Property Day",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2031-05-15",
    "name": "Family Day",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2031-06-01",
    "name": "Children's Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2031-07-10",
    "name": "Naadam Holiday (National Day Holiday)",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2031-07-10",
    "name": "Political Flag Day",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2031-07-11",
    "name": "Naadam Holiday (National Day)",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2031-07-12",
    "name": "Naadam Holiday (National Day Holiday)",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2031-07-13",
    "name": "Naadam Holiday (National Day Holiday)",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2031-07-14",
    "name": "Naadam Holiday (National Day Holiday)",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2031-07-15",
    "name": "Naadam Holiday (National Day Holiday)",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2031-08-25",
    "name": "Youths Day",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2031-09-10",
    "name": "Repression Victims' Day",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2031-10-01",
    "name": "Elders' Day",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2031-10-29",
    "name": "Capital City Day",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2031-11-26",
    "name": "Republic Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2031-12-10",
    "name": "Human Rights Day",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2031-12-29",
    "name": "Independence Day",
-   "type": "Public holiday"
+   "type": "public"
   }
  ]
 }

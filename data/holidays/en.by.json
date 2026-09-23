@@ -5,1382 +5,1382 @@
  "from": 2021,
  "to": 2031,
  "count": 275,
- "fetchedAt": "2026-09-23T12:14:40.702Z",
+ "fetchedAt": "2026-09-23T12:37:49.940Z",
  "events": [
   {
    "date": "2021-01-01",
    "name": "New Year’s Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2021-01-02",
    "name": "New Year Holiday",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2021-01-07",
    "name": "Orthodox Christmas Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2021-01-08",
    "name": "Orthodox Christmas Holiday",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2021-02-23",
    "name": "Defender of the Fatherland Day",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2021-03-08",
    "name": "Women’s Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2021-03-15",
    "name": "Constitution Day",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2021-04-02",
    "name": "Union Day of Belarus and Russia",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2021-04-04",
    "name": "Catholic Easter Sunday",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2021-04-26",
    "name": "Day of Remembrance of the Chernobyl Tragedy",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2021-05-01",
    "name": "Labour Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2021-05-02",
    "name": "Orthodox Easter Sunday",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2021-05-09",
    "name": "Day of the National Emblem and Flag of Belarus",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2021-05-09",
    "name": "Victory Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2021-05-10",
    "name": "Public Holiday",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2021-05-11",
    "name": "Radonitsa",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2021-06-22",
    "name": "Remembrance Day of Victims of the Great Patriotic War",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2021-07-03",
    "name": "Independence Day of the Republic of Belarus",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2021-07-06",
    "name": "Kupalle (Day 1)",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2021-07-07",
    "name": "Kupalle (Day 2)",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2021-09-17",
    "name": "National Unity Day",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2021-11-02",
    "name": "Remembrance Day",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2021-11-07",
    "name": "October Revolution Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2021-12-25",
    "name": "Catholic Christmas Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2021-12-31",
    "name": "New Year's Eve",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2022-01-01",
    "name": "New Year’s Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2022-01-02",
    "name": "New Year Holiday",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2022-01-07",
    "name": "Orthodox Christmas Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2022-02-23",
    "name": "Defender of the Fatherland Day",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2022-03-07",
    "name": "Women’s Day Holiday",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2022-03-08",
    "name": "Women’s Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2022-03-15",
    "name": "Constitution Day",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2022-04-02",
    "name": "Union Day of Belarus and Russia",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2022-04-17",
    "name": "Catholic Easter Sunday",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2022-04-24",
    "name": "Orthodox Easter Sunday",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2022-04-26",
    "name": "Day of Remembrance of the Chernobyl Tragedy",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2022-05-01",
    "name": "Labour Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2022-05-02",
    "name": "Public Holiday",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2022-05-03",
    "name": "Radonitsa",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2022-05-08",
    "name": "Day of the National Emblem and Flag of Belarus",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2022-05-09",
    "name": "Victory Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2022-06-22",
    "name": "Remembrance Day of Victims of the Great Patriotic War",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2022-07-03",
    "name": "Independence Day of the Republic of Belarus",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2022-07-06",
    "name": "Kupalle (Day 1)",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2022-07-07",
    "name": "Kupalle (Day 2)",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2022-09-17",
    "name": "National Unity Day",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2022-10-21",
    "name": "Father’s Day",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2022-11-02",
    "name": "Remembrance Day",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2022-11-07",
    "name": "October Revolution Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2022-12-25",
    "name": "Catholic Christmas Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2022-12-31",
    "name": "New Year's Eve",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2023-01-01",
    "name": "New Year’s Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2023-01-02",
    "name": "New Year Holiday",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2023-01-07",
    "name": "Orthodox Christmas Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2023-02-23",
    "name": "Defender of the Fatherland Day",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2023-03-08",
    "name": "Women’s Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2023-03-15",
    "name": "Constitution Day",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2023-04-02",
    "name": "Union Day of Belarus and Russia",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2023-04-09",
    "name": "Catholic Easter Sunday",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2023-04-16",
    "name": "Orthodox Easter Sunday",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2023-04-24",
    "name": "Radonitsa Holiday",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2023-04-25",
    "name": "Radonitsa",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2023-04-26",
    "name": "Day of Remembrance of the Chernobyl Tragedy",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2023-04-29",
    "name": "Special Working Day",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2023-05-01",
    "name": "Labour Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2023-05-08",
    "name": "Public Holiday",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2023-05-09",
    "name": "Victory Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2023-05-14",
    "name": "Day of the National Emblem and Flag of Belarus",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2023-06-22",
    "name": "Remembrance Day of Victims of the Great Patriotic War",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2023-07-03",
    "name": "Independence Day of the Republic of Belarus",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2023-07-06",
    "name": "Kupalle (Day 1)",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2023-07-07",
    "name": "Kupalle (Day 2)",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2023-09-17",
    "name": "National Unity Day",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2023-10-21",
    "name": "Father’s Day",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2023-11-02",
    "name": "Remembrance Day",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2023-11-06",
    "name": "October Revolution Day Holiday",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2023-11-07",
    "name": "October Revolution Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2023-11-11",
    "name": "Special Working Day",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2023-12-25",
    "name": "Catholic Christmas Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2023-12-31",
    "name": "New Year's Eve",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2024-01-01",
    "name": "New Year’s Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2024-01-02",
    "name": "New Year Holiday",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2024-01-07",
    "name": "Orthodox Christmas Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2024-02-23",
    "name": "Defender of the Fatherland Day",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2024-03-08",
    "name": "Women’s Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2024-03-15",
    "name": "Constitution Day",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2024-03-31",
    "name": "Catholic Easter Sunday",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2024-04-02",
    "name": "Union Day of Belarus and Russia",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2024-04-26",
    "name": "Day of Remembrance of the Chernobyl Tragedy",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2024-05-01",
    "name": "Labour Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2024-05-05",
    "name": "Orthodox Easter Sunday",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2024-05-09",
    "name": "Victory Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2024-05-12",
    "name": "Day of the National Emblem and Flag of Belarus",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2024-05-14",
    "name": "Radonitsa",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2024-06-22",
    "name": "Remembrance Day of Victims of the Great Patriotic War",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2024-07-03",
    "name": "Independence Day of the Republic of Belarus",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2024-07-06",
    "name": "Kupalle (Day 1)",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2024-07-07",
    "name": "Kupalle (Day 2)",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2024-09-17",
    "name": "National Unity Day",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2024-10-21",
    "name": "Father’s Day",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2024-11-02",
    "name": "Remembrance Day",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2024-11-07",
    "name": "October Revolution Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2024-12-25",
    "name": "Catholic Christmas Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2024-12-31",
    "name": "New Year's Eve",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2025-01-01",
    "name": "New Year’s Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2025-01-02",
    "name": "New Year Holiday",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2025-01-06",
    "name": "Orthodox Christmas Holiday",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2025-01-07",
    "name": "Orthodox Christmas Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2025-02-23",
    "name": "Defender of the Fatherland Day",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2025-03-08",
    "name": "Women’s Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2025-03-15",
    "name": "Constitution Day",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2025-04-02",
    "name": "Union Day of Belarus and Russia",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2025-04-20",
    "name": "Catholic Easter Sunday",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2025-04-20",
    "name": "Orthodox Easter Sunday",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2025-04-26",
    "name": "Day of Remembrance of the Chernobyl Tragedy",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2025-04-26",
    "name": "Special Working Day",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2025-04-28",
    "name": "Radonitsa Holiday",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2025-04-29",
    "name": "Radonitsa",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2025-05-01",
    "name": "Labour Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2025-05-09",
    "name": "Victory Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2025-05-11",
    "name": "Day of the National Emblem and Flag of Belarus",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2025-06-22",
    "name": "Remembrance Day of Victims of the Great Patriotic War",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2025-07-03",
    "name": "Independence Day of the Republic of Belarus",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2025-07-04",
    "name": "Independence Day Holiday",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2025-07-06",
    "name": "Kupalle (Day 1)",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2025-07-07",
    "name": "Kupalle (Day 2)",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2025-09-17",
    "name": "National Unity Day",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2025-10-21",
    "name": "Father’s Day",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2025-11-02",
    "name": "Remembrance Day",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2025-11-07",
    "name": "October Revolution Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2025-12-20",
    "name": "Special Working Day",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2025-12-25",
    "name": "Catholic Christmas Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2025-12-26",
    "name": "Catholic Christmas Holiday",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2025-12-31",
    "name": "New Year's Eve",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2026-01-01",
    "name": "New Year’s Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2026-01-02",
    "name": "New Year Holiday",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2026-01-07",
    "name": "Orthodox Christmas Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2026-02-23",
    "name": "Defender of the Fatherland Day",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2026-03-08",
    "name": "Women’s Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2026-03-15",
    "name": "Constitution Day",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2026-04-02",
    "name": "Union Day of Belarus and Russia",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2026-04-05",
    "name": "Catholic Easter Sunday",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2026-04-12",
    "name": "Orthodox Easter Sunday",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2026-04-20",
    "name": "Radonitsa Holiday",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2026-04-21",
    "name": "Radonitsa",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2026-04-25",
    "name": "Special Working Day",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2026-04-26",
    "name": "Day of Remembrance of the Chernobyl Tragedy",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2026-05-01",
    "name": "Labour Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2026-05-09",
    "name": "Victory Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2026-05-10",
    "name": "Day of the National Emblem and Flag of Belarus",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2026-06-22",
    "name": "Remembrance Day of Victims of the Great Patriotic War",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2026-07-03",
    "name": "Independence Day of the Republic of Belarus",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2026-07-06",
    "name": "Kupalle (Day 1)",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2026-07-07",
    "name": "Kupalle (Day 2)",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2026-09-17",
    "name": "National Unity Day",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2026-10-21",
    "name": "Father’s Day",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2026-11-02",
    "name": "Remembrance Day",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2026-11-07",
    "name": "October Revolution Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2026-12-25",
    "name": "Catholic Christmas Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2026-12-31",
    "name": "New Year's Eve",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2027-01-01",
    "name": "New Year’s Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2027-01-02",
    "name": "New Year Holiday",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2027-01-07",
    "name": "Orthodox Christmas Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2027-02-23",
    "name": "Defender of the Fatherland Day",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2027-03-08",
    "name": "Women’s Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2027-03-15",
    "name": "Constitution Day",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2027-03-28",
    "name": "Catholic Easter Sunday",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2027-04-02",
    "name": "Union Day of Belarus and Russia",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2027-04-26",
    "name": "Day of Remembrance of the Chernobyl Tragedy",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2027-05-01",
    "name": "Labour Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2027-05-02",
    "name": "Orthodox Easter Sunday",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2027-05-09",
    "name": "Day of the National Emblem and Flag of Belarus",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2027-05-09",
    "name": "Victory Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2027-06-22",
    "name": "Remembrance Day of Victims of the Great Patriotic War",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2027-07-03",
    "name": "Independence Day of the Republic of Belarus",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2027-07-06",
    "name": "Kupalle (Day 1)",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2027-07-07",
    "name": "Kupalle (Day 2)",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2027-09-17",
    "name": "National Unity Day",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2027-10-21",
    "name": "Father’s Day",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2027-11-02",
    "name": "Remembrance Day",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2027-11-07",
    "name": "October Revolution Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2027-12-25",
    "name": "Catholic Christmas Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2027-12-31",
    "name": "New Year's Eve",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2028-01-01",
    "name": "New Year’s Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2028-01-02",
    "name": "New Year Holiday",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2028-01-07",
    "name": "Orthodox Christmas Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2028-02-23",
    "name": "Defender of the Fatherland Day",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2028-03-08",
    "name": "Women’s Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2028-03-15",
    "name": "Constitution Day",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2028-04-02",
    "name": "Union Day of Belarus and Russia",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2028-04-16",
    "name": "Catholic Easter Sunday",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2028-04-16",
    "name": "Orthodox Easter Sunday",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2028-04-26",
    "name": "Day of Remembrance of the Chernobyl Tragedy",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2028-05-01",
    "name": "Labour Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2028-05-09",
    "name": "Victory Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2028-05-14",
    "name": "Day of the National Emblem and Flag of Belarus",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2028-06-22",
    "name": "Remembrance Day of Victims of the Great Patriotic War",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2028-07-03",
    "name": "Independence Day of the Republic of Belarus",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2028-07-06",
    "name": "Kupalle (Day 1)",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2028-07-07",
    "name": "Kupalle (Day 2)",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2028-09-17",
    "name": "National Unity Day",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2028-10-21",
    "name": "Father’s Day",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2028-11-02",
    "name": "Remembrance Day",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2028-11-07",
    "name": "October Revolution Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2028-12-25",
    "name": "Catholic Christmas Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2028-12-31",
    "name": "New Year's Eve",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2029-01-01",
    "name": "New Year’s Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2029-01-02",
    "name": "New Year Holiday",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2029-01-07",
    "name": "Orthodox Christmas Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2029-02-23",
    "name": "Defender of the Fatherland Day",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2029-03-08",
    "name": "Women’s Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2029-03-15",
    "name": "Constitution Day",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2029-04-01",
    "name": "Catholic Easter Sunday",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2029-04-02",
    "name": "Union Day of Belarus and Russia",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2029-04-08",
    "name": "Orthodox Easter Sunday",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2029-04-26",
    "name": "Day of Remembrance of the Chernobyl Tragedy",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2029-05-01",
    "name": "Labour Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2029-05-09",
    "name": "Victory Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2029-05-13",
    "name": "Day of the National Emblem and Flag of Belarus",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2029-06-22",
    "name": "Remembrance Day of Victims of the Great Patriotic War",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2029-07-03",
    "name": "Independence Day of the Republic of Belarus",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2029-07-06",
    "name": "Kupalle (Day 1)",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2029-07-07",
    "name": "Kupalle (Day 2)",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2029-09-17",
    "name": "National Unity Day",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2029-10-21",
    "name": "Father’s Day",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2029-11-02",
    "name": "Remembrance Day",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2029-11-07",
    "name": "October Revolution Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2029-12-25",
    "name": "Catholic Christmas Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2029-12-31",
    "name": "New Year's Eve",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2030-01-01",
    "name": "New Year’s Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2030-01-02",
    "name": "New Year Holiday",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2030-01-07",
    "name": "Orthodox Christmas Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2030-02-23",
    "name": "Defender of the Fatherland Day",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2030-03-08",
    "name": "Women’s Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2030-03-15",
    "name": "Constitution Day",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2030-04-02",
    "name": "Union Day of Belarus and Russia",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2030-04-21",
    "name": "Catholic Easter Sunday",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2030-04-26",
    "name": "Day of Remembrance of the Chernobyl Tragedy",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2030-04-28",
    "name": "Orthodox Easter Sunday",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2030-05-01",
    "name": "Labour Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2030-05-09",
    "name": "Victory Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2030-05-12",
    "name": "Day of the National Emblem and Flag of Belarus",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2030-06-22",
    "name": "Remembrance Day of Victims of the Great Patriotic War",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2030-07-03",
    "name": "Independence Day of the Republic of Belarus",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2030-07-06",
    "name": "Kupalle (Day 1)",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2030-07-07",
    "name": "Kupalle (Day 2)",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2030-09-17",
    "name": "National Unity Day",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2030-10-21",
    "name": "Father’s Day",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2030-11-02",
    "name": "Remembrance Day",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2030-11-07",
    "name": "October Revolution Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2030-12-25",
    "name": "Catholic Christmas Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2030-12-31",
    "name": "New Year's Eve",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2031-01-01",
    "name": "New Year’s Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2031-01-02",
    "name": "New Year Holiday",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2031-01-07",
    "name": "Orthodox Christmas Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2031-02-23",
    "name": "Defender of the Fatherland Day",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2031-03-08",
    "name": "Women’s Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2031-03-15",
    "name": "Constitution Day",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2031-04-02",
    "name": "Union Day of Belarus and Russia",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2031-04-13",
    "name": "Catholic Easter Sunday",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2031-04-13",
    "name": "Orthodox Easter Sunday",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2031-04-26",
    "name": "Day of Remembrance of the Chernobyl Tragedy",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2031-05-01",
    "name": "Labour Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2031-05-09",
    "name": "Victory Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2031-05-11",
    "name": "Day of the National Emblem and Flag of Belarus",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2031-06-22",
    "name": "Remembrance Day of Victims of the Great Patriotic War",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2031-07-03",
    "name": "Independence Day of the Republic of Belarus",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2031-07-06",
    "name": "Kupalle (Day 1)",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2031-07-07",
    "name": "Kupalle (Day 2)",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2031-09-17",
    "name": "National Unity Day",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2031-10-21",
    "name": "Father’s Day",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2031-11-02",
    "name": "Remembrance Day",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2031-11-07",
    "name": "October Revolution Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2031-12-25",
    "name": "Catholic Christmas Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2031-12-31",
    "name": "New Year's Eve",
-   "type": "Observance"
+   "type": "observance"
   }
  ]
 }

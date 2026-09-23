@@ -1,6 +1,6 @@
 // Downloads Google's public holiday calendars (ICS) and stores them as compact JSON
 // under data/holidays/, keeping the original ICS files in data/holidays/raw/.
-// Run: node scripts/fetch-google-holidays.mjs
+// Run: npm run holidays:update  (or: node scripts/fetch-google-holidays.mjs)
 import { mkdir, writeFile, readFile } from "node:fs/promises";
 import { createHash } from "node:crypto";
 import { dirname, join } from "node:path";
@@ -10,8 +10,16 @@ const ROOT = join(dirname(fileURLToPath(import.meta.url)), "..");
 const OUT = join(ROOT, "data", "holidays");
 const RAW = join(OUT, "raw");
 const CANDIDATES = join(ROOT, "scripts", "google-calendar-ids.txt");
-// Localized variants kept in addition to the English ones
-const EXTRA_IDS = ["el.greek", "de.ch", "fr.ch", "it.ch"];
+
+// Localized calendars and the English calendar they mirror. Google translates the
+// description ("Public holiday in Zurich" -> "Gesetzlicher Feiertag in Zürich"), so
+// type and regions are copied from the English twin to keep them canonical.
+const LOCALIZED = {
+  "el.greek": "en.greek",
+  "de.ch": "en.ch",
+  "fr.ch": "en.ch",
+  "it.ch": "en.ch",
+};
 
 const icsUrl = (id) =>
   `https://calendar.google.com/calendar/ical/${encodeURIComponent(id + "#holiday@group.v.calendar.google.com")}/public/basic.ics`;
@@ -38,19 +46,59 @@ function parseIcs(text) {
   return { name: unescape(name), events };
 }
 
-// Google's description first line: "Public holiday" | "Observance" | "... in Zurich, Bern, ..."
+// English description first line: "Public holiday" | "Observance" | "<type> in Zurich, Bern, ..."
+// Anything else (missing, "Date is tentative and may change.") is treated as an observance.
 function toHoliday(ev) {
   const first = unescape(ev.DESCRIPTION ?? "").split("\n")[0];
-  const m = first.match(/^(.*?)(?: in (.*))?$/);
+  const m = first.match(/^(Public holiday|Observance)(?: in (.*))?$/);
   const holiday = {
     date: isoDate(ev.DTSTART),
     name: unescape(ev.SUMMARY ?? ""),
-    type: m[1],
+    type: m?.[1] === "Public holiday" ? "public" : "observance",
   };
   const days = (Date.parse(isoDate(ev.DTEND ?? ev.DTSTART)) - Date.parse(holiday.date)) / 86400000;
   if (days > 1) holiday.days = days;
-  if (m[2]) holiday.regions = m[2].split(/,\s*/);
+  if (m?.[2]) holiday.regions = m[2].split(/,\s*/);
+  if (/tentative/i.test(first)) holiday.tentative = true;
   return holiday;
+}
+
+// Pairs each localized event with the English event on the same date. When a date has
+// several English events, the one whose region list has the same number of commas as the
+// translated description wins (translation keeps the list length). Type, regions and the
+// tentative flag are then copied from the English twin.
+function normalizeLocalized(localized, english) {
+  const byDate = new Map();
+  for (const e of english.events) byDate.set(e.date, [...(byDate.get(e.date) ?? []), e]);
+  return localized.events.map((e) => {
+    const pool = byDate.get(e.date) ?? [];
+    const commas = (c) => Math.max(0, (c.regions?.length ?? 0) - 1);
+    const matches = pool.filter((c) => commas(c) === e.commas);
+    const twin = matches[0] ?? pool[0];
+    if (!twin) throw new Error(`No English twin for ${e.date} ${e.name}`);
+    const kinds = new Set(matches.map((c) => c.type + (c.regions ?? []).join()));
+    if (kinds.size > 1) console.warn(`Ambiguous English twin for ${e.date} ${e.name}`);
+    pool.splice(pool.indexOf(twin), 1);
+    const out = { date: e.date, name: e.name, type: twin.type };
+    if (e.days) out.days = e.days;
+    if (twin.regions) out.regions = twin.regions;
+    if (twin.tentative) out.tentative = true;
+    return out;
+  });
+}
+
+// Like parseIcs, but also records how many commas each translated description's first line has.
+function parseLocalized(text) {
+  const cal = parseIcs(text);
+  const blocks = text.replace(/\r\n[ \t]/g, "").split("BEGIN:VEVENT").slice(1);
+  const commas = new Map();
+  for (const block of blocks) {
+    const get = (key) => block.match(new RegExp(`^${key}[^:\\r\\n]*:(.*?)\\r?$`, "m"))?.[1] ?? "";
+    const first = unescape(get("DESCRIPTION")).split("\n")[0];
+    commas.set(isoDate(get("DTSTART")) + "|" + unescape(get("SUMMARY")), (first.match(/,/g) ?? []).length);
+  }
+  for (const e of cal.events) e.commas = commas.get(e.date + "|" + e.name) ?? 0;
+  return cal;
 }
 
 async function download(id) {
@@ -75,21 +123,31 @@ async function pool(items, size, fn) {
 }
 
 const candidates = (await readFile(CANDIDATES, "utf8")).split(/\s+/).filter(Boolean);
-const ids = [...new Set([...candidates, ...EXTRA_IDS])];
+const ids = [...new Set([...candidates, ...Object.keys(LOCALIZED), ...Object.values(LOCALIZED)])];
 await mkdir(RAW, { recursive: true });
 
-const seen = new Map(); // content hash -> id, to drop aliases of the same calendar
-const index = [];
-const fetched = await pool(ids, 12, async (id) => ({ id, ics: await download(id) }));
+const fetched = (await pool(ids, 12, async (id) => ({ id, ics: await download(id) })))
+  .filter((f) => f.ics)
+  .sort((a, b) => a.id.localeCompare(b.id));
 
-for (const { id, ics } of fetched.sort((a, b) => a.id.localeCompare(b.id))) {
-  if (!ics) continue;
-  const cal = parseIcs(ics);
+const parsed = new Map();
+for (const { id, ics } of fetched) {
+  parsed.set(id, LOCALIZED[id] ? parseLocalized(ics) : parseIcs(ics));
+}
+for (const [id, english] of Object.entries(LOCALIZED)) {
+  const cal = parsed.get(id);
+  if (cal && parsed.has(english)) cal.events = normalizeLocalized(cal, parsed.get(english));
+}
+
+const seen = new Set(); // content hash, to drop aliases of the same calendar
+const index = [];
+for (const { id, ics } of fetched) {
+  const cal = parsed.get(id);
   if (cal.events.length === 0) continue;
   const lang = id.split(".")[0];
   const hash = createHash("sha1").update(lang + JSON.stringify(cal.events)).digest("hex");
   if (seen.has(hash)) continue;
-  seen.set(hash, id);
+  seen.add(hash);
 
   const years = cal.events.map((e) => +e.date.slice(0, 4));
   const entry = { id, name: cal.name, lang, from: Math.min(...years), to: Math.max(...years), count: cal.events.length };

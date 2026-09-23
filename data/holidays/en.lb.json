@@ -5,1902 +5,1902 @@
  "from": 2021,
  "to": 2031,
  "count": 379,
- "fetchedAt": "2026-09-23T12:14:40.882Z",
+ "fetchedAt": "2026-09-23T12:37:50.031Z",
  "events": [
   {
    "date": "2021-01-01",
    "name": "New Year",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2021-01-06",
    "name": "Orthodox Christmas",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2021-02-09",
    "name": "St Maron's Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2021-02-14",
    "name": "Commemoration of the Assassination of PM Rafic Hariri",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2021-03-09",
    "name": "Teachers' Day",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2021-03-21",
    "name": "Mother's Day",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2021-03-25",
    "name": "Feast of the Annunciation",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2021-03-28",
    "name": "Daylight Saving Time starts",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2021-04-02",
    "name": "Good Friday",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2021-04-04",
    "name": "Easter Sunday",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2021-04-05",
    "name": "Easter Monday",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2021-04-30",
    "name": "Orthodox Good Friday",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2021-05-01",
    "name": "Labor Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2021-05-02",
    "name": "Martyrs' Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2021-05-02",
    "name": "Orthodox Easter",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2021-05-03",
    "name": "Orthodox Easter Monday",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2021-05-09",
    "name": "Liberation and Resistance Holiday",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2021-05-13",
    "name": "Ascension Day",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2021-05-13",
    "name": "Eid al-Fitr",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2021-05-14",
    "name": "Eid al-Fitr Holiday",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2021-05-25",
    "name": "Liberation and Resistance Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2021-07-20",
    "name": "Eid al-Adha",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2021-07-21",
    "name": "Eid al-Adha Holiday",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2021-07-22",
    "name": "Eid al-Adha Holiday",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2021-08-04",
    "name": "National Day of Mourning",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2021-08-09",
    "name": "Muharram",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2021-08-15",
    "name": "Assumption of Mary",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2021-08-19",
    "name": "Ashoura",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2021-09-08",
    "name": "Nativity of Mary",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2021-10-18",
    "name": "The Prophet's Birthday",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2021-10-31",
    "name": "Daylight Saving Time ends",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2021-11-01",
    "name": "All Saints' Day",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2021-11-22",
    "name": "Independence Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2021-12-25",
    "name": "Christmas Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2022-01-01",
    "name": "New Year",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2022-01-06",
    "name": "Orthodox Christmas",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2022-02-09",
    "name": "St Maron's Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2022-02-14",
    "name": "Commemoration of the Assassination of PM Rafic Hariri",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2022-03-09",
    "name": "Teachers' Day",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2022-03-21",
    "name": "Mother's Day",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2022-03-25",
    "name": "Feast of the Annunciation",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2022-03-27",
    "name": "Daylight Saving Time starts",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2022-04-15",
    "name": "Good Friday",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2022-04-17",
    "name": "Easter Sunday",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2022-04-18",
    "name": "Easter Monday",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2022-04-22",
    "name": "Orthodox Good Friday",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2022-04-24",
    "name": "Orthodox Easter",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2022-04-25",
    "name": "Orthodox Easter Monday",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2022-05-01",
    "name": "Labor Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2022-05-01",
    "name": "Martyrs' Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2022-05-02",
    "name": "Day off for Labor Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2022-05-02",
    "name": "Eid al-Fitr",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2022-05-03",
    "name": "Eid al-Fitr Holiday",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2022-05-08",
    "name": "Liberation and Resistance Holiday",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2022-05-25",
    "name": "Liberation and Resistance Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2022-05-26",
    "name": "Ascension Day",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2022-07-09",
    "name": "Eid al-Adha",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2022-07-10",
    "name": "Eid al-Adha Holiday",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2022-07-30",
    "name": "Muharram",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2022-08-04",
    "name": "National Day of Mourning",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2022-08-09",
    "name": "Ashoura",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2022-08-15",
    "name": "Assumption of Mary",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2022-09-08",
    "name": "Nativity of Mary",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2022-10-08",
    "name": "The Prophet's Birthday",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2022-10-30",
    "name": "Daylight Saving Time ends",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2022-11-01",
    "name": "All Saints' Day",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2022-11-22",
    "name": "Independence Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2022-12-25",
    "name": "Christmas Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2023-01-01",
    "name": "New Year",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2023-01-06",
    "name": "Orthodox Christmas",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2023-02-09",
    "name": "St Maron's Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2023-02-14",
    "name": "Commemoration of the Assassination of PM Rafic Hariri",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2023-03-09",
    "name": "Teachers' Day",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2023-03-21",
    "name": "Mother's Day",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2023-03-23",
    "name": "Ramadan Start",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2023-03-25",
    "name": "Feast of the Annunciation",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2023-03-30",
    "name": "Daylight Saving Time starts",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2023-04-07",
    "name": "Good Friday",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2023-04-09",
    "name": "Easter Sunday",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2023-04-10",
    "name": "Easter Monday",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2023-04-14",
    "name": "Orthodox Good Friday",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2023-04-16",
    "name": "Orthodox Easter",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2023-04-17",
    "name": "Orthodox Easter Monday",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2023-04-21",
    "name": "Eid al-Fitr",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2023-04-22",
    "name": "Eid al-Fitr Holiday",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2023-05-01",
    "name": "Labor Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2023-05-07",
    "name": "Liberation and Resistance Holiday",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2023-05-07",
    "name": "Martyrs' Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2023-05-18",
    "name": "Ascension Day",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2023-05-25",
    "name": "Liberation and Resistance Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2023-06-28",
    "name": "Eid al-Adha",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2023-06-29",
    "name": "Eid al-Adha Holiday",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2023-06-30",
    "name": "Eid al-Adha Holiday",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2023-07-19",
    "name": "Muharram",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2023-07-28",
    "name": "Ashoura",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2023-07-29",
    "name": "Ashoura Holiday",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2023-08-04",
    "name": "National Day of Mourning",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2023-08-15",
    "name": "Assumption of Mary",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2023-09-08",
    "name": "Nativity of Mary",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2023-09-27",
    "name": "The Prophet's Birthday",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2023-10-29",
    "name": "Daylight Saving Time ends",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2023-11-01",
    "name": "All Saints' Day",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2023-11-22",
    "name": "Independence Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2023-12-25",
    "name": "Christmas Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2024-01-01",
    "name": "New Year",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2024-01-06",
    "name": "Orthodox Christmas",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2024-02-09",
    "name": "St Maron's Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2024-02-14",
    "name": "Commemoration of the Assassination of PM Rafic Hariri",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2024-03-09",
    "name": "Teachers' Day",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2024-03-11",
    "name": "Ramadan Start",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2024-03-21",
    "name": "Mother's Day",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2024-03-25",
    "name": "Feast of the Annunciation",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2024-03-29",
    "name": "Good Friday",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2024-03-31",
    "name": "Daylight Saving Time starts",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2024-03-31",
    "name": "Easter Sunday",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2024-04-01",
    "name": "Easter Monday",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2024-04-10",
    "name": "Eid al-Fitr",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2024-04-11",
    "name": "Eid al-Fitr Holiday",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2024-04-12",
    "name": "Eid al-Fitr Holiday",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2024-04-13",
    "name": "Eid al-Fitr Holiday",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2024-05-01",
    "name": "Labor Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2024-05-03",
    "name": "Orthodox Good Friday",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2024-05-05",
    "name": "Martyrs' Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2024-05-05",
    "name": "Orthodox Easter",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2024-05-06",
    "name": "Orthodox Easter Monday",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2024-05-09",
    "name": "Ascension Day",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2024-05-12",
    "name": "Liberation and Resistance Holiday",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2024-05-25",
    "name": "Liberation and Resistance Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2024-06-16",
    "name": "Eid al-Adha",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2024-06-17",
    "name": "Eid al-Adha Holiday",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2024-06-18",
    "name": "Eid al-Adha Holiday",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2024-07-07",
    "name": "Muharram",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2024-07-16",
    "name": "Ashoura",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2024-08-04",
    "name": "National Day of Mourning",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2024-08-15",
    "name": "Assumption of Mary",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2024-09-08",
    "name": "Nativity of Mary",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2024-09-15",
    "name": "The Prophet's Birthday",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2024-10-27",
    "name": "Daylight Saving Time ends",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2024-11-01",
    "name": "All Saints' Day",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2024-11-22",
    "name": "Independence Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2024-12-25",
    "name": "Christmas Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2025-01-01",
    "name": "New Year",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2025-01-06",
    "name": "Orthodox Christmas",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2025-02-09",
    "name": "St Maron's Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2025-02-14",
    "name": "Commemoration of the Assassination of PM Rafic Hariri",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2025-03-01",
    "name": "Ramadan Start",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2025-03-09",
    "name": "Teachers' Day",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2025-03-21",
    "name": "Mother's Day",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2025-03-25",
    "name": "Feast of the Annunciation",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2025-03-30",
    "name": "Daylight Saving Time starts",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2025-03-30",
    "name": "Eid al-Fitr",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2025-03-31",
    "name": "Eid al-Fitr Holiday",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2025-04-18",
    "name": "Good Friday",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2025-04-18",
    "name": "Orthodox Good Friday",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2025-04-20",
    "name": "Easter Sunday",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2025-04-20",
    "name": "Orthodox Easter",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2025-04-21",
    "name": "Easter Monday",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2025-04-21",
    "name": "Orthodox Easter Monday",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2025-05-01",
    "name": "Labor Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2025-05-04",
    "name": "Martyrs' Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2025-05-11",
    "name": "Liberation and Resistance Holiday",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2025-05-25",
    "name": "Liberation and Resistance Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2025-05-29",
    "name": "Ascension Day",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2025-06-06",
    "name": "Eid al-Adha",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2025-06-07",
    "name": "Eid al-Adha Holiday",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2025-06-26",
    "name": "Muharram",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2025-07-05",
    "name": "Ashoura",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2025-08-04",
    "name": "National Day of Mourning",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2025-08-15",
    "name": "Assumption of Mary",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2025-09-04",
    "name": "The Prophet's Birthday",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2025-09-08",
    "name": "Nativity of Mary",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2025-10-26",
    "name": "Daylight Saving Time ends",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2025-11-01",
    "name": "All Saints' Day",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2025-11-22",
    "name": "Independence Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2025-12-01",
    "name": "Papal Visit Holiday",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2025-12-02",
    "name": "Papal Visit Holiday",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2025-12-25",
    "name": "Christmas Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2026-01-01",
    "name": "New Year",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2026-01-06",
    "name": "Orthodox Christmas",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2026-02-09",
    "name": "St Maron's Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2026-02-14",
    "name": "Commemoration of the Assassination of PM Rafic Hariri",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2026-02-18",
    "name": "Ramadan Start",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2026-03-09",
    "name": "Teachers' Day",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2026-03-20",
    "name": "Eid al-Fitr",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2026-03-21",
    "name": "Eid al-Fitr Holiday",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2026-03-21",
    "name": "Mother's Day",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2026-03-22",
    "name": "Eid al-Fitr Holiday",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2026-03-23",
    "name": "Eid al-Fitr Holiday",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2026-03-25",
    "name": "Feast of the Annunciation",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2026-03-29",
    "name": "Daylight Saving Time starts",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2026-04-03",
    "name": "Good Friday",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2026-04-05",
    "name": "Easter Sunday",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2026-04-06",
    "name": "Easter Monday",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2026-04-10",
    "name": "Orthodox Good Friday",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2026-04-12",
    "name": "Orthodox Easter",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2026-04-13",
    "name": "Orthodox Easter Monday",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2026-05-01",
    "name": "Labor Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2026-05-03",
    "name": "Martyrs' Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2026-05-10",
    "name": "Liberation and Resistance Holiday",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2026-05-14",
    "name": "Ascension Day",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2026-05-25",
    "name": "Liberation and Resistance Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2026-05-27",
    "name": "Eid al-Adha",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2026-05-28",
    "name": "Eid al-Adha Holiday",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2026-06-17",
    "name": "Muharram",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2026-06-26",
    "name": "Ashoura",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2026-08-15",
    "name": "Assumption of Mary",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2026-08-25",
    "name": "The Prophet's Birthday",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2026-09-08",
    "name": "Nativity of Mary",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2026-10-25",
    "name": "Daylight Saving Time ends",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2026-11-01",
    "name": "All Saints' Day",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2026-11-22",
    "name": "Independence Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2026-12-25",
    "name": "Christmas Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2027-01-01",
    "name": "New Year",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2027-01-06",
    "name": "Orthodox Christmas",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2027-02-08",
    "name": "Ramadan Start (tentative)",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2027-02-09",
    "name": "St Maron's Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2027-02-14",
    "name": "Commemoration of the Assassination of PM Rafic Hariri",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2027-03-09",
    "name": "Teachers' Day",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2027-03-10",
    "name": "Eid al-Fitr (tentative)",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2027-03-11",
    "name": "Eid al-Fitr Holiday (tentative)",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2027-03-21",
    "name": "Mother's Day",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2027-03-25",
    "name": "Feast of the Annunciation",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2027-03-26",
    "name": "Good Friday",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2027-03-28",
    "name": "Daylight Saving Time starts",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2027-03-28",
    "name": "Easter Sunday",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2027-03-29",
    "name": "Easter Monday",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2027-04-30",
    "name": "Orthodox Good Friday",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2027-05-01",
    "name": "Labor Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2027-05-02",
    "name": "Martyrs' Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2027-05-02",
    "name": "Orthodox Easter",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2027-05-03",
    "name": "Orthodox Easter Monday",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2027-05-06",
    "name": "Ascension Day",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2027-05-09",
    "name": "Liberation and Resistance Holiday",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2027-05-17",
    "name": "Eid al-Adha (tentative)",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2027-05-18",
    "name": "Eid al-Adha Holiday (tentative)",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2027-05-25",
    "name": "Liberation and Resistance Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2027-06-06",
    "name": "Muharram (tentative)",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2027-06-15",
    "name": "Ashoura (tentative)",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2027-08-15",
    "name": "Assumption of Mary",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2027-08-15",
    "name": "The Prophet's Birthday (tentative)",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2027-09-08",
    "name": "Nativity of Mary",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2027-10-31",
    "name": "Daylight Saving Time ends",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2027-11-01",
    "name": "All Saints' Day",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2027-11-22",
    "name": "Independence Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2027-12-25",
    "name": "Christmas Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2028-01-01",
    "name": "New Year",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2028-01-06",
    "name": "Orthodox Christmas",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2028-01-28",
    "name": "Ramadan Start (tentative)",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2028-02-09",
    "name": "St Maron's Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2028-02-14",
    "name": "Commemoration of the Assassination of PM Rafic Hariri",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2028-02-27",
    "name": "Eid al-Fitr (tentative)",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2028-02-28",
    "name": "Eid al-Fitr Holiday (tentative)",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2028-03-09",
    "name": "Teachers' Day",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2028-03-21",
    "name": "Mother's Day",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2028-03-25",
    "name": "Feast of the Annunciation",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2028-03-26",
    "name": "Daylight Saving Time starts",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2028-04-14",
    "name": "Good Friday",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2028-04-14",
    "name": "Orthodox Good Friday",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2028-04-16",
    "name": "Easter Sunday",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2028-04-16",
    "name": "Orthodox Easter",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2028-04-17",
    "name": "Easter Monday",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2028-04-17",
    "name": "Orthodox Easter Monday",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2028-05-01",
    "name": "Labor Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2028-05-05",
    "name": "Eid al-Adha (tentative)",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2028-05-06",
    "name": "Eid al-Adha Holiday (tentative)",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2028-05-07",
    "name": "Liberation and Resistance Holiday",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2028-05-07",
    "name": "Martyrs' Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2028-05-25",
    "name": "Ascension Day",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2028-05-25",
    "name": "Liberation and Resistance Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2028-05-25",
    "name": "Muharram (tentative)",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2028-06-03",
    "name": "Ashoura (tentative)",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2028-08-03",
    "name": "The Prophet's Birthday (tentative)",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2028-08-15",
    "name": "Assumption of Mary",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2028-09-08",
    "name": "Nativity of Mary",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2028-10-29",
    "name": "Daylight Saving Time ends",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2028-11-01",
    "name": "All Saints' Day",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2028-11-22",
    "name": "Independence Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2028-12-25",
    "name": "Christmas Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2029-01-01",
    "name": "New Year",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2029-01-06",
    "name": "Orthodox Christmas",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2029-01-16",
    "name": "Ramadan Start (tentative)",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2029-02-09",
    "name": "St Maron's Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2029-02-14",
    "name": "Commemoration of the Assassination of PM Rafic Hariri",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2029-02-15",
    "name": "Eid al-Fitr (tentative)",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2029-02-16",
    "name": "Eid al-Fitr Holiday (tentative)",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2029-03-09",
    "name": "Teachers' Day",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2029-03-21",
    "name": "Mother's Day",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2029-03-25",
    "name": "Daylight Saving Time starts",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2029-03-25",
    "name": "Feast of the Annunciation",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2029-03-30",
    "name": "Good Friday",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2029-04-01",
    "name": "Easter Sunday",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2029-04-02",
    "name": "Easter Monday",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2029-04-06",
    "name": "Orthodox Good Friday",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2029-04-08",
    "name": "Orthodox Easter",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2029-04-09",
    "name": "Orthodox Easter Monday",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2029-04-24",
    "name": "Eid al-Adha (tentative)",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2029-04-25",
    "name": "Eid al-Adha Holiday (tentative)",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2029-05-01",
    "name": "Labor Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2029-05-06",
    "name": "Martyrs' Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2029-05-10",
    "name": "Ascension Day",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2029-05-13",
    "name": "Liberation and Resistance Holiday",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2029-05-15",
    "name": "Muharram (tentative)",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2029-05-24",
    "name": "Ashoura (tentative)",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2029-05-25",
    "name": "Liberation and Resistance Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2029-07-24",
    "name": "The Prophet's Birthday (tentative)",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2029-08-15",
    "name": "Assumption of Mary",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2029-09-08",
    "name": "Nativity of Mary",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2029-10-28",
    "name": "Daylight Saving Time ends",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2029-11-01",
    "name": "All Saints' Day",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2029-11-22",
    "name": "Independence Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2029-12-25",
    "name": "Christmas Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2030-01-01",
    "name": "New Year",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2030-01-06",
    "name": "Orthodox Christmas",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2030-01-06",
    "name": "Ramadan Start (tentative)",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2030-01-07",
    "name": "Day off for Orthodox Christmas",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2030-02-05",
    "name": "Eid al-Fitr (tentative)",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2030-02-06",
    "name": "Eid al-Fitr Holiday (tentative)",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2030-02-09",
    "name": "St Maron's Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2030-02-14",
    "name": "Commemoration of the Assassination of PM Rafic Hariri",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2030-03-09",
    "name": "Teachers' Day",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2030-03-21",
    "name": "Mother's Day",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2030-03-25",
    "name": "Feast of the Annunciation",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2030-03-31",
    "name": "Daylight Saving Time starts",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2030-04-14",
    "name": "Eid al-Adha (tentative)",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2030-04-15",
    "name": "Eid al-Adha Holiday (tentative)",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2030-04-19",
    "name": "Good Friday",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2030-04-21",
    "name": "Easter Sunday",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2030-04-22",
    "name": "Easter Monday",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2030-04-26",
    "name": "Orthodox Good Friday",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2030-04-28",
    "name": "Orthodox Easter",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2030-04-29",
    "name": "Orthodox Easter Monday",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2030-05-01",
    "name": "Labor Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2030-05-04",
    "name": "Muharram (tentative)",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2030-05-05",
    "name": "Martyrs' Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2030-05-12",
    "name": "Liberation and Resistance Holiday",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2030-05-13",
    "name": "Ashoura (tentative)",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2030-05-25",
    "name": "Liberation and Resistance Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2030-05-30",
    "name": "Ascension Day",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2030-07-13",
    "name": "The Prophet's Birthday (tentative)",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2030-08-15",
    "name": "Assumption of Mary",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2030-09-08",
    "name": "Nativity of Mary",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2030-10-27",
    "name": "Daylight Saving Time ends",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2030-11-01",
    "name": "All Saints' Day",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2030-11-22",
    "name": "Independence Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2030-12-25",
    "name": "Christmas Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2030-12-26",
    "name": "Ramadan Start (tentative)",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2031-01-01",
    "name": "New Year",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2031-01-06",
    "name": "Orthodox Christmas",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2031-01-25",
    "name": "Eid al-Fitr (tentative)",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2031-01-26",
    "name": "Eid al-Fitr Holiday (tentative)",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2031-02-09",
    "name": "St Maron's Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2031-02-14",
    "name": "Commemoration of the Assassination of PM Rafic Hariri",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2031-03-09",
    "name": "Teachers' Day",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2031-03-21",
    "name": "Mother's Day",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2031-03-25",
    "name": "Feast of the Annunciation",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2031-03-30",
    "name": "Daylight Saving Time starts",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2031-04-03",
    "name": "Eid al-Adha (tentative)",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2031-04-04",
    "name": "Eid al-Adha Holiday (tentative)",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2031-04-11",
    "name": "Good Friday",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2031-04-11",
    "name": "Orthodox Good Friday",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2031-04-13",
    "name": "Easter Sunday",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2031-04-13",
    "name": "Orthodox Easter",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2031-04-14",
    "name": "Easter Monday",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2031-04-14",
    "name": "Orthodox Easter Monday",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2031-04-23",
    "name": "Muharram (tentative)",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2031-05-01",
    "name": "Labor Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2031-05-02",
    "name": "Ashoura (tentative)",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2031-05-04",
    "name": "Martyrs' Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2031-05-11",
    "name": "Liberation and Resistance Holiday",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2031-05-22",
    "name": "Ascension Day",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2031-05-25",
    "name": "Liberation and Resistance Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2031-07-02",
    "name": "The Prophet's Birthday (tentative)",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2031-08-15",
    "name": "Assumption of Mary",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2031-09-08",
    "name": "Nativity of Mary",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2031-10-26",
    "name": "Daylight Saving Time ends",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2031-11-01",
    "name": "All Saints' Day",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2031-11-22",
    "name": "Independence Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2031-12-15",
    "name": "Ramadan Start (tentative)",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2031-12-25",
    "name": "Christmas Day",
-   "type": "Public holiday"
+   "type": "public"
   }
  ]
 }

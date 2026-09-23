@@ -5,647 +5,647 @@
  "from": 2021,
  "to": 2031,
  "count": 128,
- "fetchedAt": "2026-09-23T12:14:40.946Z",
+ "fetchedAt": "2026-09-23T12:37:50.064Z",
  "events": [
   {
    "date": "2021-01-01",
    "name": "New Year",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2021-02-03",
    "name": "Mozambican Heroes Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2021-04-02",
    "name": "Good Friday",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2021-04-07",
    "name": "Mozambican Woman's Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2021-05-01",
    "name": "May Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2021-06-25",
    "name": "Independence Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2021-07-20",
    "name": "Eid ul-Adha Public Sector Holiday",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2021-09-07",
    "name": "Victory Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2021-09-25",
    "name": "Armed Forces Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2021-10-04",
    "name": "Peace and Reconciliation Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2021-12-24",
    "name": "Public Sector Holiday",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2021-12-25",
    "name": "Family Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2021-12-31",
    "name": "Public Sector Half Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2022-01-01",
    "name": "New Year",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2022-02-03",
    "name": "Mozambican Heroes Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2022-04-07",
    "name": "Mozambican Woman's Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2022-04-15",
    "name": "Good Friday",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2022-04-15",
    "name": "Public Sector Holiday (Christian Only)",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2022-05-01",
    "name": "May Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2022-05-02",
    "name": "May Day observed",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2022-06-25",
    "name": "Independence Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2022-09-07",
    "name": "Victory Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2022-09-25",
    "name": "Armed Forces Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2022-09-26",
    "name": "Armed Forces Day observed",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2022-10-04",
    "name": "Peace and Reconciliation Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2022-12-25",
    "name": "Family Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2022-12-26",
    "name": "Family Day observed",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2023-01-01",
    "name": "New Year",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2023-01-02",
    "name": "New Year observed",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2023-02-03",
    "name": "Mozambican Heroes Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2023-04-07",
    "name": "Good Friday",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2023-04-07",
    "name": "Mozambican Woman's Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2023-05-01",
    "name": "May Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2023-06-25",
    "name": "Independence Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2023-06-26",
    "name": "Independence Day observed",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2023-09-07",
    "name": "Victory Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2023-09-25",
    "name": "Armed Forces Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2023-10-04",
    "name": "Peace and Reconciliation Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2023-12-25",
    "name": "Family Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2024-01-01",
    "name": "New Year",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2024-02-03",
    "name": "Mozambican Heroes Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2024-03-29",
    "name": "Good Friday",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2024-04-07",
    "name": "Mozambican Woman's Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2024-04-08",
    "name": "Mozambican Woman's Day observed",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2024-05-01",
    "name": "May Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2024-06-25",
    "name": "Independence Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2024-09-07",
    "name": "Victory Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2024-09-25",
    "name": "Armed Forces Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2024-10-04",
    "name": "Peace and Reconciliation Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2024-10-09",
    "name": "Election Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2024-12-25",
    "name": "Family Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2025-01-01",
    "name": "New Year",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2025-01-15",
    "name": "Inauguration Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2025-02-03",
    "name": "Mozambican Heroes Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2025-04-07",
    "name": "Mozambican Woman's Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2025-04-18",
    "name": "Good Friday",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2025-05-01",
    "name": "May Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2025-06-25",
    "name": "Independence Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2025-09-07",
    "name": "Victory Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2025-09-08",
    "name": "Victory Day observed",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2025-09-25",
    "name": "Armed Forces Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2025-10-04",
    "name": "Peace and Reconciliation Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2025-12-25",
    "name": "Family Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2026-01-01",
    "name": "New Year",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2026-02-03",
    "name": "Mozambican Heroes Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2026-04-03",
    "name": "Good Friday",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2026-04-07",
    "name": "Mozambican Woman's Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2026-05-01",
    "name": "May Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2026-06-25",
    "name": "Independence Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2026-09-07",
    "name": "Victory Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2026-09-25",
    "name": "Armed Forces Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2026-10-04",
    "name": "Peace and Reconciliation Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2026-10-05",
    "name": "Day off for Peace and Reconciliation Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2026-12-25",
    "name": "Family Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2027-01-01",
    "name": "New Year",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2027-02-03",
    "name": "Mozambican Heroes Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2027-03-26",
    "name": "Good Friday",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2027-04-07",
    "name": "Mozambican Woman's Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2027-05-01",
    "name": "May Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2027-06-25",
    "name": "Independence Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2027-09-07",
    "name": "Victory Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2027-09-25",
    "name": "Armed Forces Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2027-10-04",
    "name": "Peace and Reconciliation Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2027-12-25",
    "name": "Family Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2028-01-01",
    "name": "New Year",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2028-02-03",
    "name": "Mozambican Heroes Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2028-04-07",
    "name": "Mozambican Woman's Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2028-04-14",
    "name": "Good Friday",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2028-05-01",
    "name": "May Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2028-06-25",
    "name": "Independence Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2028-06-26",
    "name": "Independence Day observed",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2028-09-07",
    "name": "Victory Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2028-09-25",
    "name": "Armed Forces Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2028-10-04",
    "name": "Peace and Reconciliation Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2028-12-25",
    "name": "Family Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2029-01-01",
    "name": "New Year",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2029-02-03",
    "name": "Mozambican Heroes Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2029-03-30",
    "name": "Good Friday",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2029-04-07",
    "name": "Mozambican Woman's Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2029-05-01",
    "name": "May Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2029-06-25",
    "name": "Independence Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2029-09-07",
    "name": "Victory Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2029-09-25",
    "name": "Armed Forces Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2029-10-04",
    "name": "Peace and Reconciliation Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2029-12-25",
    "name": "Family Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2030-01-01",
    "name": "New Year",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2030-02-03",
    "name": "Mozambican Heroes Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2030-02-04",
    "name": "Mozambican Heroes Day observed",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2030-04-07",
    "name": "Mozambican Woman's Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2030-04-08",
    "name": "Mozambican Woman's Day observed",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2030-04-19",
    "name": "Good Friday",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2030-05-01",
    "name": "May Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2030-06-25",
    "name": "Independence Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2030-09-07",
    "name": "Victory Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2030-09-25",
    "name": "Armed Forces Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2030-10-04",
    "name": "Peace and Reconciliation Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2030-12-25",
    "name": "Family Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2031-01-01",
    "name": "New Year",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2031-02-03",
    "name": "Mozambican Heroes Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2031-04-07",
    "name": "Mozambican Woman's Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2031-04-11",
    "name": "Good Friday",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2031-05-01",
    "name": "May Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2031-06-25",
    "name": "Independence Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2031-09-07",
    "name": "Victory Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2031-09-08",
    "name": "Victory Day observed",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2031-09-25",
    "name": "Armed Forces Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2031-10-04",
    "name": "Peace and Reconciliation Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2031-12-25",
    "name": "Family Day",
-   "type": "Public holiday"
+   "type": "public"
   }
  ]
 }

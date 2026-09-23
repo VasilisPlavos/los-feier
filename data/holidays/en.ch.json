@@ -5,12 +5,12 @@
  "from": 2021,
  "to": 2031,
  "count": 325,
- "fetchedAt": "2026-09-23T12:14:40.717Z",
+ "fetchedAt": "2026-09-23T12:37:49.948Z",
  "events": [
   {
    "date": "2021-01-01",
    "name": "New Year's Day (regional holiday)",
-   "type": "Public holiday",
+   "type": "public",
    "regions": [
     "Zurich",
     "Bern",
@@ -43,7 +43,7 @@
   {
    "date": "2021-01-02",
    "name": "Berchtold Day (regional holiday)",
-   "type": "Public holiday",
+   "type": "public",
    "regions": [
     "Aargau",
     "Bern",
@@ -56,7 +56,7 @@
   {
    "date": "2021-01-06",
    "name": "Epiphany (regional holiday)",
-   "type": "Public holiday",
+   "type": "public",
    "regions": [
     "Schwyz",
     "Ticino",
@@ -66,12 +66,12 @@
   {
    "date": "2021-02-14",
    "name": "Valentine's Day",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2021-03-19",
    "name": "Saint Joseph's Day (regional holiday)",
-   "type": "Public holiday",
+   "type": "public",
    "regions": [
     "Lucerne",
     "Nidwalden",
@@ -85,12 +85,12 @@
   {
    "date": "2021-03-28",
    "name": "Daylight Saving Time starts",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2021-04-02",
    "name": "Good Friday (regional holiday)",
-   "type": "Public holiday",
+   "type": "public",
    "regions": [
     "Zurich",
     "Bern",
@@ -121,12 +121,12 @@
   {
    "date": "2021-04-04",
    "name": "Easter Sunday",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2021-04-05",
    "name": "Easter Monday (regional holiday)",
-   "type": "Public holiday",
+   "type": "public",
    "regions": [
     "Zurich",
     "Bern",
@@ -152,7 +152,7 @@
   {
    "date": "2021-04-19",
    "name": "Sechseläuten (Zurich)",
-   "type": "Observance",
+   "type": "observance",
    "regions": [
     "Zurich"
    ]
@@ -160,7 +160,7 @@
   {
    "date": "2021-05-01",
    "name": "May Day (Half-Day) (regional holiday)",
-   "type": "Public holiday",
+   "type": "public",
    "regions": [
     "Zurich",
     "Basel-Stadt",
@@ -175,12 +175,12 @@
   {
    "date": "2021-05-09",
    "name": "Mother’s Day",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2021-05-13",
    "name": "Ascension Day (regional holiday)",
-   "type": "Public holiday",
+   "type": "public",
    "regions": [
     "Zurich",
     "Bern",
@@ -213,7 +213,7 @@
   {
    "date": "2021-05-23",
    "name": "Pentecost (regional holiday)",
-   "type": "Observance",
+   "type": "observance",
    "regions": [
     "Zurich",
     "Bern",
@@ -246,7 +246,7 @@
   {
    "date": "2021-05-24",
    "name": "Pentecost Monday (regional holiday)",
-   "type": "Public holiday",
+   "type": "public",
    "regions": [
     "Zurich",
     "Bern",
@@ -272,7 +272,7 @@
   {
    "date": "2021-06-03",
    "name": "Corpus Christi (regional holiday)",
-   "type": "Public holiday",
+   "type": "public",
    "regions": [
     "Aargau",
     "Appenzell Innerrhoden",
@@ -292,12 +292,12 @@
   {
    "date": "2021-06-06",
    "name": "Father’s Day",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2021-06-29",
    "name": "St. Peter and St. Paul (Ticino)",
-   "type": "Observance",
+   "type": "observance",
    "regions": [
     "Ticino"
    ]
@@ -305,12 +305,12 @@
   {
    "date": "2021-08-01",
    "name": "Swiss National Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2021-08-15",
    "name": "Assumption of Mary (regional holiday)",
-   "type": "Public holiday",
+   "type": "public",
    "regions": [
     "Aargau",
     "Appenzell Innerrhoden",
@@ -330,7 +330,7 @@
   {
    "date": "2021-09-11",
    "name": "Knabenschiessen (Zurich)",
-   "type": "Observance",
+   "type": "observance",
    "regions": [
     "Zurich"
    ]
@@ -338,7 +338,7 @@
   {
    "date": "2021-09-12",
    "name": "Knabenschiessen (Zurich)",
-   "type": "Observance",
+   "type": "observance",
    "regions": [
     "Zurich"
    ]
@@ -346,7 +346,7 @@
   {
    "date": "2021-09-13",
    "name": "Knabenschiessen (Zurich)",
-   "type": "Observance",
+   "type": "observance",
    "regions": [
     "Zurich"
    ]
@@ -354,7 +354,7 @@
   {
    "date": "2021-09-19",
    "name": "Swiss Federal Fast (regional holiday)",
-   "type": "Observance",
+   "type": "observance",
    "regions": [
     "Zurich",
     "Bern",
@@ -386,12 +386,12 @@
   {
    "date": "2021-10-31",
    "name": "Daylight Saving Time ends",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2021-11-01",
    "name": "All Saints' Day (regional holiday)",
-   "type": "Public holiday",
+   "type": "public",
    "regions": [
     "Aargau",
     "Appenzell Innerrhoden",
@@ -412,7 +412,7 @@
   {
    "date": "2021-12-08",
    "name": "Immaculate Conception (regional holiday)",
-   "type": "Public holiday",
+   "type": "public",
    "regions": [
     "Aargau",
     "Appenzell Innerrhoden",
@@ -430,12 +430,12 @@
   {
    "date": "2021-12-24",
    "name": "Christmas Eve",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2021-12-25",
    "name": "Christmas Day (regional holiday)",
-   "type": "Public holiday",
+   "type": "public",
    "regions": [
     "Zurich",
     "Bern",
@@ -468,7 +468,7 @@
   {
    "date": "2021-12-26",
    "name": "St. Stephen's Day (regional holiday)",
-   "type": "Public holiday",
+   "type": "public",
    "regions": [
     "Zurich",
     "Bern",
@@ -490,12 +490,12 @@
   {
    "date": "2021-12-31",
    "name": "New Year's Eve",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2022-01-01",
    "name": "New Year's Day (regional holiday)",
-   "type": "Public holiday",
+   "type": "public",
    "regions": [
     "Zurich",
     "Bern",
@@ -528,7 +528,7 @@
   {
    "date": "2022-01-02",
    "name": "Berchtold Day (regional holiday)",
-   "type": "Public holiday",
+   "type": "public",
    "regions": [
     "Aargau",
     "Bern",
@@ -541,7 +541,7 @@
   {
    "date": "2022-01-06",
    "name": "Epiphany (regional holiday)",
-   "type": "Public holiday",
+   "type": "public",
    "regions": [
     "Schwyz",
     "Ticino",
@@ -551,12 +551,12 @@
   {
    "date": "2022-02-14",
    "name": "Valentine's Day",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2022-03-19",
    "name": "Saint Joseph's Day (regional holiday)",
-   "type": "Public holiday",
+   "type": "public",
    "regions": [
     "Lucerne",
     "Nidwalden",
@@ -570,12 +570,12 @@
   {
    "date": "2022-03-27",
    "name": "Daylight Saving Time starts",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2022-04-15",
    "name": "Good Friday (regional holiday)",
-   "type": "Public holiday",
+   "type": "public",
    "regions": [
     "Zurich",
     "Bern",
@@ -606,12 +606,12 @@
   {
    "date": "2022-04-17",
    "name": "Easter Sunday",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2022-04-18",
    "name": "Easter Monday (regional holiday)",
-   "type": "Public holiday",
+   "type": "public",
    "regions": [
     "Zurich",
     "Bern",
@@ -637,7 +637,7 @@
   {
    "date": "2022-04-25",
    "name": "Sechseläuten (Zurich)",
-   "type": "Observance",
+   "type": "observance",
    "regions": [
     "Zurich"
    ]
@@ -645,7 +645,7 @@
   {
    "date": "2022-05-01",
    "name": "May Day (regional holiday)",
-   "type": "Public holiday",
+   "type": "public",
    "regions": [
     "Basel-Land",
     "Basel-Stadt",
@@ -660,12 +660,12 @@
   {
    "date": "2022-05-08",
    "name": "Mother’s Day",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2022-05-26",
    "name": "Ascension Day (regional holiday)",
-   "type": "Public holiday",
+   "type": "public",
    "regions": [
     "Zurich",
     "Bern",
@@ -698,12 +698,12 @@
   {
    "date": "2022-06-05",
    "name": "Father’s Day",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2022-06-05",
    "name": "Pentecost (regional holiday)",
-   "type": "Observance",
+   "type": "observance",
    "regions": [
     "Zurich",
     "Bern",
@@ -736,7 +736,7 @@
   {
    "date": "2022-06-06",
    "name": "Pentecost Monday (regional holiday)",
-   "type": "Public holiday",
+   "type": "public",
    "regions": [
     "Zurich",
     "Bern",
@@ -762,7 +762,7 @@
   {
    "date": "2022-06-16",
    "name": "Corpus Christi (regional holiday)",
-   "type": "Public holiday",
+   "type": "public",
    "regions": [
     "Aargau",
     "Appenzell Innerrhoden",
@@ -782,12 +782,12 @@
   {
    "date": "2022-08-01",
    "name": "Swiss National Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2022-08-15",
    "name": "Assumption of Mary (regional holiday)",
-   "type": "Public holiday",
+   "type": "public",
    "regions": [
     "Aargau",
     "Appenzell Innerrhoden",
@@ -807,7 +807,7 @@
   {
    "date": "2022-09-10",
    "name": "Knabenschiessen (Zurich)",
-   "type": "Observance",
+   "type": "observance",
    "regions": [
     "Zurich"
    ]
@@ -815,7 +815,7 @@
   {
    "date": "2022-09-11",
    "name": "Knabenschiessen (Zurich)",
-   "type": "Observance",
+   "type": "observance",
    "regions": [
     "Zurich"
    ]
@@ -823,7 +823,7 @@
   {
    "date": "2022-09-12",
    "name": "Knabenschiessen (Zurich)",
-   "type": "Observance",
+   "type": "observance",
    "regions": [
     "Zurich"
    ]
@@ -831,7 +831,7 @@
   {
    "date": "2022-09-18",
    "name": "Swiss Federal Fast (regional holiday)",
-   "type": "Observance",
+   "type": "observance",
    "regions": [
     "Zurich",
     "Bern",
@@ -863,12 +863,12 @@
   {
    "date": "2022-10-30",
    "name": "Daylight Saving Time ends",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2022-11-01",
    "name": "All Saints' Day (regional holiday)",
-   "type": "Public holiday",
+   "type": "public",
    "regions": [
     "Aargau",
     "Appenzell Innerrhoden",
@@ -889,7 +889,7 @@
   {
    "date": "2022-12-08",
    "name": "Immaculate Conception (regional holiday)",
-   "type": "Public holiday",
+   "type": "public",
    "regions": [
     "Appenzell Innerrhoden",
     "Lucerne",
@@ -905,12 +905,12 @@
   {
    "date": "2022-12-24",
    "name": "Christmas Eve",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2022-12-25",
    "name": "Christmas Day (regional holiday)",
-   "type": "Public holiday",
+   "type": "public",
    "regions": [
     "Zurich",
     "Bern",
@@ -943,7 +943,7 @@
   {
    "date": "2022-12-26",
    "name": "St. Stephen's Day (regional holiday)",
-   "type": "Public holiday",
+   "type": "public",
    "regions": [
     "Zurich",
     "Bern",
@@ -965,12 +965,12 @@
   {
    "date": "2022-12-31",
    "name": "New Year's Eve",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2023-01-01",
    "name": "New Year's Day (regional holiday)",
-   "type": "Public holiday",
+   "type": "public",
    "regions": [
     "Zurich",
     "Bern",
@@ -1003,7 +1003,7 @@
   {
    "date": "2023-01-02",
    "name": "Berchtold Day (regional holiday)",
-   "type": "Public holiday",
+   "type": "public",
    "regions": [
     "Aargau",
     "Bern",
@@ -1016,7 +1016,7 @@
   {
    "date": "2023-01-06",
    "name": "Epiphany (regional holiday)",
-   "type": "Public holiday",
+   "type": "public",
    "regions": [
     "Schwyz",
     "Ticino",
@@ -1026,12 +1026,12 @@
   {
    "date": "2023-02-14",
    "name": "Valentine's Day",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2023-03-19",
    "name": "Saint Joseph's Day (regional holiday)",
-   "type": "Public holiday",
+   "type": "public",
    "regions": [
     "Lucerne",
     "Nidwalden",
@@ -1045,12 +1045,12 @@
   {
    "date": "2023-03-26",
    "name": "Daylight Saving Time starts",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2023-04-07",
    "name": "Good Friday (regional holiday)",
-   "type": "Public holiday",
+   "type": "public",
    "regions": [
     "Zurich",
     "Bern",
@@ -1081,12 +1081,12 @@
   {
    "date": "2023-04-09",
    "name": "Easter Sunday",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2023-04-10",
    "name": "Easter Monday (regional holiday)",
-   "type": "Public holiday",
+   "type": "public",
    "regions": [
     "Zurich",
     "Bern",
@@ -1112,7 +1112,7 @@
   {
    "date": "2023-04-17",
    "name": "Sechseläuten (Zurich)",
-   "type": "Observance",
+   "type": "observance",
    "regions": [
     "Zurich"
    ]
@@ -1120,7 +1120,7 @@
   {
    "date": "2023-05-01",
    "name": "May Day (regional holiday)",
-   "type": "Public holiday",
+   "type": "public",
    "regions": [
     "Basel-Land",
     "Basel-Stadt",
@@ -1135,12 +1135,12 @@
   {
    "date": "2023-05-14",
    "name": "Mother’s Day",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2023-05-18",
    "name": "Ascension Day (regional holiday)",
-   "type": "Public holiday",
+   "type": "public",
    "regions": [
     "Zurich",
     "Bern",
@@ -1173,7 +1173,7 @@
   {
    "date": "2023-05-28",
    "name": "Pentecost (regional holiday)",
-   "type": "Observance",
+   "type": "observance",
    "regions": [
     "Zurich",
     "Bern",
@@ -1206,7 +1206,7 @@
   {
    "date": "2023-05-29",
    "name": "Pentecost Monday (regional holiday)",
-   "type": "Public holiday",
+   "type": "public",
    "regions": [
     "Zurich",
     "Bern",
@@ -1232,12 +1232,12 @@
   {
    "date": "2023-06-04",
    "name": "Father’s Day",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2023-06-08",
    "name": "Corpus Christi (regional holiday)",
-   "type": "Public holiday",
+   "type": "public",
    "regions": [
     "Aargau",
     "Appenzell Innerrhoden",
@@ -1257,12 +1257,12 @@
   {
    "date": "2023-08-01",
    "name": "Swiss National Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2023-08-15",
    "name": "Assumption of Mary (regional holiday)",
-   "type": "Public holiday",
+   "type": "public",
    "regions": [
     "Aargau",
     "Appenzell Innerrhoden",
@@ -1282,7 +1282,7 @@
   {
    "date": "2023-09-09",
    "name": "Knabenschiessen (Zurich)",
-   "type": "Observance",
+   "type": "observance",
    "regions": [
     "Zurich"
    ]
@@ -1290,7 +1290,7 @@
   {
    "date": "2023-09-10",
    "name": "Knabenschiessen (Zurich)",
-   "type": "Observance",
+   "type": "observance",
    "regions": [
     "Zurich"
    ]
@@ -1298,7 +1298,7 @@
   {
    "date": "2023-09-11",
    "name": "Knabenschiessen (Zurich)",
-   "type": "Observance",
+   "type": "observance",
    "regions": [
     "Zurich"
    ]
@@ -1306,7 +1306,7 @@
   {
    "date": "2023-09-17",
    "name": "Swiss Federal Fast (regional holiday)",
-   "type": "Observance",
+   "type": "observance",
    "regions": [
     "Zurich",
     "Bern",
@@ -1338,12 +1338,12 @@
   {
    "date": "2023-10-29",
    "name": "Daylight Saving Time ends",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2023-11-01",
    "name": "All Saints' Day (regional holiday)",
-   "type": "Public holiday",
+   "type": "public",
    "regions": [
     "Aargau",
     "Appenzell Innerrhoden",
@@ -1364,7 +1364,7 @@
   {
    "date": "2023-12-08",
    "name": "Immaculate Conception (regional holiday)",
-   "type": "Public holiday",
+   "type": "public",
    "regions": [
     "Appenzell Innerrhoden",
     "Lucerne",
@@ -1380,12 +1380,12 @@
   {
    "date": "2023-12-24",
    "name": "Christmas Eve",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2023-12-25",
    "name": "Christmas Day (regional holiday)",
-   "type": "Public holiday",
+   "type": "public",
    "regions": [
     "Zurich",
     "Bern",
@@ -1418,7 +1418,7 @@
   {
    "date": "2023-12-26",
    "name": "St. Stephen's Day (regional holiday)",
-   "type": "Public holiday",
+   "type": "public",
    "regions": [
     "Zurich",
     "Bern",
@@ -1440,12 +1440,12 @@
   {
    "date": "2023-12-31",
    "name": "New Year's Eve",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2024-01-01",
    "name": "New Year's Day (regional holiday)",
-   "type": "Public holiday",
+   "type": "public",
    "regions": [
     "Zurich",
     "Bern",
@@ -1478,7 +1478,7 @@
   {
    "date": "2024-01-02",
    "name": "Berchtold Day (regional holiday)",
-   "type": "Public holiday",
+   "type": "public",
    "regions": [
     "Aargau",
     "Bern",
@@ -1491,7 +1491,7 @@
   {
    "date": "2024-01-06",
    "name": "Epiphany (regional holiday)",
-   "type": "Public holiday",
+   "type": "public",
    "regions": [
     "Schwyz",
     "Ticino",
@@ -1501,12 +1501,12 @@
   {
    "date": "2024-02-14",
    "name": "Valentine's Day",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2024-03-19",
    "name": "Saint Joseph's Day (regional holiday)",
-   "type": "Public holiday",
+   "type": "public",
    "regions": [
     "Lucerne",
     "Nidwalden",
@@ -1520,7 +1520,7 @@
   {
    "date": "2024-03-29",
    "name": "Good Friday (regional holiday)",
-   "type": "Public holiday",
+   "type": "public",
    "regions": [
     "Zurich",
     "Bern",
@@ -1551,17 +1551,17 @@
   {
    "date": "2024-03-31",
    "name": "Daylight Saving Time starts",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2024-03-31",
    "name": "Easter Sunday",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2024-04-01",
    "name": "Easter Monday (regional holiday)",
-   "type": "Public holiday",
+   "type": "public",
    "regions": [
     "Zurich",
     "Bern",
@@ -1587,7 +1587,7 @@
   {
    "date": "2024-04-15",
    "name": "Sechseläuten (Zurich)",
-   "type": "Observance",
+   "type": "observance",
    "regions": [
     "Zurich"
    ]
@@ -1595,7 +1595,7 @@
   {
    "date": "2024-05-01",
    "name": "May Day (regional holiday)",
-   "type": "Public holiday",
+   "type": "public",
    "regions": [
     "Basel-Land",
     "Basel-Stadt",
@@ -1610,7 +1610,7 @@
   {
    "date": "2024-05-09",
    "name": "Ascension Day (regional holiday)",
-   "type": "Public holiday",
+   "type": "public",
    "regions": [
     "Zurich",
     "Bern",
@@ -1643,12 +1643,12 @@
   {
    "date": "2024-05-12",
    "name": "Mother’s Day",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2024-05-19",
    "name": "Pentecost (regional holiday)",
-   "type": "Observance",
+   "type": "observance",
    "regions": [
     "Zurich",
     "Bern",
@@ -1681,7 +1681,7 @@
   {
    "date": "2024-05-20",
    "name": "Pentecost Monday (regional holiday)",
-   "type": "Public holiday",
+   "type": "public",
    "regions": [
     "Zurich",
     "Bern",
@@ -1707,7 +1707,7 @@
   {
    "date": "2024-05-30",
    "name": "Corpus Christi (regional holiday)",
-   "type": "Public holiday",
+   "type": "public",
    "regions": [
     "Aargau",
     "Appenzell Innerrhoden",
@@ -1727,17 +1727,17 @@
   {
    "date": "2024-06-02",
    "name": "Father’s Day",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2024-08-01",
    "name": "Swiss National Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2024-08-15",
    "name": "Assumption of Mary (regional holiday)",
-   "type": "Public holiday",
+   "type": "public",
    "regions": [
     "Aargau",
     "Appenzell Innerrhoden",
@@ -1757,7 +1757,7 @@
   {
    "date": "2024-09-07",
    "name": "Knabenschiessen (Zurich)",
-   "type": "Observance",
+   "type": "observance",
    "regions": [
     "Zurich"
    ]
@@ -1765,7 +1765,7 @@
   {
    "date": "2024-09-08",
    "name": "Knabenschiessen (Zurich)",
-   "type": "Observance",
+   "type": "observance",
    "regions": [
     "Zurich"
    ]
@@ -1773,7 +1773,7 @@
   {
    "date": "2024-09-09",
    "name": "Knabenschiessen (Zurich)",
-   "type": "Observance",
+   "type": "observance",
    "regions": [
     "Zurich"
    ]
@@ -1781,7 +1781,7 @@
   {
    "date": "2024-09-15",
    "name": "Swiss Federal Fast (regional holiday)",
-   "type": "Observance",
+   "type": "observance",
    "regions": [
     "Zurich",
     "Bern",
@@ -1813,12 +1813,12 @@
   {
    "date": "2024-10-27",
    "name": "Daylight Saving Time ends",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2024-11-01",
    "name": "All Saints' Day (regional holiday)",
-   "type": "Public holiday",
+   "type": "public",
    "regions": [
     "Aargau",
     "Appenzell Innerrhoden",
@@ -1839,7 +1839,7 @@
   {
    "date": "2024-12-08",
    "name": "Immaculate Conception (regional holiday)",
-   "type": "Public holiday",
+   "type": "public",
    "regions": [
     "Appenzell Innerrhoden",
     "Lucerne",
@@ -1855,12 +1855,12 @@
   {
    "date": "2024-12-24",
    "name": "Christmas Eve",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2024-12-25",
    "name": "Christmas Day (regional holiday)",
-   "type": "Public holiday",
+   "type": "public",
    "regions": [
     "Zurich",
     "Bern",
@@ -1893,7 +1893,7 @@
   {
    "date": "2024-12-26",
    "name": "St. Stephen's Day (regional holiday)",
-   "type": "Public holiday",
+   "type": "public",
    "regions": [
     "Zurich",
     "Bern",
@@ -1915,12 +1915,12 @@
   {
    "date": "2024-12-31",
    "name": "New Year's Eve",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2025-01-01",
    "name": "New Year's Day (regional holiday)",
-   "type": "Public holiday",
+   "type": "public",
    "regions": [
     "Zurich",
     "Bern",
@@ -1953,7 +1953,7 @@
   {
    "date": "2025-01-02",
    "name": "Berchtold Day (regional holiday)",
-   "type": "Public holiday",
+   "type": "public",
    "regions": [
     "Aargau",
     "Bern",
@@ -1966,7 +1966,7 @@
   {
    "date": "2025-01-06",
    "name": "Epiphany (regional holiday)",
-   "type": "Public holiday",
+   "type": "public",
    "regions": [
     "Schwyz",
     "Ticino",
@@ -1976,12 +1976,12 @@
   {
    "date": "2025-02-14",
    "name": "Valentine's Day",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2025-03-19",
    "name": "Saint Joseph's Day (regional holiday)",
-   "type": "Public holiday",
+   "type": "public",
    "regions": [
     "Lucerne",
     "Nidwalden",
@@ -1995,12 +1995,12 @@
   {
    "date": "2025-03-30",
    "name": "Daylight Saving Time starts",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2025-04-18",
    "name": "Good Friday (regional holiday)",
-   "type": "Public holiday",
+   "type": "public",
    "regions": [
     "Zurich",
     "Bern",
@@ -2031,12 +2031,12 @@
   {
    "date": "2025-04-20",
    "name": "Easter Sunday",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2025-04-21",
    "name": "Easter Monday (regional holiday)",
-   "type": "Public holiday",
+   "type": "public",
    "regions": [
     "Zurich",
     "Bern",
@@ -2062,7 +2062,7 @@
   {
    "date": "2025-04-28",
    "name": "Sechseläuten (Zurich)",
-   "type": "Observance",
+   "type": "observance",
    "regions": [
     "Zurich"
    ]
@@ -2070,7 +2070,7 @@
   {
    "date": "2025-05-01",
    "name": "May Day (regional holiday)",
-   "type": "Public holiday",
+   "type": "public",
    "regions": [
     "Basel-Land",
     "Basel-Stadt",
@@ -2085,12 +2085,12 @@
   {
    "date": "2025-05-11",
    "name": "Mother’s Day",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2025-05-29",
    "name": "Ascension Day (regional holiday)",
-   "type": "Public holiday",
+   "type": "public",
    "regions": [
     "Zurich",
     "Bern",
@@ -2123,12 +2123,12 @@
   {
    "date": "2025-06-01",
    "name": "Father’s Day",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2025-06-08",
    "name": "Pentecost (regional holiday)",
-   "type": "Observance",
+   "type": "observance",
    "regions": [
     "Zurich",
     "Bern",
@@ -2161,7 +2161,7 @@
   {
    "date": "2025-06-09",
    "name": "Pentecost Monday (regional holiday)",
-   "type": "Public holiday",
+   "type": "public",
    "regions": [
     "Zurich",
     "Bern",
@@ -2187,7 +2187,7 @@
   {
    "date": "2025-06-19",
    "name": "Corpus Christi (regional holiday)",
-   "type": "Public holiday",
+   "type": "public",
    "regions": [
     "Aargau",
     "Appenzell Innerrhoden",
@@ -2207,12 +2207,12 @@
   {
    "date": "2025-08-01",
    "name": "Swiss National Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2025-08-15",
    "name": "Assumption of Mary (regional holiday)",
-   "type": "Public holiday",
+   "type": "public",
    "regions": [
     "Aargau",
     "Appenzell Innerrhoden",
@@ -2232,7 +2232,7 @@
   {
    "date": "2025-09-13",
    "name": "Knabenschiessen (Zurich)",
-   "type": "Observance",
+   "type": "observance",
    "regions": [
     "Zurich"
    ]
@@ -2240,7 +2240,7 @@
   {
    "date": "2025-09-14",
    "name": "Knabenschiessen (Zurich)",
-   "type": "Observance",
+   "type": "observance",
    "regions": [
     "Zurich"
    ]
@@ -2248,7 +2248,7 @@
   {
    "date": "2025-09-15",
    "name": "Knabenschiessen (Zurich)",
-   "type": "Observance",
+   "type": "observance",
    "regions": [
     "Zurich"
    ]
@@ -2256,7 +2256,7 @@
   {
    "date": "2025-09-21",
    "name": "Swiss Federal Fast (regional holiday)",
-   "type": "Observance",
+   "type": "observance",
    "regions": [
     "Zurich",
     "Bern",
@@ -2288,12 +2288,12 @@
   {
    "date": "2025-10-26",
    "name": "Daylight Saving Time ends",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2025-11-01",
    "name": "All Saints' Day (regional holiday)",
-   "type": "Public holiday",
+   "type": "public",
    "regions": [
     "Aargau",
     "Appenzell Innerrhoden",
@@ -2314,7 +2314,7 @@
   {
    "date": "2025-12-08",
    "name": "Immaculate Conception (regional holiday)",
-   "type": "Public holiday",
+   "type": "public",
    "regions": [
     "Appenzell Innerrhoden",
     "Lucerne",
@@ -2330,12 +2330,12 @@
   {
    "date": "2025-12-24",
    "name": "Christmas Eve",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2025-12-25",
    "name": "Christmas Day (regional holiday)",
-   "type": "Public holiday",
+   "type": "public",
    "regions": [
     "Zurich",
     "Bern",
@@ -2368,7 +2368,7 @@
   {
    "date": "2025-12-26",
    "name": "St. Stephen's Day (regional holiday)",
-   "type": "Public holiday",
+   "type": "public",
    "regions": [
     "Zurich",
     "Bern",
@@ -2390,12 +2390,12 @@
   {
    "date": "2025-12-31",
    "name": "New Year's Eve",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2026-01-01",
    "name": "New Year's Day (regional holiday)",
-   "type": "Public holiday",
+   "type": "public",
    "regions": [
     "Zurich",
     "Bern",
@@ -2428,7 +2428,7 @@
   {
    "date": "2026-01-02",
    "name": "Berchtold Day (regional holiday)",
-   "type": "Public holiday",
+   "type": "public",
    "regions": [
     "Aargau",
     "Bern",
@@ -2441,7 +2441,7 @@
   {
    "date": "2026-01-06",
    "name": "Epiphany (regional holiday)",
-   "type": "Public holiday",
+   "type": "public",
    "regions": [
     "Schwyz",
     "Ticino",
@@ -2451,12 +2451,12 @@
   {
    "date": "2026-02-14",
    "name": "Valentine's Day",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2026-03-19",
    "name": "Saint Joseph's Day (regional holiday)",
-   "type": "Public holiday",
+   "type": "public",
    "regions": [
     "Lucerne",
     "Nidwalden",
@@ -2470,12 +2470,12 @@
   {
    "date": "2026-03-29",
    "name": "Daylight Saving Time starts",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2026-04-03",
    "name": "Good Friday (regional holiday)",
-   "type": "Public holiday",
+   "type": "public",
    "regions": [
     "Zurich",
     "Bern",
@@ -2506,12 +2506,12 @@
   {
    "date": "2026-04-05",
    "name": "Easter Sunday",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2026-04-06",
    "name": "Easter Monday (regional holiday)",
-   "type": "Public holiday",
+   "type": "public",
    "regions": [
     "Zurich",
     "Bern",
@@ -2537,7 +2537,7 @@
   {
    "date": "2026-05-01",
    "name": "May Day (regional holiday)",
-   "type": "Public holiday",
+   "type": "public",
    "regions": [
     "Basel-Land",
     "Basel-Stadt",
@@ -2552,12 +2552,12 @@
   {
    "date": "2026-05-10",
    "name": "Mother’s Day",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2026-05-14",
    "name": "Ascension Day (regional holiday)",
-   "type": "Public holiday",
+   "type": "public",
    "regions": [
     "Zurich",
     "Bern",
@@ -2590,7 +2590,7 @@
   {
    "date": "2026-05-24",
    "name": "Pentecost (regional holiday)",
-   "type": "Observance",
+   "type": "observance",
    "regions": [
     "Zurich",
     "Bern",
@@ -2623,7 +2623,7 @@
   {
    "date": "2026-05-25",
    "name": "Pentecost Monday (regional holiday)",
-   "type": "Public holiday",
+   "type": "public",
    "regions": [
     "Zurich",
     "Bern",
@@ -2649,7 +2649,7 @@
   {
    "date": "2026-06-04",
    "name": "Corpus Christi (regional holiday)",
-   "type": "Public holiday",
+   "type": "public",
    "regions": [
     "Aargau",
     "Appenzell Innerrhoden",
@@ -2669,17 +2669,17 @@
   {
    "date": "2026-06-07",
    "name": "Father’s Day",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2026-08-01",
    "name": "Swiss National Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2026-08-15",
    "name": "Assumption of Mary (regional holiday)",
-   "type": "Public holiday",
+   "type": "public",
    "regions": [
     "Aargau",
     "Appenzell Innerrhoden",
@@ -2699,7 +2699,7 @@
   {
    "date": "2026-09-12",
    "name": "Knabenschiessen (Zurich)",
-   "type": "Observance",
+   "type": "observance",
    "regions": [
     "Zurich"
    ]
@@ -2707,7 +2707,7 @@
   {
    "date": "2026-09-13",
    "name": "Knabenschiessen (Zurich)",
-   "type": "Observance",
+   "type": "observance",
    "regions": [
     "Zurich"
    ]
@@ -2715,7 +2715,7 @@
   {
    "date": "2026-09-14",
    "name": "Knabenschiessen (Zurich)",
-   "type": "Observance",
+   "type": "observance",
    "regions": [
     "Zurich"
    ]
@@ -2723,7 +2723,7 @@
   {
    "date": "2026-09-20",
    "name": "Swiss Federal Fast (regional holiday)",
-   "type": "Observance",
+   "type": "observance",
    "regions": [
     "Zurich",
     "Bern",
@@ -2755,12 +2755,12 @@
   {
    "date": "2026-10-25",
    "name": "Daylight Saving Time ends",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2026-11-01",
    "name": "All Saints' Day (regional holiday)",
-   "type": "Public holiday",
+   "type": "public",
    "regions": [
     "Aargau",
     "Appenzell Innerrhoden",
@@ -2781,7 +2781,7 @@
   {
    "date": "2026-12-08",
    "name": "Immaculate Conception (regional holiday)",
-   "type": "Public holiday",
+   "type": "public",
    "regions": [
     "Appenzell Innerrhoden",
     "Lucerne",
@@ -2797,12 +2797,12 @@
   {
    "date": "2026-12-24",
    "name": "Christmas Eve",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2026-12-25",
    "name": "Christmas Day (regional holiday)",
-   "type": "Public holiday",
+   "type": "public",
    "regions": [
     "Zurich",
     "Bern",
@@ -2835,7 +2835,7 @@
   {
    "date": "2026-12-26",
    "name": "St. Stephen's Day (regional holiday)",
-   "type": "Public holiday",
+   "type": "public",
    "regions": [
     "Zurich",
     "Bern",
@@ -2857,12 +2857,12 @@
   {
    "date": "2026-12-31",
    "name": "New Year's Eve",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2027-01-01",
    "name": "New Year's Day (regional holiday)",
-   "type": "Public holiday",
+   "type": "public",
    "regions": [
     "Zurich",
     "Bern",
@@ -2895,7 +2895,7 @@
   {
    "date": "2027-01-02",
    "name": "Berchtold Day (regional holiday)",
-   "type": "Public holiday",
+   "type": "public",
    "regions": [
     "Aargau",
     "Bern",
@@ -2908,7 +2908,7 @@
   {
    "date": "2027-01-06",
    "name": "Epiphany (regional holiday)",
-   "type": "Public holiday",
+   "type": "public",
    "regions": [
     "Schwyz",
     "Ticino",
@@ -2918,12 +2918,12 @@
   {
    "date": "2027-02-14",
    "name": "Valentine's Day",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2027-03-19",
    "name": "Saint Joseph's Day (regional holiday)",
-   "type": "Public holiday",
+   "type": "public",
    "regions": [
     "Lucerne",
     "Nidwalden",
@@ -2937,7 +2937,7 @@
   {
    "date": "2027-03-26",
    "name": "Good Friday (regional holiday)",
-   "type": "Public holiday",
+   "type": "public",
    "regions": [
     "Zurich",
     "Bern",
@@ -2968,17 +2968,17 @@
   {
    "date": "2027-03-28",
    "name": "Daylight Saving Time starts",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2027-03-28",
    "name": "Easter Sunday",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2027-03-29",
    "name": "Easter Monday (regional holiday)",
-   "type": "Public holiday",
+   "type": "public",
    "regions": [
     "Zurich",
     "Bern",
@@ -3004,7 +3004,7 @@
   {
    "date": "2027-05-01",
    "name": "May Day (regional holiday)",
-   "type": "Public holiday",
+   "type": "public",
    "regions": [
     "Basel-Land",
     "Basel-Stadt",
@@ -3019,7 +3019,7 @@
   {
    "date": "2027-05-06",
    "name": "Ascension Day (regional holiday)",
-   "type": "Public holiday",
+   "type": "public",
    "regions": [
     "Zurich",
     "Bern",
@@ -3052,12 +3052,12 @@
   {
    "date": "2027-05-09",
    "name": "Mother’s Day",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2027-05-16",
    "name": "Pentecost (regional holiday)",
-   "type": "Observance",
+   "type": "observance",
    "regions": [
     "Zurich",
     "Bern",
@@ -3090,7 +3090,7 @@
   {
    "date": "2027-05-17",
    "name": "Pentecost Monday (regional holiday)",
-   "type": "Public holiday",
+   "type": "public",
    "regions": [
     "Zurich",
     "Bern",
@@ -3116,7 +3116,7 @@
   {
    "date": "2027-05-27",
    "name": "Corpus Christi (regional holiday)",
-   "type": "Public holiday",
+   "type": "public",
    "regions": [
     "Aargau",
     "Appenzell Innerrhoden",
@@ -3136,17 +3136,17 @@
   {
    "date": "2027-06-06",
    "name": "Father’s Day",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2027-08-01",
    "name": "Swiss National Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2027-08-15",
    "name": "Assumption of Mary (regional holiday)",
-   "type": "Public holiday",
+   "type": "public",
    "regions": [
     "Aargau",
     "Appenzell Innerrhoden",
@@ -3166,7 +3166,7 @@
   {
    "date": "2027-09-11",
    "name": "Knabenschiessen (Zurich)",
-   "type": "Observance",
+   "type": "observance",
    "regions": [
     "Zurich"
    ]
@@ -3174,7 +3174,7 @@
   {
    "date": "2027-09-12",
    "name": "Knabenschiessen (Zurich)",
-   "type": "Observance",
+   "type": "observance",
    "regions": [
     "Zurich"
    ]
@@ -3182,7 +3182,7 @@
   {
    "date": "2027-09-13",
    "name": "Knabenschiessen (Zurich)",
-   "type": "Observance",
+   "type": "observance",
    "regions": [
     "Zurich"
    ]
@@ -3190,7 +3190,7 @@
   {
    "date": "2027-09-19",
    "name": "Swiss Federal Fast (regional holiday)",
-   "type": "Observance",
+   "type": "observance",
    "regions": [
     "Zurich",
     "Bern",
@@ -3222,12 +3222,12 @@
   {
    "date": "2027-10-31",
    "name": "Daylight Saving Time ends",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2027-11-01",
    "name": "All Saints' Day (regional holiday)",
-   "type": "Public holiday",
+   "type": "public",
    "regions": [
     "Aargau",
     "Appenzell Innerrhoden",
@@ -3248,7 +3248,7 @@
   {
    "date": "2027-12-08",
    "name": "Immaculate Conception (regional holiday)",
-   "type": "Public holiday",
+   "type": "public",
    "regions": [
     "Appenzell Innerrhoden",
     "Lucerne",
@@ -3264,12 +3264,12 @@
   {
    "date": "2027-12-24",
    "name": "Christmas Eve",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2027-12-25",
    "name": "Christmas Day (regional holiday)",
-   "type": "Public holiday",
+   "type": "public",
    "regions": [
     "Zurich",
     "Bern",
@@ -3302,7 +3302,7 @@
   {
    "date": "2027-12-26",
    "name": "St. Stephen's Day (regional holiday)",
-   "type": "Public holiday",
+   "type": "public",
    "regions": [
     "Zurich",
     "Bern",
@@ -3324,12 +3324,12 @@
   {
    "date": "2027-12-31",
    "name": "New Year's Eve",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2028-01-01",
    "name": "New Year's Day (regional holiday)",
-   "type": "Public holiday",
+   "type": "public",
    "regions": [
     "Zurich",
     "Bern",
@@ -3362,7 +3362,7 @@
   {
    "date": "2028-01-02",
    "name": "Berchtold Day (regional holiday)",
-   "type": "Public holiday",
+   "type": "public",
    "regions": [
     "Aargau",
     "Bern",
@@ -3375,7 +3375,7 @@
   {
    "date": "2028-01-06",
    "name": "Epiphany (regional holiday)",
-   "type": "Public holiday",
+   "type": "public",
    "regions": [
     "Schwyz",
     "Ticino",
@@ -3385,12 +3385,12 @@
   {
    "date": "2028-02-14",
    "name": "Valentine's Day",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2028-03-19",
    "name": "Saint Joseph's Day (regional holiday)",
-   "type": "Public holiday",
+   "type": "public",
    "regions": [
     "Lucerne",
     "Nidwalden",
@@ -3404,12 +3404,12 @@
   {
    "date": "2028-03-26",
    "name": "Daylight Saving Time starts",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2028-04-14",
    "name": "Good Friday (regional holiday)",
-   "type": "Public holiday",
+   "type": "public",
    "regions": [
     "Zurich",
     "Bern",
@@ -3440,12 +3440,12 @@
   {
    "date": "2028-04-16",
    "name": "Easter Sunday",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2028-04-17",
    "name": "Easter Monday (regional holiday)",
-   "type": "Public holiday",
+   "type": "public",
    "regions": [
     "Zurich",
     "Bern",
@@ -3471,7 +3471,7 @@
   {
    "date": "2028-05-01",
    "name": "May Day (regional holiday)",
-   "type": "Public holiday",
+   "type": "public",
    "regions": [
     "Basel-Land",
     "Basel-Stadt",
@@ -3486,12 +3486,12 @@
   {
    "date": "2028-05-14",
    "name": "Mother’s Day",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2028-05-25",
    "name": "Ascension Day (regional holiday)",
-   "type": "Public holiday",
+   "type": "public",
    "regions": [
     "Zurich",
     "Bern",
@@ -3524,12 +3524,12 @@
   {
    "date": "2028-06-04",
    "name": "Father’s Day",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2028-06-04",
    "name": "Pentecost (regional holiday)",
-   "type": "Observance",
+   "type": "observance",
    "regions": [
     "Zurich",
     "Bern",
@@ -3562,7 +3562,7 @@
   {
    "date": "2028-06-05",
    "name": "Pentecost Monday (regional holiday)",
-   "type": "Public holiday",
+   "type": "public",
    "regions": [
     "Zurich",
     "Bern",
@@ -3588,7 +3588,7 @@
   {
    "date": "2028-06-15",
    "name": "Corpus Christi (regional holiday)",
-   "type": "Public holiday",
+   "type": "public",
    "regions": [
     "Aargau",
     "Appenzell Innerrhoden",
@@ -3608,12 +3608,12 @@
   {
    "date": "2028-08-01",
    "name": "Swiss National Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2028-08-15",
    "name": "Assumption of Mary (regional holiday)",
-   "type": "Public holiday",
+   "type": "public",
    "regions": [
     "Aargau",
     "Appenzell Innerrhoden",
@@ -3633,7 +3633,7 @@
   {
    "date": "2028-09-09",
    "name": "Knabenschiessen (Zurich)",
-   "type": "Observance",
+   "type": "observance",
    "regions": [
     "Zurich"
    ]
@@ -3641,7 +3641,7 @@
   {
    "date": "2028-09-10",
    "name": "Knabenschiessen (Zurich)",
-   "type": "Observance",
+   "type": "observance",
    "regions": [
     "Zurich"
    ]
@@ -3649,7 +3649,7 @@
   {
    "date": "2028-09-11",
    "name": "Knabenschiessen (Zurich)",
-   "type": "Observance",
+   "type": "observance",
    "regions": [
     "Zurich"
    ]
@@ -3657,7 +3657,7 @@
   {
    "date": "2028-09-17",
    "name": "Swiss Federal Fast (regional holiday)",
-   "type": "Observance",
+   "type": "observance",
    "regions": [
     "Zurich",
     "Bern",
@@ -3689,12 +3689,12 @@
   {
    "date": "2028-10-29",
    "name": "Daylight Saving Time ends",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2028-11-01",
    "name": "All Saints' Day (regional holiday)",
-   "type": "Public holiday",
+   "type": "public",
    "regions": [
     "Aargau",
     "Appenzell Innerrhoden",
@@ -3715,7 +3715,7 @@
   {
    "date": "2028-12-08",
    "name": "Immaculate Conception (regional holiday)",
-   "type": "Public holiday",
+   "type": "public",
    "regions": [
     "Appenzell Innerrhoden",
     "Lucerne",
@@ -3731,12 +3731,12 @@
   {
    "date": "2028-12-24",
    "name": "Christmas Eve",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2028-12-25",
    "name": "Christmas Day (regional holiday)",
-   "type": "Public holiday",
+   "type": "public",
    "regions": [
     "Zurich",
     "Bern",
@@ -3769,7 +3769,7 @@
   {
    "date": "2028-12-26",
    "name": "St. Stephen's Day (regional holiday)",
-   "type": "Public holiday",
+   "type": "public",
    "regions": [
     "Zurich",
     "Bern",
@@ -3791,12 +3791,12 @@
   {
    "date": "2028-12-31",
    "name": "New Year's Eve",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2029-01-01",
    "name": "New Year's Day (regional holiday)",
-   "type": "Public holiday",
+   "type": "public",
    "regions": [
     "Zurich",
     "Bern",
@@ -3829,7 +3829,7 @@
   {
    "date": "2029-01-02",
    "name": "Berchtold Day (regional holiday)",
-   "type": "Public holiday",
+   "type": "public",
    "regions": [
     "Aargau",
     "Bern",
@@ -3842,7 +3842,7 @@
   {
    "date": "2029-01-06",
    "name": "Epiphany (regional holiday)",
-   "type": "Public holiday",
+   "type": "public",
    "regions": [
     "Schwyz",
     "Ticino",
@@ -3852,12 +3852,12 @@
   {
    "date": "2029-02-14",
    "name": "Valentine's Day",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2029-03-19",
    "name": "Saint Joseph's Day (regional holiday)",
-   "type": "Public holiday",
+   "type": "public",
    "regions": [
     "Lucerne",
     "Nidwalden",
@@ -3871,12 +3871,12 @@
   {
    "date": "2029-03-25",
    "name": "Daylight Saving Time starts",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2029-03-30",
    "name": "Good Friday (regional holiday)",
-   "type": "Public holiday",
+   "type": "public",
    "regions": [
     "Zurich",
     "Bern",
@@ -3907,12 +3907,12 @@
   {
    "date": "2029-04-01",
    "name": "Easter Sunday",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2029-04-02",
    "name": "Easter Monday (regional holiday)",
-   "type": "Public holiday",
+   "type": "public",
    "regions": [
     "Zurich",
     "Bern",
@@ -3938,7 +3938,7 @@
   {
    "date": "2029-05-01",
    "name": "May Day (regional holiday)",
-   "type": "Public holiday",
+   "type": "public",
    "regions": [
     "Basel-Land",
     "Basel-Stadt",
@@ -3953,7 +3953,7 @@
   {
    "date": "2029-05-10",
    "name": "Ascension Day (regional holiday)",
-   "type": "Public holiday",
+   "type": "public",
    "regions": [
     "Zurich",
     "Bern",
@@ -3986,12 +3986,12 @@
   {
    "date": "2029-05-13",
    "name": "Mother’s Day",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2029-05-20",
    "name": "Pentecost (regional holiday)",
-   "type": "Observance",
+   "type": "observance",
    "regions": [
     "Zurich",
     "Bern",
@@ -4024,7 +4024,7 @@
   {
    "date": "2029-05-21",
    "name": "Pentecost Monday (regional holiday)",
-   "type": "Public holiday",
+   "type": "public",
    "regions": [
     "Zurich",
     "Bern",
@@ -4050,7 +4050,7 @@
   {
    "date": "2029-05-31",
    "name": "Corpus Christi (regional holiday)",
-   "type": "Public holiday",
+   "type": "public",
    "regions": [
     "Aargau",
     "Appenzell Innerrhoden",
@@ -4070,17 +4070,17 @@
   {
    "date": "2029-06-03",
    "name": "Father’s Day",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2029-08-01",
    "name": "Swiss National Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2029-08-15",
    "name": "Assumption of Mary (regional holiday)",
-   "type": "Public holiday",
+   "type": "public",
    "regions": [
     "Aargau",
     "Appenzell Innerrhoden",
@@ -4100,7 +4100,7 @@
   {
    "date": "2029-09-08",
    "name": "Knabenschiessen (Zurich)",
-   "type": "Observance",
+   "type": "observance",
    "regions": [
     "Zurich"
    ]
@@ -4108,7 +4108,7 @@
   {
    "date": "2029-09-09",
    "name": "Knabenschiessen (Zurich)",
-   "type": "Observance",
+   "type": "observance",
    "regions": [
     "Zurich"
    ]
@@ -4116,7 +4116,7 @@
   {
    "date": "2029-09-10",
    "name": "Knabenschiessen (Zurich)",
-   "type": "Observance",
+   "type": "observance",
    "regions": [
     "Zurich"
    ]
@@ -4124,7 +4124,7 @@
   {
    "date": "2029-09-16",
    "name": "Swiss Federal Fast (regional holiday)",
-   "type": "Observance",
+   "type": "observance",
    "regions": [
     "Zurich",
     "Bern",
@@ -4156,12 +4156,12 @@
   {
    "date": "2029-10-28",
    "name": "Daylight Saving Time ends",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2029-11-01",
    "name": "All Saints' Day (regional holiday)",
-   "type": "Public holiday",
+   "type": "public",
    "regions": [
     "Aargau",
     "Appenzell Innerrhoden",
@@ -4182,7 +4182,7 @@
   {
    "date": "2029-12-08",
    "name": "Immaculate Conception (regional holiday)",
-   "type": "Public holiday",
+   "type": "public",
    "regions": [
     "Appenzell Innerrhoden",
     "Lucerne",
@@ -4198,12 +4198,12 @@
   {
    "date": "2029-12-24",
    "name": "Christmas Eve",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2029-12-25",
    "name": "Christmas Day (regional holiday)",
-   "type": "Public holiday",
+   "type": "public",
    "regions": [
     "Zurich",
     "Bern",
@@ -4236,7 +4236,7 @@
   {
    "date": "2029-12-26",
    "name": "St. Stephen's Day (regional holiday)",
-   "type": "Public holiday",
+   "type": "public",
    "regions": [
     "Zurich",
     "Bern",
@@ -4258,12 +4258,12 @@
   {
    "date": "2029-12-31",
    "name": "New Year's Eve",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2030-01-01",
    "name": "New Year's Day (regional holiday)",
-   "type": "Public holiday",
+   "type": "public",
    "regions": [
     "Zurich",
     "Bern",
@@ -4296,7 +4296,7 @@
   {
    "date": "2030-01-02",
    "name": "Berchtold Day (regional holiday)",
-   "type": "Public holiday",
+   "type": "public",
    "regions": [
     "Aargau",
     "Bern",
@@ -4309,7 +4309,7 @@
   {
    "date": "2030-01-06",
    "name": "Epiphany (regional holiday)",
-   "type": "Public holiday",
+   "type": "public",
    "regions": [
     "Schwyz",
     "Ticino",
@@ -4319,12 +4319,12 @@
   {
    "date": "2030-02-14",
    "name": "Valentine's Day",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2030-03-19",
    "name": "Saint Joseph's Day (regional holiday)",
-   "type": "Public holiday",
+   "type": "public",
    "regions": [
     "Lucerne",
     "Nidwalden",
@@ -4338,12 +4338,12 @@
   {
    "date": "2030-03-31",
    "name": "Daylight Saving Time starts",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2030-04-19",
    "name": "Good Friday (regional holiday)",
-   "type": "Public holiday",
+   "type": "public",
    "regions": [
     "Zurich",
     "Bern",
@@ -4374,12 +4374,12 @@
   {
    "date": "2030-04-21",
    "name": "Easter Sunday",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2030-04-22",
    "name": "Easter Monday (regional holiday)",
-   "type": "Public holiday",
+   "type": "public",
    "regions": [
     "Zurich",
     "Bern",
@@ -4405,7 +4405,7 @@
   {
    "date": "2030-05-01",
    "name": "May Day (regional holiday)",
-   "type": "Public holiday",
+   "type": "public",
    "regions": [
     "Basel-Land",
     "Basel-Stadt",
@@ -4420,12 +4420,12 @@
   {
    "date": "2030-05-12",
    "name": "Mother’s Day",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2030-05-30",
    "name": "Ascension Day (regional holiday)",
-   "type": "Public holiday",
+   "type": "public",
    "regions": [
     "Zurich",
     "Bern",
@@ -4458,12 +4458,12 @@
   {
    "date": "2030-06-02",
    "name": "Father’s Day",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2030-06-09",
    "name": "Pentecost (regional holiday)",
-   "type": "Observance",
+   "type": "observance",
    "regions": [
     "Zurich",
     "Bern",
@@ -4496,7 +4496,7 @@
   {
    "date": "2030-06-10",
    "name": "Pentecost Monday (regional holiday)",
-   "type": "Public holiday",
+   "type": "public",
    "regions": [
     "Zurich",
     "Bern",
@@ -4522,7 +4522,7 @@
   {
    "date": "2030-06-20",
    "name": "Corpus Christi (regional holiday)",
-   "type": "Public holiday",
+   "type": "public",
    "regions": [
     "Aargau",
     "Appenzell Innerrhoden",
@@ -4542,12 +4542,12 @@
   {
    "date": "2030-08-01",
    "name": "Swiss National Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2030-08-15",
    "name": "Assumption of Mary (regional holiday)",
-   "type": "Public holiday",
+   "type": "public",
    "regions": [
     "Aargau",
     "Appenzell Innerrhoden",
@@ -4567,7 +4567,7 @@
   {
    "date": "2030-09-07",
    "name": "Knabenschiessen (Zurich)",
-   "type": "Observance",
+   "type": "observance",
    "regions": [
     "Zurich"
    ]
@@ -4575,7 +4575,7 @@
   {
    "date": "2030-09-08",
    "name": "Knabenschiessen (Zurich)",
-   "type": "Observance",
+   "type": "observance",
    "regions": [
     "Zurich"
    ]
@@ -4583,7 +4583,7 @@
   {
    "date": "2030-09-09",
    "name": "Knabenschiessen (Zurich)",
-   "type": "Observance",
+   "type": "observance",
    "regions": [
     "Zurich"
    ]
@@ -4591,7 +4591,7 @@
   {
    "date": "2030-09-15",
    "name": "Swiss Federal Fast (regional holiday)",
-   "type": "Observance",
+   "type": "observance",
    "regions": [
     "Zurich",
     "Bern",
@@ -4623,12 +4623,12 @@
   {
    "date": "2030-10-27",
    "name": "Daylight Saving Time ends",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2030-11-01",
    "name": "All Saints' Day (regional holiday)",
-   "type": "Public holiday",
+   "type": "public",
    "regions": [
     "Aargau",
     "Appenzell Innerrhoden",
@@ -4649,7 +4649,7 @@
   {
    "date": "2030-12-08",
    "name": "Immaculate Conception (regional holiday)",
-   "type": "Public holiday",
+   "type": "public",
    "regions": [
     "Appenzell Innerrhoden",
     "Lucerne",
@@ -4665,12 +4665,12 @@
   {
    "date": "2030-12-24",
    "name": "Christmas Eve",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2030-12-25",
    "name": "Christmas Day (regional holiday)",
-   "type": "Public holiday",
+   "type": "public",
    "regions": [
     "Zurich",
     "Bern",
@@ -4703,7 +4703,7 @@
   {
    "date": "2030-12-26",
    "name": "St. Stephen's Day (regional holiday)",
-   "type": "Public holiday",
+   "type": "public",
    "regions": [
     "Zurich",
     "Bern",
@@ -4725,12 +4725,12 @@
   {
    "date": "2030-12-31",
    "name": "New Year's Eve",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2031-01-01",
    "name": "New Year's Day (regional holiday)",
-   "type": "Public holiday",
+   "type": "public",
    "regions": [
     "Zurich",
     "Bern",
@@ -4763,7 +4763,7 @@
   {
    "date": "2031-01-02",
    "name": "Berchtold Day (regional holiday)",
-   "type": "Public holiday",
+   "type": "public",
    "regions": [
     "Aargau",
     "Bern",
@@ -4776,7 +4776,7 @@
   {
    "date": "2031-01-06",
    "name": "Epiphany (regional holiday)",
-   "type": "Public holiday",
+   "type": "public",
    "regions": [
     "Schwyz",
     "Ticino",
@@ -4786,12 +4786,12 @@
   {
    "date": "2031-02-14",
    "name": "Valentine's Day",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2031-03-19",
    "name": "Saint Joseph's Day (regional holiday)",
-   "type": "Public holiday",
+   "type": "public",
    "regions": [
     "Lucerne",
     "Nidwalden",
@@ -4805,12 +4805,12 @@
   {
    "date": "2031-03-30",
    "name": "Daylight Saving Time starts",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2031-04-11",
    "name": "Good Friday (regional holiday)",
-   "type": "Public holiday",
+   "type": "public",
    "regions": [
     "Zurich",
     "Bern",
@@ -4841,12 +4841,12 @@
   {
    "date": "2031-04-13",
    "name": "Easter Sunday",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2031-04-14",
    "name": "Easter Monday (regional holiday)",
-   "type": "Public holiday",
+   "type": "public",
    "regions": [
     "Zurich",
     "Bern",
@@ -4872,7 +4872,7 @@
   {
    "date": "2031-05-01",
    "name": "May Day (regional holiday)",
-   "type": "Public holiday",
+   "type": "public",
    "regions": [
     "Basel-Land",
     "Basel-Stadt",
@@ -4887,12 +4887,12 @@
   {
    "date": "2031-05-11",
    "name": "Mother’s Day",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2031-05-22",
    "name": "Ascension Day (regional holiday)",
-   "type": "Public holiday",
+   "type": "public",
    "regions": [
     "Zurich",
     "Bern",
@@ -4925,12 +4925,12 @@
   {
    "date": "2031-06-01",
    "name": "Father’s Day",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2031-06-01",
    "name": "Pentecost (regional holiday)",
-   "type": "Observance",
+   "type": "observance",
    "regions": [
     "Zurich",
     "Bern",
@@ -4963,7 +4963,7 @@
   {
    "date": "2031-06-02",
    "name": "Pentecost Monday (regional holiday)",
-   "type": "Public holiday",
+   "type": "public",
    "regions": [
     "Zurich",
     "Bern",
@@ -4989,7 +4989,7 @@
   {
    "date": "2031-06-12",
    "name": "Corpus Christi (regional holiday)",
-   "type": "Public holiday",
+   "type": "public",
    "regions": [
     "Aargau",
     "Appenzell Innerrhoden",
@@ -5009,12 +5009,12 @@
   {
    "date": "2031-08-01",
    "name": "Swiss National Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2031-08-15",
    "name": "Assumption of Mary (regional holiday)",
-   "type": "Public holiday",
+   "type": "public",
    "regions": [
     "Aargau",
     "Appenzell Innerrhoden",
@@ -5034,7 +5034,7 @@
   {
    "date": "2031-09-13",
    "name": "Knabenschiessen (Zurich)",
-   "type": "Observance",
+   "type": "observance",
    "regions": [
     "Zurich"
    ]
@@ -5042,7 +5042,7 @@
   {
    "date": "2031-09-14",
    "name": "Knabenschiessen (Zurich)",
-   "type": "Observance",
+   "type": "observance",
    "regions": [
     "Zurich"
    ]
@@ -5050,7 +5050,7 @@
   {
    "date": "2031-09-15",
    "name": "Knabenschiessen (Zurich)",
-   "type": "Observance",
+   "type": "observance",
    "regions": [
     "Zurich"
    ]
@@ -5058,7 +5058,7 @@
   {
    "date": "2031-09-21",
    "name": "Swiss Federal Fast (regional holiday)",
-   "type": "Observance",
+   "type": "observance",
    "regions": [
     "Zurich",
     "Bern",
@@ -5090,12 +5090,12 @@
   {
    "date": "2031-10-26",
    "name": "Daylight Saving Time ends",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2031-11-01",
    "name": "All Saints' Day (regional holiday)",
-   "type": "Public holiday",
+   "type": "public",
    "regions": [
     "Aargau",
     "Appenzell Innerrhoden",
@@ -5116,7 +5116,7 @@
   {
    "date": "2031-12-08",
    "name": "Immaculate Conception (regional holiday)",
-   "type": "Public holiday",
+   "type": "public",
    "regions": [
     "Appenzell Innerrhoden",
     "Lucerne",
@@ -5132,12 +5132,12 @@
   {
    "date": "2031-12-24",
    "name": "Christmas Eve",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2031-12-25",
    "name": "Christmas Day (regional holiday)",
-   "type": "Public holiday",
+   "type": "public",
    "regions": [
     "Zurich",
     "Bern",
@@ -5170,7 +5170,7 @@
   {
    "date": "2031-12-26",
    "name": "St. Stephen's Day (regional holiday)",
-   "type": "Public holiday",
+   "type": "public",
    "regions": [
     "Zurich",
     "Bern",
@@ -5192,7 +5192,7 @@
   {
    "date": "2031-12-31",
    "name": "New Year's Eve",
-   "type": "Observance"
+   "type": "observance"
   }
  ]
 }

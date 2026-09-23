@@ -5,2052 +5,2052 @@
  "from": 2021,
  "to": 2031,
  "count": 409,
- "fetchedAt": "2026-09-23T12:14:41.090Z",
+ "fetchedAt": "2026-09-23T12:37:50.132Z",
  "events": [
   {
    "date": "2021-01-01",
    "name": "New Year's Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2021-01-06",
    "name": "The Three Wise Men Day",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2021-01-11",
    "name": "Three Kings Day Holiday",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2021-01-14",
    "name": "Divina Pastora Day",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2021-01-18",
    "name": "Holiday for Divina Pastora Day",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2021-02-15",
    "name": "Carnival / Shrove Monday",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2021-02-16",
    "name": "Carnival / Shrove Tuesday / Pancake Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2021-03-19",
    "name": "Saint Joseph's Day",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2021-03-28",
    "name": "Palm Sunday",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2021-04-01",
    "name": "Maundy Thursday",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2021-04-02",
    "name": "Good Friday",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2021-04-04",
    "name": "Easter Sunday",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2021-04-19",
    "name": "Declaration of Independence",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2021-05-01",
    "name": "Labor Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2021-05-13",
    "name": "Ascension Day",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2021-05-24",
    "name": "Ascension Day Holiday",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2021-06-03",
    "name": "Corpus Christi",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2021-06-13",
    "name": "St Anthony's Day",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2021-06-14",
    "name": "Corpus Christi Holiday",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2021-06-24",
    "name": "Carabobo Battle",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2021-06-28",
    "name": "Saint Peter and Saint Paul Holiday",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2021-06-29",
    "name": "Saint Peter and Saint Paul",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2021-07-05",
    "name": "Independence Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2021-07-24",
    "name": "Simón Bolívar's Birthday",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2021-08-03",
    "name": "Flag's Day",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2021-08-04",
    "name": "National Guard's Day",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2021-08-15",
    "name": "Assumption of Mary",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2021-09-11",
    "name": "Our Lady of Coromoto",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2021-10-12",
    "name": "Day of Indigenous Resistance",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2021-11-01",
    "name": "All Saints Day",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2021-11-02",
    "name": "All Souls' Day",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2021-11-18",
    "name": "Day of the Virgin of the Rosary of Chiquinquirá",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2021-11-22",
    "name": "Holiday for the Day of the Virgin of the Rosary of Chiquinquirá",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2021-11-27",
    "name": "Aviation Day",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2021-12-08",
    "name": "Feast of the Immaculate Conception",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2021-12-14",
    "name": "Holiday for Feast of the Immaculate Conception",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2021-12-24",
    "name": "Christmas Eve",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2021-12-25",
    "name": "Christmas Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2021-12-31",
    "name": "New Year's Eve",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2022-01-01",
    "name": "New Year's Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2022-01-06",
    "name": "The Three Wise Men Day",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2022-01-10",
    "name": "Three Kings Day Holiday",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2022-01-14",
    "name": "Divina Pastora Day",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2022-01-17",
    "name": "Holiday for Divina Pastora Day",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2022-02-28",
    "name": "Carnival / Shrove Monday",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2022-03-01",
    "name": "Carnival / Shrove Tuesday / Pancake Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2022-03-19",
    "name": "Saint Joseph's Day",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2022-04-10",
    "name": "Palm Sunday",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2022-04-14",
    "name": "Maundy Thursday",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2022-04-15",
    "name": "Good Friday",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2022-04-17",
    "name": "Easter Sunday",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2022-04-19",
    "name": "Declaration of Independence",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2022-05-01",
    "name": "Labor Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2022-05-26",
    "name": "Ascension Day",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2022-05-30",
    "name": "Ascension Day Holiday",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2022-06-13",
    "name": "St Anthony's Day",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2022-06-16",
    "name": "Corpus Christi",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2022-06-20",
    "name": "Corpus Christi Holiday",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2022-06-24",
    "name": "Carabobo Battle",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2022-06-29",
    "name": "Saint Peter and Saint Paul",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2022-07-04",
    "name": "Saint Peter and Saint Paul Holiday",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2022-07-05",
    "name": "Independence Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2022-07-24",
    "name": "Simón Bolívar's Birthday",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2022-08-03",
    "name": "Flag's Day",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2022-08-04",
    "name": "National Guard's Day",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2022-08-15",
    "name": "Assumption of Mary",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2022-09-11",
    "name": "Our Lady of Coromoto",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2022-10-12",
    "name": "Day of Indigenous Resistance",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2022-10-24",
    "name": "Holiday for Dr. José Gregorio Hernández Day",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2022-10-26",
    "name": "Dr. José Gregorio Hernández Day",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2022-10-31",
    "name": "All Saints Day Holiday",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2022-11-01",
    "name": "All Saints Day",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2022-11-02",
    "name": "All Souls' Day",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2022-11-18",
    "name": "Day of the Virgin of the Rosary of Chiquinquirá",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2022-11-21",
    "name": "Holiday for the Day of the Virgin of the Rosary of Chiquinquirá",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2022-11-27",
    "name": "Aviation Day",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2022-12-08",
    "name": "Feast of the Immaculate Conception",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2022-12-12",
    "name": "Holiday for Feast of the Immaculate Conception",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2022-12-24",
    "name": "Christmas Eve",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2022-12-25",
    "name": "Christmas Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2022-12-31",
    "name": "New Year's Eve",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2023-01-01",
    "name": "New Year's Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2023-01-06",
    "name": "The Three Wise Men Day",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2023-01-09",
    "name": "Three Kings Day Holiday",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2023-01-14",
    "name": "Divina Pastora Day",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2023-02-20",
    "name": "Carnival / Shrove Monday",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2023-02-21",
    "name": "Carnival / Shrove Tuesday / Pancake Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2023-03-19",
    "name": "Saint Joseph's Day",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2023-04-02",
    "name": "Palm Sunday",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2023-04-06",
    "name": "Maundy Thursday",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2023-04-07",
    "name": "Good Friday",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2023-04-09",
    "name": "Easter Sunday",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2023-04-19",
    "name": "Declaration of Independence",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2023-05-01",
    "name": "Labor Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2023-05-18",
    "name": "Ascension Day",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2023-05-22",
    "name": "Ascension Day Holiday",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2023-06-08",
    "name": "Corpus Christi",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2023-06-12",
    "name": "Corpus Christi Holiday",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2023-06-13",
    "name": "St Anthony's Day",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2023-06-19",
    "name": "St Anthony's Day Holiday",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2023-06-24",
    "name": "Carabobo Battle",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2023-06-29",
    "name": "Saint Peter and Saint Paul",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2023-07-03",
    "name": "Saint Peter and Saint Paul Holiday",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2023-07-05",
    "name": "Independence Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2023-07-24",
    "name": "Simón Bolívar's Birthday",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2023-08-03",
    "name": "Flag's Day",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2023-08-04",
    "name": "National Guard's Day",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2023-08-14",
    "name": "Assumption of Mary Holiday",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2023-08-15",
    "name": "Assumption of Mary",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2023-09-11",
    "name": "Our Lady of Coromoto",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2023-10-12",
    "name": "Day of Indigenous Resistance",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2023-10-26",
    "name": "Dr. José Gregorio Hernández Day",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2023-10-30",
    "name": "Holiday for Dr. José Gregorio Hernández Day",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2023-11-01",
    "name": "All Saints Day",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2023-11-02",
    "name": "All Souls' Day",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2023-11-06",
    "name": "All Saints Day Holiday",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2023-11-18",
    "name": "Day of the Virgin of the Rosary of Chiquinquirá",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2023-11-27",
    "name": "Aviation Day",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2023-12-08",
    "name": "Feast of the Immaculate Conception",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2023-12-11",
    "name": "Holiday for Feast of the Immaculate Conception",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2023-12-24",
    "name": "Christmas Eve",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2023-12-25",
    "name": "Christmas Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2023-12-31",
    "name": "New Year's Eve",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2024-01-01",
    "name": "New Year's Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2024-01-06",
    "name": "The Three Wise Men Day",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2024-01-14",
    "name": "Divina Pastora Day",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2024-02-12",
    "name": "Carnival / Shrove Monday",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2024-02-13",
    "name": "Carnival / Shrove Tuesday / Pancake Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2024-03-19",
    "name": "Saint Joseph's Day",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2024-03-24",
    "name": "Palm Sunday",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2024-03-28",
    "name": "Maundy Thursday",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2024-03-29",
    "name": "Good Friday",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2024-03-31",
    "name": "Easter Sunday",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2024-04-19",
    "name": "Declaration of Independence",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2024-05-01",
    "name": "Labor Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2024-05-09",
    "name": "Ascension Day",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2024-05-13",
    "name": "Ascension Day Holiday",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2024-05-30",
    "name": "Corpus Christi",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2024-06-03",
    "name": "Corpus Christi Holiday",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2024-06-13",
    "name": "St Anthony's Day",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2024-06-17",
    "name": "St Anthony's Day Holiday",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2024-06-24",
    "name": "Carabobo Battle",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2024-06-29",
    "name": "Saint Peter and Saint Paul Holiday",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2024-07-05",
    "name": "Independence Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2024-07-24",
    "name": "Simón Bolívar's Birthday",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2024-08-03",
    "name": "Flag's Day",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2024-08-04",
    "name": "National Guard's Day",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2024-08-15",
    "name": "Assumption of Mary",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2024-08-19",
    "name": "Assumption of Mary Holiday",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2024-09-11",
    "name": "Our Lady of Coromoto",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2024-09-16",
    "name": "Our Lady of Coromoto Holiday",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2024-10-01",
    "name": "Christmas Holiday",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2024-10-12",
    "name": "Day of Indigenous Resistance",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2024-10-26",
    "name": "Dr. José Gregorio Hernández Day",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2024-11-01",
    "name": "All Saints Day",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2024-11-02",
    "name": "All Souls' Day",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2024-11-18",
    "name": "Day of the Virgin of the Rosary of Chiquinquirá",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2024-11-27",
    "name": "Aviation Day",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2024-12-08",
    "name": "Feast of the Immaculate Conception",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2024-12-24",
    "name": "Christmas Eve",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2024-12-25",
    "name": "Christmas Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2024-12-31",
    "name": "New Year's Eve",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2025-01-01",
    "name": "New Year's Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2025-01-06",
    "name": "The Three Wise Men Day",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2025-01-13",
    "name": "Holiday for Divina Pastora Day",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2025-01-14",
    "name": "Divina Pastora Day",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2025-03-03",
    "name": "Carnival / Shrove Monday",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2025-03-04",
    "name": "Carnival / Shrove Tuesday / Pancake Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2025-03-19",
    "name": "Saint Joseph's Day",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2025-04-13",
    "name": "Palm Sunday",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2025-04-17",
    "name": "Maundy Thursday",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2025-04-18",
    "name": "Good Friday",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2025-04-19",
    "name": "Declaration of Independence",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2025-04-20",
    "name": "Easter Sunday",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2025-05-01",
    "name": "Labor Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2025-05-15",
    "name": "Venezuelan Family Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2025-05-29",
    "name": "Ascension Day",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2025-06-02",
    "name": "Ascension Day Holiday",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2025-06-13",
    "name": "St Anthony's Day",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2025-06-16",
    "name": "St Anthony's Day Holiday",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2025-06-19",
    "name": "Corpus Christi",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2025-06-23",
    "name": "Corpus Christi Holiday",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2025-06-24",
    "name": "Carabobo Battle",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2025-06-29",
    "name": "Saint Peter and Saint Paul Holiday",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2025-07-05",
    "name": "Independence Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2025-07-24",
    "name": "Simón Bolívar's Birthday",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2025-08-03",
    "name": "Flag's Day",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2025-08-04",
    "name": "National Guard's Day",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2025-08-15",
    "name": "Assumption of Mary",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2025-08-18",
    "name": "Assumption of Mary Holiday",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2025-09-11",
    "name": "Our Lady of Coromoto",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2025-09-15",
    "name": "Our Lady of Coromoto Holiday",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2025-10-12",
    "name": "Day of Indigenous Resistance",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2025-10-26",
    "name": "Dr. José Gregorio Hernández Day",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2025-11-01",
    "name": "All Saints Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2025-11-02",
    "name": "All Souls' Day",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2025-11-18",
    "name": "Day of the Virgin of the Rosary of Chiquinquirá",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2025-11-24",
    "name": "Holiday for the Day of the Virgin of the Rosary of Chiquinquirá",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2025-11-27",
    "name": "Aviation Day",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2025-12-08",
    "name": "Feast of the Immaculate Conception",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2025-12-24",
    "name": "Christmas Eve",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2025-12-25",
    "name": "Christmas Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2025-12-31",
    "name": "New Year's Eve",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2026-01-01",
    "name": "New Year's Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2026-01-06",
    "name": "The Three Wise Men Day",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2026-01-12",
    "name": "Three Kings Day Holiday",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2026-01-14",
    "name": "Divina Pastora Day",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2026-01-19",
    "name": "Holiday for Divina Pastora Day",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2026-02-16",
    "name": "Carnival / Shrove Monday",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2026-02-17",
    "name": "Carnival / Shrove Tuesday / Pancake Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2026-03-18",
    "name": "World Baseball Classic Title Win Holiday",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2026-03-19",
    "name": "Saint Joseph's Day",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2026-03-29",
    "name": "Palm Sunday",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2026-04-02",
    "name": "Maundy Thursday",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2026-04-03",
    "name": "Good Friday",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2026-04-05",
    "name": "Easter Sunday",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2026-04-19",
    "name": "Declaration of Independence",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2026-05-01",
    "name": "Labor Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2026-05-14",
    "name": "Ascension Day",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2026-05-15",
    "name": "Venezuelan Family Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2026-05-18",
    "name": "Ascension Day Holiday",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2026-06-04",
    "name": "Corpus Christi",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2026-06-08",
    "name": "Corpus Christi Holiday",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2026-06-13",
    "name": "St Anthony's Day",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2026-06-24",
    "name": "Carabobo Battle",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2026-06-29",
    "name": "Saint Peter and Saint Paul Holiday",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2026-07-05",
    "name": "Independence Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2026-07-24",
    "name": "Simón Bolívar's Birthday",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2026-08-03",
    "name": "Flag's Day",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2026-08-04",
    "name": "National Guard's Day",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2026-08-15",
    "name": "Assumption of Mary",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2026-09-11",
    "name": "Our Lady of Coromoto",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2026-10-12",
    "name": "Day of Indigenous Resistance",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2026-10-26",
    "name": "Dr. José Gregorio Hernández Day",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2026-11-01",
    "name": "All Saints Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2026-11-02",
    "name": "All Souls' Day",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2026-11-18",
    "name": "Day of the Virgin of the Rosary of Chiquinquirá",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2026-11-23",
    "name": "Holiday for the Day of the Virgin of the Rosary of Chiquinquirá",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2026-11-27",
    "name": "Aviation Day",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2026-12-08",
    "name": "Feast of the Immaculate Conception",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2026-12-14",
    "name": "Holiday for Feast of the Immaculate Conception",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2026-12-24",
    "name": "Christmas Eve",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2026-12-25",
    "name": "Christmas Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2026-12-31",
    "name": "New Year's Eve",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2027-01-01",
    "name": "New Year's Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2027-01-14",
    "name": "Divina Pastora Day",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2027-02-08",
    "name": "Carnival / Shrove Monday",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2027-02-09",
    "name": "Carnival / Shrove Tuesday / Pancake Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2027-03-19",
    "name": "Saint Joseph's Day",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2027-03-21",
    "name": "Palm Sunday",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2027-03-25",
    "name": "Maundy Thursday",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2027-03-26",
    "name": "Good Friday",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2027-03-28",
    "name": "Easter Sunday",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2027-04-19",
    "name": "Declaration of Independence",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2027-05-01",
    "name": "Labor Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2027-05-06",
    "name": "Ascension Day",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2027-05-15",
    "name": "Venezuelan Family Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2027-05-27",
    "name": "Corpus Christi",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2027-06-13",
    "name": "St Anthony's Day",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2027-06-24",
    "name": "Carabobo Battle",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2027-06-29",
    "name": "Saint Peter and Saint Paul Holiday",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2027-07-05",
    "name": "Independence Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2027-07-24",
    "name": "Simón Bolívar's Birthday",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2027-08-03",
    "name": "Flag's Day",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2027-08-04",
    "name": "National Guard's Day",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2027-08-15",
    "name": "Assumption of Mary",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2027-09-11",
    "name": "Our Lady of Coromoto",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2027-10-12",
    "name": "Day of Indigenous Resistance",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2027-10-26",
    "name": "Dr. José Gregorio Hernández Day",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2027-11-01",
    "name": "All Saints Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2027-11-02",
    "name": "All Souls' Day",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2027-11-18",
    "name": "Day of the Virgin of the Rosary of Chiquinquirá",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2027-11-27",
    "name": "Aviation Day",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2027-12-08",
    "name": "Feast of the Immaculate Conception",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2027-12-24",
    "name": "Christmas Eve",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2027-12-25",
    "name": "Christmas Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2027-12-31",
    "name": "New Year's Eve",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2028-01-01",
    "name": "New Year's Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2028-01-14",
    "name": "Divina Pastora Day",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2028-02-28",
    "name": "Carnival / Shrove Monday",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2028-02-29",
    "name": "Carnival / Shrove Tuesday / Pancake Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2028-03-19",
    "name": "Saint Joseph's Day",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2028-04-09",
    "name": "Palm Sunday",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2028-04-13",
    "name": "Maundy Thursday",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2028-04-14",
    "name": "Good Friday",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2028-04-16",
    "name": "Easter Sunday",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2028-04-19",
    "name": "Declaration of Independence",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2028-05-01",
    "name": "Labor Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2028-05-15",
    "name": "Venezuelan Family Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2028-05-25",
    "name": "Ascension Day",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2028-06-13",
    "name": "St Anthony's Day",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2028-06-15",
    "name": "Corpus Christi",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2028-06-24",
    "name": "Carabobo Battle",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2028-06-29",
    "name": "Saint Peter and Saint Paul Holiday",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2028-07-05",
    "name": "Independence Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2028-07-24",
    "name": "Simón Bolívar's Birthday",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2028-08-03",
    "name": "Flag's Day",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2028-08-04",
    "name": "National Guard's Day",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2028-08-15",
    "name": "Assumption of Mary",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2028-09-11",
    "name": "Our Lady of Coromoto",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2028-10-12",
    "name": "Day of Indigenous Resistance",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2028-10-26",
    "name": "Dr. José Gregorio Hernández Day",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2028-11-01",
    "name": "All Saints Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2028-11-02",
    "name": "All Souls' Day",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2028-11-18",
    "name": "Day of the Virgin of the Rosary of Chiquinquirá",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2028-11-27",
    "name": "Aviation Day",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2028-12-08",
    "name": "Feast of the Immaculate Conception",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2028-12-24",
    "name": "Christmas Eve",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2028-12-25",
    "name": "Christmas Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2028-12-31",
    "name": "New Year's Eve",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2029-01-01",
    "name": "New Year's Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2029-01-14",
    "name": "Divina Pastora Day",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2029-02-12",
    "name": "Carnival / Shrove Monday",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2029-02-13",
    "name": "Carnival / Shrove Tuesday / Pancake Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2029-03-19",
    "name": "Saint Joseph's Day",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2029-03-25",
    "name": "Palm Sunday",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2029-03-29",
    "name": "Maundy Thursday",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2029-03-30",
    "name": "Good Friday",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2029-04-01",
    "name": "Easter Sunday",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2029-04-19",
    "name": "Declaration of Independence",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2029-05-01",
    "name": "Labor Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2029-05-10",
    "name": "Ascension Day",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2029-05-15",
    "name": "Venezuelan Family Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2029-05-31",
    "name": "Corpus Christi",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2029-06-13",
    "name": "St Anthony's Day",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2029-06-24",
    "name": "Carabobo Battle",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2029-06-29",
    "name": "Saint Peter and Saint Paul Holiday",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2029-07-05",
    "name": "Independence Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2029-07-24",
    "name": "Simón Bolívar's Birthday",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2029-08-03",
    "name": "Flag's Day",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2029-08-04",
    "name": "National Guard's Day",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2029-08-15",
    "name": "Assumption of Mary",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2029-09-11",
    "name": "Our Lady of Coromoto",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2029-10-12",
    "name": "Day of Indigenous Resistance",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2029-10-26",
    "name": "Dr. José Gregorio Hernández Day",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2029-11-01",
    "name": "All Saints Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2029-11-02",
    "name": "All Souls' Day",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2029-11-18",
    "name": "Day of the Virgin of the Rosary of Chiquinquirá",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2029-11-27",
    "name": "Aviation Day",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2029-12-08",
    "name": "Feast of the Immaculate Conception",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2029-12-24",
    "name": "Christmas Eve",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2029-12-25",
    "name": "Christmas Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2029-12-31",
    "name": "New Year's Eve",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2030-01-01",
    "name": "New Year's Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2030-01-14",
    "name": "Divina Pastora Day",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2030-03-04",
    "name": "Carnival / Shrove Monday",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2030-03-05",
    "name": "Carnival / Shrove Tuesday / Pancake Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2030-03-19",
    "name": "Saint Joseph's Day",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2030-04-14",
    "name": "Palm Sunday",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2030-04-18",
    "name": "Maundy Thursday",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2030-04-19",
    "name": "Declaration of Independence",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2030-04-19",
    "name": "Good Friday",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2030-04-21",
    "name": "Easter Sunday",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2030-05-01",
    "name": "Labor Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2030-05-15",
    "name": "Venezuelan Family Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2030-05-30",
    "name": "Ascension Day",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2030-06-13",
    "name": "St Anthony's Day",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2030-06-20",
    "name": "Corpus Christi",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2030-06-24",
    "name": "Carabobo Battle",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2030-06-29",
    "name": "Saint Peter and Saint Paul Holiday",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2030-07-05",
    "name": "Independence Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2030-07-24",
    "name": "Simón Bolívar's Birthday",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2030-08-03",
    "name": "Flag's Day",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2030-08-04",
    "name": "National Guard's Day",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2030-08-15",
    "name": "Assumption of Mary",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2030-09-11",
    "name": "Our Lady of Coromoto",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2030-10-12",
    "name": "Day of Indigenous Resistance",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2030-10-26",
    "name": "Dr. José Gregorio Hernández Day",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2030-11-01",
    "name": "All Saints Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2030-11-02",
    "name": "All Souls' Day",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2030-11-18",
    "name": "Day of the Virgin of the Rosary of Chiquinquirá",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2030-11-27",
    "name": "Aviation Day",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2030-12-08",
    "name": "Feast of the Immaculate Conception",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2030-12-24",
    "name": "Christmas Eve",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2030-12-25",
    "name": "Christmas Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2030-12-31",
    "name": "New Year's Eve",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2031-01-01",
    "name": "New Year's Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2031-01-14",
    "name": "Divina Pastora Day",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2031-02-24",
    "name": "Carnival / Shrove Monday",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2031-02-25",
    "name": "Carnival / Shrove Tuesday / Pancake Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2031-03-19",
    "name": "Saint Joseph's Day",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2031-04-06",
    "name": "Palm Sunday",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2031-04-10",
    "name": "Maundy Thursday",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2031-04-11",
    "name": "Good Friday",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2031-04-13",
    "name": "Easter Sunday",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2031-04-19",
    "name": "Declaration of Independence",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2031-05-01",
    "name": "Labor Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2031-05-15",
    "name": "Venezuelan Family Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2031-05-22",
    "name": "Ascension Day",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2031-06-12",
    "name": "Corpus Christi",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2031-06-13",
    "name": "St Anthony's Day",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2031-06-24",
    "name": "Carabobo Battle",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2031-06-29",
    "name": "Saint Peter and Saint Paul Holiday",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2031-07-05",
    "name": "Independence Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2031-07-24",
    "name": "Simón Bolívar's Birthday",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2031-08-03",
    "name": "Flag's Day",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2031-08-04",
    "name": "National Guard's Day",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2031-08-15",
    "name": "Assumption of Mary",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2031-09-11",
    "name": "Our Lady of Coromoto",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2031-10-12",
    "name": "Day of Indigenous Resistance",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2031-10-26",
    "name": "Dr. José Gregorio Hernández Day",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2031-11-01",
    "name": "All Saints Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2031-11-02",
    "name": "All Souls' Day",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2031-11-18",
    "name": "Day of the Virgin of the Rosary of Chiquinquirá",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2031-11-27",
    "name": "Aviation Day",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2031-12-08",
    "name": "Feast of the Immaculate Conception",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2031-12-24",
    "name": "Christmas Eve",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2031-12-25",
    "name": "Christmas Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2031-12-31",
    "name": "New Year's Eve",
-   "type": "Public holiday"
+   "type": "public"
   }
  ]
 }

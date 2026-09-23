@@ -5,37 +5,37 @@
  "from": 2021,
  "to": 2031,
  "count": 292,
- "fetchedAt": "2026-09-23T12:14:40.668Z",
+ "fetchedAt": "2026-09-23T12:37:49.924Z",
  "events": [
   {
    "date": "2021-01-01",
    "name": "New Year's Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2021-01-02",
    "name": "New Year's (Day 2)",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2021-01-06",
    "name": "Orthodox Christmas Eve",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2021-01-07",
    "name": "Orthodox Christmas Day",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2021-02-14",
    "name": "Valentine's Day",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2021-03-01",
    "name": "Independence Day (Federation of Bosnia and Herzegovina)",
-   "type": "Public holiday",
+   "type": "public",
    "regions": [
     "Federation of Bosnia and Herzegovina"
    ]
@@ -43,62 +43,62 @@
   {
    "date": "2021-03-08",
    "name": "Mothers' Day",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2021-04-02",
    "name": "Good Friday",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2021-04-03",
    "name": "Holy Saturday",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2021-04-04",
    "name": "Easter Sunday",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2021-04-05",
    "name": "Easter Monday",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2021-04-30",
    "name": "Orthodox Good Friday",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2021-05-01",
    "name": "Labor Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2021-05-01",
    "name": "Orthodox Holy Saturday",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2021-05-02",
    "name": "Orthodox Easter Sunday",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2021-05-03",
    "name": "Labor Day (Day 2)",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2021-05-03",
    "name": "Orthodox Easter Monday",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2021-05-09",
    "name": "Victory Day (Federation of Bosnia and Herzegovina)",
-   "type": "Observance",
+   "type": "observance",
    "regions": [
     "Federation of Bosnia and Herzegovina"
    ]
@@ -106,27 +106,27 @@
   {
    "date": "2021-05-13",
    "name": "Eid al-Fitr",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2021-06-20",
    "name": "Fathers' Day",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2021-07-20",
    "name": "Feast of the Sacrifice",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2021-10-31",
    "name": "Halloween",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2021-12-24",
    "name": "Christmas Eve (regional holiday)",
-   "type": "Observance",
+   "type": "observance",
    "regions": [
     "Republika Srpska",
     "Federation of Bosnia and Herzegovina"
@@ -135,47 +135,47 @@
   {
    "date": "2021-12-25",
    "name": "Christmas Day",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2021-12-31",
    "name": "New Year's Eve",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2022-01-01",
    "name": "New Year's Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2022-01-02",
    "name": "New Year's (Day 2)",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2022-01-03",
    "name": "New Year Holiday",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2022-01-06",
    "name": "Orthodox Christmas Eve",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2022-01-07",
    "name": "Orthodox Christmas Day",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2022-02-14",
    "name": "Valentine's Day",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2022-03-01",
    "name": "Independence Day (Federation of Bosnia and Herzegovina)",
-   "type": "Public holiday",
+   "type": "public",
    "regions": [
     "Federation of Bosnia and Herzegovina"
    ]
@@ -183,72 +183,72 @@
   {
    "date": "2022-03-08",
    "name": "Mothers' Day",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2022-04-15",
    "name": "Good Friday",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2022-04-16",
    "name": "Holy Saturday",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2022-04-17",
    "name": "Easter Sunday",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2022-04-18",
    "name": "Easter Monday",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2022-04-22",
    "name": "Orthodox Good Friday",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2022-04-23",
    "name": "Orthodox Holy Saturday",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2022-04-24",
    "name": "Orthodox Easter Sunday",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2022-04-25",
    "name": "Orthodox Easter Monday",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2022-05-01",
    "name": "Labor Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2022-05-02",
    "name": "Eid al-Fitr",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2022-05-02",
    "name": "Labor Day observed",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2022-05-03",
    "name": "Labor Day (Day 2)",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2022-05-09",
    "name": "Victory Day (Federation of Bosnia and Herzegovina)",
-   "type": "Observance",
+   "type": "observance",
    "regions": [
     "Federation of Bosnia and Herzegovina"
    ]
@@ -256,22 +256,22 @@
   {
    "date": "2022-06-19",
    "name": "Fathers' Day",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2022-07-09",
    "name": "Feast of the Sacrifice",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2022-10-31",
    "name": "Halloween",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2022-12-24",
    "name": "Christmas Eve (regional holiday)",
-   "type": "Observance",
+   "type": "observance",
    "regions": [
     "Republika Srpska",
     "Federation of Bosnia and Herzegovina"
@@ -280,42 +280,42 @@
   {
    "date": "2022-12-25",
    "name": "Christmas Day",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2022-12-31",
    "name": "New Year's Eve",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2023-01-01",
    "name": "New Year's Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2023-01-02",
    "name": "New Year's (Day 2)",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2023-01-06",
    "name": "Orthodox Christmas Eve",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2023-01-07",
    "name": "Orthodox Christmas Day",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2023-02-14",
    "name": "Valentine's Day",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2023-03-01",
    "name": "Independence Day (Federation of Bosnia and Herzegovina)",
-   "type": "Public holiday",
+   "type": "public",
    "regions": [
     "Federation of Bosnia and Herzegovina"
    ]
@@ -323,77 +323,77 @@
   {
    "date": "2023-03-08",
    "name": "Mothers' Day",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2023-03-23",
    "name": "Ramadan Start",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2023-04-07",
    "name": "Good Friday",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2023-04-08",
    "name": "Holy Saturday",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2023-04-09",
    "name": "Easter Sunday",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2023-04-10",
    "name": "Easter Monday",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2023-04-14",
    "name": "Orthodox Good Friday",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2023-04-15",
    "name": "Orthodox Holy Saturday",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2023-04-16",
    "name": "Orthodox Easter Sunday",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2023-04-17",
    "name": "Orthodox Easter Monday",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2023-04-21",
    "name": "Eid al-Fitr",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2023-04-22",
    "name": "End of Ramadan Holiday",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2023-05-01",
    "name": "Labor Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2023-05-02",
    "name": "Labor Day (Day 2)",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2023-05-09",
    "name": "Victory Day (Federation of Bosnia and Herzegovina)",
-   "type": "Observance",
+   "type": "observance",
    "regions": [
     "Federation of Bosnia and Herzegovina"
    ]
@@ -401,22 +401,22 @@
   {
    "date": "2023-06-18",
    "name": "Fathers' Day",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2023-06-28",
    "name": "Feast of the Sacrifice",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2023-10-31",
    "name": "Halloween",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2023-12-24",
    "name": "Christmas Eve (regional holiday)",
-   "type": "Observance",
+   "type": "observance",
    "regions": [
     "Republika Srpska",
     "Federation of Bosnia and Herzegovina"
@@ -425,42 +425,42 @@
   {
    "date": "2023-12-25",
    "name": "Christmas Day",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2023-12-31",
    "name": "New Year's Eve",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2024-01-01",
    "name": "New Year's Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2024-01-02",
    "name": "New Year's (Day 2)",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2024-01-06",
    "name": "Orthodox Christmas Eve",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2024-01-07",
    "name": "Orthodox Christmas Day",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2024-02-14",
    "name": "Valentine's Day",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2024-03-01",
    "name": "Independence Day (Federation of Bosnia and Herzegovina)",
-   "type": "Public holiday",
+   "type": "public",
    "regions": [
     "Federation of Bosnia and Herzegovina"
    ]
@@ -468,77 +468,77 @@
   {
    "date": "2024-03-08",
    "name": "Mothers' Day",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2024-03-11",
    "name": "Ramadan Start",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2024-03-29",
    "name": "Good Friday",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2024-03-30",
    "name": "Holy Saturday",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2024-03-31",
    "name": "Easter Sunday",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2024-04-01",
    "name": "Easter Monday",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2024-04-10",
    "name": "Eid al-Fitr",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2024-04-11",
    "name": "End of Ramadan Holiday",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2024-05-01",
    "name": "Labor Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2024-05-02",
    "name": "Labor Day (Day 2)",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2024-05-03",
    "name": "Orthodox Good Friday",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2024-05-04",
    "name": "Orthodox Holy Saturday",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2024-05-05",
    "name": "Orthodox Easter Sunday",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2024-05-06",
    "name": "Orthodox Easter Monday",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2024-05-09",
    "name": "Victory Day (Federation of Bosnia and Herzegovina)",
-   "type": "Observance",
+   "type": "observance",
    "regions": [
     "Federation of Bosnia and Herzegovina"
    ]
@@ -546,27 +546,27 @@
   {
    "date": "2024-06-15",
    "name": "Feast of the Sacrifice Day Holiday",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2024-06-16",
    "name": "Fathers' Day",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2024-06-16",
    "name": "Feast of the Sacrifice",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2024-10-31",
    "name": "Halloween",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2024-12-24",
    "name": "Christmas Eve (regional holiday)",
-   "type": "Observance",
+   "type": "observance",
    "regions": [
     "Republika Srpska",
     "Federation of Bosnia and Herzegovina"
@@ -575,42 +575,42 @@
   {
    "date": "2024-12-25",
    "name": "Christmas Day",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2024-12-31",
    "name": "New Year's Eve",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2025-01-01",
    "name": "New Year's Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2025-01-02",
    "name": "New Year's (Day 2)",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2025-01-06",
    "name": "Orthodox Christmas Eve",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2025-01-07",
    "name": "Orthodox Christmas Day",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2025-02-14",
    "name": "Valentine's Day",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2025-03-01",
    "name": "Independence Day (Federation of Bosnia and Herzegovina)",
-   "type": "Public holiday",
+   "type": "public",
    "regions": [
     "Federation of Bosnia and Herzegovina"
    ]
@@ -618,72 +618,72 @@
   {
    "date": "2025-03-01",
    "name": "Ramadan Start",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2025-03-08",
    "name": "Mothers' Day",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2025-03-30",
    "name": "Eid al-Fitr",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2025-04-18",
    "name": "Good Friday",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2025-04-18",
    "name": "Orthodox Good Friday",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2025-04-19",
    "name": "Holy Saturday",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2025-04-19",
    "name": "Orthodox Holy Saturday",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2025-04-20",
    "name": "Easter Sunday",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2025-04-20",
    "name": "Orthodox Easter Sunday",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2025-04-21",
    "name": "Easter Monday",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2025-04-21",
    "name": "Orthodox Easter Monday",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2025-05-01",
    "name": "Labor Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2025-05-02",
    "name": "Labor Day (Day 2)",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2025-05-09",
    "name": "Victory Day (Federation of Bosnia and Herzegovina)",
-   "type": "Observance",
+   "type": "observance",
    "regions": [
     "Federation of Bosnia and Herzegovina"
    ]
@@ -691,22 +691,22 @@
   {
    "date": "2025-06-06",
    "name": "Feast of the Sacrifice",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2025-06-15",
    "name": "Fathers' Day",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2025-10-31",
    "name": "Halloween",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2025-12-24",
    "name": "Christmas Eve (regional holiday)",
-   "type": "Observance",
+   "type": "observance",
    "regions": [
     "Republika Srpska",
     "Federation of Bosnia and Herzegovina"
@@ -715,47 +715,47 @@
   {
    "date": "2025-12-25",
    "name": "Christmas Day",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2025-12-31",
    "name": "New Year's Eve",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2026-01-01",
    "name": "New Year's Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2026-01-02",
    "name": "New Year's (Day 2)",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2026-01-06",
    "name": "Orthodox Christmas Eve",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2026-01-07",
    "name": "Orthodox Christmas Day",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2026-02-14",
    "name": "Valentine's Day",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2026-02-19",
    "name": "Ramadan Start",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2026-03-01",
    "name": "Independence Day (Federation of Bosnia and Herzegovina)",
-   "type": "Public holiday",
+   "type": "public",
    "regions": [
     "Federation of Bosnia and Herzegovina"
    ]
@@ -763,7 +763,7 @@
   {
    "date": "2026-03-02",
    "name": "Day off for Independence Day (Federation of Bosnia and Herzegovina)",
-   "type": "Public holiday",
+   "type": "public",
    "regions": [
     "Federation of Bosnia and Herzegovina"
    ]
@@ -771,67 +771,67 @@
   {
    "date": "2026-03-08",
    "name": "Mothers' Day",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2026-03-20",
    "name": "Eid al-Fitr",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2026-04-03",
    "name": "Good Friday",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2026-04-04",
    "name": "Holy Saturday",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2026-04-05",
    "name": "Easter Sunday",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2026-04-06",
    "name": "Easter Monday",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2026-04-10",
    "name": "Orthodox Good Friday",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2026-04-11",
    "name": "Orthodox Holy Saturday",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2026-04-12",
    "name": "Orthodox Easter Sunday",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2026-04-13",
    "name": "Orthodox Easter Monday",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2026-05-01",
    "name": "Labor Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2026-05-02",
    "name": "Labor Day (Day 2)",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2026-05-09",
    "name": "Victory Day (Federation of Bosnia and Herzegovina)",
-   "type": "Observance",
+   "type": "observance",
    "regions": [
     "Federation of Bosnia and Herzegovina"
    ]
@@ -839,22 +839,22 @@
   {
    "date": "2026-05-27",
    "name": "Feast of the Sacrifice",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2026-06-21",
    "name": "Fathers' Day",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2026-10-31",
    "name": "Halloween",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2026-12-24",
    "name": "Christmas Eve (regional holiday)",
-   "type": "Observance",
+   "type": "observance",
    "regions": [
     "Republika Srpska",
     "Federation of Bosnia and Herzegovina"
@@ -863,47 +863,47 @@
   {
    "date": "2026-12-25",
    "name": "Christmas Day",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2026-12-31",
    "name": "New Year's Eve",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2027-01-01",
    "name": "New Year's Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2027-01-02",
    "name": "New Year's (Day 2)",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2027-01-06",
    "name": "Orthodox Christmas Eve",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2027-01-07",
    "name": "Orthodox Christmas Day",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2027-02-08",
    "name": "Ramadan Start (tentative)",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2027-02-14",
    "name": "Valentine's Day",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2027-03-01",
    "name": "Independence Day (Federation of Bosnia and Herzegovina)",
-   "type": "Public holiday",
+   "type": "public",
    "regions": [
     "Federation of Bosnia and Herzegovina"
    ]
@@ -911,67 +911,67 @@
   {
    "date": "2027-03-08",
    "name": "Mothers' Day",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2027-03-10",
    "name": "Eid al-Fitr (tentative)",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2027-03-26",
    "name": "Good Friday",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2027-03-27",
    "name": "Holy Saturday",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2027-03-28",
    "name": "Easter Sunday",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2027-03-29",
    "name": "Easter Monday",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2027-04-30",
    "name": "Orthodox Good Friday",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2027-05-01",
    "name": "Labor Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2027-05-01",
    "name": "Orthodox Holy Saturday",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2027-05-02",
    "name": "Orthodox Easter Sunday",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2027-05-03",
    "name": "Labor Day (Day 2)",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2027-05-03",
    "name": "Orthodox Easter Monday",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2027-05-09",
    "name": "Victory Day (Federation of Bosnia and Herzegovina)",
-   "type": "Observance",
+   "type": "observance",
    "regions": [
     "Federation of Bosnia and Herzegovina"
    ]
@@ -979,22 +979,22 @@
   {
    "date": "2027-05-17",
    "name": "Feast of the Sacrifice (tentative)",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2027-06-20",
    "name": "Fathers' Day",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2027-10-31",
    "name": "Halloween",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2027-12-24",
    "name": "Christmas Eve (regional holiday)",
-   "type": "Observance",
+   "type": "observance",
    "regions": [
     "Republika Srpska",
     "Federation of Bosnia and Herzegovina"
@@ -1003,57 +1003,57 @@
   {
    "date": "2027-12-25",
    "name": "Christmas Day",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2027-12-31",
    "name": "New Year's Eve",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2028-01-01",
    "name": "New Year's Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2028-01-02",
    "name": "New Year's (Day 2)",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2028-01-03",
    "name": "New Year Holiday",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2028-01-06",
    "name": "Orthodox Christmas Eve",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2028-01-07",
    "name": "Orthodox Christmas Day",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2028-01-28",
    "name": "Ramadan Start (tentative)",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2028-02-14",
    "name": "Valentine's Day",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2028-02-27",
    "name": "Eid al-Fitr (tentative)",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2028-03-01",
    "name": "Independence Day (Federation of Bosnia and Herzegovina)",
-   "type": "Public holiday",
+   "type": "public",
    "regions": [
     "Federation of Bosnia and Herzegovina"
    ]
@@ -1061,67 +1061,67 @@
   {
    "date": "2028-03-08",
    "name": "Mothers' Day",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2028-04-14",
    "name": "Good Friday",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2028-04-14",
    "name": "Orthodox Good Friday",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2028-04-15",
    "name": "Holy Saturday",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2028-04-15",
    "name": "Orthodox Holy Saturday",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2028-04-16",
    "name": "Easter Sunday",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2028-04-16",
    "name": "Orthodox Easter Sunday",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2028-04-17",
    "name": "Easter Monday",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2028-04-17",
    "name": "Orthodox Easter Monday",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2028-05-01",
    "name": "Labor Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2028-05-02",
    "name": "Labor Day (Day 2)",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2028-05-05",
    "name": "Feast of the Sacrifice (tentative)",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2028-05-09",
    "name": "Victory Day (Federation of Bosnia and Herzegovina)",
-   "type": "Observance",
+   "type": "observance",
    "regions": [
     "Federation of Bosnia and Herzegovina"
    ]
@@ -1129,17 +1129,17 @@
   {
    "date": "2028-06-18",
    "name": "Fathers' Day",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2028-10-31",
    "name": "Halloween",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2028-12-24",
    "name": "Christmas Eve (regional holiday)",
-   "type": "Observance",
+   "type": "observance",
    "regions": [
     "Republika Srpska",
     "Federation of Bosnia and Herzegovina"
@@ -1148,52 +1148,52 @@
   {
    "date": "2028-12-25",
    "name": "Christmas Day",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2028-12-31",
    "name": "New Year's Eve",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2029-01-01",
    "name": "New Year's Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2029-01-02",
    "name": "New Year's (Day 2)",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2029-01-06",
    "name": "Orthodox Christmas Eve",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2029-01-07",
    "name": "Orthodox Christmas Day",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2029-01-16",
    "name": "Ramadan Start (tentative)",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2029-02-14",
    "name": "Valentine's Day",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2029-02-15",
    "name": "Eid al-Fitr (tentative)",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2029-03-01",
    "name": "Independence Day (Federation of Bosnia and Herzegovina)",
-   "type": "Public holiday",
+   "type": "public",
    "regions": [
     "Federation of Bosnia and Herzegovina"
    ]
@@ -1201,67 +1201,67 @@
   {
    "date": "2029-03-08",
    "name": "Mothers' Day",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2029-03-30",
    "name": "Good Friday",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2029-03-31",
    "name": "Holy Saturday",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2029-04-01",
    "name": "Easter Sunday",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2029-04-02",
    "name": "Easter Monday",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2029-04-06",
    "name": "Orthodox Good Friday",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2029-04-07",
    "name": "Orthodox Holy Saturday",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2029-04-08",
    "name": "Orthodox Easter Sunday",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2029-04-09",
    "name": "Orthodox Easter Monday",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2029-04-24",
    "name": "Feast of the Sacrifice (tentative)",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2029-05-01",
    "name": "Labor Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2029-05-02",
    "name": "Labor Day (Day 2)",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2029-05-09",
    "name": "Victory Day (Federation of Bosnia and Herzegovina)",
-   "type": "Observance",
+   "type": "observance",
    "regions": [
     "Federation of Bosnia and Herzegovina"
    ]
@@ -1269,17 +1269,17 @@
   {
    "date": "2029-06-17",
    "name": "Fathers' Day",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2029-10-31",
    "name": "Halloween",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2029-12-24",
    "name": "Christmas Eve (regional holiday)",
-   "type": "Observance",
+   "type": "observance",
    "regions": [
     "Republika Srpska",
     "Federation of Bosnia and Herzegovina"
@@ -1288,52 +1288,52 @@
   {
    "date": "2029-12-25",
    "name": "Christmas Day",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2029-12-31",
    "name": "New Year's Eve",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2030-01-01",
    "name": "New Year's Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2030-01-02",
    "name": "New Year's (Day 2)",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2030-01-06",
    "name": "Orthodox Christmas Eve",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2030-01-06",
    "name": "Ramadan Start (tentative)",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2030-01-07",
    "name": "Orthodox Christmas Day",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2030-02-05",
    "name": "Eid al-Fitr (tentative)",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2030-02-14",
    "name": "Valentine's Day",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2030-03-01",
    "name": "Independence Day (Federation of Bosnia and Herzegovina)",
-   "type": "Public holiday",
+   "type": "public",
    "regions": [
     "Federation of Bosnia and Herzegovina"
    ]
@@ -1341,67 +1341,67 @@
   {
    "date": "2030-03-08",
    "name": "Mothers' Day",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2030-04-14",
    "name": "Feast of the Sacrifice (tentative)",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2030-04-19",
    "name": "Good Friday",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2030-04-20",
    "name": "Holy Saturday",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2030-04-21",
    "name": "Easter Sunday",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2030-04-22",
    "name": "Easter Monday",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2030-04-26",
    "name": "Orthodox Good Friday",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2030-04-27",
    "name": "Orthodox Holy Saturday",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2030-04-28",
    "name": "Orthodox Easter Sunday",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2030-04-29",
    "name": "Orthodox Easter Monday",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2030-05-01",
    "name": "Labor Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2030-05-02",
    "name": "Labor Day (Day 2)",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2030-05-09",
    "name": "Victory Day (Federation of Bosnia and Herzegovina)",
-   "type": "Observance",
+   "type": "observance",
    "regions": [
     "Federation of Bosnia and Herzegovina"
    ]
@@ -1409,17 +1409,17 @@
   {
    "date": "2030-06-16",
    "name": "Fathers' Day",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2030-10-31",
    "name": "Halloween",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2030-12-24",
    "name": "Christmas Eve (regional holiday)",
-   "type": "Observance",
+   "type": "observance",
    "regions": [
     "Republika Srpska",
     "Federation of Bosnia and Herzegovina"
@@ -1428,52 +1428,52 @@
   {
    "date": "2030-12-25",
    "name": "Christmas Day",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2030-12-26",
    "name": "Ramadan Start (tentative)",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2030-12-31",
    "name": "New Year's Eve",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2031-01-01",
    "name": "New Year's Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2031-01-02",
    "name": "New Year's (Day 2)",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2031-01-06",
    "name": "Orthodox Christmas Eve",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2031-01-07",
    "name": "Orthodox Christmas Day",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2031-01-25",
    "name": "Eid al-Fitr (tentative)",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2031-02-14",
    "name": "Valentine's Day",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2031-03-01",
    "name": "Independence Day (Federation of Bosnia and Herzegovina)",
-   "type": "Public holiday",
+   "type": "public",
    "regions": [
     "Federation of Bosnia and Herzegovina"
    ]
@@ -1481,67 +1481,67 @@
   {
    "date": "2031-03-08",
    "name": "Mothers' Day",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2031-04-03",
    "name": "Feast of the Sacrifice (tentative)",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2031-04-11",
    "name": "Good Friday",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2031-04-11",
    "name": "Orthodox Good Friday",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2031-04-12",
    "name": "Holy Saturday",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2031-04-12",
    "name": "Orthodox Holy Saturday",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2031-04-13",
    "name": "Easter Sunday",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2031-04-13",
    "name": "Orthodox Easter Sunday",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2031-04-14",
    "name": "Easter Monday",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2031-04-14",
    "name": "Orthodox Easter Monday",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2031-05-01",
    "name": "Labor Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2031-05-02",
    "name": "Labor Day (Day 2)",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2031-05-09",
    "name": "Victory Day (Federation of Bosnia and Herzegovina)",
-   "type": "Observance",
+   "type": "observance",
    "regions": [
     "Federation of Bosnia and Herzegovina"
    ]
@@ -1549,22 +1549,22 @@
   {
    "date": "2031-06-15",
    "name": "Fathers' Day",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2031-10-31",
    "name": "Halloween",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2031-12-15",
    "name": "Ramadan Start (tentative)",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2031-12-24",
    "name": "Christmas Eve (regional holiday)",
-   "type": "Observance",
+   "type": "observance",
    "regions": [
     "Republika Srpska",
     "Federation of Bosnia and Herzegovina"
@@ -1573,12 +1573,12 @@
   {
    "date": "2031-12-25",
    "name": "Christmas Day",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2031-12-31",
    "name": "New Year's Eve",
-   "type": "Observance"
+   "type": "observance"
   }
  ]
 }

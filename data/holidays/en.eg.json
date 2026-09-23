@@ -5,1712 +5,1712 @@
  "from": 2021,
  "to": 2031,
  "count": 341,
- "fetchedAt": "2026-09-23T12:14:40.765Z",
+ "fetchedAt": "2026-09-23T12:37:49.970Z",
  "events": [
   {
    "date": "2021-01-01",
    "name": "January 1 Bank Holiday",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2021-01-07",
    "name": "Coptic Christmas Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2021-01-25",
    "name": "Revolution Day January 25",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2021-01-28",
    "name": "Day off for Revolution Day January 25",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2021-04-25",
    "name": "Sinai Liberation Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2021-04-29",
    "name": "Coptic Maundy Thursday",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2021-04-29",
    "name": "Day off for Sinai Liberation Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2021-04-30",
    "name": "Coptic Good Friday",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2021-05-01",
    "name": "Coptic Holy Saturday",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2021-05-01",
    "name": "Labor Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2021-05-02",
    "name": "Coptic Easter Sunday",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2021-05-03",
    "name": "Spring Festival",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2021-05-12",
    "name": "Eid el Fitr Holiday",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2021-05-13",
    "name": "Eid el Fitr",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2021-05-14",
    "name": "Eid el Fitr Holiday",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2021-05-15",
    "name": "Eid el Fitr Holiday",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2021-05-16",
    "name": "Eid el Fitr Holiday",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2021-06-30",
    "name": "June 30 Revolution",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2021-07-01",
    "name": "Day off for June 30 Revolution",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2021-07-01",
    "name": "July 1 Bank Holiday",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2021-07-17",
    "name": "Eid al-Adha Holiday",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2021-07-18",
    "name": "Eid al-Adha Holiday",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2021-07-19",
    "name": "Arafat Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2021-07-20",
    "name": "Eid al-Adha",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2021-07-21",
    "name": "Eid al-Adha Holiday",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2021-07-22",
    "name": "Eid al-Adha Holiday",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2021-07-23",
    "name": "Eid al-Adha Holiday",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2021-07-23",
    "name": "Revolution Day July 23",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2021-07-24",
    "name": "Eid al-Adha Holiday",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2021-08-09",
    "name": "Muharram",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2021-08-12",
    "name": "Muharram",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2021-08-15",
    "name": "Flooding of the Nile",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2021-08-19",
    "name": "Ashura",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2021-09-11",
    "name": "Nayrouz",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2021-10-06",
    "name": "Armed Forces Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2021-10-07",
    "name": "Day off for Armed Forces Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2021-10-21",
    "name": "Prophet Mohamed's Birthday",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2022-01-06",
    "name": "Day off for Coptic Christmas Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2022-01-07",
    "name": "Coptic Christmas Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2022-01-25",
    "name": "Revolution Day January 25",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2022-01-27",
    "name": "Day off for Revolution Day January 25",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2022-04-21",
    "name": "Coptic Maundy Thursday",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2022-04-22",
    "name": "Coptic Good Friday",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2022-04-23",
    "name": "Coptic Holy Saturday",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2022-04-24",
    "name": "Coptic Easter Sunday",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2022-04-25",
    "name": "Sinai Liberation Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2022-04-25",
    "name": "Spring Festival",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2022-04-30",
    "name": "Eid el Fitr Holiday",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2022-05-01",
    "name": "Labor Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2022-05-02",
    "name": "Eid el Fitr",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2022-05-03",
    "name": "Eid el Fitr Holiday",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2022-05-04",
    "name": "Eid el Fitr Holiday",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2022-05-05",
    "name": "Eid el Fitr Holiday",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2022-06-30",
    "name": "June 30 Revolution",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2022-07-08",
    "name": "Arafat Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2022-07-09",
    "name": "Eid al-Adha",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2022-07-10",
    "name": "Eid al-Adha Holiday",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2022-07-11",
    "name": "Eid al-Adha Holiday",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2022-07-12",
    "name": "Eid al-Adha Holiday",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2022-07-13",
    "name": "Eid al-Adha Public Sector Holiday",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2022-07-14",
    "name": "Eid al-Adha Public Sector Holiday",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2022-07-23",
    "name": "Revolution Day July 23",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2022-07-30",
    "name": "Muharram",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2022-08-08",
    "name": "Ashura",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2022-08-15",
    "name": "Flooding of the Nile",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2022-09-11",
    "name": "Nayrouz",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2022-10-06",
    "name": "Armed Forces Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2022-10-08",
    "name": "Prophet Mohamed's Birthday",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2023-01-07",
    "name": "Coptic Christmas Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2023-01-25",
    "name": "Revolution Day January 25",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2023-01-26",
    "name": "Day off for Revolution Day January 25",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2023-03-23",
    "name": "Ramadan Start",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2023-04-13",
    "name": "Coptic Maundy Thursday",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2023-04-14",
    "name": "Coptic Good Friday",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2023-04-15",
    "name": "Coptic Holy Saturday",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2023-04-16",
    "name": "Coptic Easter Sunday",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2023-04-17",
    "name": "Spring Festival",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2023-04-20",
    "name": "Eid el Fitr Holiday",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2023-04-21",
    "name": "Eid el Fitr",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2023-04-22",
    "name": "Eid el Fitr Holiday",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2023-04-23",
    "name": "Eid el Fitr Holiday",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2023-04-24",
    "name": "Eid el Fitr Holiday",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2023-04-25",
    "name": "Sinai Liberation Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2023-05-01",
    "name": "Labor Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2023-05-04",
    "name": "Day off for Labor Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2023-06-27",
    "name": "Arafat Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2023-06-28",
    "name": "Eid al-Adha",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2023-06-29",
    "name": "Eid al-Adha Holiday",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2023-06-30",
    "name": "Eid al-Adha Holiday",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2023-06-30",
    "name": "June 30 Revolution",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2023-07-01",
    "name": "Eid al-Adha Holiday",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2023-07-02",
    "name": "Day off for June 30 Revolution",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2023-07-03",
    "name": "Public Holiday",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2023-07-19",
    "name": "Muharram",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2023-07-20",
    "name": "Day off for Muharram",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2023-07-23",
    "name": "Revolution Day July 23",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2023-07-28",
    "name": "Ashura",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2023-08-15",
    "name": "Flooding of the Nile",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2023-09-12",
    "name": "Nayrouz",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2023-09-28",
    "name": "Prophet Mohamed's Birthday",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2023-10-05",
    "name": "Day off for Armed Forces Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2023-10-06",
    "name": "Armed Forces Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2024-01-07",
    "name": "Coptic Christmas Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2024-01-25",
    "name": "Revolution Day January 25",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2024-03-11",
    "name": "Ramadan Start",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2024-04-09",
    "name": "Eid el Fitr Holiday",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2024-04-10",
    "name": "Eid el Fitr",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2024-04-11",
    "name": "Eid el Fitr Holiday",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2024-04-12",
    "name": "Eid el Fitr Holiday",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2024-04-13",
    "name": "Eid el Fitr Holiday",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2024-04-14",
    "name": "Eid el Fitr Holiday",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2024-04-25",
    "name": "Sinai Liberation Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2024-05-01",
    "name": "Labor Day",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2024-05-02",
    "name": "Coptic Maundy Thursday",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2024-05-02",
    "name": "Labor Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2024-05-03",
    "name": "Coptic Good Friday",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2024-05-04",
    "name": "Coptic Holy Saturday",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2024-05-05",
    "name": "Coptic Easter Sunday",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2024-05-05",
    "name": "Labor Day Holiday",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2024-05-06",
    "name": "Spring Festival",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2024-06-15",
    "name": "Arafat Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2024-06-16",
    "name": "Eid al-Adha",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2024-06-17",
    "name": "Eid al-Adha Holiday",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2024-06-18",
    "name": "Eid al-Adha Holiday",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2024-06-19",
    "name": "Eid al-Adha Holiday",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2024-06-20",
    "name": "Eid al-Adha Holiday",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2024-06-30",
    "name": "June 30 Revolution",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2024-07-07",
    "name": "Muharram",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2024-07-11",
    "name": "Day off for Muharram",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2024-07-16",
    "name": "Ashura",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2024-07-23",
    "name": "Revolution Day July 23",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2024-07-25",
    "name": "Day off for Revolution Day July 23",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2024-08-15",
    "name": "Flooding of the Nile",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2024-09-11",
    "name": "Nayrouz",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2024-09-15",
    "name": "Prophet Mohamed's Birthday",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2024-10-06",
    "name": "Armed Forces Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2025-01-07",
    "name": "Coptic Christmas Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2025-01-25",
    "name": "Revolution Day January 25",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2025-03-01",
    "name": "Ramadan Start",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2025-03-29",
    "name": "Eid el Fitr Holiday",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2025-03-30",
    "name": "Eid el Fitr Holiday",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2025-03-31",
    "name": "Eid el Fitr",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2025-04-01",
    "name": "Eid el Fitr Holiday",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2025-04-02",
    "name": "Eid el Fitr Holiday",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2025-04-17",
    "name": "Coptic Maundy Thursday",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2025-04-18",
    "name": "Coptic Good Friday",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2025-04-19",
    "name": "Coptic Holy Saturday",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2025-04-20",
    "name": "Coptic Easter Sunday",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2025-04-21",
    "name": "Spring Festival",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2025-04-24",
    "name": "Day off for Sinai Liberation Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2025-04-25",
    "name": "Sinai Liberation Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2025-05-01",
    "name": "Labor Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2025-06-05",
    "name": "Arafat Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2025-06-06",
    "name": "Eid al-Adha",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2025-06-07",
    "name": "Eid al-Adha Holiday",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2025-06-08",
    "name": "Eid al-Adha Holiday",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2025-06-09",
    "name": "Eid al-Adha Holiday",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2025-06-26",
    "name": "Muharram",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2025-06-30",
    "name": "June 30 Revolution",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2025-07-03",
    "name": "Day off for June 30 Revolution",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2025-07-05",
    "name": "Ashura",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2025-07-23",
    "name": "Revolution Day July 23",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2025-07-24",
    "name": "Day off for Revolution Day July 23",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2025-08-15",
    "name": "Flooding of the Nile",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2025-09-04",
    "name": "Prophet Mohamed's Birthday",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2025-09-11",
    "name": "Nayrouz",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2025-10-06",
    "name": "Armed Forces Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2025-10-09",
    "name": "Day off for Armed Forces Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2025-11-01",
    "name": "Grand Egyptian Museum Opening Holiday",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2026-01-07",
    "name": "Coptic Christmas Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2026-01-25",
    "name": "Revolution Day January 25",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2026-01-29",
    "name": "Day off for Revolution Day January 25",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2026-02-19",
    "name": "Ramadan Start",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2026-03-19",
    "name": "Eid el Fitr Holiday",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2026-03-20",
    "name": "Eid el Fitr",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2026-03-21",
    "name": "Eid el Fitr Holiday",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2026-03-22",
    "name": "Eid el Fitr Holiday",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2026-03-23",
    "name": "Eid el Fitr Holiday",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2026-04-09",
    "name": "Coptic Maundy Thursday",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2026-04-10",
    "name": "Coptic Good Friday",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2026-04-11",
    "name": "Coptic Holy Saturday",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2026-04-12",
    "name": "Coptic Easter Sunday",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2026-04-13",
    "name": "Spring Festival",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2026-04-25",
    "name": "Sinai Liberation Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2026-05-01",
    "name": "Labor Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2026-05-26",
    "name": "Arafat Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2026-05-27",
    "name": "Eid al-Adha",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2026-05-28",
    "name": "Eid al-Adha Holiday",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2026-05-29",
    "name": "Eid al-Adha Holiday",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2026-05-30",
    "name": "Eid al-Adha Holiday",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2026-05-31",
    "name": "Eid al-Adha Holiday",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2026-06-16",
    "name": "Muharram",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2026-06-18",
    "name": "Day off for Muharram",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2026-06-25",
    "name": "Ashura",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2026-06-30",
    "name": "June 30 Revolution",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2026-07-02",
    "name": "Day off for June 30 Revolution",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2026-07-23",
    "name": "Revolution Day July 23",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2026-08-15",
    "name": "Flooding of the Nile",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2026-08-25",
    "name": "Prophet Mohamed's Birthday",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2026-08-27",
    "name": "Prophet Mohamed's Birthday Holiday",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2026-09-11",
    "name": "Nayrouz",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2026-10-06",
    "name": "Armed Forces Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2026-10-08",
    "name": "Day off for Armed Forces Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2027-01-07",
    "name": "Coptic Christmas Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2027-01-25",
    "name": "Revolution Day January 25",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2027-01-28",
    "name": "Day off for Revolution Day January 25",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2027-02-09",
    "name": "Ramadan Start (tentative)",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2027-03-10",
    "name": "Eid el Fitr (tentative)",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2027-03-11",
    "name": "Eid el Fitr Holiday (tentative)",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2027-03-12",
    "name": "Eid el Fitr Holiday (tentative)",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2027-04-25",
    "name": "Sinai Liberation Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2027-04-29",
    "name": "Coptic Maundy Thursday",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2027-04-30",
    "name": "Coptic Good Friday",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2027-05-01",
    "name": "Coptic Holy Saturday",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2027-05-01",
    "name": "Labor Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2027-05-02",
    "name": "Coptic Easter Sunday",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2027-05-03",
    "name": "Spring Festival",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2027-05-16",
    "name": "Arafat Day (tentative)",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2027-05-17",
    "name": "Eid al-Adha (tentative)",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2027-05-18",
    "name": "Eid al-Adha Holiday (tentative)",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2027-05-19",
    "name": "Eid al-Adha Holiday (tentative)",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2027-06-07",
    "name": "Muharram (tentative)",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2027-06-16",
    "name": "Ashura (tentative)",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2027-06-30",
    "name": "June 30 Revolution",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2027-07-01",
    "name": "Day off for June 30 Revolution",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2027-07-23",
    "name": "Revolution Day July 23",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2027-08-15",
    "name": "Flooding of the Nile",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2027-08-15",
    "name": "Prophet Mohamed's Birthday (tentative)",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2027-09-12",
    "name": "Nayrouz",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2027-10-06",
    "name": "Armed Forces Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2027-10-07",
    "name": "Day off for Armed Forces Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2028-01-07",
    "name": "Coptic Christmas Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2028-01-25",
    "name": "Revolution Day January 25",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2028-01-27",
    "name": "Day off for Revolution Day January 25",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2028-01-29",
    "name": "Ramadan Start (tentative)",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2028-02-27",
    "name": "Eid el Fitr (tentative)",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2028-02-28",
    "name": "Eid el Fitr Holiday (tentative)",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2028-02-29",
    "name": "Eid el Fitr Holiday (tentative)",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2028-04-13",
    "name": "Coptic Maundy Thursday",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2028-04-14",
    "name": "Coptic Good Friday",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2028-04-15",
    "name": "Coptic Holy Saturday",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2028-04-16",
    "name": "Coptic Easter Sunday",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2028-04-17",
    "name": "Spring Festival",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2028-04-25",
    "name": "Sinai Liberation Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2028-05-01",
    "name": "Labor Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2028-05-05",
    "name": "Arafat Day (tentative)",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2028-05-06",
    "name": "Eid al-Adha (tentative)",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2028-05-07",
    "name": "Eid al-Adha Holiday (tentative)",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2028-05-08",
    "name": "Eid al-Adha Holiday (tentative)",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2028-05-26",
    "name": "Muharram (tentative)",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2028-06-04",
    "name": "Ashura (tentative)",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2028-06-30",
    "name": "June 30 Revolution",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2028-07-23",
    "name": "Revolution Day July 23",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2028-07-27",
    "name": "Day off for Revolution Day July 23",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2028-08-04",
    "name": "Prophet Mohamed's Birthday (tentative)",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2028-08-15",
    "name": "Flooding of the Nile",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2028-09-11",
    "name": "Nayrouz",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2028-10-06",
    "name": "Armed Forces Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2029-01-07",
    "name": "Coptic Christmas Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2029-01-17",
    "name": "Ramadan Start (tentative)",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2029-01-25",
    "name": "Revolution Day January 25",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2029-02-15",
    "name": "Eid el Fitr (tentative)",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2029-02-16",
    "name": "Eid el Fitr Holiday (tentative)",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2029-02-17",
    "name": "Eid el Fitr Holiday (tentative)",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2029-04-05",
    "name": "Coptic Maundy Thursday",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2029-04-06",
    "name": "Coptic Good Friday",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2029-04-07",
    "name": "Coptic Holy Saturday",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2029-04-08",
    "name": "Coptic Easter Sunday",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2029-04-09",
    "name": "Spring Festival",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2029-04-24",
    "name": "Arafat Day (tentative)",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2029-04-25",
    "name": "Eid al-Adha (tentative)",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2029-04-25",
    "name": "Sinai Liberation Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2029-04-26",
    "name": "Eid al-Adha Holiday (tentative)",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2029-04-27",
    "name": "Eid al-Adha Holiday (tentative)",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2029-05-01",
    "name": "Labor Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2029-05-15",
    "name": "Muharram (tentative)",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2029-05-24",
    "name": "Ashura (tentative)",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2029-06-30",
    "name": "June 30 Revolution",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2029-07-23",
    "name": "Revolution Day July 23",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2029-07-25",
    "name": "Prophet Mohamed's Birthday (tentative)",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2029-07-26",
    "name": "Day off for Revolution Day July 23",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2029-08-15",
    "name": "Flooding of the Nile",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2029-09-11",
    "name": "Nayrouz",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2029-10-06",
    "name": "Armed Forces Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2030-01-06",
    "name": "Ramadan Start (tentative)",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2030-01-07",
    "name": "Coptic Christmas Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2030-01-25",
    "name": "Revolution Day January 25",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2030-02-05",
    "name": "Eid el Fitr (tentative)",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2030-02-05",
    "name": "Eid el Fitr Holiday (tentative)",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2030-02-07",
    "name": "Eid el Fitr Holiday (tentative)",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2030-04-13",
    "name": "Arafat Day (tentative)",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2030-04-14",
    "name": "Eid al-Adha (tentative)",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2030-04-15",
    "name": "Eid al-Adha Holiday (tentative)",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2030-04-16",
    "name": "Eid al-Adha Holiday (tentative)",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2030-04-25",
    "name": "Coptic Maundy Thursday",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2030-04-25",
    "name": "Sinai Liberation Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2030-04-26",
    "name": "Coptic Good Friday",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2030-04-27",
    "name": "Coptic Holy Saturday",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2030-04-28",
    "name": "Coptic Easter Sunday",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2030-04-29",
    "name": "Spring Festival",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2030-05-01",
    "name": "Labor Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2030-05-05",
    "name": "Muharram (tentative)",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2030-05-14",
    "name": "Ashura (tentative)",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2030-06-30",
    "name": "June 30 Revolution",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2030-07-04",
    "name": "Day off for June 30 Revolution",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2030-07-14",
    "name": "Prophet Mohamed's Birthday (tentative)",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2030-07-23",
    "name": "Revolution Day July 23",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2030-07-25",
    "name": "Day off for Revolution Day July 23",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2030-08-15",
    "name": "Flooding of the Nile",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2030-09-11",
    "name": "Nayrouz",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2030-10-06",
    "name": "Armed Forces Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2030-10-10",
    "name": "Day off for Armed Forces Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2030-12-26",
    "name": "Ramadan Start (tentative)",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2031-01-07",
    "name": "Coptic Christmas Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2031-01-25",
    "name": "Eid el Fitr (tentative)",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2031-01-25",
    "name": "Revolution Day January 25",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2031-01-26",
    "name": "Eid el Fitr Holiday (tentative)",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2031-01-27",
    "name": "Eid el Fitr Holiday (tentative)",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2031-04-02",
    "name": "Arafat Day (tentative)",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2031-04-03",
    "name": "Eid al-Adha (tentative)",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2031-04-04",
    "name": "Eid al-Adha Holiday (tentative)",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2031-04-05",
    "name": "Eid al-Adha Holiday (tentative)",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2031-04-10",
    "name": "Coptic Maundy Thursday",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2031-04-11",
    "name": "Coptic Good Friday",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2031-04-12",
    "name": "Coptic Holy Saturday",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2031-04-13",
    "name": "Coptic Easter Sunday",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2031-04-14",
    "name": "Spring Festival",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2031-04-24",
    "name": "Muharram (tentative)",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2031-04-25",
    "name": "Sinai Liberation Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2031-05-01",
    "name": "Labor Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2031-05-03",
    "name": "Ashura (tentative)",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2031-06-30",
    "name": "June 30 Revolution",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2031-07-03",
    "name": "Day off for June 30 Revolution",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2031-07-03",
    "name": "Prophet Mohamed's Birthday (tentative)",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2031-07-23",
    "name": "Revolution Day July 23",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2031-07-24",
    "name": "Day off for Revolution Day July 23",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2031-08-15",
    "name": "Flooding of the Nile",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2031-09-12",
    "name": "Nayrouz",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2031-10-06",
    "name": "Armed Forces Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2031-10-09",
    "name": "Day off for Armed Forces Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2031-12-16",
    "name": "Ramadan Start (tentative)",
-   "type": "Observance"
+   "type": "observance"
   }
  ]
 }

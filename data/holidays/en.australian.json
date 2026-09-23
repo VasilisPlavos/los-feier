@@ -5,22 +5,22 @@
  "from": 2021,
  "to": 2031,
  "count": 285,
- "fetchedAt": "2026-09-23T12:14:40.658Z",
+ "fetchedAt": "2026-09-23T12:37:49.920Z",
  "events": [
   {
    "date": "2021-01-01",
    "name": "New Year's Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2021-01-26",
    "name": "Australia Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2021-03-01",
    "name": "Labour Day (Western Australia)",
-   "type": "Public holiday",
+   "type": "public",
    "regions": [
     "Western Australia"
    ]
@@ -28,7 +28,7 @@
   {
    "date": "2021-03-08",
    "name": "Eight Hours Day (Tasmania)",
-   "type": "Public holiday",
+   "type": "public",
    "regions": [
     "Tasmania"
    ]
@@ -36,7 +36,7 @@
   {
    "date": "2021-03-08",
    "name": "Labour Day (Victoria)",
-   "type": "Public holiday",
+   "type": "public",
    "regions": [
     "Victoria"
    ]
@@ -44,12 +44,12 @@
   {
    "date": "2021-03-21",
    "name": "Harmony Day",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2021-04-02",
    "name": "Good Friday (regional holiday)",
-   "type": "Public holiday",
+   "type": "public",
    "regions": [
     "Australian Capital Territory",
     "New South Wales",
@@ -67,7 +67,7 @@
   {
    "date": "2021-04-03",
    "name": "Holy Saturday (regional holiday)",
-   "type": "Public holiday",
+   "type": "public",
    "regions": [
     "Australian Capital Territory",
     "New South Wales",
@@ -81,12 +81,12 @@
   {
    "date": "2021-04-04",
    "name": "Daylight Saving Time ends",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2021-04-04",
    "name": "Easter Sunday (regional holiday)",
-   "type": "Public holiday",
+   "type": "public",
    "regions": [
     "Australian Capital Territory",
     "New South Wales",
@@ -101,7 +101,7 @@
   {
    "date": "2021-04-05",
    "name": "Easter Monday (regional holiday)",
-   "type": "Public holiday",
+   "type": "public",
    "regions": [
     "Australian Capital Territory",
     "New South Wales",
@@ -118,12 +118,12 @@
   {
    "date": "2021-04-25",
    "name": "ANZAC Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2021-05-03",
    "name": "Labour Day (Queensland)",
-   "type": "Public holiday",
+   "type": "public",
    "regions": [
     "Queensland"
    ]
@@ -131,7 +131,7 @@
   {
    "date": "2021-05-03",
    "name": "May Day (Northern Territory)",
-   "type": "Public holiday",
+   "type": "public",
    "regions": [
     "Northern Territory"
    ]
@@ -139,17 +139,17 @@
   {
    "date": "2021-08-18",
    "name": "Vietnam Veterans' Day",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2021-10-03",
    "name": "Daylight Saving Time starts",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2021-10-04",
    "name": "Labour Day (regional holiday)",
-   "type": "Public holiday",
+   "type": "public",
    "regions": [
     "Australian Capital Territory",
     "New South Wales",
@@ -159,17 +159,17 @@
   {
    "date": "2021-11-11",
    "name": "Remembrance Day",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2021-12-24",
    "name": "Christmas Eve",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2021-12-25",
    "name": "Christmas Day (regional holiday)",
-   "type": "Public holiday",
+   "type": "public",
    "regions": [
     "Australian Capital Territory",
     "New South Wales",
@@ -187,27 +187,27 @@
   {
    "date": "2021-12-26",
    "name": "Boxing Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2021-12-31",
    "name": "New Year's Eve",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2022-01-01",
    "name": "New Year's Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2022-01-26",
    "name": "Australia Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2022-03-07",
    "name": "Labour Day (Western Australia)",
-   "type": "Public holiday",
+   "type": "public",
    "regions": [
     "Western Australia"
    ]
@@ -215,7 +215,7 @@
   {
    "date": "2022-03-14",
    "name": "Eight Hours Day (Tasmania)",
-   "type": "Public holiday",
+   "type": "public",
    "regions": [
     "Tasmania"
    ]
@@ -223,7 +223,7 @@
   {
    "date": "2022-03-14",
    "name": "Labour Day (Victoria)",
-   "type": "Public holiday",
+   "type": "public",
    "regions": [
     "Victoria"
    ]
@@ -231,17 +231,17 @@
   {
    "date": "2022-03-21",
    "name": "Harmony Day",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2022-04-03",
    "name": "Daylight Saving Time ends",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2022-04-15",
    "name": "Good Friday (regional holiday)",
-   "type": "Public holiday",
+   "type": "public",
    "regions": [
     "Australian Capital Territory",
     "New South Wales",
@@ -259,7 +259,7 @@
   {
    "date": "2022-04-16",
    "name": "Holy Saturday (regional holiday)",
-   "type": "Public holiday",
+   "type": "public",
    "regions": [
     "Australian Capital Territory",
     "New South Wales",
@@ -273,7 +273,7 @@
   {
    "date": "2022-04-17",
    "name": "Easter Sunday (regional holiday)",
-   "type": "Public holiday",
+   "type": "public",
    "regions": [
     "Australian Capital Territory",
     "New South Wales",
@@ -290,7 +290,7 @@
   {
    "date": "2022-04-18",
    "name": "Easter Monday (regional holiday)",
-   "type": "Public holiday",
+   "type": "public",
    "regions": [
     "Australian Capital Territory",
     "New South Wales",
@@ -307,12 +307,12 @@
   {
    "date": "2022-04-25",
    "name": "ANZAC Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2022-05-02",
    "name": "Labour Day (Queensland)",
-   "type": "Public holiday",
+   "type": "public",
    "regions": [
     "Queensland"
    ]
@@ -320,7 +320,7 @@
   {
    "date": "2022-05-02",
    "name": "May Day (Northern Territory)",
-   "type": "Public holiday",
+   "type": "public",
    "regions": [
     "Northern Territory"
    ]
@@ -328,17 +328,17 @@
   {
    "date": "2022-08-18",
    "name": "Vietnam Veterans' Day",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2022-09-22",
    "name": "National Day of Mourning for Her Majesty The Queen",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2022-09-26",
    "name": "King's Birthday (Western Australia)",
-   "type": "Public holiday",
+   "type": "public",
    "regions": [
     "Western Australia"
    ]
@@ -346,12 +346,12 @@
   {
    "date": "2022-10-02",
    "name": "Daylight Saving Time starts",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2022-10-03",
    "name": "Labour Day (regional holiday)",
-   "type": "Public holiday",
+   "type": "public",
    "regions": [
     "Australian Capital Territory",
     "New South Wales",
@@ -361,17 +361,17 @@
   {
    "date": "2022-11-11",
    "name": "Remembrance Day",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2022-12-24",
    "name": "Christmas Eve",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2022-12-25",
    "name": "Christmas Day (regional holiday)",
-   "type": "Public holiday",
+   "type": "public",
    "regions": [
     "Australian Capital Territory",
     "New South Wales",
@@ -389,27 +389,27 @@
   {
    "date": "2022-12-26",
    "name": "Boxing Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2022-12-31",
    "name": "New Year's Eve",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2023-01-01",
    "name": "New Year's Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2023-01-26",
    "name": "Australia Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2023-03-06",
    "name": "Labour Day (Western Australia)",
-   "type": "Public holiday",
+   "type": "public",
    "regions": [
     "Western Australia"
    ]
@@ -417,7 +417,7 @@
   {
    "date": "2023-03-13",
    "name": "Eight Hours Day (Tasmania)",
-   "type": "Public holiday",
+   "type": "public",
    "regions": [
     "Tasmania"
    ]
@@ -425,7 +425,7 @@
   {
    "date": "2023-03-13",
    "name": "Labour Day (Victoria)",
-   "type": "Public holiday",
+   "type": "public",
    "regions": [
     "Victoria"
    ]
@@ -433,17 +433,17 @@
   {
    "date": "2023-03-21",
    "name": "Harmony Day",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2023-04-02",
    "name": "Daylight Saving Time ends",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2023-04-07",
    "name": "Good Friday (regional holiday)",
-   "type": "Public holiday",
+   "type": "public",
    "regions": [
     "Australian Capital Territory",
     "New South Wales",
@@ -461,7 +461,7 @@
   {
    "date": "2023-04-08",
    "name": "Holy Saturday (regional holiday)",
-   "type": "Public holiday",
+   "type": "public",
    "regions": [
     "Australian Capital Territory",
     "New South Wales",
@@ -475,7 +475,7 @@
   {
    "date": "2023-04-09",
    "name": "Easter Sunday (regional holiday)",
-   "type": "Public holiday",
+   "type": "public",
    "regions": [
     "Australian Capital Territory",
     "New South Wales",
@@ -492,7 +492,7 @@
   {
    "date": "2023-04-10",
    "name": "Easter Monday (regional holiday)",
-   "type": "Public holiday",
+   "type": "public",
    "regions": [
     "Australian Capital Territory",
     "New South Wales",
@@ -509,12 +509,12 @@
   {
    "date": "2023-04-25",
    "name": "ANZAC Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2023-05-01",
    "name": "Labour Day (Queensland)",
-   "type": "Public holiday",
+   "type": "public",
    "regions": [
     "Queensland"
    ]
@@ -522,7 +522,7 @@
   {
    "date": "2023-05-01",
    "name": "May Day (Northern Territory)",
-   "type": "Public holiday",
+   "type": "public",
    "regions": [
     "Northern Territory"
    ]
@@ -530,12 +530,12 @@
   {
    "date": "2023-05-06",
    "name": "The Coronation of King Charles III",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2023-06-06",
    "name": "King's Birthday (Cocos and Keeling Islands)",
-   "type": "Public holiday",
+   "type": "public",
    "regions": [
     "Cocos and Keeling Islands"
    ]
@@ -543,7 +543,7 @@
   {
    "date": "2023-06-12",
    "name": "King's Birthday (regional holiday)",
-   "type": "Public holiday",
+   "type": "public",
    "regions": [
     "Australian Capital Territory",
     "New South Wales",
@@ -557,12 +557,12 @@
   {
    "date": "2023-08-18",
    "name": "Vietnam Veterans' Day",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2023-09-25",
    "name": "King's Birthday (Western Australia)",
-   "type": "Public holiday",
+   "type": "public",
    "regions": [
     "Western Australia"
    ]
@@ -570,12 +570,12 @@
   {
    "date": "2023-10-01",
    "name": "Daylight Saving Time starts",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2023-10-02",
    "name": "King's Birthday (Queensland)",
-   "type": "Public holiday",
+   "type": "public",
    "regions": [
     "Queensland"
    ]
@@ -583,7 +583,7 @@
   {
    "date": "2023-10-02",
    "name": "Labour Day (regional holiday)",
-   "type": "Public holiday",
+   "type": "public",
    "regions": [
     "Australian Capital Territory",
     "New South Wales",
@@ -593,17 +593,17 @@
   {
    "date": "2023-11-11",
    "name": "Remembrance Day",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2023-12-24",
    "name": "Christmas Eve",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2023-12-25",
    "name": "Christmas Day (regional holiday)",
-   "type": "Public holiday",
+   "type": "public",
    "regions": [
     "Australian Capital Territory",
     "New South Wales",
@@ -621,27 +621,27 @@
   {
    "date": "2023-12-26",
    "name": "Boxing Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2023-12-31",
    "name": "New Year's Eve",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2024-01-01",
    "name": "New Year's Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2024-01-26",
    "name": "Australia Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2024-03-04",
    "name": "Labour Day (Western Australia)",
-   "type": "Public holiday",
+   "type": "public",
    "regions": [
     "Western Australia"
    ]
@@ -649,7 +649,7 @@
   {
    "date": "2024-03-11",
    "name": "Eight Hours Day (Tasmania)",
-   "type": "Public holiday",
+   "type": "public",
    "regions": [
     "Tasmania"
    ]
@@ -657,7 +657,7 @@
   {
    "date": "2024-03-11",
    "name": "Labour Day (Victoria)",
-   "type": "Public holiday",
+   "type": "public",
    "regions": [
     "Victoria"
    ]
@@ -665,7 +665,7 @@
   {
    "date": "2024-03-16",
    "name": "Labour Day (Christmas Island)",
-   "type": "Public holiday",
+   "type": "public",
    "regions": [
     "Christmas Island"
    ]
@@ -673,12 +673,12 @@
   {
    "date": "2024-03-21",
    "name": "Harmony Day",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2024-03-29",
    "name": "Good Friday (regional holiday)",
-   "type": "Public holiday",
+   "type": "public",
    "regions": [
     "Australian Capital Territory",
     "New South Wales",
@@ -696,7 +696,7 @@
   {
    "date": "2024-03-30",
    "name": "Holy Saturday (regional holiday)",
-   "type": "Public holiday",
+   "type": "public",
    "regions": [
     "Australian Capital Territory",
     "New South Wales",
@@ -710,7 +710,7 @@
   {
    "date": "2024-03-31",
    "name": "Easter Sunday (regional holiday)",
-   "type": "Public holiday",
+   "type": "public",
    "regions": [
     "Australian Capital Territory",
     "New South Wales",
@@ -728,7 +728,7 @@
   {
    "date": "2024-04-01",
    "name": "Easter Monday (regional holiday)",
-   "type": "Public holiday",
+   "type": "public",
    "regions": [
     "Australian Capital Territory",
     "New South Wales",
@@ -745,17 +745,17 @@
   {
    "date": "2024-04-07",
    "name": "Daylight Saving Time ends",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2024-04-25",
    "name": "ANZAC Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2024-05-06",
    "name": "Labour Day (Queensland)",
-   "type": "Public holiday",
+   "type": "public",
    "regions": [
     "Queensland"
    ]
@@ -763,7 +763,7 @@
   {
    "date": "2024-05-06",
    "name": "May Day (Northern Territory)",
-   "type": "Public holiday",
+   "type": "public",
    "regions": [
     "Northern Territory"
    ]
@@ -771,7 +771,7 @@
   {
    "date": "2024-06-06",
    "name": "King's Birthday (Cocos and Keeling Islands)",
-   "type": "Public holiday",
+   "type": "public",
    "regions": [
     "Cocos and Keeling Islands"
    ]
@@ -779,7 +779,7 @@
   {
    "date": "2024-06-10",
    "name": "King's Birthday (regional holiday)",
-   "type": "Public holiday",
+   "type": "public",
    "regions": [
     "Australian Capital Territory",
     "New South Wales",
@@ -793,12 +793,12 @@
   {
    "date": "2024-08-18",
    "name": "Vietnam Veterans' Day",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2024-09-23",
    "name": "King's Birthday (Western Australia)",
-   "type": "Public holiday",
+   "type": "public",
    "regions": [
     "Western Australia"
    ]
@@ -806,12 +806,12 @@
   {
    "date": "2024-10-06",
    "name": "Daylight Saving Time starts",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2024-10-07",
    "name": "King's Birthday (Queensland)",
-   "type": "Public holiday",
+   "type": "public",
    "regions": [
     "Queensland"
    ]
@@ -819,7 +819,7 @@
   {
    "date": "2024-10-07",
    "name": "Labour Day (regional holiday)",
-   "type": "Public holiday",
+   "type": "public",
    "regions": [
     "Australian Capital Territory",
     "New South Wales",
@@ -829,17 +829,17 @@
   {
    "date": "2024-11-11",
    "name": "Remembrance Day",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2024-12-24",
    "name": "Christmas Eve",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2024-12-25",
    "name": "Christmas Day (regional holiday)",
-   "type": "Public holiday",
+   "type": "public",
    "regions": [
     "Australian Capital Territory",
     "New South Wales",
@@ -857,27 +857,27 @@
   {
    "date": "2024-12-26",
    "name": "Boxing Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2024-12-31",
    "name": "New Year's Eve",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2025-01-01",
    "name": "New Year's Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2025-01-26",
    "name": "Australia Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2025-01-27",
    "name": "Australia Day Observed (regional holiday)",
-   "type": "Public holiday",
+   "type": "public",
    "regions": [
     "Australian Capital Territory",
     "Cocos and Keeling Islands",
@@ -893,7 +893,7 @@
   {
    "date": "2025-03-03",
    "name": "Labour Day (Western Australia)",
-   "type": "Public holiday",
+   "type": "public",
    "regions": [
     "Western Australia"
    ]
@@ -901,7 +901,7 @@
   {
    "date": "2025-03-10",
    "name": "Eight Hours Day (Tasmania)",
-   "type": "Public holiday",
+   "type": "public",
    "regions": [
     "Tasmania"
    ]
@@ -909,7 +909,7 @@
   {
    "date": "2025-03-10",
    "name": "Labour Day (Victoria)",
-   "type": "Public holiday",
+   "type": "public",
    "regions": [
     "Victoria"
    ]
@@ -917,17 +917,17 @@
   {
    "date": "2025-03-21",
    "name": "Harmony Day",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2025-04-06",
    "name": "Daylight Saving Time ends",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2025-04-18",
    "name": "Good Friday (regional holiday)",
-   "type": "Public holiday",
+   "type": "public",
    "regions": [
     "Australian Capital Territory",
     "New South Wales",
@@ -945,7 +945,7 @@
   {
    "date": "2025-04-19",
    "name": "Holy Saturday (regional holiday)",
-   "type": "Public holiday",
+   "type": "public",
    "regions": [
     "Australian Capital Territory",
     "New South Wales",
@@ -959,7 +959,7 @@
   {
    "date": "2025-04-20",
    "name": "Easter Sunday (regional holiday)",
-   "type": "Public holiday",
+   "type": "public",
    "regions": [
     "Australian Capital Territory",
     "New South Wales",
@@ -977,7 +977,7 @@
   {
    "date": "2025-04-21",
    "name": "Easter Monday (regional holiday)",
-   "type": "Public holiday",
+   "type": "public",
    "regions": [
     "Australian Capital Territory",
     "New South Wales",
@@ -994,12 +994,12 @@
   {
    "date": "2025-04-25",
    "name": "ANZAC Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2025-05-05",
    "name": "Labour Day (Queensland)",
-   "type": "Public holiday",
+   "type": "public",
    "regions": [
     "Queensland"
    ]
@@ -1007,7 +1007,7 @@
   {
    "date": "2025-05-05",
    "name": "May Day (Northern Territory)",
-   "type": "Public holiday",
+   "type": "public",
    "regions": [
     "Northern Territory"
    ]
@@ -1015,7 +1015,7 @@
   {
    "date": "2025-06-09",
    "name": "King's Birthday (regional holiday)",
-   "type": "Public holiday",
+   "type": "public",
    "regions": [
     "Australian Capital Territory",
     "New South Wales",
@@ -1030,12 +1030,12 @@
   {
    "date": "2025-08-18",
    "name": "Vietnam Veterans' Day",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2025-09-29",
    "name": "King's Birthday (Western Australia)",
-   "type": "Public holiday",
+   "type": "public",
    "regions": [
     "Western Australia"
    ]
@@ -1043,12 +1043,12 @@
   {
    "date": "2025-10-05",
    "name": "Daylight Saving Time starts",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2025-10-06",
    "name": "King's Birthday (Queensland)",
-   "type": "Public holiday",
+   "type": "public",
    "regions": [
     "Queensland"
    ]
@@ -1056,7 +1056,7 @@
   {
    "date": "2025-10-06",
    "name": "Labour Day (regional holiday)",
-   "type": "Public holiday",
+   "type": "public",
    "regions": [
     "Australian Capital Territory",
     "New South Wales",
@@ -1066,17 +1066,17 @@
   {
    "date": "2025-11-11",
    "name": "Remembrance Day",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2025-12-24",
    "name": "Christmas Eve",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2025-12-25",
    "name": "Christmas Day (regional holiday)",
-   "type": "Public holiday",
+   "type": "public",
    "regions": [
     "Australian Capital Territory",
     "New South Wales",
@@ -1094,32 +1094,32 @@
   {
    "date": "2025-12-26",
    "name": "Boxing Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2025-12-31",
    "name": "New Year's Eve",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2026-01-01",
    "name": "New Year's Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2026-01-22",
    "name": "National Day of Mourning for Bondi Victims",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2026-01-26",
    "name": "Australia Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2026-03-02",
    "name": "Labour Day (Western Australia)",
-   "type": "Public holiday",
+   "type": "public",
    "regions": [
     "Western Australia"
    ]
@@ -1127,7 +1127,7 @@
   {
    "date": "2026-03-09",
    "name": "Eight Hours Day (Tasmania)",
-   "type": "Public holiday",
+   "type": "public",
    "regions": [
     "Tasmania"
    ]
@@ -1135,7 +1135,7 @@
   {
    "date": "2026-03-09",
    "name": "Labour Day (Victoria)",
-   "type": "Public holiday",
+   "type": "public",
    "regions": [
     "Victoria"
    ]
@@ -1143,12 +1143,12 @@
   {
    "date": "2026-03-21",
    "name": "Harmony Day",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2026-03-23",
    "name": "Labour Day (Christmas Island)",
-   "type": "Public holiday",
+   "type": "public",
    "regions": [
     "Christmas Island"
    ]
@@ -1156,7 +1156,7 @@
   {
    "date": "2026-04-03",
    "name": "Good Friday (regional holiday)",
-   "type": "Public holiday",
+   "type": "public",
    "regions": [
     "Australian Capital Territory",
     "New South Wales",
@@ -1174,7 +1174,7 @@
   {
    "date": "2026-04-04",
    "name": "Holy Saturday (regional holiday)",
-   "type": "Public holiday",
+   "type": "public",
    "regions": [
     "Australian Capital Territory",
     "New South Wales",
@@ -1188,12 +1188,12 @@
   {
    "date": "2026-04-05",
    "name": "Daylight Saving Time ends",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2026-04-05",
    "name": "Easter Sunday (regional holiday)",
-   "type": "Public holiday",
+   "type": "public",
    "regions": [
     "Australian Capital Territory",
     "New South Wales",
@@ -1211,7 +1211,7 @@
   {
    "date": "2026-04-06",
    "name": "Easter Monday (regional holiday)",
-   "type": "Public holiday",
+   "type": "public",
    "regions": [
     "Australian Capital Territory",
     "New South Wales",
@@ -1228,12 +1228,12 @@
   {
    "date": "2026-04-25",
    "name": "ANZAC Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2026-05-04",
    "name": "Labour Day (Queensland)",
-   "type": "Public holiday",
+   "type": "public",
    "regions": [
     "Queensland"
    ]
@@ -1241,7 +1241,7 @@
   {
    "date": "2026-05-04",
    "name": "May Day (Northern Territory)",
-   "type": "Public holiday",
+   "type": "public",
    "regions": [
     "Northern Territory"
    ]
@@ -1249,7 +1249,7 @@
   {
    "date": "2026-06-08",
    "name": "King's Birthday (regional holiday)",
-   "type": "Public holiday",
+   "type": "public",
    "regions": [
     "Australian Capital Territory",
     "New South Wales",
@@ -1264,12 +1264,12 @@
   {
    "date": "2026-08-18",
    "name": "Vietnam Veterans' Day",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2026-09-28",
    "name": "King's Birthday (Western Australia)",
-   "type": "Public holiday",
+   "type": "public",
    "regions": [
     "Western Australia"
    ]
@@ -1277,12 +1277,12 @@
   {
    "date": "2026-10-04",
    "name": "Daylight Saving Time starts",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2026-10-05",
    "name": "King's Birthday (Queensland)",
-   "type": "Public holiday",
+   "type": "public",
    "regions": [
     "Queensland"
    ]
@@ -1290,7 +1290,7 @@
   {
    "date": "2026-10-05",
    "name": "Labour Day (regional holiday)",
-   "type": "Public holiday",
+   "type": "public",
    "regions": [
     "Australian Capital Territory",
     "New South Wales",
@@ -1300,17 +1300,17 @@
   {
    "date": "2026-11-11",
    "name": "Remembrance Day",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2026-12-24",
    "name": "Christmas Eve",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2026-12-25",
    "name": "Christmas Day (regional holiday)",
-   "type": "Public holiday",
+   "type": "public",
    "regions": [
     "Australian Capital Territory",
     "New South Wales",
@@ -1328,27 +1328,27 @@
   {
    "date": "2026-12-26",
    "name": "Boxing Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2026-12-31",
    "name": "New Year's Eve",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2027-01-01",
    "name": "New Year's Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2027-01-26",
    "name": "Australia Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2027-03-01",
    "name": "Labour Day (Western Australia)",
-   "type": "Public holiday",
+   "type": "public",
    "regions": [
     "Western Australia"
    ]
@@ -1356,7 +1356,7 @@
   {
    "date": "2027-03-08",
    "name": "Eight Hours Day (Tasmania)",
-   "type": "Public holiday",
+   "type": "public",
    "regions": [
     "Tasmania"
    ]
@@ -1364,7 +1364,7 @@
   {
    "date": "2027-03-08",
    "name": "Labour Day (Victoria)",
-   "type": "Public holiday",
+   "type": "public",
    "regions": [
     "Victoria"
    ]
@@ -1372,12 +1372,12 @@
   {
    "date": "2027-03-21",
    "name": "Harmony Day",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2027-03-26",
    "name": "Good Friday (regional holiday)",
-   "type": "Public holiday",
+   "type": "public",
    "regions": [
     "Australian Capital Territory",
     "New South Wales",
@@ -1395,7 +1395,7 @@
   {
    "date": "2027-03-27",
    "name": "Holy Saturday (regional holiday)",
-   "type": "Public holiday",
+   "type": "public",
    "regions": [
     "Australian Capital Territory",
     "New South Wales",
@@ -1409,7 +1409,7 @@
   {
    "date": "2027-03-28",
    "name": "Easter Sunday (regional holiday)",
-   "type": "Public holiday",
+   "type": "public",
    "regions": [
     "Australian Capital Territory",
     "New South Wales",
@@ -1427,7 +1427,7 @@
   {
    "date": "2027-03-29",
    "name": "Easter Monday (regional holiday)",
-   "type": "Public holiday",
+   "type": "public",
    "regions": [
     "Australian Capital Territory",
     "New South Wales",
@@ -1444,17 +1444,17 @@
   {
    "date": "2027-04-04",
    "name": "Daylight Saving Time ends",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2027-04-25",
    "name": "ANZAC Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2027-05-03",
    "name": "Labour Day (Queensland)",
-   "type": "Public holiday",
+   "type": "public",
    "regions": [
     "Queensland"
    ]
@@ -1462,7 +1462,7 @@
   {
    "date": "2027-05-03",
    "name": "May Day (Northern Territory)",
-   "type": "Public holiday",
+   "type": "public",
    "regions": [
     "Northern Territory"
    ]
@@ -1470,7 +1470,7 @@
   {
    "date": "2027-06-07",
    "name": "King's Birthday (Cocos and Keeling Islands)",
-   "type": "Public holiday",
+   "type": "public",
    "regions": [
     "Cocos and Keeling Islands"
    ]
@@ -1478,7 +1478,7 @@
   {
    "date": "2027-06-14",
    "name": "King's Birthday (regional holiday)",
-   "type": "Public holiday",
+   "type": "public",
    "regions": [
     "Australian Capital Territory",
     "New South Wales",
@@ -1492,12 +1492,12 @@
   {
    "date": "2027-08-18",
    "name": "Vietnam Veterans' Day",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2027-09-27",
    "name": "King's Birthday (Western Australia)",
-   "type": "Public holiday",
+   "type": "public",
    "regions": [
     "Western Australia"
    ]
@@ -1505,12 +1505,12 @@
   {
    "date": "2027-10-03",
    "name": "Daylight Saving Time starts",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2027-10-04",
    "name": "King's Birthday (Queensland)",
-   "type": "Public holiday",
+   "type": "public",
    "regions": [
     "Queensland"
    ]
@@ -1518,7 +1518,7 @@
   {
    "date": "2027-10-04",
    "name": "Labour Day (regional holiday)",
-   "type": "Public holiday",
+   "type": "public",
    "regions": [
     "Australian Capital Territory",
     "New South Wales",
@@ -1528,17 +1528,17 @@
   {
    "date": "2027-11-11",
    "name": "Remembrance Day",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2027-12-24",
    "name": "Christmas Eve",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2027-12-25",
    "name": "Christmas Day (regional holiday)",
-   "type": "Public holiday",
+   "type": "public",
    "regions": [
     "Australian Capital Territory",
     "New South Wales",
@@ -1556,27 +1556,27 @@
   {
    "date": "2027-12-26",
    "name": "Boxing Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2027-12-31",
    "name": "New Year's Eve",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2028-01-01",
    "name": "New Year's Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2028-01-26",
    "name": "Australia Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2028-03-06",
    "name": "Labour Day (Western Australia)",
-   "type": "Public holiday",
+   "type": "public",
    "regions": [
     "Western Australia"
    ]
@@ -1584,7 +1584,7 @@
   {
    "date": "2028-03-13",
    "name": "Eight Hours Day (Tasmania)",
-   "type": "Public holiday",
+   "type": "public",
    "regions": [
     "Tasmania"
    ]
@@ -1592,7 +1592,7 @@
   {
    "date": "2028-03-13",
    "name": "Labour Day (Victoria)",
-   "type": "Public holiday",
+   "type": "public",
    "regions": [
     "Victoria"
    ]
@@ -1600,17 +1600,17 @@
   {
    "date": "2028-03-21",
    "name": "Harmony Day",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2028-04-02",
    "name": "Daylight Saving Time ends",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2028-04-14",
    "name": "Good Friday (regional holiday)",
-   "type": "Public holiday",
+   "type": "public",
    "regions": [
     "Australian Capital Territory",
     "New South Wales",
@@ -1628,7 +1628,7 @@
   {
    "date": "2028-04-15",
    "name": "Holy Saturday (regional holiday)",
-   "type": "Public holiday",
+   "type": "public",
    "regions": [
     "Australian Capital Territory",
     "New South Wales",
@@ -1642,7 +1642,7 @@
   {
    "date": "2028-04-16",
    "name": "Easter Sunday (regional holiday)",
-   "type": "Public holiday",
+   "type": "public",
    "regions": [
     "Australian Capital Territory",
     "New South Wales",
@@ -1660,7 +1660,7 @@
   {
    "date": "2028-04-17",
    "name": "Easter Monday (regional holiday)",
-   "type": "Public holiday",
+   "type": "public",
    "regions": [
     "Australian Capital Territory",
     "New South Wales",
@@ -1677,12 +1677,12 @@
   {
    "date": "2028-04-25",
    "name": "ANZAC Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2028-05-01",
    "name": "Labour Day (Queensland)",
-   "type": "Public holiday",
+   "type": "public",
    "regions": [
     "Queensland"
    ]
@@ -1690,7 +1690,7 @@
   {
    "date": "2028-05-01",
    "name": "May Day (Northern Territory)",
-   "type": "Public holiday",
+   "type": "public",
    "regions": [
     "Northern Territory"
    ]
@@ -1698,7 +1698,7 @@
   {
    "date": "2028-06-06",
    "name": "King's Birthday (Cocos and Keeling Islands) (tentative)",
-   "type": "Public holiday",
+   "type": "public",
    "regions": [
     "Cocos and Keeling Islands"
    ]
@@ -1706,7 +1706,7 @@
   {
    "date": "2028-06-12",
    "name": "King's Birthday (regional holiday)",
-   "type": "Public holiday",
+   "type": "public",
    "regions": [
     "Australian Capital Territory",
     "New South Wales",
@@ -1720,12 +1720,12 @@
   {
    "date": "2028-08-18",
    "name": "Vietnam Veterans' Day",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2028-09-25",
    "name": "King's Birthday (Western Australia)",
-   "type": "Public holiday",
+   "type": "public",
    "regions": [
     "Western Australia"
    ]
@@ -1733,12 +1733,12 @@
   {
    "date": "2028-10-01",
    "name": "Daylight Saving Time starts",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2028-10-02",
    "name": "King's Birthday (Queensland)",
-   "type": "Public holiday",
+   "type": "public",
    "regions": [
     "Queensland"
    ]
@@ -1746,7 +1746,7 @@
   {
    "date": "2028-10-02",
    "name": "Labour Day (regional holiday)",
-   "type": "Public holiday",
+   "type": "public",
    "regions": [
     "Australian Capital Territory",
     "New South Wales",
@@ -1756,17 +1756,17 @@
   {
    "date": "2028-11-11",
    "name": "Remembrance Day",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2028-12-24",
    "name": "Christmas Eve",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2028-12-25",
    "name": "Christmas Day (regional holiday)",
-   "type": "Public holiday",
+   "type": "public",
    "regions": [
     "Australian Capital Territory",
     "New South Wales",
@@ -1784,27 +1784,27 @@
   {
    "date": "2028-12-26",
    "name": "Boxing Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2028-12-31",
    "name": "New Year's Eve",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2029-01-01",
    "name": "New Year's Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2029-01-26",
    "name": "Australia Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2029-03-05",
    "name": "Labour Day (Western Australia)",
-   "type": "Public holiday",
+   "type": "public",
    "regions": [
     "Western Australia"
    ]
@@ -1812,7 +1812,7 @@
   {
    "date": "2029-03-12",
    "name": "Eight Hours Day (Tasmania)",
-   "type": "Public holiday",
+   "type": "public",
    "regions": [
     "Tasmania"
    ]
@@ -1820,7 +1820,7 @@
   {
    "date": "2029-03-12",
    "name": "Labour Day (Victoria)",
-   "type": "Public holiday",
+   "type": "public",
    "regions": [
     "Victoria"
    ]
@@ -1828,12 +1828,12 @@
   {
    "date": "2029-03-21",
    "name": "Harmony Day",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2029-03-30",
    "name": "Good Friday (regional holiday)",
-   "type": "Public holiday",
+   "type": "public",
    "regions": [
     "Australian Capital Territory",
     "New South Wales",
@@ -1851,7 +1851,7 @@
   {
    "date": "2029-03-31",
    "name": "Holy Saturday (regional holiday)",
-   "type": "Public holiday",
+   "type": "public",
    "regions": [
     "Australian Capital Territory",
     "New South Wales",
@@ -1865,12 +1865,12 @@
   {
    "date": "2029-04-01",
    "name": "Daylight Saving Time ends",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2029-04-01",
    "name": "Easter Sunday (regional holiday)",
-   "type": "Public holiday",
+   "type": "public",
    "regions": [
     "Australian Capital Territory",
     "New South Wales",
@@ -1888,7 +1888,7 @@
   {
    "date": "2029-04-02",
    "name": "Easter Monday (regional holiday)",
-   "type": "Public holiday",
+   "type": "public",
    "regions": [
     "Australian Capital Territory",
     "New South Wales",
@@ -1905,12 +1905,12 @@
   {
    "date": "2029-04-25",
    "name": "ANZAC Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2029-05-07",
    "name": "Labour Day (Queensland)",
-   "type": "Public holiday",
+   "type": "public",
    "regions": [
     "Queensland"
    ]
@@ -1918,7 +1918,7 @@
   {
    "date": "2029-05-07",
    "name": "May Day (Northern Territory)",
-   "type": "Public holiday",
+   "type": "public",
    "regions": [
     "Northern Territory"
    ]
@@ -1926,7 +1926,7 @@
   {
    "date": "2029-06-06",
    "name": "King's Birthday (Cocos and Keeling Islands) (tentative)",
-   "type": "Public holiday",
+   "type": "public",
    "regions": [
     "Cocos and Keeling Islands"
    ]
@@ -1934,7 +1934,7 @@
   {
    "date": "2029-06-11",
    "name": "King's Birthday (regional holiday)",
-   "type": "Public holiday",
+   "type": "public",
    "regions": [
     "Australian Capital Territory",
     "New South Wales",
@@ -1948,12 +1948,12 @@
   {
    "date": "2029-08-18",
    "name": "Vietnam Veterans' Day",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2029-09-24",
    "name": "King's Birthday (Western Australia)",
-   "type": "Public holiday",
+   "type": "public",
    "regions": [
     "Western Australia"
    ]
@@ -1961,7 +1961,7 @@
   {
    "date": "2029-10-01",
    "name": "King's Birthday (Queensland)",
-   "type": "Public holiday",
+   "type": "public",
    "regions": [
     "Queensland"
    ]
@@ -1969,7 +1969,7 @@
   {
    "date": "2029-10-01",
    "name": "Labour Day (regional holiday)",
-   "type": "Public holiday",
+   "type": "public",
    "regions": [
     "Australian Capital Territory",
     "New South Wales",
@@ -1979,22 +1979,22 @@
   {
    "date": "2029-10-07",
    "name": "Daylight Saving Time starts",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2029-11-11",
    "name": "Remembrance Day",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2029-12-24",
    "name": "Christmas Eve",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2029-12-25",
    "name": "Christmas Day (regional holiday)",
-   "type": "Public holiday",
+   "type": "public",
    "regions": [
     "Australian Capital Territory",
     "New South Wales",
@@ -2012,27 +2012,27 @@
   {
    "date": "2029-12-26",
    "name": "Boxing Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2029-12-31",
    "name": "New Year's Eve",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2030-01-01",
    "name": "New Year's Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2030-01-26",
    "name": "Australia Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2030-01-28",
    "name": "Australia Day Observed (regional holiday)",
-   "type": "Public holiday",
+   "type": "public",
    "regions": [
     "Australian Capital Territory",
     "Cocos and Keeling Islands",
@@ -2048,7 +2048,7 @@
   {
    "date": "2030-03-04",
    "name": "Labour Day (Western Australia)",
-   "type": "Public holiday",
+   "type": "public",
    "regions": [
     "Western Australia"
    ]
@@ -2056,7 +2056,7 @@
   {
    "date": "2030-03-11",
    "name": "Eight Hours Day (Tasmania)",
-   "type": "Public holiday",
+   "type": "public",
    "regions": [
     "Tasmania"
    ]
@@ -2064,7 +2064,7 @@
   {
    "date": "2030-03-11",
    "name": "Labour Day (Victoria)",
-   "type": "Public holiday",
+   "type": "public",
    "regions": [
     "Victoria"
    ]
@@ -2072,17 +2072,17 @@
   {
    "date": "2030-03-21",
    "name": "Harmony Day",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2030-04-07",
    "name": "Daylight Saving Time ends",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2030-04-19",
    "name": "Good Friday (regional holiday)",
-   "type": "Public holiday",
+   "type": "public",
    "regions": [
     "Australian Capital Territory",
     "New South Wales",
@@ -2100,7 +2100,7 @@
   {
    "date": "2030-04-20",
    "name": "Holy Saturday (regional holiday)",
-   "type": "Public holiday",
+   "type": "public",
    "regions": [
     "Australian Capital Territory",
     "New South Wales",
@@ -2114,7 +2114,7 @@
   {
    "date": "2030-04-21",
    "name": "Easter Sunday (regional holiday)",
-   "type": "Public holiday",
+   "type": "public",
    "regions": [
     "Australian Capital Territory",
     "New South Wales",
@@ -2132,7 +2132,7 @@
   {
    "date": "2030-04-22",
    "name": "Easter Monday (regional holiday)",
-   "type": "Public holiday",
+   "type": "public",
    "regions": [
     "Australian Capital Territory",
     "New South Wales",
@@ -2149,12 +2149,12 @@
   {
    "date": "2030-04-25",
    "name": "ANZAC Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2030-05-06",
    "name": "Labour Day (Queensland)",
-   "type": "Public holiday",
+   "type": "public",
    "regions": [
     "Queensland"
    ]
@@ -2162,7 +2162,7 @@
   {
    "date": "2030-05-06",
    "name": "May Day (Northern Territory)",
-   "type": "Public holiday",
+   "type": "public",
    "regions": [
     "Northern Territory"
    ]
@@ -2170,7 +2170,7 @@
   {
    "date": "2030-06-06",
    "name": "King's Birthday (Cocos and Keeling Islands) (tentative)",
-   "type": "Public holiday",
+   "type": "public",
    "regions": [
     "Cocos and Keeling Islands"
    ]
@@ -2178,7 +2178,7 @@
   {
    "date": "2030-06-10",
    "name": "King's Birthday (regional holiday)",
-   "type": "Public holiday",
+   "type": "public",
    "regions": [
     "Australian Capital Territory",
     "New South Wales",
@@ -2192,12 +2192,12 @@
   {
    "date": "2030-08-18",
    "name": "Vietnam Veterans' Day",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2030-09-23",
    "name": "King's Birthday (Western Australia)",
-   "type": "Public holiday",
+   "type": "public",
    "regions": [
     "Western Australia"
    ]
@@ -2205,12 +2205,12 @@
   {
    "date": "2030-10-06",
    "name": "Daylight Saving Time starts",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2030-10-07",
    "name": "King's Birthday (Queensland)",
-   "type": "Public holiday",
+   "type": "public",
    "regions": [
     "Queensland"
    ]
@@ -2218,7 +2218,7 @@
   {
    "date": "2030-10-07",
    "name": "Labour Day (regional holiday)",
-   "type": "Public holiday",
+   "type": "public",
    "regions": [
     "Australian Capital Territory",
     "New South Wales",
@@ -2228,17 +2228,17 @@
   {
    "date": "2030-11-11",
    "name": "Remembrance Day",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2030-12-24",
    "name": "Christmas Eve",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2030-12-25",
    "name": "Christmas Day (regional holiday)",
-   "type": "Public holiday",
+   "type": "public",
    "regions": [
     "Australian Capital Territory",
     "New South Wales",
@@ -2256,27 +2256,27 @@
   {
    "date": "2030-12-26",
    "name": "Boxing Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2030-12-31",
    "name": "New Year's Eve",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2031-01-01",
    "name": "New Year's Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2031-01-26",
    "name": "Australia Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2031-01-27",
    "name": "Australia Day Observed (regional holiday)",
-   "type": "Public holiday",
+   "type": "public",
    "regions": [
     "Australian Capital Territory",
     "Cocos and Keeling Islands",
@@ -2292,7 +2292,7 @@
   {
    "date": "2031-03-03",
    "name": "Labour Day (Western Australia)",
-   "type": "Public holiday",
+   "type": "public",
    "regions": [
     "Western Australia"
    ]
@@ -2300,7 +2300,7 @@
   {
    "date": "2031-03-10",
    "name": "Eight Hours Day (Tasmania)",
-   "type": "Public holiday",
+   "type": "public",
    "regions": [
     "Tasmania"
    ]
@@ -2308,7 +2308,7 @@
   {
    "date": "2031-03-10",
    "name": "Labour Day (Victoria)",
-   "type": "Public holiday",
+   "type": "public",
    "regions": [
     "Victoria"
    ]
@@ -2316,17 +2316,17 @@
   {
    "date": "2031-03-21",
    "name": "Harmony Day",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2031-04-06",
    "name": "Daylight Saving Time ends",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2031-04-11",
    "name": "Good Friday (regional holiday)",
-   "type": "Public holiday",
+   "type": "public",
    "regions": [
     "Australian Capital Territory",
     "New South Wales",
@@ -2344,7 +2344,7 @@
   {
    "date": "2031-04-12",
    "name": "Holy Saturday (regional holiday)",
-   "type": "Public holiday",
+   "type": "public",
    "regions": [
     "Australian Capital Territory",
     "New South Wales",
@@ -2358,7 +2358,7 @@
   {
    "date": "2031-04-13",
    "name": "Easter Sunday (regional holiday)",
-   "type": "Public holiday",
+   "type": "public",
    "regions": [
     "Australian Capital Territory",
     "New South Wales",
@@ -2376,7 +2376,7 @@
   {
    "date": "2031-04-14",
    "name": "Easter Monday (regional holiday)",
-   "type": "Public holiday",
+   "type": "public",
    "regions": [
     "Australian Capital Territory",
     "New South Wales",
@@ -2393,12 +2393,12 @@
   {
    "date": "2031-04-25",
    "name": "ANZAC Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2031-05-05",
    "name": "Labour Day (Queensland)",
-   "type": "Public holiday",
+   "type": "public",
    "regions": [
     "Queensland"
    ]
@@ -2406,7 +2406,7 @@
   {
    "date": "2031-05-05",
    "name": "May Day (Northern Territory)",
-   "type": "Public holiday",
+   "type": "public",
    "regions": [
     "Northern Territory"
    ]
@@ -2414,7 +2414,7 @@
   {
    "date": "2031-06-06",
    "name": "King's Birthday (Cocos and Keeling Islands) (tentative)",
-   "type": "Public holiday",
+   "type": "public",
    "regions": [
     "Cocos and Keeling Islands"
    ]
@@ -2422,7 +2422,7 @@
   {
    "date": "2031-06-09",
    "name": "King's Birthday (regional holiday)",
-   "type": "Public holiday",
+   "type": "public",
    "regions": [
     "Australian Capital Territory",
     "New South Wales",
@@ -2436,12 +2436,12 @@
   {
    "date": "2031-08-18",
    "name": "Vietnam Veterans' Day",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2031-09-22",
    "name": "King's Birthday (Western Australia)",
-   "type": "Public holiday",
+   "type": "public",
    "regions": [
     "Western Australia"
    ]
@@ -2449,12 +2449,12 @@
   {
    "date": "2031-10-05",
    "name": "Daylight Saving Time starts",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2031-10-06",
    "name": "King's Birthday (Queensland)",
-   "type": "Public holiday",
+   "type": "public",
    "regions": [
     "Queensland"
    ]
@@ -2462,7 +2462,7 @@
   {
    "date": "2031-10-06",
    "name": "Labour Day (regional holiday)",
-   "type": "Public holiday",
+   "type": "public",
    "regions": [
     "Australian Capital Territory",
     "New South Wales",
@@ -2472,17 +2472,17 @@
   {
    "date": "2031-11-11",
    "name": "Remembrance Day",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2031-12-24",
    "name": "Christmas Eve",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2031-12-25",
    "name": "Christmas Day (regional holiday)",
-   "type": "Public holiday",
+   "type": "public",
    "regions": [
     "Australian Capital Territory",
     "New South Wales",
@@ -2500,12 +2500,12 @@
   {
    "date": "2031-12-26",
    "name": "Boxing Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2031-12-31",
    "name": "New Year's Eve",
-   "type": "Observance"
+   "type": "observance"
   }
  ]
 }

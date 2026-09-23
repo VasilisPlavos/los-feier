@@ -5,837 +5,837 @@
  "from": 2021,
  "to": 2031,
  "count": 166,
- "fetchedAt": "2026-09-23T12:14:40.757Z",
+ "fetchedAt": "2026-09-23T12:37:49.967Z",
  "events": [
   {
    "date": "2021-01-01",
    "name": "New Year",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2021-01-12",
    "name": "Berber New Year",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2021-02-22",
    "name": "Day of Fraternity and Unity",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2021-05-01",
    "name": "May Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2021-05-13",
    "name": "Eid al-Fitr",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2021-05-14",
    "name": "Eid al-Fitr Holiday",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2021-06-12",
    "name": "Election Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2021-07-05",
    "name": "Independence Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2021-07-20",
    "name": "Eid al-Adha",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2021-07-21",
    "name": "Eid al-Adha Holiday",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2021-08-10",
    "name": "Muharram",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2021-08-19",
    "name": "Day of Achura",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2021-10-19",
    "name": "The Prophet's Birthday",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2021-11-01",
    "name": "Anniversary of the Revolution",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2022-01-01",
    "name": "New Year",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2022-01-12",
    "name": "Berber New Year",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2022-02-22",
    "name": "Day of Fraternity and Unity",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2022-05-01",
    "name": "May Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2022-05-02",
    "name": "Eid al-Fitr",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2022-05-03",
    "name": "Eid al-Fitr Holiday",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2022-07-05",
    "name": "Independence Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2022-07-09",
    "name": "Eid al-Adha",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2022-07-11",
    "name": "Eid al-Adha Holiday",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2022-07-30",
    "name": "Muharram",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2022-08-08",
    "name": "Day of Achura",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2022-10-08",
    "name": "The Prophet's Birthday",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2022-11-01",
    "name": "Anniversary of the Revolution",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2023-01-01",
    "name": "New Year",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2023-01-12",
    "name": "Berber New Year",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2023-02-22",
    "name": "Day of Fraternity and Unity",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2023-03-23",
    "name": "Ramadan Start",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2023-04-21",
    "name": "Eid al-Fitr",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2023-04-22",
    "name": "Eid al-Fitr Holiday",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2023-05-01",
    "name": "May Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2023-06-28",
    "name": "Eid al-Adha",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2023-06-29",
    "name": "Eid al-Adha Holiday",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2023-06-30",
    "name": "Eid al-Adha Holiday",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2023-07-05",
    "name": "Independence Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2023-07-19",
    "name": "Muharram",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2023-07-28",
    "name": "Day of Achura",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2023-09-28",
    "name": "The Prophet's Birthday",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2023-11-01",
    "name": "Anniversary of the Revolution",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2024-01-01",
    "name": "New Year",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2024-01-12",
    "name": "Berber New Year",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2024-02-22",
    "name": "Day of Fraternity and Unity",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2024-03-11",
    "name": "Ramadan Start",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2024-04-10",
    "name": "Eid al-Fitr",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2024-04-11",
    "name": "Eid al-Fitr Holiday",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2024-04-12",
    "name": "Eid al-Fitr Holiday",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2024-05-01",
    "name": "May Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2024-06-16",
    "name": "Eid al-Adha",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2024-06-17",
    "name": "Eid al-Adha Holiday",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2024-06-18",
    "name": "Eid al-Adha Holiday",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2024-07-05",
    "name": "Independence Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2024-07-07",
    "name": "Muharram",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2024-07-16",
    "name": "Day of Achura",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2024-09-16",
    "name": "The Prophet's Birthday",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2024-11-01",
    "name": "Anniversary of the Revolution",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2025-01-01",
    "name": "New Year",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2025-01-12",
    "name": "Berber New Year",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2025-02-22",
    "name": "Day of Fraternity and Unity",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2025-03-01",
    "name": "Ramadan Start",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2025-03-31",
    "name": "Eid al-Fitr",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2025-04-01",
    "name": "Eid al-Fitr Holiday",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2025-04-02",
    "name": "Eid al-Fitr Holiday",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2025-05-01",
    "name": "May Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2025-06-06",
    "name": "Eid al-Adha",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2025-06-07",
    "name": "Eid al-Adha Holiday",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2025-06-08",
    "name": "Eid al-Adha Holiday",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2025-06-27",
    "name": "Muharram",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2025-07-05",
    "name": "Independence Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2025-07-06",
    "name": "Day of Achura",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2025-09-05",
    "name": "The Prophet's Birthday",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2025-11-01",
    "name": "Anniversary of the Revolution",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2026-01-01",
    "name": "New Year",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2026-01-12",
    "name": "Berber New Year",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2026-02-19",
    "name": "Ramadan Start",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2026-02-22",
    "name": "Day of Fraternity and Unity",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2026-03-20",
    "name": "Eid al-Fitr",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2026-03-21",
    "name": "Eid al-Fitr Holiday",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2026-03-22",
    "name": "Eid al-Fitr Holiday",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2026-05-01",
    "name": "May Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2026-05-27",
    "name": "Eid al-Adha",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2026-05-28",
    "name": "Eid al-Adha Holiday",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2026-06-16",
    "name": "Muharram",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2026-06-25",
    "name": "Day of Achura",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2026-07-02",
    "name": "Election Holiday",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2026-07-05",
    "name": "Independence Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2026-08-25",
    "name": "The Prophet's Birthday",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2026-11-01",
    "name": "Anniversary of the Revolution",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2027-01-01",
    "name": "New Year",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2027-01-12",
    "name": "Berber New Year",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2027-02-08",
    "name": "Ramadan Start (tentative)",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2027-02-22",
    "name": "Day of Fraternity and Unity",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2027-03-10",
    "name": "Eid al-Fitr (tentative)",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2027-03-11",
    "name": "Eid al-Fitr Holiday (tentative)",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2027-03-12",
    "name": "Eid al-Fitr Holiday (tentative)",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2027-05-01",
    "name": "May Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2027-05-17",
    "name": "Eid al-Adha (tentative)",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2027-05-18",
    "name": "Eid al-Adha Holiday (tentative)",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2027-06-06",
    "name": "Muharram (tentative)",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2027-06-15",
    "name": "Day of Achura (tentative)",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2027-07-05",
    "name": "Independence Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2027-08-15",
    "name": "The Prophet's Birthday (tentative)",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2027-11-01",
    "name": "Anniversary of the Revolution",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2028-01-01",
    "name": "New Year",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2028-01-12",
    "name": "Berber New Year",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2028-01-28",
    "name": "Ramadan Start (tentative)",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2028-02-22",
    "name": "Day of Fraternity and Unity",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2028-02-27",
    "name": "Eid al-Fitr (tentative)",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2028-02-28",
    "name": "Eid al-Fitr Holiday (tentative)",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2028-02-29",
    "name": "Eid al-Fitr Holiday (tentative)",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2028-05-01",
    "name": "May Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2028-05-05",
    "name": "Eid al-Adha (tentative)",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2028-05-06",
    "name": "Eid al-Adha Holiday (tentative)",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2028-05-25",
    "name": "Muharram (tentative)",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2028-06-03",
    "name": "Day of Achura (tentative)",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2028-07-05",
    "name": "Independence Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2028-08-03",
    "name": "The Prophet's Birthday (tentative)",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2028-11-01",
    "name": "Anniversary of the Revolution",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2029-01-01",
    "name": "New Year",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2029-01-12",
    "name": "Berber New Year",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2029-01-16",
    "name": "Ramadan Start (tentative)",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2029-02-15",
    "name": "Eid al-Fitr (tentative)",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2029-02-16",
    "name": "Eid al-Fitr Holiday (tentative)",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2029-02-17",
    "name": "Eid al-Fitr Holiday (tentative)",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2029-02-22",
    "name": "Day of Fraternity and Unity",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2029-04-24",
    "name": "Eid al-Adha (tentative)",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2029-04-25",
    "name": "Eid al-Adha Holiday (tentative)",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2029-05-01",
    "name": "May Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2029-05-15",
    "name": "Muharram (tentative)",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2029-05-24",
    "name": "Day of Achura (tentative)",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2029-07-05",
    "name": "Independence Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2029-07-24",
    "name": "The Prophet's Birthday (tentative)",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2029-11-01",
    "name": "Anniversary of the Revolution",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2030-01-01",
    "name": "New Year",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2030-01-06",
    "name": "Ramadan Start (tentative)",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2030-01-12",
    "name": "Berber New Year",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2030-02-05",
    "name": "Eid al-Fitr (tentative)",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2030-02-06",
    "name": "Eid al-Fitr Holiday (tentative)",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2030-02-07",
    "name": "Eid al-Fitr Holiday (tentative)",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2030-02-22",
    "name": "Day of Fraternity and Unity",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2030-04-14",
    "name": "Eid al-Adha (tentative)",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2030-04-15",
    "name": "Eid al-Adha Holiday (tentative)",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2030-05-01",
    "name": "May Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2030-05-04",
    "name": "Muharram (tentative)",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2030-05-13",
    "name": "Day of Achura (tentative)",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2030-07-05",
    "name": "Independence Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2030-07-13",
    "name": "The Prophet's Birthday (tentative)",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2030-11-01",
    "name": "Anniversary of the Revolution",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2030-12-26",
    "name": "Ramadan Start (tentative)",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2031-01-01",
    "name": "New Year",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2031-01-12",
    "name": "Berber New Year",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2031-01-25",
    "name": "Eid al-Fitr (tentative)",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2031-01-26",
    "name": "Eid al-Fitr Holiday (tentative)",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2031-01-27",
    "name": "Eid al-Fitr Holiday (tentative)",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2031-02-22",
    "name": "Day of Fraternity and Unity",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2031-04-03",
    "name": "Eid al-Adha (tentative)",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2031-04-04",
    "name": "Eid al-Adha Holiday (tentative)",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2031-04-23",
    "name": "Muharram (tentative)",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2031-05-01",
    "name": "May Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2031-05-02",
    "name": "Day of Achura (tentative)",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2031-07-02",
    "name": "The Prophet's Birthday (tentative)",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2031-07-05",
    "name": "Independence Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2031-11-01",
    "name": "Anniversary of the Revolution",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2031-12-15",
    "name": "Ramadan Start (tentative)",
-   "type": "Observance"
+   "type": "observance"
   }
  ]
 }

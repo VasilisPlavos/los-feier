@@ -5,47 +5,47 @@
  "from": 2021,
  "to": 2031,
  "count": 244,
- "fetchedAt": "2026-09-23T12:14:41.075Z",
+ "fetchedAt": "2026-09-23T12:37:50.126Z",
  "events": [
   {
    "date": "2021-01-01",
    "name": "New Year's Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2021-02-14",
    "name": "Valentine's Day",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2021-02-16",
    "name": "Carnival / Shrove Tuesday / Pancake Day",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2021-03-14",
    "name": "Mother's Day",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2021-03-28",
    "name": "Daylight Saving Time starts",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2021-04-02",
    "name": "Good Friday",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2021-04-04",
    "name": "Easter Sunday",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2021-04-05",
    "name": "Easter Monday (regional holiday)",
-   "type": "Public holiday",
+   "type": "public",
    "regions": [
     "England",
     "Wales",
@@ -55,27 +55,27 @@
   {
    "date": "2021-05-03",
    "name": "Early May Bank Holiday",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2021-05-31",
    "name": "Spring Bank Holiday",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2021-06-12",
    "name": "Queen Elizabeth II's Birthday",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2021-06-20",
    "name": "Father's Day",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2021-08-30",
    "name": "Summer Bank Holiday (regional holiday)",
-   "type": "Public holiday",
+   "type": "public",
    "regions": [
     "England",
     "Wales",
@@ -85,97 +85,97 @@
   {
    "date": "2021-10-31",
    "name": "Daylight Saving Time ends",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2021-10-31",
    "name": "Halloween",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2021-11-05",
    "name": "Guy Fawkes Day",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2021-11-14",
    "name": "Remembrance Sunday",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2021-12-24",
    "name": "Christmas Eve",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2021-12-25",
    "name": "Christmas Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2021-12-26",
    "name": "Boxing Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2021-12-27",
    "name": "Substitute Bank Holiday for Christmas Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2021-12-28",
    "name": "Substitute Bank Holiday for Boxing Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2021-12-31",
    "name": "New Year's Eve",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2022-01-01",
    "name": "New Year's Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2022-01-03",
    "name": "New Year's Day observed",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2022-02-14",
    "name": "Valentine's Day",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2022-03-01",
    "name": "Carnival / Shrove Tuesday / Pancake Day",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2022-03-27",
    "name": "Daylight Saving Time starts",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2022-03-27",
    "name": "Mother's Day",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2022-04-15",
    "name": "Good Friday",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2022-04-17",
    "name": "Easter Sunday",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2022-04-18",
    "name": "Easter Monday (regional holiday)",
-   "type": "Public holiday",
+   "type": "public",
    "regions": [
     "England",
     "Wales",
@@ -185,32 +185,32 @@
   {
    "date": "2022-05-02",
    "name": "Early May Bank Holiday",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2022-06-02",
    "name": "Spring Bank Holiday",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2022-06-03",
    "name": "Queen Elizabeth II's Platinum Jubilee",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2022-06-11",
    "name": "Queen Elizabeth II's Birthday",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2022-06-19",
    "name": "Father's Day",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2022-08-29",
    "name": "Summer Bank Holiday (regional holiday)",
-   "type": "Public holiday",
+   "type": "public",
    "regions": [
     "England",
     "Wales",
@@ -220,97 +220,97 @@
   {
    "date": "2022-09-19",
    "name": "State Funeral of Queen Elizabeth II",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2022-10-30",
    "name": "Daylight Saving Time ends",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2022-10-31",
    "name": "Halloween",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2022-11-05",
    "name": "Guy Fawkes Day",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2022-11-13",
    "name": "Remembrance Sunday",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2022-12-24",
    "name": "Christmas Eve",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2022-12-25",
    "name": "Christmas Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2022-12-26",
    "name": "Boxing Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2022-12-27",
    "name": "Substitute Bank Holiday for Christmas Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2022-12-31",
    "name": "New Year's Eve",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2023-01-01",
    "name": "New Year's Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2023-01-02",
    "name": "New Year's Day observed",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2023-02-14",
    "name": "Valentine's Day",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2023-02-21",
    "name": "Carnival / Shrove Tuesday / Pancake Day",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2023-03-19",
    "name": "Mother's Day",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2023-03-26",
    "name": "Daylight Saving Time starts",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2023-04-07",
    "name": "Good Friday",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2023-04-09",
    "name": "Easter Sunday",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2023-04-10",
    "name": "Easter Monday (regional holiday)",
-   "type": "Public holiday",
+   "type": "public",
    "regions": [
     "England",
     "Wales",
@@ -320,37 +320,37 @@
   {
    "date": "2023-05-01",
    "name": "Early May Bank Holiday",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2023-05-06",
    "name": "The Coronation of King Charles III",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2023-05-08",
    "name": "Bank Holiday for the Coronation of King Charles III",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2023-05-29",
    "name": "Spring Bank Holiday",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2023-06-17",
    "name": "King's Birthday",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2023-06-18",
    "name": "Father's Day",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2023-08-28",
    "name": "Summer Bank Holiday (regional holiday)",
-   "type": "Public holiday",
+   "type": "public",
    "regions": [
     "England",
     "Wales",
@@ -360,82 +360,82 @@
   {
    "date": "2023-10-29",
    "name": "Daylight Saving Time ends",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2023-10-31",
    "name": "Halloween",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2023-11-05",
    "name": "Guy Fawkes Day",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2023-11-12",
    "name": "Remembrance Sunday",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2023-12-24",
    "name": "Christmas Eve",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2023-12-25",
    "name": "Christmas Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2023-12-26",
    "name": "Boxing Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2023-12-31",
    "name": "New Year's Eve",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2024-01-01",
    "name": "New Year's Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2024-02-13",
    "name": "Carnival / Shrove Tuesday / Pancake Day",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2024-02-14",
    "name": "Valentine's Day",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2024-03-10",
    "name": "Mother's Day",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2024-03-29",
    "name": "Good Friday",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2024-03-31",
    "name": "Daylight Saving Time starts",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2024-03-31",
    "name": "Easter Sunday",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2024-04-01",
    "name": "Easter Monday (regional holiday)",
-   "type": "Public holiday",
+   "type": "public",
    "regions": [
     "England",
     "Wales",
@@ -445,27 +445,27 @@
   {
    "date": "2024-05-06",
    "name": "Early May Bank Holiday",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2024-05-27",
    "name": "Spring Bank Holiday",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2024-06-15",
    "name": "King's Birthday",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2024-06-16",
    "name": "Father's Day",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2024-08-26",
    "name": "Summer Bank Holiday (regional holiday)",
-   "type": "Public holiday",
+   "type": "public",
    "regions": [
     "England",
     "Wales",
@@ -475,82 +475,82 @@
   {
    "date": "2024-10-27",
    "name": "Daylight Saving Time ends",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2024-10-31",
    "name": "Halloween",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2024-11-05",
    "name": "Guy Fawkes Day",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2024-11-10",
    "name": "Remembrance Sunday",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2024-12-24",
    "name": "Christmas Eve",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2024-12-25",
    "name": "Christmas Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2024-12-26",
    "name": "Boxing Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2024-12-31",
    "name": "New Year's Eve",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2025-01-01",
    "name": "New Year's Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2025-02-14",
    "name": "Valentine's Day",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2025-03-04",
    "name": "Carnival / Shrove Tuesday / Pancake Day",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2025-03-30",
    "name": "Daylight Saving Time starts",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2025-03-30",
    "name": "Mother's Day",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2025-04-18",
    "name": "Good Friday",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2025-04-20",
    "name": "Easter Sunday",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2025-04-21",
    "name": "Easter Monday (regional holiday)",
-   "type": "Public holiday",
+   "type": "public",
    "regions": [
     "England",
     "Wales",
@@ -560,27 +560,27 @@
   {
    "date": "2025-05-05",
    "name": "Early May Bank Holiday",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2025-05-26",
    "name": "Spring Bank Holiday",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2025-06-14",
    "name": "King's Birthday",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2025-06-15",
    "name": "Father's Day",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2025-08-25",
    "name": "Summer Bank Holiday (regional holiday)",
-   "type": "Public holiday",
+   "type": "public",
    "regions": [
     "England",
     "Wales",
@@ -590,82 +590,82 @@
   {
    "date": "2025-10-26",
    "name": "Daylight Saving Time ends",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2025-10-31",
    "name": "Halloween",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2025-11-05",
    "name": "Guy Fawkes Day",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2025-11-09",
    "name": "Remembrance Sunday",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2025-12-24",
    "name": "Christmas Eve",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2025-12-25",
    "name": "Christmas Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2025-12-26",
    "name": "Boxing Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2025-12-31",
    "name": "New Year's Eve",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2026-01-01",
    "name": "New Year's Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2026-02-14",
    "name": "Valentine's Day",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2026-02-17",
    "name": "Carnival / Shrove Tuesday / Pancake Day",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2026-03-15",
    "name": "Mother's Day",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2026-03-29",
    "name": "Daylight Saving Time starts",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2026-04-03",
    "name": "Good Friday",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2026-04-05",
    "name": "Easter Sunday",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2026-04-06",
    "name": "Easter Monday (regional holiday)",
-   "type": "Public holiday",
+   "type": "public",
    "regions": [
     "England",
     "Wales",
@@ -675,27 +675,27 @@
   {
    "date": "2026-05-04",
    "name": "Early May Bank Holiday",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2026-05-25",
    "name": "Spring Bank Holiday",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2026-06-13",
    "name": "King's Birthday",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2026-06-21",
    "name": "Father's Day",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2026-08-31",
    "name": "Summer Bank Holiday (regional holiday)",
-   "type": "Public holiday",
+   "type": "public",
    "regions": [
     "England",
     "Wales",
@@ -705,87 +705,87 @@
   {
    "date": "2026-10-25",
    "name": "Daylight Saving Time ends",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2026-10-31",
    "name": "Halloween",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2026-11-05",
    "name": "Guy Fawkes Day",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2026-11-08",
    "name": "Remembrance Sunday",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2026-12-24",
    "name": "Christmas Eve",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2026-12-25",
    "name": "Christmas Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2026-12-26",
    "name": "Boxing Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2026-12-28",
    "name": "Substitute Bank Holiday for Boxing Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2026-12-31",
    "name": "New Year's Eve",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2027-01-01",
    "name": "New Year's Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2027-02-09",
    "name": "Carnival / Shrove Tuesday / Pancake Day",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2027-02-14",
    "name": "Valentine's Day",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2027-03-07",
    "name": "Mother's Day",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2027-03-26",
    "name": "Good Friday",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2027-03-28",
    "name": "Daylight Saving Time starts",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2027-03-28",
    "name": "Easter Sunday",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2027-03-29",
    "name": "Easter Monday (regional holiday)",
-   "type": "Public holiday",
+   "type": "public",
    "regions": [
     "England",
     "Wales",
@@ -795,27 +795,27 @@
   {
    "date": "2027-05-03",
    "name": "Early May Bank Holiday",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2027-05-31",
    "name": "Spring Bank Holiday",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2027-06-19",
    "name": "King's Birthday",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2027-06-20",
    "name": "Father's Day",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2027-08-30",
    "name": "Summer Bank Holiday (regional holiday)",
-   "type": "Public holiday",
+   "type": "public",
    "regions": [
     "England",
     "Wales",
@@ -825,97 +825,97 @@
   {
    "date": "2027-10-31",
    "name": "Daylight Saving Time ends",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2027-10-31",
    "name": "Halloween",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2027-11-05",
    "name": "Guy Fawkes Day",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2027-11-14",
    "name": "Remembrance Sunday",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2027-12-24",
    "name": "Christmas Eve",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2027-12-25",
    "name": "Christmas Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2027-12-26",
    "name": "Boxing Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2027-12-27",
    "name": "Substitute Bank Holiday for Christmas Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2027-12-28",
    "name": "Substitute Bank Holiday for Boxing Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2027-12-31",
    "name": "New Year's Eve",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2028-01-01",
    "name": "New Year's Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2028-01-03",
    "name": "New Year's Day observed",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2028-02-14",
    "name": "Valentine's Day",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2028-02-29",
    "name": "Carnival / Shrove Tuesday / Pancake Day",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2028-03-26",
    "name": "Daylight Saving Time starts",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2028-03-26",
    "name": "Mother's Day",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2028-04-14",
    "name": "Good Friday",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2028-04-16",
    "name": "Easter Sunday",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2028-04-17",
    "name": "Easter Monday (regional holiday)",
-   "type": "Public holiday",
+   "type": "public",
    "regions": [
     "England",
     "Wales",
@@ -925,27 +925,27 @@
   {
    "date": "2028-05-01",
    "name": "Early May Bank Holiday",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2028-05-29",
    "name": "Spring Bank Holiday",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2028-06-17",
    "name": "King's Birthday",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2028-06-18",
    "name": "Father's Day",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2028-08-28",
    "name": "Summer Bank Holiday (regional holiday)",
-   "type": "Public holiday",
+   "type": "public",
    "regions": [
     "England",
     "Wales",
@@ -955,82 +955,82 @@
   {
    "date": "2028-10-29",
    "name": "Daylight Saving Time ends",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2028-10-31",
    "name": "Halloween",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2028-11-05",
    "name": "Guy Fawkes Day",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2028-11-12",
    "name": "Remembrance Sunday",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2028-12-24",
    "name": "Christmas Eve",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2028-12-25",
    "name": "Christmas Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2028-12-26",
    "name": "Boxing Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2028-12-31",
    "name": "New Year's Eve",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2029-01-01",
    "name": "New Year's Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2029-02-13",
    "name": "Carnival / Shrove Tuesday / Pancake Day",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2029-02-14",
    "name": "Valentine's Day",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2029-03-11",
    "name": "Mother's Day",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2029-03-25",
    "name": "Daylight Saving Time starts",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2029-03-30",
    "name": "Good Friday",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2029-04-01",
    "name": "Easter Sunday",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2029-04-02",
    "name": "Easter Monday (regional holiday)",
-   "type": "Public holiday",
+   "type": "public",
    "regions": [
     "England",
     "Wales",
@@ -1040,27 +1040,27 @@
   {
    "date": "2029-05-07",
    "name": "Early May Bank Holiday",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2029-05-28",
    "name": "Spring Bank Holiday",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2029-06-16",
    "name": "King's Birthday",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2029-06-17",
    "name": "Father's Day",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2029-08-27",
    "name": "Summer Bank Holiday (regional holiday)",
-   "type": "Public holiday",
+   "type": "public",
    "regions": [
     "England",
     "Wales",
@@ -1070,82 +1070,82 @@
   {
    "date": "2029-10-28",
    "name": "Daylight Saving Time ends",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2029-10-31",
    "name": "Halloween",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2029-11-05",
    "name": "Guy Fawkes Day",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2029-11-11",
    "name": "Remembrance Sunday",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2029-12-24",
    "name": "Christmas Eve",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2029-12-25",
    "name": "Christmas Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2029-12-26",
    "name": "Boxing Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2029-12-31",
    "name": "New Year's Eve",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2030-01-01",
    "name": "New Year's Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2030-02-14",
    "name": "Valentine's Day",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2030-03-05",
    "name": "Carnival / Shrove Tuesday / Pancake Day",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2030-03-31",
    "name": "Daylight Saving Time starts",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2030-03-31",
    "name": "Mother's Day",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2030-04-19",
    "name": "Good Friday",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2030-04-21",
    "name": "Easter Sunday",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2030-04-22",
    "name": "Easter Monday (regional holiday)",
-   "type": "Public holiday",
+   "type": "public",
    "regions": [
     "England",
     "Wales",
@@ -1155,27 +1155,27 @@
   {
    "date": "2030-05-06",
    "name": "Early May Bank Holiday",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2030-05-27",
    "name": "Spring Bank Holiday",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2030-06-15",
    "name": "King's Birthday",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2030-06-16",
    "name": "Father's Day",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2030-08-26",
    "name": "Summer Bank Holiday (regional holiday)",
-   "type": "Public holiday",
+   "type": "public",
    "regions": [
     "England",
     "Wales",
@@ -1185,82 +1185,82 @@
   {
    "date": "2030-10-27",
    "name": "Daylight Saving Time ends",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2030-10-31",
    "name": "Halloween",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2030-11-05",
    "name": "Guy Fawkes Day",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2030-11-10",
    "name": "Remembrance Sunday",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2030-12-24",
    "name": "Christmas Eve",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2030-12-25",
    "name": "Christmas Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2030-12-26",
    "name": "Boxing Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2030-12-31",
    "name": "New Year's Eve",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2031-01-01",
    "name": "New Year's Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2031-02-14",
    "name": "Valentine's Day",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2031-02-25",
    "name": "Carnival / Shrove Tuesday / Pancake Day",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2031-03-23",
    "name": "Mother's Day",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2031-03-30",
    "name": "Daylight Saving Time starts",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2031-04-11",
    "name": "Good Friday",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2031-04-13",
    "name": "Easter Sunday",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2031-04-14",
    "name": "Easter Monday (regional holiday)",
-   "type": "Public holiday",
+   "type": "public",
    "regions": [
     "England",
     "Wales",
@@ -1270,27 +1270,27 @@
   {
    "date": "2031-05-05",
    "name": "Early May Bank Holiday",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2031-05-26",
    "name": "Spring Bank Holiday",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2031-06-15",
    "name": "Father's Day",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2031-06-21",
    "name": "King's Birthday",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2031-08-25",
    "name": "Summer Bank Holiday (regional holiday)",
-   "type": "Public holiday",
+   "type": "public",
    "regions": [
     "England",
     "Wales",
@@ -1300,42 +1300,42 @@
   {
    "date": "2031-10-26",
    "name": "Daylight Saving Time ends",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2031-10-31",
    "name": "Halloween",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2031-11-05",
    "name": "Guy Fawkes Day",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2031-11-09",
    "name": "Remembrance Sunday",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2031-12-24",
    "name": "Christmas Eve",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2031-12-25",
    "name": "Christmas Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2031-12-26",
    "name": "Boxing Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2031-12-31",
    "name": "New Year's Eve",
-   "type": "Observance"
+   "type": "observance"
   }
  ]
 }

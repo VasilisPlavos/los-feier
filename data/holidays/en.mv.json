@@ -5,1362 +5,1362 @@
  "from": 2021,
  "to": 2031,
  "count": 271,
- "fetchedAt": "2026-09-23T12:14:40.943Z",
+ "fetchedAt": "2026-09-23T12:37:50.063Z",
  "events": [
   {
    "date": "2021-01-01",
    "name": "New Year's Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2021-02-04",
    "name": "Majlis Presidential Address",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2021-04-11",
    "name": "Ramadan Holiday",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2021-04-12",
    "name": "Ramadan Holiday",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2021-04-13",
    "name": "Ramadan Start",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2021-05-01",
    "name": "Labor Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2021-05-13",
    "name": "Eid-ul-Fithr",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2021-05-14",
    "name": "Eid-ul-Fithr Holiday",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2021-05-15",
    "name": "Eid-ul-Fithr Holiday",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2021-07-18",
    "name": "Hajj Holiday",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2021-07-19",
    "name": "Hajj Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2021-07-20",
    "name": "Eid-ul Al'haa",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2021-07-21",
    "name": "Eid-ul Al'haa Holiday",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2021-07-22",
    "name": "Eid-ul Al'haa Holiday",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2021-07-23",
    "name": "Eid-ul Al'haa Holiday",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2021-07-25",
    "name": "Eid-ul Al'haa Holiday",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2021-07-26",
    "name": "Independence Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2021-07-27",
    "name": "Independence Day Holiday",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2021-07-28",
    "name": "Independence Day Holiday",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2021-07-29",
    "name": "Independence Day Holiday",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2021-08-09",
    "name": "Muharram",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2021-10-07",
    "name": "National Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2021-10-18",
    "name": "Milad un Nabi",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2021-11-03",
    "name": "Victory Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2021-11-07",
    "name": "The Day Maldives Embraced Islam",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2021-11-11",
    "name": "Republic Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2022-01-01",
    "name": "New Year's Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2022-02-03",
    "name": "Majlis Presidential Address",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2022-04-02",
    "name": "Ramadan Start",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2022-05-01",
    "name": "Labor Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2022-05-02",
    "name": "Eid-ul-Fithr",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2022-05-03",
    "name": "Eid-ul-Fithr Holiday",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2022-05-04",
    "name": "Eid-ul-Fithr Holiday",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2022-05-05",
    "name": "Eid-ul-Fithr Holiday",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2022-07-08",
    "name": "Hajj Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2022-07-09",
    "name": "Eid-ul Al'haa",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2022-07-10",
    "name": "Eid-ul Al'haa Holiday",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2022-07-11",
    "name": "Eid-ul Al'haa Holiday",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2022-07-12",
    "name": "Eid-ul Al'haa Holiday",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2022-07-13",
    "name": "Eid-ul Al'haa Holiday",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2022-07-14",
    "name": "Eid-ul Al'haa Holiday",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2022-07-26",
    "name": "Independence Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2022-07-27",
    "name": "Independence Day Holiday",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2022-07-28",
    "name": "Independence Day Holiday",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2022-07-30",
    "name": "Muharram",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2022-09-27",
    "name": "National Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2022-10-03",
    "name": "National Tourism Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2022-10-08",
    "name": "Milad un Nabi",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2022-10-27",
    "name": "The Day Maldives Embraced Islam",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2022-11-03",
    "name": "Victory Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2022-11-11",
    "name": "Republic Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2023-01-01",
    "name": "New Year's Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2023-02-06",
    "name": "Public Holiday",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2023-03-23",
    "name": "Ramadan Start",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2023-04-21",
    "name": "Eid-ul-Fithr",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2023-04-22",
    "name": "Eid-ul-Fithr Holiday",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2023-04-23",
    "name": "Eid-ul-Fithr Holiday",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2023-05-01",
    "name": "Labor Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2023-06-25",
    "name": "Hajj Holiday",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2023-06-26",
    "name": "Hajj Holiday",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2023-06-27",
    "name": "Hajj Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2023-06-28",
    "name": "Eid-ul Al'haa",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2023-06-29",
    "name": "Eid-ul Al'haa Holiday",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2023-06-30",
    "name": "Eid-ul Al'haa Holiday",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2023-07-01",
    "name": "Eid-ul Al'haa Holiday",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2023-07-19",
    "name": "Muharram",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2023-07-26",
    "name": "Independence Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2023-07-27",
    "name": "Independence Day Holiday",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2023-09-10",
    "name": "Public Holiday",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2023-09-11",
    "name": "Public Holiday",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2023-09-16",
    "name": "National Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2023-09-27",
    "name": "Milad un Nabi",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2023-09-28",
    "name": "Milad un Nabi (Mawlid) Holiday",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2023-10-16",
    "name": "The Day Maldives Embraced Islam",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2023-11-03",
    "name": "Victory Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2023-11-11",
    "name": "Republic Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2024-01-01",
    "name": "New Year's Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2024-03-11",
    "name": "Ramadan Start",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2024-03-31",
    "name": "Ramadan Holiday",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2024-04-01",
    "name": "Ramadan Holiday",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2024-04-02",
    "name": "Ramadan Holiday",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2024-04-03",
    "name": "Ramadan Holiday",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2024-04-04",
    "name": "Ramadan Holiday",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2024-04-05",
    "name": "Ramadan Holiday",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2024-04-06",
    "name": "Ramadan Holiday",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2024-04-07",
    "name": "Ramadan Holiday",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2024-04-08",
    "name": "Ramadan Holiday",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2024-04-09",
    "name": "Ramadan Holiday",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2024-04-10",
    "name": "Eid-ul-Fithr",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2024-04-11",
    "name": "Eid-ul-Fithr Holiday",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2024-04-12",
    "name": "Eid-ul-Fithr Holiday",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2024-04-21",
    "name": "Election Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2024-04-22",
    "name": "Election Day Holiday",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2024-05-01",
    "name": "Labor Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2024-06-15",
    "name": "Hajj Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2024-06-16",
    "name": "Eid-ul Al'haa",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2024-06-17",
    "name": "Eid-ul Al'haa Holiday",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2024-06-18",
    "name": "Eid-ul Al'haa Holiday",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2024-06-19",
    "name": "Eid-ul Al'haa Holiday",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2024-06-20",
    "name": "Eid-ul Al'haa Holiday",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2024-07-07",
    "name": "Muharram",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2024-07-26",
    "name": "Independence Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2024-07-27",
    "name": "Independence Day Holiday",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2024-09-04",
    "name": "National Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2024-09-05",
    "name": "National Day Holiday",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2024-09-15",
    "name": "Milad un Nabi",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2024-10-05",
    "name": "The Day Maldives Embraced Islam",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2024-11-03",
    "name": "Victory Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2024-11-10",
    "name": "Republic Day Holiday",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2024-11-11",
    "name": "Republic Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2025-01-01",
    "name": "New Year's Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2025-01-02",
    "name": "New Year Holiday",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2025-02-06",
    "name": "Majlis Presidential Address",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2025-03-01",
    "name": "Ramadan Start",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2025-03-02",
    "name": "Extreme Weather Holiday",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2025-03-20",
    "name": "Ramadan Holiday",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2025-03-21",
    "name": "Ramadan Holiday",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2025-03-22",
    "name": "Ramadan Holiday",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2025-03-23",
    "name": "Ramadan Holiday",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2025-03-24",
    "name": "Ramadan Holiday",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2025-03-25",
    "name": "Ramadan Holiday",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2025-03-26",
    "name": "Ramadan Holiday",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2025-03-27",
    "name": "Ramadan Holiday",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2025-03-28",
    "name": "Ramadan Holiday",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2025-03-29",
    "name": "Ramadan Holiday",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2025-03-30",
    "name": "Eid-ul-Fithr",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2025-03-31",
    "name": "Eid-ul-Fithr Holiday",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2025-04-01",
    "name": "Eid-ul-Fithr Holiday",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2025-05-01",
    "name": "Labor Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2025-06-05",
    "name": "Hajj Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2025-06-06",
    "name": "Eid-ul Al'haa",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2025-06-07",
    "name": "Eid-ul Al'haa Holiday",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2025-06-08",
    "name": "Eid-ul Al'haa Holiday",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2025-06-09",
    "name": "Eid-ul Al'haa Holiday",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2025-06-26",
    "name": "Muharram",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2025-07-26",
    "name": "Independence Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2025-07-27",
    "name": "Independence Day Holiday",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2025-08-24",
    "name": "National Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2025-09-04",
    "name": "Milad un Nabi",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2025-09-24",
    "name": "The Day Maldives Embraced Islam",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2025-11-02",
    "name": "Victory Day Holiday",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2025-11-03",
    "name": "Victory Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2025-11-11",
    "name": "Republic Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2026-01-01",
    "name": "New Year's Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2026-02-05",
    "name": "Majlis Presidential Address",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2026-02-18",
    "name": "Ramadan Start",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2026-03-09",
    "name": "Ramadan Holiday",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2026-03-10",
    "name": "Ramadan Holiday",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2026-03-11",
    "name": "Ramadan Holiday",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2026-03-12",
    "name": "Ramadan Holiday",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2026-03-13",
    "name": "Ramadan Holiday",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2026-03-14",
    "name": "Ramadan Holiday",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2026-03-15",
    "name": "Ramadan Holiday",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2026-03-16",
    "name": "Ramadan Holiday",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2026-03-17",
    "name": "Ramadan Holiday",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2026-03-18",
    "name": "Ramadan Holiday",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2026-03-20",
    "name": "Eid-ul-Fithr",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2026-03-21",
    "name": "Eid-ul-Fithr Holiday",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2026-03-22",
    "name": "Eid-ul-Fithr Holiday",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2026-05-01",
    "name": "Labor Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2026-05-24",
    "name": "Eid-ul Al'haa Holiday",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2026-05-25",
    "name": "Eid-ul Al'haa Holiday",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2026-05-26",
    "name": "Hajj Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2026-05-27",
    "name": "Eid-ul Al'haa",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2026-05-28",
    "name": "Eid-ul Al'haa Holiday",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2026-05-29",
    "name": "Eid-ul Al'haa Holiday",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2026-05-30",
    "name": "Eid-ul Al'haa Holiday",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2026-06-16",
    "name": "Muharram",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2026-07-26",
    "name": "Independence Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2026-07-27",
    "name": "Independence Day Holiday",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2026-08-14",
    "name": "National Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2026-08-25",
    "name": "Milad un Nabi",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2026-09-13",
    "name": "The Day Maldives Embraced Islam",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2026-11-03",
    "name": "Victory Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2026-11-11",
    "name": "Republic Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2027-01-01",
    "name": "New Year's Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2027-02-08",
    "name": "Ramadan Start (tentative)",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2027-03-10",
    "name": "Eid-ul-Fithr (tentative)",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2027-03-11",
    "name": "Eid-ul-Fithr Holiday (tentative)",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2027-03-12",
    "name": "Eid-ul-Fithr Holiday (tentative)",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2027-05-01",
    "name": "Labor Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2027-05-16",
    "name": "Hajj Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2027-05-17",
    "name": "Eid-ul Al'haa (tentative)",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2027-05-18",
    "name": "Eid-ul Al'haa Holiday (tentative)",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2027-05-19",
    "name": "Eid-ul Al'haa Holiday (tentative)",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2027-05-20",
    "name": "Eid-ul Al'haa Holiday (tentative)",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2027-06-06",
    "name": "Muharram (tentative)",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2027-07-26",
    "name": "Independence Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2027-07-27",
    "name": "Independence Day Holiday",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2027-08-04",
    "name": "National Day (tentative)",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2027-08-15",
    "name": "Milad un Nabi (tentative)",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2027-09-03",
    "name": "The Day Maldives Embraced Islam (tentative)",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2027-11-03",
    "name": "Victory Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2027-11-11",
    "name": "Republic Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2028-01-01",
    "name": "New Year's Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2028-01-28",
    "name": "Ramadan Start (tentative)",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2028-02-27",
    "name": "Eid-ul-Fithr (tentative)",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2028-02-28",
    "name": "Eid-ul-Fithr Holiday (tentative)",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2028-02-29",
    "name": "Eid-ul-Fithr Holiday (tentative)",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2028-05-01",
    "name": "Labor Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2028-05-04",
    "name": "Hajj Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2028-05-05",
    "name": "Eid-ul Al'haa (tentative)",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2028-05-06",
    "name": "Eid-ul Al'haa Holiday (tentative)",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2028-05-07",
    "name": "Eid-ul Al'haa Holiday (tentative)",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2028-05-08",
    "name": "Eid-ul Al'haa Holiday (tentative)",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2028-05-25",
    "name": "Muharram (tentative)",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2028-07-23",
    "name": "National Day (tentative)",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2028-07-26",
    "name": "Independence Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2028-07-27",
    "name": "Independence Day Holiday",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2028-08-03",
    "name": "Milad un Nabi (tentative)",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2028-08-22",
    "name": "The Day Maldives Embraced Islam (tentative)",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2028-11-03",
    "name": "Victory Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2028-11-11",
    "name": "Republic Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2029-01-01",
    "name": "New Year's Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2029-01-16",
    "name": "Ramadan Start (tentative)",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2029-02-15",
    "name": "Eid-ul-Fithr (tentative)",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2029-02-16",
    "name": "Eid-ul-Fithr Holiday (tentative)",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2029-02-17",
    "name": "Eid-ul-Fithr Holiday (tentative)",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2029-04-23",
    "name": "Hajj Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2029-04-24",
    "name": "Eid-ul Al'haa (tentative)",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2029-04-25",
    "name": "Eid-ul Al'haa Holiday (tentative)",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2029-04-26",
    "name": "Eid-ul Al'haa Holiday (tentative)",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2029-04-27",
    "name": "Eid-ul Al'haa Holiday (tentative)",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2029-05-01",
    "name": "Labor Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2029-05-15",
    "name": "Muharram (tentative)",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2029-07-13",
    "name": "National Day (tentative)",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2029-07-24",
    "name": "Milad un Nabi (tentative)",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2029-07-26",
    "name": "Independence Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2029-07-27",
    "name": "Independence Day Holiday",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2029-08-12",
    "name": "The Day Maldives Embraced Islam (tentative)",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2029-11-03",
    "name": "Victory Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2029-11-11",
    "name": "Republic Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2030-01-01",
    "name": "New Year's Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2030-01-06",
    "name": "Ramadan Start (tentative)",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2030-02-05",
    "name": "Eid-ul-Fithr (tentative)",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2030-02-06",
    "name": "Eid-ul-Fithr Holiday (tentative)",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2030-02-07",
    "name": "Eid-ul-Fithr Holiday (tentative)",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2030-04-13",
    "name": "Hajj Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2030-04-14",
    "name": "Eid-ul Al'haa (tentative)",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2030-04-15",
    "name": "Eid-ul Al'haa Holiday (tentative)",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2030-04-16",
    "name": "Eid-ul Al'haa Holiday (tentative)",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2030-04-17",
    "name": "Eid-ul Al'haa Holiday (tentative)",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2030-05-01",
    "name": "Labor Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2030-05-04",
    "name": "Muharram (tentative)",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2030-07-02",
    "name": "National Day (tentative)",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2030-07-13",
    "name": "Milad un Nabi (tentative)",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2030-07-26",
    "name": "Independence Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2030-07-27",
    "name": "Independence Day Holiday",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2030-08-01",
    "name": "The Day Maldives Embraced Islam (tentative)",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2030-11-03",
    "name": "Victory Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2030-11-11",
    "name": "Republic Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2030-12-26",
    "name": "Ramadan Start (tentative)",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2031-01-01",
    "name": "New Year's Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2031-01-25",
    "name": "Eid-ul-Fithr (tentative)",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2031-01-26",
    "name": "Eid-ul-Fithr Holiday (tentative)",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2031-01-27",
    "name": "Eid-ul-Fithr Holiday (tentative)",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2031-04-02",
    "name": "Hajj Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2031-04-03",
    "name": "Eid-ul Al'haa (tentative)",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2031-04-04",
    "name": "Eid-ul Al'haa Holiday (tentative)",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2031-04-05",
    "name": "Eid-ul Al'haa Holiday (tentative)",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2031-04-06",
    "name": "Eid-ul Al'haa Holiday (tentative)",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2031-04-23",
    "name": "Muharram (tentative)",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2031-05-01",
    "name": "Labor Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2031-06-21",
    "name": "National Day (tentative)",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2031-07-02",
    "name": "Milad un Nabi (tentative)",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2031-07-21",
    "name": "The Day Maldives Embraced Islam (tentative)",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2031-07-26",
    "name": "Independence Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2031-07-27",
    "name": "Independence Day Holiday",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2031-11-03",
    "name": "Victory Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2031-11-11",
    "name": "Republic Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2031-12-15",
    "name": "Ramadan Start (tentative)",
-   "type": "Public holiday"
+   "type": "public"
   }
  ]
 }

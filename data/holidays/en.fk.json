@@ -5,842 +5,842 @@
  "from": 2021,
  "to": 2031,
  "count": 167,
- "fetchedAt": "2026-09-23T12:14:40.773Z",
+ "fetchedAt": "2026-09-23T12:37:49.975Z",
  "events": [
   {
    "date": "2021-01-01",
    "name": "New Year's Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2021-01-10",
    "name": "Margaret Thatcher Day",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2021-04-02",
    "name": "Good Friday",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2021-04-21",
    "name": "Queen Elizabeth II's Birthday",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2021-06-14",
    "name": "Liberation Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2021-08-14",
    "name": "Falkland Day",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2021-10-04",
    "name": "Peat Cutting Monday",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2021-12-08",
    "name": "Battle Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2021-12-25",
    "name": "Christmas Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2021-12-26",
    "name": "Boxing Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2021-12-27",
    "name": "Christmas Holiday",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2021-12-27",
    "name": "Day off for Christmas Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2021-12-28",
    "name": "Day off for Boxing Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2021-12-29",
    "name": "Day off for Christmas Holiday",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2021-12-30",
    "name": "Christmas Holiday",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2021-12-31",
    "name": "Christmas Holiday",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2022-01-01",
    "name": "New Year's Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2022-01-03",
    "name": "New Year's Day observed",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2022-01-10",
    "name": "Margaret Thatcher Day",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2022-04-15",
    "name": "Good Friday",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2022-04-21",
    "name": "Queen Elizabeth II's Birthday",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2022-06-14",
    "name": "Liberation Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2022-08-14",
    "name": "Falkland Day",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2022-09-19",
    "name": "Queen Elizabeth II's Funeral Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2022-10-03",
    "name": "Peat Cutting Monday",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2022-11-14",
    "name": "King Charles III's Birthday",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2022-12-08",
    "name": "Battle Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2022-12-25",
    "name": "Christmas Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2022-12-26",
    "name": "Boxing Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2022-12-26",
    "name": "Day off for Christmas Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2022-12-27",
    "name": "Christmas Holiday",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2022-12-27",
    "name": "Day off for Boxing Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2022-12-28",
    "name": "Day off for Christmas Holiday",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2022-12-29",
    "name": "Christmas Holiday",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2022-12-30",
    "name": "Christmas Holiday",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2023-01-01",
    "name": "New Year's Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2023-01-02",
    "name": "New Year's Day observed",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2023-01-10",
    "name": "Margaret Thatcher Day",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2023-04-07",
    "name": "Good Friday",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2023-06-14",
    "name": "Liberation Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2023-08-14",
    "name": "Falkland Day",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2023-10-02",
    "name": "Peat Cutting Monday",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2023-11-14",
    "name": "King Charles III's Birthday",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2023-12-08",
    "name": "Battle Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2023-12-25",
    "name": "Christmas Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2023-12-26",
    "name": "Boxing Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2023-12-27",
    "name": "Christmas Holiday",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2023-12-28",
    "name": "Christmas Holiday",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2023-12-29",
    "name": "Christmas Holiday",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2024-01-01",
    "name": "New Year's Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2024-01-10",
    "name": "Margaret Thatcher Day",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2024-03-29",
    "name": "Good Friday",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2024-06-14",
    "name": "Liberation Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2024-08-14",
    "name": "Falkland Day",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2024-10-07",
    "name": "Peat Cutting Monday",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2024-11-14",
    "name": "King Charles III's Birthday",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2024-12-08",
    "name": "Battle Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2024-12-09",
    "name": "Battle Day observed",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2024-12-25",
    "name": "Christmas Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2024-12-26",
    "name": "Boxing Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2024-12-27",
    "name": "Christmas Holiday",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2024-12-30",
    "name": "Christmas Holiday",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2024-12-31",
    "name": "Christmas Holiday",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2025-01-01",
    "name": "New Year's Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2025-01-10",
    "name": "Margaret Thatcher Day",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2025-04-18",
    "name": "Good Friday",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2025-06-14",
    "name": "Liberation Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2025-06-16",
    "name": "Liberation Day observed",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2025-08-14",
    "name": "Falkland Day",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2025-10-06",
    "name": "Peat Cutting Monday",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2025-11-14",
    "name": "King Charles III's Birthday",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2025-12-08",
    "name": "Battle Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2025-12-25",
    "name": "Christmas Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2025-12-26",
    "name": "Boxing Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2025-12-27",
    "name": "Christmas Holiday",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2025-12-29",
    "name": "Day off for Christmas Holiday",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2025-12-30",
    "name": "Christmas Holiday",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2025-12-31",
    "name": "Christmas Holiday",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2026-01-01",
    "name": "New Year's Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2026-01-10",
    "name": "Margaret Thatcher Day",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2026-04-03",
    "name": "Good Friday",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2026-06-14",
    "name": "Liberation Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2026-06-15",
    "name": "Liberation Day observed",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2026-08-14",
    "name": "Falkland Day",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2026-10-05",
    "name": "Peat Cutting Monday",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2026-11-14",
    "name": "King Charles III's Birthday",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2026-11-16",
    "name": "King Charles III's Birthday observed",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2026-12-08",
    "name": "Battle Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2026-12-25",
    "name": "Christmas Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2026-12-26",
    "name": "Boxing Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2026-12-27",
    "name": "Christmas Holiday",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2026-12-28",
    "name": "Day off for Boxing Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2026-12-29",
    "name": "Day off for Christmas Holiday",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2026-12-30",
    "name": "Christmas Holiday",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2026-12-31",
    "name": "Christmas Holiday",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2027-01-01",
    "name": "New Year's Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2027-01-10",
    "name": "Margaret Thatcher Day",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2027-03-26",
    "name": "Good Friday",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2027-06-14",
    "name": "Liberation Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2027-08-14",
    "name": "Falkland Day",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2027-10-04",
    "name": "Peat Cutting Monday",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2027-11-14",
    "name": "King Charles III's Birthday",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2027-11-15",
    "name": "King Charles III's Birthday observed",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2027-12-08",
    "name": "Battle Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2027-12-25",
    "name": "Christmas Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2027-12-26",
    "name": "Boxing Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2027-12-27",
    "name": "Christmas Holiday",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2027-12-27",
    "name": "Day off for Christmas Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2027-12-28",
    "name": "Day off for Boxing Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2027-12-29",
    "name": "Day off for Christmas Holiday",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2027-12-30",
    "name": "Christmas Holiday",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2027-12-31",
    "name": "Christmas Holiday",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2028-01-01",
    "name": "New Year's Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2028-01-03",
    "name": "New Year's Day observed",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2028-01-10",
    "name": "Margaret Thatcher Day",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2028-04-14",
    "name": "Good Friday",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2028-06-14",
    "name": "Liberation Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2028-08-14",
    "name": "Falkland Day",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2028-10-02",
    "name": "Peat Cutting Monday",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2028-11-14",
    "name": "King Charles III's Birthday",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2028-12-08",
    "name": "Battle Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2028-12-25",
    "name": "Christmas Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2028-12-26",
    "name": "Boxing Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2028-12-27",
    "name": "Christmas Holiday",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2028-12-28",
    "name": "Christmas Holiday",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2028-12-29",
    "name": "Christmas Holiday",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2029-01-01",
    "name": "New Year's Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2029-01-10",
    "name": "Margaret Thatcher Day",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2029-03-30",
    "name": "Good Friday",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2029-06-14",
    "name": "Liberation Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2029-08-14",
    "name": "Falkland Day",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2029-10-01",
    "name": "Peat Cutting Monday",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2029-11-14",
    "name": "King Charles III's Birthday",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2029-12-08",
    "name": "Battle Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2029-12-10",
    "name": "Battle Day observed",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2029-12-25",
    "name": "Christmas Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2029-12-26",
    "name": "Boxing Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2029-12-27",
    "name": "Christmas Holiday",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2029-12-28",
    "name": "Christmas Holiday",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2029-12-31",
    "name": "Christmas Holiday",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2030-01-01",
    "name": "New Year's Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2030-01-10",
    "name": "Margaret Thatcher Day",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2030-04-19",
    "name": "Good Friday",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2030-06-14",
    "name": "Liberation Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2030-08-14",
    "name": "Falkland Day",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2030-10-07",
    "name": "Peat Cutting Monday",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2030-11-14",
    "name": "King Charles III's Birthday",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2030-12-08",
    "name": "Battle Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2030-12-09",
    "name": "Battle Day observed",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2030-12-25",
    "name": "Christmas Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2030-12-26",
    "name": "Boxing Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2030-12-27",
    "name": "Christmas Holiday",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2030-12-30",
    "name": "Christmas Holiday",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2030-12-31",
    "name": "Christmas Holiday",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2031-01-01",
    "name": "New Year's Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2031-01-10",
    "name": "Margaret Thatcher Day",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2031-04-11",
    "name": "Good Friday",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2031-06-14",
    "name": "Liberation Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2031-06-16",
    "name": "Liberation Day observed",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2031-08-14",
    "name": "Falkland Day",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2031-10-06",
    "name": "Peat Cutting Monday",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2031-11-14",
    "name": "King Charles III's Birthday",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2031-12-08",
    "name": "Battle Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2031-12-25",
    "name": "Christmas Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2031-12-26",
    "name": "Boxing Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2031-12-27",
    "name": "Christmas Holiday",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2031-12-29",
    "name": "Day off for Christmas Holiday",
-   "type": "Public holiday"
+   "type": "public"
   }
  ]
 }

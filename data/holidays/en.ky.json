@@ -5,1167 +5,1167 @@
  "from": 2021,
  "to": 2031,
  "count": 232,
- "fetchedAt": "2026-09-23T12:14:40.876Z",
+ "fetchedAt": "2026-09-23T12:37:50.028Z",
  "events": [
   {
    "date": "2021-01-01",
    "name": "New Year's Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2021-01-25",
    "name": "National Heroes Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2021-02-14",
    "name": "Valentine's Day",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2021-02-17",
    "name": "Ash Wednesday",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2021-04-02",
    "name": "Good Friday",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2021-04-04",
    "name": "Easter Sunday",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2021-04-05",
    "name": "Easter Monday",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2021-04-14",
    "name": "General Election Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2021-05-09",
    "name": "Mothers' Day",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2021-05-17",
    "name": "Discovery Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2021-06-14",
    "name": "Queen Elizabeth II's Birthday",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2021-06-20",
    "name": "Fathers' Day",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2021-07-05",
    "name": "Constitution Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2021-10-31",
    "name": "Halloween",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2021-11-15",
    "name": "Remembrance Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2021-12-05",
    "name": "Cayman Thanksgiving",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2021-12-24",
    "name": "Christmas Eve",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2021-12-25",
    "name": "Christmas Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2021-12-26",
    "name": "Boxing Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2021-12-27",
    "name": "Day off for Christmas Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2021-12-28",
    "name": "Day off for Boxing Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2021-12-31",
    "name": "New Year's Eve",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2022-01-01",
    "name": "New Year's Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2022-01-03",
    "name": "Day off for New Year's Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2022-01-24",
    "name": "National Heroes Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2022-02-14",
    "name": "Valentine's Day",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2022-03-02",
    "name": "Ash Wednesday",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2022-04-15",
    "name": "Good Friday",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2022-04-17",
    "name": "Easter Sunday",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2022-04-18",
    "name": "Easter Monday",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2022-05-08",
    "name": "Mothers' Day",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2022-05-16",
    "name": "Discovery Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2022-06-03",
    "name": "Queen Elizabeth II's Platinum Jubilee",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2022-06-06",
    "name": "Queen Elizabeth II's Birthday",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2022-06-19",
    "name": "Fathers' Day",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2022-07-04",
    "name": "Constitution Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2022-09-19",
    "name": "Queen Elizabeth II's Funeral Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2022-10-31",
    "name": "Halloween",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2022-11-14",
    "name": "Remembrance Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2022-12-04",
    "name": "Cayman Thanksgiving",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2022-12-24",
    "name": "Christmas Eve",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2022-12-25",
    "name": "Christmas Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2022-12-26",
    "name": "Boxing Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2022-12-26",
    "name": "Day off for Christmas Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2022-12-27",
    "name": "Day off for Boxing Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2022-12-31",
    "name": "New Year's Eve",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2023-01-01",
    "name": "New Year's Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2023-01-02",
    "name": "Day off for New Year's Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2023-01-23",
    "name": "National Heroes Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2023-02-14",
    "name": "Valentine's Day",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2023-02-22",
    "name": "Ash Wednesday",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2023-04-07",
    "name": "Good Friday",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2023-04-09",
    "name": "Easter Sunday",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2023-04-10",
    "name": "Easter Monday",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2023-05-06",
    "name": "The Coronation of His Majesty King Charles III",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2023-05-08",
    "name": "Holiday for the Coronation of His Majesty King Charles III",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2023-05-14",
    "name": "Mothers' Day",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2023-05-15",
    "name": "Discovery Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2023-06-18",
    "name": "Fathers' Day",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2023-06-19",
    "name": "King Charles III's Birthday Holiday",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2023-07-03",
    "name": "Constitution Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2023-10-31",
    "name": "Halloween",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2023-11-13",
    "name": "Remembrance Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2023-12-03",
    "name": "Cayman Thanksgiving",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2023-12-24",
    "name": "Christmas Eve",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2023-12-25",
    "name": "Christmas Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2023-12-26",
    "name": "Boxing Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2023-12-31",
    "name": "New Year's Eve",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2024-01-01",
    "name": "New Year's Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2024-01-22",
    "name": "National Heroes Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2024-02-14",
    "name": "Ash Wednesday",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2024-02-14",
    "name": "Valentine's Day",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2024-03-29",
    "name": "Good Friday",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2024-03-31",
    "name": "Easter Sunday",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2024-04-01",
    "name": "Easter Monday",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2024-05-06",
    "name": "Emancipation Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2024-05-12",
    "name": "Mothers' Day",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2024-05-20",
    "name": "Discovery Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2024-06-16",
    "name": "Fathers' Day",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2024-06-17",
    "name": "King Charles III's Birthday Holiday",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2024-07-01",
    "name": "Constitution Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2024-10-31",
    "name": "Halloween",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2024-11-11",
    "name": "Remembrance Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2024-12-01",
    "name": "Cayman Thanksgiving",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2024-12-24",
    "name": "Christmas Eve",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2024-12-25",
    "name": "Christmas Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2024-12-26",
    "name": "Boxing Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2024-12-31",
    "name": "New Year's Eve",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2025-01-01",
    "name": "New Year's Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2025-01-27",
    "name": "National Heroes Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2025-02-14",
    "name": "Valentine's Day",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2025-03-05",
    "name": "Ash Wednesday",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2025-04-18",
    "name": "Good Friday",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2025-04-20",
    "name": "Easter Sunday",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2025-04-21",
    "name": "Easter Monday",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2025-04-30",
    "name": "General Election Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2025-05-05",
    "name": "Emancipation Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2025-05-11",
    "name": "Mothers' Day",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2025-05-19",
    "name": "Discovery Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2025-06-15",
    "name": "Fathers' Day",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2025-06-23",
    "name": "King Charles III's Birthday Holiday",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2025-07-07",
    "name": "Constitution Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2025-10-31",
    "name": "Halloween",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2025-11-10",
    "name": "Remembrance Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2025-12-07",
    "name": "Cayman Thanksgiving",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2025-12-24",
    "name": "Christmas Eve",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2025-12-25",
    "name": "Christmas Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2025-12-26",
    "name": "Boxing Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2025-12-31",
    "name": "New Year's Eve",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2026-01-01",
    "name": "New Year's Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2026-01-26",
    "name": "National Heroes Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2026-02-14",
    "name": "Valentine's Day",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2026-02-18",
    "name": "Ash Wednesday",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2026-04-03",
    "name": "Good Friday",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2026-04-05",
    "name": "Easter Sunday",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2026-04-06",
    "name": "Easter Monday",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2026-05-04",
    "name": "Emancipation Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2026-05-10",
    "name": "Mothers' Day",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2026-05-18",
    "name": "Discovery Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2026-06-15",
    "name": "King Charles III's Birthday Holiday",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2026-06-21",
    "name": "Fathers' Day",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2026-07-06",
    "name": "Constitution Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2026-10-31",
    "name": "Halloween",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2026-11-09",
    "name": "Remembrance Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2026-12-06",
    "name": "Cayman Thanksgiving",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2026-12-24",
    "name": "Christmas Eve",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2026-12-25",
    "name": "Christmas Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2026-12-26",
    "name": "Boxing Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2026-12-28",
    "name": "Day off for Boxing Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2026-12-31",
    "name": "New Year's Eve",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2027-01-01",
    "name": "New Year's Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2027-01-25",
    "name": "National Heroes Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2027-02-10",
    "name": "Ash Wednesday",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2027-02-14",
    "name": "Valentine's Day",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2027-03-26",
    "name": "Good Friday",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2027-03-28",
    "name": "Easter Sunday",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2027-03-29",
    "name": "Easter Monday",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2027-05-03",
    "name": "Emancipation Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2027-05-09",
    "name": "Mothers' Day",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2027-05-17",
    "name": "Discovery Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2027-06-20",
    "name": "Fathers' Day",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2027-06-21",
    "name": "King Charles III's Birthday Holiday (tentative)",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2027-07-05",
    "name": "Constitution Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2027-10-31",
    "name": "Halloween",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2027-11-08",
    "name": "Remembrance Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2027-12-05",
    "name": "Cayman Thanksgiving",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2027-12-24",
    "name": "Christmas Eve",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2027-12-25",
    "name": "Christmas Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2027-12-26",
    "name": "Boxing Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2027-12-27",
    "name": "Day off for Boxing Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2027-12-31",
    "name": "New Year's Eve",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2028-01-01",
    "name": "New Year's Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2028-01-03",
    "name": "Day off for New Year's Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2028-01-24",
    "name": "National Heroes Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2028-02-14",
    "name": "Valentine's Day",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2028-03-01",
    "name": "Ash Wednesday",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2028-04-14",
    "name": "Good Friday",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2028-04-16",
    "name": "Easter Sunday",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2028-04-17",
    "name": "Easter Monday",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2028-05-01",
    "name": "Emancipation Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2028-05-14",
    "name": "Mothers' Day",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2028-05-15",
    "name": "Discovery Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2028-06-18",
    "name": "Fathers' Day",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2028-06-19",
    "name": "King Charles III's Birthday Holiday (tentative)",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2028-07-03",
    "name": "Constitution Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2028-10-31",
    "name": "Halloween",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2028-11-13",
    "name": "Remembrance Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2028-12-03",
    "name": "Cayman Thanksgiving",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2028-12-24",
    "name": "Christmas Eve",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2028-12-25",
    "name": "Christmas Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2028-12-26",
    "name": "Boxing Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2028-12-31",
    "name": "New Year's Eve",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2029-01-01",
    "name": "New Year's Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2029-01-22",
    "name": "National Heroes Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2029-02-14",
    "name": "Ash Wednesday",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2029-02-14",
    "name": "Valentine's Day",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2029-03-30",
    "name": "Good Friday",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2029-04-01",
    "name": "Easter Sunday",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2029-04-02",
    "name": "Easter Monday",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2029-05-07",
    "name": "Emancipation Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2029-05-13",
    "name": "Mothers' Day",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2029-05-21",
    "name": "Discovery Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2029-06-17",
    "name": "Fathers' Day",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2029-06-18",
    "name": "King Charles III's Birthday Holiday (tentative)",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2029-07-02",
    "name": "Constitution Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2029-10-31",
    "name": "Halloween",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2029-11-12",
    "name": "Remembrance Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2029-12-02",
    "name": "Cayman Thanksgiving",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2029-12-24",
    "name": "Christmas Eve",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2029-12-25",
    "name": "Christmas Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2029-12-26",
    "name": "Boxing Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2029-12-31",
    "name": "New Year's Eve",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2030-01-01",
    "name": "New Year's Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2030-01-28",
    "name": "National Heroes Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2030-02-14",
    "name": "Valentine's Day",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2030-03-06",
    "name": "Ash Wednesday",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2030-04-19",
    "name": "Good Friday",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2030-04-21",
    "name": "Easter Sunday",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2030-04-22",
    "name": "Easter Monday",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2030-05-06",
    "name": "Emancipation Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2030-05-12",
    "name": "Mothers' Day",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2030-05-20",
    "name": "Discovery Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2030-06-16",
    "name": "Fathers' Day",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2030-06-17",
    "name": "King Charles III's Birthday Holiday (tentative)",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2030-07-01",
    "name": "Constitution Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2030-10-31",
    "name": "Halloween",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2030-11-11",
    "name": "Remembrance Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2030-12-01",
    "name": "Cayman Thanksgiving",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2030-12-24",
    "name": "Christmas Eve",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2030-12-25",
    "name": "Christmas Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2030-12-26",
    "name": "Boxing Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2030-12-31",
    "name": "New Year's Eve",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2031-01-01",
    "name": "New Year's Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2031-01-27",
    "name": "National Heroes Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2031-02-14",
    "name": "Valentine's Day",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2031-02-26",
    "name": "Ash Wednesday",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2031-04-11",
    "name": "Good Friday",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2031-04-13",
    "name": "Easter Sunday",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2031-04-14",
    "name": "Easter Monday",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2031-05-05",
    "name": "Emancipation Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2031-05-11",
    "name": "Mothers' Day",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2031-05-19",
    "name": "Discovery Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2031-06-15",
    "name": "Fathers' Day",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2031-06-23",
    "name": "King Charles III's Birthday Holiday (tentative)",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2031-07-07",
    "name": "Constitution Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2031-10-31",
    "name": "Halloween",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2031-11-10",
    "name": "Remembrance Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2031-12-07",
    "name": "Cayman Thanksgiving",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2031-12-24",
    "name": "Christmas Eve",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2031-12-25",
    "name": "Christmas Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2031-12-26",
    "name": "Boxing Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2031-12-31",
    "name": "New Year's Eve",
-   "type": "Observance"
+   "type": "observance"
   }
  ]
 }

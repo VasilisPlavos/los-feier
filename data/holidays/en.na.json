@@ -5,852 +5,852 @@
  "from": 2021,
  "to": 2031,
  "count": 169,
- "fetchedAt": "2026-09-23T12:14:40.947Z",
+ "fetchedAt": "2026-09-23T12:37:50.065Z",
  "events": [
   {
    "date": "2021-01-01",
    "name": "New Year",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2021-03-21",
    "name": "Independence Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2021-03-22",
    "name": "Independence Day observed",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2021-04-02",
    "name": "Good Friday",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2021-04-04",
    "name": "Easter Sunday",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2021-04-05",
    "name": "Easter Monday",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2021-05-01",
    "name": "Workers' Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2021-05-04",
    "name": "Cassinga Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2021-05-13",
    "name": "Ascension Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2021-05-25",
    "name": "Africa Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2021-08-26",
    "name": "Heroes' Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2021-12-10",
    "name": "Day of the Namibian Women and International Human Rights Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2021-12-25",
    "name": "Christmas Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2021-12-26",
    "name": "Family Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2021-12-27",
    "name": "Family Day observed",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2022-01-01",
    "name": "New Year",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2022-03-21",
    "name": "Independence Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2022-04-15",
    "name": "Good Friday",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2022-04-17",
    "name": "Easter Sunday",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2022-04-18",
    "name": "Easter Monday",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2022-05-01",
    "name": "Workers' Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2022-05-02",
    "name": "Workers' Day observed",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2022-05-04",
    "name": "Cassinga Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2022-05-25",
    "name": "Africa Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2022-05-26",
    "name": "Ascension Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2022-08-26",
    "name": "Heroes' Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2022-12-10",
    "name": "Day of the Namibian Women and International Human Rights Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2022-12-25",
    "name": "Christmas Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2022-12-26",
    "name": "Family Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2023-01-01",
    "name": "New Year",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2023-01-02",
    "name": "New Year observed",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2023-03-21",
    "name": "Independence Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2023-04-07",
    "name": "Good Friday",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2023-04-09",
    "name": "Easter Sunday",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2023-04-10",
    "name": "Easter Monday",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2023-05-01",
    "name": "Workers' Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2023-05-04",
    "name": "Cassinga Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2023-05-18",
    "name": "Ascension Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2023-05-25",
    "name": "Africa Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2023-08-26",
    "name": "Heroes' Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2023-12-10",
    "name": "Day of the Namibian Women and International Human Rights Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2023-12-11",
    "name": "Day of the Namibian Women and International Human Rights Day observed",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2023-12-25",
    "name": "Christmas Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2023-12-26",
    "name": "Family Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2024-01-01",
    "name": "New Year",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2024-02-25",
    "name": "Mourning Day for President Hage Geingob",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2024-02-26",
    "name": "Mourning Day for President Hage Geingob observed",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2024-03-21",
    "name": "Independence Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2024-03-29",
    "name": "Good Friday",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2024-03-31",
    "name": "Easter Sunday",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2024-04-01",
    "name": "Easter Monday",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2024-05-01",
    "name": "Workers' Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2024-05-04",
    "name": "Cassinga Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2024-05-09",
    "name": "Ascension Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2024-05-25",
    "name": "Africa Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2024-08-26",
    "name": "Heroes' Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2024-11-27",
    "name": "Election Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2024-12-10",
    "name": "Day of the Namibian Women and International Human Rights Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2024-12-25",
    "name": "Christmas Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2024-12-26",
    "name": "Family Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2025-01-01",
    "name": "New Year",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2025-03-01",
    "name": "Burial of Sam Nujoma",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2025-03-21",
    "name": "Independence Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2025-04-18",
    "name": "Good Friday",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2025-04-20",
    "name": "Easter Sunday",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2025-04-21",
    "name": "Easter Monday",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2025-05-01",
    "name": "Workers' Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2025-05-04",
    "name": "Cassinga Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2025-05-05",
    "name": "Cassinga Day observed",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2025-05-25",
    "name": "Africa Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2025-05-26",
    "name": "Africa Day observed",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2025-05-28",
    "name": "Genocide Remembrance Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2025-05-29",
    "name": "Ascension Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2025-08-26",
    "name": "Heroes' Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2025-11-26",
    "name": "Local Election Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2025-12-10",
    "name": "Day of the Namibian Women and International Human Rights Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2025-12-25",
    "name": "Christmas Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2025-12-26",
    "name": "Family Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2026-01-01",
    "name": "New Year",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2026-03-21",
    "name": "Independence Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2026-04-03",
    "name": "Good Friday",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2026-04-05",
    "name": "Easter Sunday",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2026-04-06",
    "name": "Easter Monday",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2026-05-01",
    "name": "Workers' Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2026-05-04",
    "name": "Cassinga Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2026-05-14",
    "name": "Ascension Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2026-05-25",
    "name": "Africa Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2026-05-28",
    "name": "Genocide Remembrance Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2026-08-26",
    "name": "Heroes' Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2026-12-10",
    "name": "Day of the Namibian Women and International Human Rights Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2026-12-25",
    "name": "Christmas Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2026-12-26",
    "name": "Family Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2027-01-01",
    "name": "New Year",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2027-03-21",
    "name": "Independence Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2027-03-22",
    "name": "Independence Day observed",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2027-03-26",
    "name": "Good Friday",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2027-03-28",
    "name": "Easter Sunday",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2027-03-29",
    "name": "Easter Monday",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2027-05-01",
    "name": "Workers' Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2027-05-04",
    "name": "Cassinga Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2027-05-06",
    "name": "Ascension Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2027-05-25",
    "name": "Africa Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2027-05-28",
    "name": "Genocide Remembrance Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2027-08-26",
    "name": "Heroes' Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2027-12-10",
    "name": "Day of the Namibian Women and International Human Rights Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2027-12-25",
    "name": "Christmas Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2027-12-26",
    "name": "Family Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2027-12-27",
    "name": "Family Day observed",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2028-01-01",
    "name": "New Year",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2028-03-21",
    "name": "Independence Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2028-04-14",
    "name": "Good Friday",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2028-04-16",
    "name": "Easter Sunday",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2028-04-17",
    "name": "Easter Monday",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2028-05-01",
    "name": "Workers' Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2028-05-04",
    "name": "Cassinga Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2028-05-25",
    "name": "Africa Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2028-05-25",
    "name": "Ascension Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2028-05-28",
    "name": "Genocide Remembrance Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2028-05-29",
    "name": "Genocide Remembrance Day observed",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2028-08-26",
    "name": "Heroes' Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2028-12-10",
    "name": "Day of the Namibian Women and International Human Rights Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2028-12-11",
    "name": "Day of the Namibian Women and International Human Rights Day observed",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2028-12-25",
    "name": "Christmas Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2028-12-26",
    "name": "Family Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2029-01-01",
    "name": "New Year",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2029-03-21",
    "name": "Independence Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2029-03-30",
    "name": "Good Friday",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2029-04-01",
    "name": "Easter Sunday",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2029-04-02",
    "name": "Easter Monday",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2029-05-01",
    "name": "Workers' Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2029-05-04",
    "name": "Cassinga Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2029-05-10",
    "name": "Ascension Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2029-05-25",
    "name": "Africa Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2029-05-28",
    "name": "Genocide Remembrance Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2029-08-26",
    "name": "Heroes' Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2029-08-27",
    "name": "Heroes' Day observed",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2029-12-10",
    "name": "Day of the Namibian Women and International Human Rights Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2029-12-25",
    "name": "Christmas Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2029-12-26",
    "name": "Family Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2030-01-01",
    "name": "New Year",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2030-03-21",
    "name": "Independence Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2030-04-19",
    "name": "Good Friday",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2030-04-21",
    "name": "Easter Sunday",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2030-04-22",
    "name": "Easter Monday",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2030-05-01",
    "name": "Workers' Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2030-05-04",
    "name": "Cassinga Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2030-05-25",
    "name": "Africa Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2030-05-28",
    "name": "Genocide Remembrance Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2030-05-30",
    "name": "Ascension Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2030-08-26",
    "name": "Heroes' Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2030-12-10",
    "name": "Day of the Namibian Women and International Human Rights Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2030-12-25",
    "name": "Christmas Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2030-12-26",
    "name": "Family Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2031-01-01",
    "name": "New Year",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2031-03-21",
    "name": "Independence Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2031-04-11",
    "name": "Good Friday",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2031-04-13",
    "name": "Easter Sunday",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2031-04-14",
    "name": "Easter Monday",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2031-05-01",
    "name": "Workers' Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2031-05-04",
    "name": "Cassinga Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2031-05-05",
    "name": "Cassinga Day observed",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2031-05-22",
    "name": "Ascension Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2031-05-25",
    "name": "Africa Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2031-05-26",
    "name": "Africa Day observed",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2031-05-28",
    "name": "Genocide Remembrance Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2031-08-26",
    "name": "Heroes' Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2031-12-10",
    "name": "Day of the Namibian Women and International Human Rights Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2031-12-25",
    "name": "Christmas Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2031-12-26",
    "name": "Family Day",
-   "type": "Public holiday"
+   "type": "public"
   }
  ]
 }

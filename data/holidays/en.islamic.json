@@ -5,462 +5,499 @@
  "from": 2021,
  "to": 2031,
  "count": 91,
- "fetchedAt": "2026-09-23T12:14:40.839Z",
+ "fetchedAt": "2026-09-23T12:37:50.009Z",
  "events": [
   {
    "date": "2021-03-11",
    "name": "Isra and Mi'raj",
-   "type": ""
+   "type": "observance"
   },
   {
    "date": "2021-04-13",
    "name": "Ramadan Starts",
-   "type": ""
+   "type": "observance"
   },
   {
    "date": "2021-05-08",
    "name": "Lailat al-Qadr",
-   "type": ""
+   "type": "observance"
   },
   {
    "date": "2021-05-13",
    "name": "Eid al-Fitr",
-   "type": ""
+   "type": "observance"
   },
   {
    "date": "2021-07-20",
    "name": "Eid al-Adha",
-   "type": ""
+   "type": "observance"
   },
   {
    "date": "2021-08-10",
    "name": "Muharram",
-   "type": ""
+   "type": "observance"
   },
   {
    "date": "2021-08-19",
    "name": "Ashura",
-   "type": ""
+   "type": "observance"
   },
   {
    "date": "2021-10-19",
    "name": "The Prophet's Birthday",
-   "type": ""
+   "type": "observance"
   },
   {
    "date": "2022-03-01",
    "name": "Isra and Mi'raj",
-   "type": ""
+   "type": "observance"
   },
   {
    "date": "2022-04-03",
    "name": "Ramadan Starts",
-   "type": ""
+   "type": "observance"
   },
   {
    "date": "2022-04-28",
    "name": "Lailat al-Qadr",
-   "type": ""
+   "type": "observance"
   },
   {
    "date": "2022-05-02",
    "name": "Eid al-Fitr",
-   "type": ""
+   "type": "observance"
   },
   {
    "date": "2022-07-09",
    "name": "Eid al-Adha",
-   "type": ""
+   "type": "observance"
   },
   {
    "date": "2022-07-30",
    "name": "Muharram",
-   "type": ""
+   "type": "observance"
   },
   {
    "date": "2022-08-08",
    "name": "Ashura",
-   "type": ""
+   "type": "observance"
   },
   {
    "date": "2022-10-08",
    "name": "The Prophet's Birthday",
-   "type": ""
+   "type": "observance"
   },
   {
    "date": "2023-02-18",
    "name": "Isra and Mi'raj",
-   "type": ""
+   "type": "observance"
   },
   {
    "date": "2023-03-23",
    "name": "Ramadan Starts",
-   "type": ""
+   "type": "observance"
   },
   {
    "date": "2023-04-17",
    "name": "Lailat al-Qadr",
-   "type": ""
+   "type": "observance"
   },
   {
    "date": "2023-04-21",
    "name": "Eid al-Fitr",
-   "type": ""
+   "type": "observance"
   },
   {
    "date": "2023-06-28",
    "name": "Eid al-Adha",
-   "type": ""
+   "type": "observance"
   },
   {
    "date": "2023-07-19",
    "name": "Muharram",
-   "type": ""
+   "type": "observance"
   },
   {
    "date": "2023-07-28",
    "name": "Ashura",
-   "type": ""
+   "type": "observance"
   },
   {
    "date": "2023-09-27",
    "name": "The Prophet's Birthday",
-   "type": ""
+   "type": "observance"
   },
   {
    "date": "2024-02-08",
    "name": "Isra and Mi'raj",
-   "type": ""
+   "type": "observance"
   },
   {
    "date": "2024-03-12",
    "name": "Ramadan Starts",
-   "type": ""
+   "type": "observance"
   },
   {
    "date": "2024-04-05",
    "name": "Lailat al-Qadr",
-   "type": ""
+   "type": "observance"
   },
   {
    "date": "2024-04-10",
    "name": "Eid al-Fitr",
-   "type": ""
+   "type": "observance"
   },
   {
    "date": "2024-06-17",
    "name": "Eid al-Adha",
-   "type": ""
+   "type": "observance"
   },
   {
    "date": "2024-07-07",
    "name": "Muharram",
-   "type": ""
+   "type": "observance"
   },
   {
    "date": "2024-07-17",
    "name": "Ashura",
-   "type": ""
+   "type": "observance"
   },
   {
    "date": "2024-09-16",
    "name": "The Prophet's Birthday",
-   "type": ""
+   "type": "observance"
   },
   {
    "date": "2025-01-28",
    "name": "Isra and Mi'raj",
-   "type": ""
+   "type": "observance"
   },
   {
    "date": "2025-03-01",
    "name": "Ramadan Starts",
-   "type": ""
+   "type": "observance"
   },
   {
    "date": "2025-03-26",
    "name": "Lailat al-Qadr",
-   "type": ""
+   "type": "observance"
   },
   {
    "date": "2025-03-30",
    "name": "Eid al-Fitr",
-   "type": ""
+   "type": "observance"
   },
   {
    "date": "2025-03-31",
    "name": "Eid al-Fitr",
-   "type": ""
+   "type": "observance"
   },
   {
    "date": "2025-06-06",
    "name": "Eid al-Adha",
-   "type": ""
+   "type": "observance"
   },
   {
    "date": "2025-06-27",
    "name": "Muharram",
-   "type": ""
+   "type": "observance"
   },
   {
    "date": "2025-07-06",
    "name": "Ashura",
-   "type": ""
+   "type": "observance"
   },
   {
    "date": "2025-09-05",
    "name": "The Prophet's Birthday",
-   "type": ""
+   "type": "observance"
   },
   {
    "date": "2026-01-16",
    "name": "Isra and Mi'raj",
-   "type": ""
+   "type": "observance"
   },
   {
    "date": "2026-02-18",
    "name": "Ramadan Starts",
-   "type": ""
+   "type": "observance"
   },
   {
    "date": "2026-03-15",
    "name": "Lailat al-Qadr",
-   "type": ""
+   "type": "observance"
   },
   {
    "date": "2026-03-20",
    "name": "Eid al-Fitr",
-   "type": ""
+   "type": "observance"
   },
   {
    "date": "2026-05-27",
    "name": "Eid al-Adha",
-   "type": ""
+   "type": "observance"
   },
   {
    "date": "2026-06-16",
    "name": "Muharram",
-   "type": ""
+   "type": "observance"
   },
   {
    "date": "2026-06-25",
    "name": "Ashura",
-   "type": ""
+   "type": "observance"
   },
   {
    "date": "2026-08-25",
    "name": "The Prophet's Birthday",
-   "type": ""
+   "type": "observance"
   },
   {
    "date": "2027-01-06",
    "name": "Isra and Mi'raj (tentative)",
-   "type": "Date is tentative and may change."
+   "type": "observance",
+   "tentative": true
   },
   {
    "date": "2027-02-08",
    "name": "Ramadan Starts (tentative)",
-   "type": "Date is tentative and may change."
+   "type": "observance",
+   "tentative": true
   },
   {
    "date": "2027-03-05",
    "name": "Lailat al-Qadr",
-   "type": ""
+   "type": "observance"
   },
   {
    "date": "2027-03-10",
    "name": "Eid al-Fitr (tentative)",
-   "type": "Date is tentative and may change."
+   "type": "observance",
+   "tentative": true
   },
   {
    "date": "2027-05-17",
    "name": "Eid al-Adha (tentative)",
-   "type": "Date is tentative and may change."
+   "type": "observance",
+   "tentative": true
   },
   {
    "date": "2027-06-06",
    "name": "Muharram (tentative)",
-   "type": "Date is tentative and may change."
+   "type": "observance",
+   "tentative": true
   },
   {
    "date": "2027-06-15",
    "name": "Ashura (tentative)",
-   "type": "Date is tentative and may change."
+   "type": "observance",
+   "tentative": true
   },
   {
    "date": "2027-08-15",
    "name": "The Prophet's Birthday (tentative)",
-   "type": "Date is tentative and may change."
+   "type": "observance",
+   "tentative": true
   },
   {
    "date": "2027-12-26",
    "name": "Isra and Mi'raj (tentative)",
-   "type": "Date is tentative and may change."
+   "type": "observance",
+   "tentative": true
   },
   {
    "date": "2028-01-28",
    "name": "Ramadan Starts (tentative)",
-   "type": "Date is tentative and may change."
+   "type": "observance",
+   "tentative": true
   },
   {
    "date": "2028-02-22",
    "name": "Lailat al-Qadr",
-   "type": ""
+   "type": "observance"
   },
   {
    "date": "2028-02-27",
    "name": "Eid al-Fitr (tentative)",
-   "type": "Date is tentative and may change."
+   "type": "observance",
+   "tentative": true
   },
   {
    "date": "2028-05-05",
    "name": "Eid al-Adha (tentative)",
-   "type": "Date is tentative and may change."
+   "type": "observance",
+   "tentative": true
   },
   {
    "date": "2028-05-25",
    "name": "Muharram (tentative)",
-   "type": "Date is tentative and may change."
+   "type": "observance",
+   "tentative": true
   },
   {
    "date": "2028-06-03",
    "name": "Ashura (tentative)",
-   "type": "Date is tentative and may change."
+   "type": "observance",
+   "tentative": true
   },
   {
    "date": "2028-08-03",
    "name": "The Prophet's Birthday (tentative)",
-   "type": "Date is tentative and may change."
+   "type": "observance",
+   "tentative": true
   },
   {
    "date": "2028-12-14",
    "name": "Isra and Mi'raj (tentative)",
-   "type": "Date is tentative and may change."
+   "type": "observance",
+   "tentative": true
   },
   {
    "date": "2029-01-16",
    "name": "Ramadan Starts (tentative)",
-   "type": "Date is tentative and may change."
+   "type": "observance",
+   "tentative": true
   },
   {
    "date": "2029-02-10",
    "name": "Lailat al-Qadr",
-   "type": ""
+   "type": "observance"
   },
   {
    "date": "2029-02-15",
    "name": "Eid al-Fitr (tentative)",
-   "type": "Date is tentative and may change."
+   "type": "observance",
+   "tentative": true
   },
   {
    "date": "2029-04-24",
    "name": "Eid al-Adha (tentative)",
-   "type": "Date is tentative and may change."
+   "type": "observance",
+   "tentative": true
   },
   {
    "date": "2029-05-15",
    "name": "Muharram (tentative)",
-   "type": "Date is tentative and may change."
+   "type": "observance",
+   "tentative": true
   },
   {
    "date": "2029-05-24",
    "name": "Ashura (tentative)",
-   "type": "Date is tentative and may change."
+   "type": "observance",
+   "tentative": true
   },
   {
    "date": "2029-07-24",
    "name": "The Prophet's Birthday (tentative)",
-   "type": "Date is tentative and may change."
+   "type": "observance",
+   "tentative": true
   },
   {
    "date": "2029-12-04",
    "name": "Isra and Mi'raj (tentative)",
-   "type": "Date is tentative and may change."
+   "type": "observance",
+   "tentative": true
   },
   {
    "date": "2030-01-06",
    "name": "Ramadan Starts (tentative)",
-   "type": "Date is tentative and may change."
+   "type": "observance",
+   "tentative": true
   },
   {
    "date": "2030-01-31",
    "name": "Lailat al-Qadr",
-   "type": ""
+   "type": "observance"
   },
   {
    "date": "2030-02-05",
    "name": "Eid al-Fitr (tentative)",
-   "type": "Date is tentative and may change."
+   "type": "observance",
+   "tentative": true
   },
   {
    "date": "2030-04-14",
    "name": "Eid al-Adha (tentative)",
-   "type": "Date is tentative and may change."
+   "type": "observance",
+   "tentative": true
   },
   {
    "date": "2030-05-04",
    "name": "Muharram (tentative)",
-   "type": "Date is tentative and may change."
+   "type": "observance",
+   "tentative": true
   },
   {
    "date": "2030-05-13",
    "name": "Ashura (tentative)",
-   "type": "Date is tentative and may change."
+   "type": "observance",
+   "tentative": true
   },
   {
    "date": "2030-07-13",
    "name": "The Prophet's Birthday (tentative)",
-   "type": "Date is tentative and may change."
+   "type": "observance",
+   "tentative": true
   },
   {
    "date": "2030-11-23",
    "name": "Isra and Mi'raj (tentative)",
-   "type": "Date is tentative and may change."
+   "type": "observance",
+   "tentative": true
   },
   {
    "date": "2030-12-26",
    "name": "Ramadan Starts (tentative)",
-   "type": "Date is tentative and may change."
+   "type": "observance",
+   "tentative": true
   },
   {
    "date": "2031-01-20",
    "name": "Lailat al-Qadr",
-   "type": ""
+   "type": "observance"
   },
   {
    "date": "2031-01-25",
    "name": "Eid al-Fitr (tentative)",
-   "type": "Date is tentative and may change."
+   "type": "observance",
+   "tentative": true
   },
   {
    "date": "2031-04-03",
    "name": "Eid al-Adha (tentative)",
-   "type": "Date is tentative and may change."
+   "type": "observance",
+   "tentative": true
   },
   {
    "date": "2031-04-23",
    "name": "Muharram (tentative)",
-   "type": "Date is tentative and may change."
+   "type": "observance",
+   "tentative": true
   },
   {
    "date": "2031-05-02",
    "name": "Ashura (tentative)",
-   "type": "Date is tentative and may change."
+   "type": "observance",
+   "tentative": true
   },
   {
    "date": "2031-07-02",
    "name": "The Prophet's Birthday (tentative)",
-   "type": "Date is tentative and may change."
+   "type": "observance",
+   "tentative": true
   },
   {
    "date": "2031-11-12",
    "name": "Isra and Mi'raj (tentative)",
-   "type": "Date is tentative and may change."
+   "type": "observance",
+   "tentative": true
   },
   {
    "date": "2031-12-15",
    "name": "Ramadan Starts (tentative)",
-   "type": "Date is tentative and may change."
+   "type": "observance",
+   "tentative": true
   }
  ]
 }

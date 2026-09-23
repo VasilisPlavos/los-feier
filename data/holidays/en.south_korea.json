@@ -5,1407 +5,1407 @@
  "from": 2021,
  "to": 2031,
  "count": 280,
- "fetchedAt": "2026-09-23T12:14:41.023Z",
+ "fetchedAt": "2026-09-23T12:37:50.102Z",
  "events": [
   {
    "date": "2021-01-01",
    "name": "New Year's Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2021-02-12",
    "name": "Seollal",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2021-02-12",
    "name": "Seollal Holiday",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2021-02-13",
    "name": "Seollal Holiday",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2021-03-01",
    "name": "Independence Movement Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2021-04-05",
    "name": "Arbor Day",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2021-05-01",
    "name": "Labor Day",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2021-05-05",
    "name": "Children's Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2021-05-08",
    "name": "Parents' Day",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2021-05-15",
    "name": "Teacher's Day",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2021-05-19",
    "name": "Buddha’s Birthday",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2021-06-06",
    "name": "Memorial Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2021-07-17",
    "name": "Constitution Day",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2021-08-15",
    "name": "Liberation Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2021-08-16",
    "name": "Day off for Liberation Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2021-09-20",
    "name": "Chuseok Holiday",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2021-09-21",
    "name": "Chuseok",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2021-09-22",
    "name": "Chuseok Holiday",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2021-10-01",
    "name": "Armed Forces Day",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2021-10-03",
    "name": "National Foundation Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2021-10-04",
    "name": "Day off for National Foundation Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2021-10-09",
    "name": "Hangeul Proclamation Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2021-10-11",
    "name": "Day off for Hangeul Proclamation Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2021-12-24",
    "name": "Christmas Eve",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2021-12-25",
    "name": "Christmas Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2021-12-31",
    "name": "New Year's Eve",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2022-01-01",
    "name": "New Year's Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2022-01-31",
    "name": "Seollal Holiday",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2022-02-01",
    "name": "Seollal",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2022-02-02",
    "name": "Seollal Holiday",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2022-03-01",
    "name": "Independence Movement Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2022-03-09",
    "name": "Presidential Election",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2022-04-05",
    "name": "Arbor Day",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2022-05-01",
    "name": "Labor Day",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2022-05-05",
    "name": "Children's Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2022-05-08",
    "name": "Buddha’s Birthday",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2022-05-08",
    "name": "Parents' Day",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2022-05-15",
    "name": "Teacher's Day",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2022-06-01",
    "name": "Local Election Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2022-06-06",
    "name": "Memorial Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2022-07-17",
    "name": "Constitution Day",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2022-08-15",
    "name": "Liberation Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2022-09-09",
    "name": "Chuseok Holiday",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2022-09-10",
    "name": "Chuseok",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2022-09-11",
    "name": "Chuseok Holiday",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2022-09-12",
    "name": "Day off for Chuseok Holiday",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2022-10-01",
    "name": "Armed Forces Day",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2022-10-03",
    "name": "National Foundation Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2022-10-09",
    "name": "Hangeul Proclamation Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2022-10-10",
    "name": "Day off for Hangeul Proclamation Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2022-12-24",
    "name": "Christmas Eve",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2022-12-25",
    "name": "Christmas Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2022-12-31",
    "name": "New Year's Eve",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2023-01-01",
    "name": "New Year's Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2023-01-21",
    "name": "Seollal Holiday",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2023-01-22",
    "name": "Seollal",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2023-01-23",
    "name": "Seollal Holiday",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2023-01-24",
    "name": "Seollal Holiday",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2023-03-01",
    "name": "Independence Movement Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2023-04-05",
    "name": "Arbor Day",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2023-05-01",
    "name": "Labor Day",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2023-05-05",
    "name": "Children's Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2023-05-08",
    "name": "Parents' Day",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2023-05-15",
    "name": "Teacher's Day",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2023-05-27",
    "name": "Buddha’s Birthday",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2023-05-29",
    "name": "Buddha’s Birthday Holiday",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2023-06-06",
    "name": "Memorial Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2023-07-17",
    "name": "Constitution Day",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2023-08-15",
    "name": "Liberation Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2023-09-28",
    "name": "Chuseok Holiday",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2023-09-29",
    "name": "Chuseok",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2023-09-30",
    "name": "Chuseok Holiday",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2023-10-01",
    "name": "Armed Forces Day",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2023-10-02",
    "name": "Chuseok Holiday",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2023-10-03",
    "name": "National Foundation Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2023-10-09",
    "name": "Hangeul Proclamation Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2023-12-24",
    "name": "Christmas Eve",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2023-12-25",
    "name": "Christmas Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2023-12-31",
    "name": "New Year's Eve",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2024-01-01",
    "name": "New Year's Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2024-02-09",
    "name": "Seollal Holiday",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2024-02-10",
    "name": "Seollal",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2024-02-11",
    "name": "Seollal Holiday",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2024-02-12",
    "name": "Seollal Holiday",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2024-03-01",
    "name": "Independence Movement Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2024-04-05",
    "name": "Arbor Day",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2024-04-10",
    "name": "National Assembly Election Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2024-05-01",
    "name": "Labor Day",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2024-05-05",
    "name": "Children's Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2024-05-06",
    "name": "Day off for Children's Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2024-05-08",
    "name": "Parents' Day",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2024-05-15",
    "name": "Buddha’s Birthday",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2024-05-15",
    "name": "Teacher's Day",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2024-06-06",
    "name": "Memorial Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2024-07-17",
    "name": "Constitution Day",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2024-08-15",
    "name": "Liberation Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2024-09-17",
    "name": "Chuseok",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2024-09-18",
    "name": "Chuseok Holiday",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2024-10-01",
    "name": "Armed Forces Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2024-10-03",
    "name": "National Foundation Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2024-10-09",
    "name": "Hangeul Proclamation Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2024-12-24",
    "name": "Christmas Eve",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2024-12-25",
    "name": "Christmas Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2024-12-31",
    "name": "New Year's Eve",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2025-01-01",
    "name": "New Year's Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2025-01-27",
    "name": "Seollal Holiday",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2025-01-28",
    "name": "Seollal Holiday",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2025-01-29",
    "name": "Seollal",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2025-01-30",
    "name": "Seollal Holiday",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2025-03-01",
    "name": "Independence Movement Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2025-03-03",
    "name": "Day off for Independence Movement Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2025-04-05",
    "name": "Arbor Day",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2025-05-01",
    "name": "Labor Day",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2025-05-05",
    "name": "Buddha’s Birthday",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2025-05-05",
    "name": "Children's Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2025-05-06",
    "name": "Day off for Children's Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2025-05-08",
    "name": "Parents' Day",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2025-05-15",
    "name": "Teacher's Day",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2025-06-03",
    "name": "Presidential Election",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2025-06-06",
    "name": "Memorial Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2025-07-17",
    "name": "Constitution Day",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2025-08-15",
    "name": "Liberation Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2025-10-01",
    "name": "Armed Forces Day",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2025-10-03",
    "name": "National Foundation Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2025-10-05",
    "name": "Chuseok Holiday",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2025-10-06",
    "name": "Chuseok",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2025-10-07",
    "name": "Chuseok Holiday",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2025-10-08",
    "name": "Day off for Chuseok Holiday",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2025-10-09",
    "name": "Hangeul Proclamation Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2025-12-24",
    "name": "Christmas Eve",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2025-12-25",
    "name": "Christmas Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2025-12-31",
    "name": "New Year's Eve",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2026-01-01",
    "name": "New Year's Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2026-02-16",
    "name": "Seollal Holiday",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2026-02-17",
    "name": "Seollal",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2026-02-18",
    "name": "Seollal Holiday",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2026-03-01",
    "name": "Independence Movement Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2026-03-02",
    "name": "Day off for Independence Movement Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2026-04-05",
    "name": "Arbor Day",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2026-05-01",
    "name": "Labor Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2026-05-05",
    "name": "Children's Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2026-05-08",
    "name": "Parents' Day",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2026-05-15",
    "name": "Teacher's Day",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2026-05-24",
    "name": "Buddha’s Birthday",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2026-05-25",
    "name": "Day off for Buddha’s Birthday",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2026-06-03",
    "name": "Local Election Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2026-06-06",
    "name": "Memorial Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2026-07-17",
    "name": "Constitution Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2026-08-15",
    "name": "Liberation Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2026-08-17",
    "name": "Day off for Liberation Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2026-09-24",
    "name": "Chuseok Holiday",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2026-09-25",
    "name": "Chuseok",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2026-09-26",
    "name": "Chuseok Holiday",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2026-10-01",
    "name": "Armed Forces Day",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2026-10-03",
    "name": "National Foundation Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2026-10-05",
    "name": "Day off for National Foundation Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2026-10-09",
    "name": "Hangeul Proclamation Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2026-12-24",
    "name": "Christmas Eve",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2026-12-25",
    "name": "Christmas Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2026-12-31",
    "name": "New Year's Eve",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2027-01-01",
    "name": "New Year's Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2027-02-07",
    "name": "Seollal",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2027-02-08",
    "name": "Seollal Holiday",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2027-02-09",
    "name": "Day off for Seollal",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2027-03-01",
    "name": "Independence Movement Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2027-04-05",
    "name": "Arbor Day",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2027-05-01",
    "name": "Labor Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2027-05-03",
    "name": "Day off for Labor Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2027-05-05",
    "name": "Children's Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2027-05-08",
    "name": "Parents' Day",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2027-05-13",
    "name": "Buddha’s Birthday",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2027-05-15",
    "name": "Teacher's Day",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2027-06-06",
    "name": "Memorial Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2027-07-17",
    "name": "Constitution Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2027-07-19",
    "name": "Day off for Constitution Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2027-08-15",
    "name": "Liberation Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2027-08-16",
    "name": "Day off for Liberation Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2027-09-14",
    "name": "Chuseok Holiday",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2027-09-15",
    "name": "Chuseok",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2027-09-16",
    "name": "Chuseok Holiday",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2027-10-01",
    "name": "Armed Forces Day",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2027-10-03",
    "name": "National Foundation Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2027-10-04",
    "name": "Day off for National Foundation Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2027-10-09",
    "name": "Hangeul Proclamation Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2027-10-11",
    "name": "Day off for Hangeul Proclamation Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2027-12-24",
    "name": "Christmas Eve",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2027-12-25",
    "name": "Christmas Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2027-12-27",
    "name": "Day off for Christmas Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2027-12-31",
    "name": "New Year's Eve",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2028-01-01",
    "name": "New Year's Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2028-01-26",
    "name": "Seollal",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2028-01-27",
    "name": "Seollal Holiday",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2028-03-01",
    "name": "Independence Movement Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2028-04-05",
    "name": "Arbor Day",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2028-05-01",
    "name": "Labor Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2028-05-02",
    "name": "Buddha’s Birthday",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2028-05-05",
    "name": "Children's Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2028-05-08",
    "name": "Parents' Day",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2028-05-15",
    "name": "Teacher's Day",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2028-06-06",
    "name": "Memorial Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2028-07-17",
    "name": "Constitution Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2028-08-15",
    "name": "Liberation Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2028-10-01",
    "name": "Armed Forces Day",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2028-10-02",
    "name": "Chuseok Holiday",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2028-10-03",
    "name": "Chuseok",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2028-10-03",
    "name": "National Foundation Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2028-10-04",
    "name": "Chuseok Holiday",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2028-10-09",
    "name": "Hangeul Proclamation Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2028-12-24",
    "name": "Christmas Eve",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2028-12-25",
    "name": "Christmas Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2028-12-31",
    "name": "New Year's Eve",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2029-01-01",
    "name": "New Year's Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2029-02-13",
    "name": "Seollal",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2029-02-14",
    "name": "Seollal Holiday",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2029-03-01",
    "name": "Independence Movement Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2029-04-05",
    "name": "Arbor Day",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2029-05-01",
    "name": "Labor Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2029-05-05",
    "name": "Children's Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2029-05-08",
    "name": "Parents' Day",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2029-05-15",
    "name": "Teacher's Day",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2029-05-20",
    "name": "Buddha’s Birthday",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2029-05-21",
    "name": "Day off for Buddha’s Birthday",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2029-06-06",
    "name": "Memorial Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2029-07-17",
    "name": "Constitution Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2029-08-15",
    "name": "Liberation Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2029-09-21",
    "name": "Chuseok Holiday",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2029-09-22",
    "name": "Chuseok",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2029-09-23",
    "name": "Chuseok Holiday",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2029-09-24",
    "name": "Day off for Chuseok Holiday",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2029-10-01",
    "name": "Armed Forces Day",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2029-10-03",
    "name": "National Foundation Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2029-10-09",
    "name": "Hangeul Proclamation Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2029-12-24",
    "name": "Christmas Eve",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2029-12-25",
    "name": "Christmas Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2029-12-31",
    "name": "New Year's Eve",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2030-01-01",
    "name": "New Year's Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2030-02-04",
    "name": "Seollal",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2030-02-04",
    "name": "Seollal Holiday",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2030-03-01",
    "name": "Independence Movement Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2030-04-05",
    "name": "Arbor Day",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2030-05-01",
    "name": "Labor Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2030-05-05",
    "name": "Children's Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2030-05-08",
    "name": "Parents' Day",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2030-05-09",
    "name": "Buddha’s Birthday",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2030-05-15",
    "name": "Teacher's Day",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2030-06-06",
    "name": "Memorial Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2030-07-17",
    "name": "Constitution Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2030-08-15",
    "name": "Liberation Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2030-09-11",
    "name": "Chuseok Holiday",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2030-09-12",
    "name": "Chuseok",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2030-09-13",
    "name": "Chuseok Holiday",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2030-10-01",
    "name": "Armed Forces Day",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2030-10-03",
    "name": "National Foundation Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2030-10-09",
    "name": "Hangeul Proclamation Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2030-12-24",
    "name": "Christmas Eve",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2030-12-25",
    "name": "Christmas Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2030-12-31",
    "name": "New Year's Eve",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2031-01-01",
    "name": "New Year's Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2031-01-23",
    "name": "Seollal",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2031-01-24",
    "name": "Seollal Holiday",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2031-03-01",
    "name": "Independence Movement Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2031-03-03",
    "name": "Day off for Independence Movement Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2031-04-05",
    "name": "Arbor Day",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2031-05-01",
    "name": "Labor Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2031-05-05",
    "name": "Children's Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2031-05-08",
    "name": "Parents' Day",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2031-05-15",
    "name": "Teacher's Day",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2031-05-28",
    "name": "Buddha’s Birthday",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2031-06-06",
    "name": "Memorial Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2031-07-17",
    "name": "Constitution Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2031-08-15",
    "name": "Liberation Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2031-09-30",
    "name": "Chuseok Holiday",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2031-10-01",
    "name": "Armed Forces Day",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2031-10-01",
    "name": "Chuseok",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2031-10-02",
    "name": "Chuseok Holiday",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2031-10-03",
    "name": "National Foundation Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2031-10-09",
    "name": "Hangeul Proclamation Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2031-12-24",
    "name": "Christmas Eve",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2031-12-25",
    "name": "Christmas Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2031-12-31",
    "name": "New Year's Eve",
-   "type": "Observance"
+   "type": "observance"
   }
  ]
 }

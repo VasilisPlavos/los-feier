@@ -5,627 +5,627 @@
  "from": 2021,
  "to": 2031,
  "count": 124,
- "fetchedAt": "2026-09-23T12:14:40.775Z",
+ "fetchedAt": "2026-09-23T12:37:49.976Z",
  "events": [
   {
    "date": "2021-01-01",
    "name": "New Year's Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2021-03-31",
    "name": "Micronesia Culture Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2021-05-10",
    "name": "Constitution Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2021-10-24",
    "name": "United Nations Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2021-10-25",
    "name": "United Nations Day observed",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2021-11-03",
    "name": "Independence Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2021-11-11",
    "name": "Veterans of Foreign Wars Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2021-11-23",
    "name": "Presidents Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2021-11-25",
    "name": "Thanksgiving",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2021-12-24",
    "name": "Christmas Day observed",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2021-12-25",
    "name": "Christmas Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2021-12-31",
    "name": "Day off for New Year's Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2022-01-01",
    "name": "New Year's Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2022-03-31",
    "name": "Micronesia Culture Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2022-05-10",
    "name": "Constitution Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2022-10-24",
    "name": "United Nations Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2022-11-03",
    "name": "Independence Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2022-11-11",
    "name": "Veterans of Foreign Wars Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2022-11-23",
    "name": "Presidents Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2022-11-24",
    "name": "Thanksgiving",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2022-12-25",
    "name": "Christmas Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2022-12-26",
    "name": "Christmas Day observed",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2023-01-01",
    "name": "New Year's Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2023-01-02",
    "name": "Day off for New Year's Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2023-03-31",
    "name": "Micronesia Culture Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2023-05-10",
    "name": "Constitution Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2023-10-24",
    "name": "United Nations Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2023-11-03",
    "name": "Independence Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2023-11-10",
    "name": "Day off for Veterans of Foreign Wars Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2023-11-11",
    "name": "Veterans of Foreign Wars Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2023-11-23",
    "name": "Presidents Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2023-11-23",
    "name": "Thanksgiving",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2023-12-25",
    "name": "Christmas Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2024-01-01",
    "name": "New Year's Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2024-03-31",
    "name": "Micronesia Culture Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2024-04-01",
    "name": "Day off for Micronesia Culture Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2024-05-10",
    "name": "Constitution Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2024-10-24",
    "name": "United Nations Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2024-11-03",
    "name": "Independence Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2024-11-04",
    "name": "Independence Day observed",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2024-11-11",
    "name": "Veterans of Foreign Wars Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2024-11-22",
    "name": "Presidents Day observed",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2024-11-23",
    "name": "Presidents Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2024-11-28",
    "name": "Thanksgiving",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2024-12-25",
    "name": "Christmas Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2025-01-01",
    "name": "New Year's Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2025-03-31",
    "name": "Micronesia Culture Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2025-05-09",
    "name": "Constitution Day observed",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2025-05-10",
    "name": "Constitution Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2025-10-24",
    "name": "United Nations Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2025-11-03",
    "name": "Independence Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2025-11-11",
    "name": "Veterans of Foreign Wars Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2025-11-23",
    "name": "Presidents Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2025-11-24",
    "name": "Presidents Day observed",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2025-11-27",
    "name": "Thanksgiving",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2025-12-25",
    "name": "Christmas Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2026-01-01",
    "name": "New Year's Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2026-03-31",
    "name": "Micronesia Culture Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2026-05-10",
    "name": "Constitution Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2026-05-11",
    "name": "Constitution Day observed",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2026-10-23",
    "name": "United Nations Day observed",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2026-10-24",
    "name": "United Nations Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2026-11-03",
    "name": "Independence Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2026-11-11",
    "name": "Veterans of Foreign Wars Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2026-11-23",
    "name": "Presidents Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2026-11-26",
    "name": "Thanksgiving",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2026-12-25",
    "name": "Christmas Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2027-01-01",
    "name": "New Year's Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2027-03-31",
    "name": "Micronesia Culture Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2027-05-10",
    "name": "Constitution Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2027-10-24",
    "name": "United Nations Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2027-10-25",
    "name": "United Nations Day observed",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2027-11-03",
    "name": "Independence Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2027-11-11",
    "name": "Veterans of Foreign Wars Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2027-11-23",
    "name": "Presidents Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2027-11-25",
    "name": "Thanksgiving",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2027-12-24",
    "name": "Christmas Day observed",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2027-12-25",
    "name": "Christmas Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2027-12-31",
    "name": "Day off for New Year's Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2028-01-01",
    "name": "New Year's Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2028-03-31",
    "name": "Micronesia Culture Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2028-05-10",
    "name": "Constitution Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2028-10-24",
    "name": "United Nations Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2028-11-03",
    "name": "Independence Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2028-11-10",
    "name": "Day off for Veterans of Foreign Wars Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2028-11-11",
    "name": "Veterans of Foreign Wars Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2028-11-23",
    "name": "Presidents Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2028-11-23",
    "name": "Thanksgiving",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2028-12-25",
    "name": "Christmas Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2029-01-01",
    "name": "New Year's Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2029-03-30",
    "name": "Day off for Micronesia Culture Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2029-03-31",
    "name": "Micronesia Culture Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2029-05-10",
    "name": "Constitution Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2029-10-24",
    "name": "United Nations Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2029-11-02",
    "name": "Independence Day observed",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2029-11-03",
    "name": "Independence Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2029-11-11",
    "name": "Veterans of Foreign Wars Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2029-11-12",
    "name": "Day off for Veterans of Foreign Wars Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2029-11-22",
    "name": "Thanksgiving",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2029-11-23",
    "name": "Presidents Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2029-12-25",
    "name": "Christmas Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2030-01-01",
    "name": "New Year's Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2030-03-31",
    "name": "Micronesia Culture Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2030-04-01",
    "name": "Day off for Micronesia Culture Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2030-05-10",
    "name": "Constitution Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2030-10-24",
    "name": "United Nations Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2030-11-03",
    "name": "Independence Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2030-11-04",
    "name": "Independence Day observed",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2030-11-11",
    "name": "Veterans of Foreign Wars Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2030-11-22",
    "name": "Presidents Day observed",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2030-11-23",
    "name": "Presidents Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2030-11-28",
    "name": "Thanksgiving",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2030-12-25",
    "name": "Christmas Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2031-01-01",
    "name": "New Year's Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2031-03-31",
    "name": "Micronesia Culture Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2031-05-09",
    "name": "Constitution Day observed",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2031-05-10",
    "name": "Constitution Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2031-10-24",
    "name": "United Nations Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2031-11-03",
    "name": "Independence Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2031-11-11",
    "name": "Veterans of Foreign Wars Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2031-11-23",
    "name": "Presidents Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2031-11-24",
    "name": "Presidents Day observed",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2031-11-27",
    "name": "Thanksgiving",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2031-12-25",
    "name": "Christmas Day",
-   "type": "Public holiday"
+   "type": "public"
   }
  ]
 }

@@ -5,697 +5,697 @@
  "from": 2021,
  "to": 2031,
  "count": 138,
- "fetchedAt": "2026-09-23T12:14:40.916Z",
+ "fetchedAt": "2026-09-23T12:37:50.049Z",
  "events": [
   {
    "date": "2021-01-01",
    "name": "New Year's Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2021-03-01",
    "name": "Remembrance Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2021-04-02",
    "name": "Good Friday",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2021-04-30",
    "name": "Day off for Constitution Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2021-05-01",
    "name": "Constitution Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2021-06-04",
    "name": "Youth Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2021-07-02",
    "name": "Fishermen's Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2021-09-03",
    "name": "Labor Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2021-09-24",
    "name": "Manit Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2021-11-17",
    "name": "President's Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2021-12-03",
    "name": "Gospel Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2021-12-24",
    "name": "Day off for Christmas Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2021-12-25",
    "name": "Christmas Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2021-12-31",
    "name": "Day off for New Year's Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2021-12-31",
    "name": "New Year's Eve",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2022-01-01",
    "name": "New Year's Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2022-03-01",
    "name": "Remembrance Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2022-04-15",
    "name": "Good Friday",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2022-05-01",
    "name": "Constitution Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2022-05-02",
    "name": "Day off for Constitution Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2022-06-03",
    "name": "Youth Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2022-07-01",
    "name": "Fishermen's Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2022-09-02",
    "name": "Labor Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2022-09-30",
    "name": "Manit Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2022-11-17",
    "name": "President's Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2022-12-02",
    "name": "Gospel Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2022-12-25",
    "name": "Christmas Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2022-12-26",
    "name": "Day off for Christmas Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2022-12-31",
    "name": "New Year's Eve",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2023-01-01",
    "name": "New Year's Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2023-01-02",
    "name": "Day off for New Year's Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2023-03-01",
    "name": "Remembrance Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2023-04-07",
    "name": "Good Friday",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2023-05-01",
    "name": "Constitution Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2023-07-07",
    "name": "Fishermen's Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2023-09-01",
    "name": "Labor Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2023-09-29",
    "name": "Manit Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2023-11-17",
    "name": "President's Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2023-12-01",
    "name": "Gospel Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2023-12-25",
    "name": "Christmas Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2023-12-31",
    "name": "New Year's Eve",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2024-01-01",
    "name": "New Year's Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2024-03-01",
    "name": "Remembrance Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2024-03-29",
    "name": "Good Friday",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2024-05-01",
    "name": "Constitution Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2024-07-05",
    "name": "Fishermen's Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2024-09-06",
    "name": "Labor Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2024-09-27",
    "name": "Manit Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2024-11-17",
    "name": "President's Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2024-11-18",
    "name": "Day off for President's Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2024-12-06",
    "name": "Gospel Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2024-12-25",
    "name": "Christmas Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2024-12-31",
    "name": "New Year's Eve",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2025-01-01",
    "name": "New Year's Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2025-02-28",
    "name": "Remembrance Day observed",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2025-03-01",
    "name": "Remembrance Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2025-04-18",
    "name": "Good Friday",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2025-05-01",
    "name": "Constitution Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2025-07-04",
    "name": "Fishermen's Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2025-09-05",
    "name": "Labor Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2025-09-26",
    "name": "Manit Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2025-11-17",
    "name": "President's Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2025-12-05",
    "name": "Gospel Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2025-12-25",
    "name": "Christmas Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2025-12-31",
    "name": "New Year's Eve",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2026-01-01",
    "name": "New Year's Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2026-03-01",
    "name": "Remembrance Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2026-03-02",
    "name": "Remembrance Day observed",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2026-04-03",
    "name": "Good Friday",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2026-05-01",
    "name": "Constitution Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2026-07-03",
    "name": "Fishermen's Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2026-09-04",
    "name": "Labor Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2026-09-25",
    "name": "Manit Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2026-11-17",
    "name": "President's Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2026-12-04",
    "name": "Gospel Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2026-12-25",
    "name": "Christmas Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2026-12-31",
    "name": "New Year's Eve",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2027-01-01",
    "name": "New Year's Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2027-03-01",
    "name": "Remembrance Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2027-03-26",
    "name": "Good Friday",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2027-04-30",
    "name": "Day off for Constitution Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2027-05-01",
    "name": "Constitution Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2027-07-02",
    "name": "Fishermen's Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2027-09-03",
    "name": "Labor Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2027-09-24",
    "name": "Manit Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2027-11-17",
    "name": "President's Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2027-12-03",
    "name": "Gospel Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2027-12-24",
    "name": "Day off for Christmas Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2027-12-25",
    "name": "Christmas Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2027-12-31",
    "name": "Day off for New Year's Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2027-12-31",
    "name": "New Year's Eve",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2028-01-01",
    "name": "New Year's Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2028-03-01",
    "name": "Remembrance Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2028-04-14",
    "name": "Good Friday",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2028-05-01",
    "name": "Constitution Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2028-07-07",
    "name": "Fishermen's Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2028-09-01",
    "name": "Labor Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2028-09-29",
    "name": "Manit Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2028-11-17",
    "name": "President's Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2028-12-01",
    "name": "Gospel Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2028-12-25",
    "name": "Christmas Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2028-12-31",
    "name": "New Year's Eve",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2029-01-01",
    "name": "New Year's Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2029-03-01",
    "name": "Remembrance Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2029-03-30",
    "name": "Good Friday",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2029-05-01",
    "name": "Constitution Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2029-07-06",
    "name": "Fishermen's Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2029-09-07",
    "name": "Labor Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2029-09-28",
    "name": "Manit Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2029-11-16",
    "name": "Day off for President's Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2029-11-17",
    "name": "President's Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2029-12-07",
    "name": "Gospel Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2029-12-25",
    "name": "Christmas Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2029-12-31",
    "name": "New Year's Eve",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2030-01-01",
    "name": "New Year's Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2030-03-01",
    "name": "Remembrance Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2030-04-19",
    "name": "Good Friday",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2030-05-01",
    "name": "Constitution Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2030-07-05",
    "name": "Fishermen's Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2030-09-06",
    "name": "Labor Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2030-09-27",
    "name": "Manit Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2030-11-17",
    "name": "President's Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2030-11-18",
    "name": "Day off for President's Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2030-12-06",
    "name": "Gospel Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2030-12-25",
    "name": "Christmas Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2030-12-31",
    "name": "New Year's Eve",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2031-01-01",
    "name": "New Year's Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2031-02-28",
    "name": "Remembrance Day observed",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2031-03-01",
    "name": "Remembrance Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2031-04-11",
    "name": "Good Friday",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2031-05-01",
    "name": "Constitution Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2031-07-04",
    "name": "Fishermen's Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2031-09-05",
    "name": "Labor Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2031-09-26",
    "name": "Manit Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2031-11-17",
    "name": "President's Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2031-12-05",
    "name": "Gospel Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2031-12-25",
    "name": "Christmas Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2031-12-31",
    "name": "New Year's Eve",
-   "type": "Observance"
+   "type": "observance"
   }
  ]
 }

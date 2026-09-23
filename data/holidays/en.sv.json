@@ -5,1187 +5,1187 @@
  "from": 2021,
  "to": 2031,
  "count": 236,
- "fetchedAt": "2026-09-23T12:14:41.035Z",
+ "fetchedAt": "2026-09-23T12:37:50.108Z",
  "events": [
   {
    "date": "2021-01-01",
    "name": "New Year's Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2021-01-16",
    "name": "Signing of the Peace Accords",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2021-03-08",
    "name": "Women's Day",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2021-03-28",
    "name": "Palm Sunday",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2021-04-01",
    "name": "Maundy Thursday",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2021-04-02",
    "name": "Good Friday",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2021-04-03",
    "name": "Holy Saturday",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2021-04-04",
    "name": "Easter Sunday",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2021-05-01",
    "name": "Labor Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2021-05-03",
    "name": "Day of the Cross",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2021-05-07",
    "name": "Soldiers' Day",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2021-05-10",
    "name": "Mothers' Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2021-06-17",
    "name": "Fathers' Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2021-06-22",
    "name": "Teachers' Day",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2021-08-06",
    "name": "Celebrations of San Salvador",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2021-09-15",
    "name": "Independence Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2021-10-01",
    "name": "Children's Day",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2021-10-12",
    "name": "Columbus Day",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2021-11-02",
    "name": "All Souls’ Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2021-12-24",
    "name": "Christmas Eve",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2021-12-25",
    "name": "Christmas Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2021-12-31",
    "name": "New Year's Eve",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2022-01-01",
    "name": "New Year's Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2022-01-16",
    "name": "Victims of the Armed Conflict",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2022-03-08",
    "name": "Women's Day",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2022-04-10",
    "name": "Palm Sunday",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2022-04-14",
    "name": "Maundy Thursday",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2022-04-15",
    "name": "Good Friday",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2022-04-16",
    "name": "Holy Saturday",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2022-04-17",
    "name": "Easter Sunday",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2022-05-01",
    "name": "Labor Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2022-05-03",
    "name": "Day of the Cross",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2022-05-07",
    "name": "Soldiers' Day",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2022-05-10",
    "name": "Mothers' Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2022-06-17",
    "name": "Fathers' Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2022-06-22",
    "name": "Teachers' Day",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2022-08-06",
    "name": "Celebrations of San Salvador",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2022-09-15",
    "name": "Independence Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2022-10-01",
    "name": "Children's Day",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2022-11-02",
    "name": "All Souls’ Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2022-12-24",
    "name": "Christmas Eve",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2022-12-25",
    "name": "Christmas Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2022-12-26",
    "name": "Boxing Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2022-12-31",
    "name": "New Year's Eve",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2023-01-01",
    "name": "New Year's Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2023-01-02",
    "name": "New Year's Day Holiday",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2023-01-16",
    "name": "Victims of the Armed Conflict",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2023-03-08",
    "name": "Women's Day",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2023-04-02",
    "name": "Palm Sunday",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2023-04-06",
    "name": "Maundy Thursday",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2023-04-07",
    "name": "Good Friday",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2023-04-08",
    "name": "Holy Saturday",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2023-04-09",
    "name": "Easter Sunday",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2023-05-01",
    "name": "Labor Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2023-05-03",
    "name": "Day of the Cross",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2023-05-07",
    "name": "Soldiers' Day",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2023-05-10",
    "name": "Mothers' Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2023-06-17",
    "name": "Fathers' Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2023-06-22",
    "name": "Teachers' Day",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2023-07-07",
    "name": "San Salvador Games 2023 Public Holiday",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2023-08-06",
    "name": "Celebrations of San Salvador",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2023-09-15",
    "name": "Independence Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2023-10-01",
    "name": "Children's Day",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2023-11-02",
    "name": "All Souls’ Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2023-12-24",
    "name": "Christmas Eve",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2023-12-25",
    "name": "Christmas Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2023-12-31",
    "name": "New Year's Eve",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2024-01-01",
    "name": "New Year's Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2024-01-16",
    "name": "Victims of the Armed Conflict",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2024-03-08",
    "name": "Women's Day",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2024-03-24",
    "name": "Palm Sunday",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2024-03-28",
    "name": "Maundy Thursday",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2024-03-29",
    "name": "Good Friday",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2024-03-30",
    "name": "Holy Saturday",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2024-03-31",
    "name": "Easter Sunday",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2024-05-01",
    "name": "Labor Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2024-05-03",
    "name": "Day of the Cross",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2024-05-07",
    "name": "Soldiers' Day",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2024-05-10",
    "name": "Mothers' Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2024-06-17",
    "name": "Fathers' Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2024-06-18",
    "name": "Day Off for Extreme Weather",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2024-06-22",
    "name": "Teachers' Day",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2024-08-06",
    "name": "Celebrations of San Salvador",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2024-09-15",
    "name": "Independence Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2024-10-01",
    "name": "Children's Day",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2024-11-02",
    "name": "All Souls’ Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2024-12-24",
    "name": "Christmas Eve",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2024-12-25",
    "name": "Christmas Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2024-12-31",
    "name": "New Year's Eve",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2025-01-01",
    "name": "New Year's Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2025-01-16",
    "name": "Victims of the Armed Conflict",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2025-03-08",
    "name": "Women's Day",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2025-04-13",
    "name": "Palm Sunday",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2025-04-17",
    "name": "Maundy Thursday",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2025-04-18",
    "name": "Good Friday",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2025-04-19",
    "name": "Holy Saturday",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2025-04-20",
    "name": "Easter Sunday",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2025-05-01",
    "name": "Labor Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2025-05-03",
    "name": "Day of the Cross",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2025-05-07",
    "name": "Soldiers' Day",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2025-05-10",
    "name": "Mothers' Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2025-06-17",
    "name": "Fathers' Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2025-06-22",
    "name": "Teachers' Day",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2025-08-06",
    "name": "Celebrations of San Salvador",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2025-09-15",
    "name": "Independence Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2025-10-01",
    "name": "Children's Day",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2025-11-02",
    "name": "All Souls’ Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2025-12-24",
    "name": "Christmas Eve",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2025-12-25",
    "name": "Christmas Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2025-12-31",
    "name": "New Year's Eve",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2026-01-01",
    "name": "New Year's Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2026-01-16",
    "name": "Victims of the Armed Conflict",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2026-03-08",
    "name": "Women's Day",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2026-03-29",
    "name": "Palm Sunday",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2026-04-02",
    "name": "Maundy Thursday",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2026-04-03",
    "name": "Good Friday",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2026-04-04",
    "name": "Holy Saturday",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2026-04-05",
    "name": "Easter Sunday",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2026-05-01",
    "name": "Labor Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2026-05-03",
    "name": "Day of the Cross",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2026-05-07",
    "name": "Soldiers' Day",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2026-05-10",
    "name": "Mothers' Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2026-06-17",
    "name": "Fathers' Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2026-06-22",
    "name": "Teachers' Day",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2026-08-06",
    "name": "Celebrations of San Salvador",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2026-09-15",
    "name": "Independence Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2026-10-01",
    "name": "Children's Day",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2026-11-02",
    "name": "All Souls’ Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2026-12-24",
    "name": "Christmas Eve",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2026-12-25",
    "name": "Christmas Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2026-12-31",
    "name": "New Year's Eve",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2027-01-01",
    "name": "New Year's Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2027-01-16",
    "name": "Victims of the Armed Conflict",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2027-03-08",
    "name": "Women's Day",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2027-03-21",
    "name": "Palm Sunday",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2027-03-25",
    "name": "Maundy Thursday",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2027-03-26",
    "name": "Good Friday",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2027-03-27",
    "name": "Holy Saturday",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2027-03-28",
    "name": "Easter Sunday",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2027-05-01",
    "name": "Labor Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2027-05-03",
    "name": "Day of the Cross",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2027-05-07",
    "name": "Soldiers' Day",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2027-05-10",
    "name": "Mothers' Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2027-06-17",
    "name": "Fathers' Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2027-06-22",
    "name": "Teachers' Day",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2027-08-06",
    "name": "Celebrations of San Salvador",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2027-09-15",
    "name": "Independence Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2027-10-01",
    "name": "Children's Day",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2027-11-02",
    "name": "All Souls’ Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2027-12-24",
    "name": "Christmas Eve",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2027-12-25",
    "name": "Christmas Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2027-12-31",
    "name": "New Year's Eve",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2028-01-01",
    "name": "New Year's Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2028-01-16",
    "name": "Victims of the Armed Conflict",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2028-03-08",
    "name": "Women's Day",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2028-04-09",
    "name": "Palm Sunday",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2028-04-13",
    "name": "Maundy Thursday",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2028-04-14",
    "name": "Good Friday",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2028-04-15",
    "name": "Holy Saturday",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2028-04-16",
    "name": "Easter Sunday",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2028-05-01",
    "name": "Labor Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2028-05-03",
    "name": "Day of the Cross",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2028-05-07",
    "name": "Soldiers' Day",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2028-05-10",
    "name": "Mothers' Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2028-06-17",
    "name": "Fathers' Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2028-06-22",
    "name": "Teachers' Day",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2028-08-06",
    "name": "Celebrations of San Salvador",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2028-09-15",
    "name": "Independence Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2028-10-01",
    "name": "Children's Day",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2028-11-02",
    "name": "All Souls’ Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2028-12-24",
    "name": "Christmas Eve",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2028-12-25",
    "name": "Christmas Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2028-12-31",
    "name": "New Year's Eve",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2029-01-01",
    "name": "New Year's Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2029-01-16",
    "name": "Victims of the Armed Conflict",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2029-03-08",
    "name": "Women's Day",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2029-03-25",
    "name": "Palm Sunday",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2029-03-29",
    "name": "Maundy Thursday",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2029-03-30",
    "name": "Good Friday",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2029-03-31",
    "name": "Holy Saturday",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2029-04-01",
    "name": "Easter Sunday",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2029-05-01",
    "name": "Labor Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2029-05-03",
    "name": "Day of the Cross",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2029-05-07",
    "name": "Soldiers' Day",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2029-05-10",
    "name": "Mothers' Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2029-06-17",
    "name": "Fathers' Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2029-06-22",
    "name": "Teachers' Day",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2029-08-06",
    "name": "Celebrations of San Salvador",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2029-09-15",
    "name": "Independence Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2029-10-01",
    "name": "Children's Day",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2029-11-02",
    "name": "All Souls’ Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2029-12-24",
    "name": "Christmas Eve",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2029-12-25",
    "name": "Christmas Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2029-12-31",
    "name": "New Year's Eve",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2030-01-01",
    "name": "New Year's Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2030-01-16",
    "name": "Victims of the Armed Conflict",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2030-03-08",
    "name": "Women's Day",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2030-04-14",
    "name": "Palm Sunday",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2030-04-18",
    "name": "Maundy Thursday",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2030-04-19",
    "name": "Good Friday",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2030-04-20",
    "name": "Holy Saturday",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2030-04-21",
    "name": "Easter Sunday",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2030-05-01",
    "name": "Labor Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2030-05-03",
    "name": "Day of the Cross",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2030-05-07",
    "name": "Soldiers' Day",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2030-05-10",
    "name": "Mothers' Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2030-06-17",
    "name": "Fathers' Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2030-06-22",
    "name": "Teachers' Day",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2030-08-06",
    "name": "Celebrations of San Salvador",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2030-09-15",
    "name": "Independence Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2030-10-01",
    "name": "Children's Day",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2030-11-02",
    "name": "All Souls’ Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2030-12-24",
    "name": "Christmas Eve",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2030-12-25",
    "name": "Christmas Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2030-12-31",
    "name": "New Year's Eve",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2031-01-01",
    "name": "New Year's Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2031-01-16",
    "name": "Victims of the Armed Conflict",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2031-03-08",
    "name": "Women's Day",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2031-04-06",
    "name": "Palm Sunday",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2031-04-10",
    "name": "Maundy Thursday",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2031-04-11",
    "name": "Good Friday",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2031-04-12",
    "name": "Holy Saturday",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2031-04-13",
    "name": "Easter Sunday",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2031-05-01",
    "name": "Labor Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2031-05-03",
    "name": "Day of the Cross",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2031-05-07",
    "name": "Soldiers' Day",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2031-05-10",
    "name": "Mothers' Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2031-06-17",
    "name": "Fathers' Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2031-06-22",
    "name": "Teachers' Day",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2031-08-06",
    "name": "Celebrations of San Salvador",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2031-09-15",
    "name": "Independence Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2031-10-01",
    "name": "Children's Day",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2031-11-02",
    "name": "All Souls’ Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2031-12-24",
    "name": "Christmas Eve",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2031-12-25",
    "name": "Christmas Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2031-12-31",
    "name": "New Year's Eve",
-   "type": "Observance"
+   "type": "observance"
   }
  ]
 }

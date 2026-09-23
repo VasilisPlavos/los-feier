@@ -5,1592 +5,1592 @@
  "from": 2021,
  "to": 2031,
  "count": 317,
- "fetchedAt": "2026-09-23T12:14:40.989Z",
+ "fetchedAt": "2026-09-23T12:37:50.085Z",
  "events": [
   {
    "date": "2021-01-01",
    "name": "New Year's Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2021-01-06",
    "name": "Epiphany",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2021-01-11",
    "name": "Birthday of Eugenio María de Hostos",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2021-01-18",
    "name": "Martin Luther King Jr Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2021-02-14",
    "name": "Valentine's Day",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2021-02-15",
    "name": "Presidents' Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2021-02-16",
    "name": "Carnival",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2021-02-18",
    "name": "Day in Commemoration of the Birthday of Don Luis Muñoz-Marín",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2021-03-02",
    "name": "American Citizenship Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2021-03-22",
    "name": "Emancipation Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2021-04-02",
    "name": "Good Friday",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2021-04-04",
    "name": "Easter Sunday",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2021-04-16",
    "name": "José de Diego’s Birthday",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2021-05-09",
    "name": "Mothers' Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2021-05-31",
    "name": "Memorial Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2021-06-20",
    "name": "Fathers' Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2021-07-04",
    "name": "US Independence Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2021-07-05",
    "name": "US Independence Day observed",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2021-07-25",
    "name": "Constitution Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2021-07-27",
    "name": "José Celso Barbosa’s Birthday",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2021-09-06",
    "name": "Labor Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2021-10-11",
    "name": "Día de la Raza",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2021-11-11",
    "name": "Veterans Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2021-11-19",
    "name": "Discovery Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2021-11-25",
    "name": "Thanksgiving Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2021-12-24",
    "name": "Christmas Eve",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2021-12-25",
    "name": "Christmas Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2021-12-31",
    "name": "New Year's Eve",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2022-01-01",
    "name": "New Year's Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2022-01-06",
    "name": "Epiphany",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2022-01-11",
    "name": "Birthday of Eugenio María de Hostos",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2022-01-17",
    "name": "Martin Luther King Jr Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2022-02-14",
    "name": "Valentine's Day",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2022-02-18",
    "name": "Day in Commemoration of the Birthday of Don Luis Muñoz-Marín",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2022-02-21",
    "name": "Presidents' Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2022-03-01",
    "name": "Carnival",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2022-03-02",
    "name": "American Citizenship Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2022-03-22",
    "name": "Emancipation Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2022-04-15",
    "name": "Good Friday",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2022-04-16",
    "name": "José de Diego’s Birthday",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2022-04-17",
    "name": "Easter Sunday",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2022-05-08",
    "name": "Mothers' Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2022-05-30",
    "name": "Memorial Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2022-06-19",
    "name": "Fathers' Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2022-07-04",
    "name": "US Independence Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2022-07-25",
    "name": "Constitution Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2022-07-27",
    "name": "José Celso Barbosa’s Birthday",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2022-09-05",
    "name": "Labor Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2022-10-10",
    "name": "Día de la Raza",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2022-11-11",
    "name": "Veterans Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2022-11-19",
    "name": "Discovery Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2022-11-24",
    "name": "Thanksgiving Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2022-12-24",
    "name": "Christmas Eve",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2022-12-25",
    "name": "Christmas Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2022-12-26",
    "name": "Day off for Christmas Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2022-12-31",
    "name": "New Year's Eve",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2023-01-01",
    "name": "New Year's Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2023-01-02",
    "name": "Day off for New Year's Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2023-01-06",
    "name": "Epiphany",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2023-01-11",
    "name": "Birthday of Eugenio María de Hostos",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2023-01-16",
    "name": "Martin Luther King Jr Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2023-02-14",
    "name": "Valentine's Day",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2023-02-18",
    "name": "Day in Commemoration of the Birthday of Don Luis Muñoz-Marín",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2023-02-20",
    "name": "Presidents' Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2023-02-21",
    "name": "Carnival",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2023-03-02",
    "name": "American Citizenship Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2023-03-22",
    "name": "Emancipation Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2023-04-07",
    "name": "Good Friday",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2023-04-09",
    "name": "Easter Sunday",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2023-04-16",
    "name": "José de Diego’s Birthday",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2023-05-14",
    "name": "Mothers' Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2023-05-29",
    "name": "Memorial Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2023-06-18",
    "name": "Fathers' Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2023-07-04",
    "name": "US Independence Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2023-07-25",
    "name": "Constitution Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2023-07-27",
    "name": "José Celso Barbosa’s Birthday",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2023-09-04",
    "name": "Labor Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2023-10-09",
    "name": "Día de la Raza",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2023-11-11",
    "name": "Veterans Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2023-11-19",
    "name": "Discovery Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2023-11-20",
    "name": "Discovery Day observed",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2023-11-23",
    "name": "Thanksgiving Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2023-12-24",
    "name": "Christmas Eve",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2023-12-25",
    "name": "Christmas Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2023-12-31",
    "name": "New Year's Eve",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2024-01-01",
    "name": "New Year's Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2024-01-06",
    "name": "Epiphany",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2024-01-11",
    "name": "Birthday of Eugenio María de Hostos",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2024-01-15",
    "name": "Martin Luther King Jr Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2024-02-13",
    "name": "Carnival",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2024-02-14",
    "name": "Valentine's Day",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2024-02-18",
    "name": "Day in Commemoration of the Birthday of Don Luis Muñoz-Marín",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2024-02-19",
    "name": "Presidents' Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2024-03-02",
    "name": "American Citizenship Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2024-03-22",
    "name": "Emancipation Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2024-03-29",
    "name": "Good Friday",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2024-03-31",
    "name": "Easter Sunday",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2024-04-16",
    "name": "José de Diego’s Birthday",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2024-05-12",
    "name": "Mothers' Day",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2024-05-27",
    "name": "Memorial Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2024-06-16",
    "name": "Fathers' Day",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2024-06-19",
    "name": "Juneteenth National Independence Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2024-07-04",
    "name": "US Independence Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2024-07-25",
    "name": "Constitution Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2024-07-27",
    "name": "José Celso Barbosa’s Birthday",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2024-09-02",
    "name": "Labor Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2024-10-14",
    "name": "Día de la Raza",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2024-11-05",
    "name": "Election Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2024-11-11",
    "name": "Veterans Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2024-11-19",
    "name": "Discovery Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2024-11-28",
    "name": "Thanksgiving Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2024-12-24",
    "name": "Christmas Eve",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2024-12-25",
    "name": "Christmas Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2024-12-31",
    "name": "New Year's Eve",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2025-01-01",
    "name": "New Year's Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2025-01-06",
    "name": "Epiphany",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2025-01-11",
    "name": "Birthday of Eugenio María de Hostos",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2025-01-20",
    "name": "Martin Luther King Jr Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2025-02-14",
    "name": "Valentine's Day",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2025-02-17",
    "name": "Presidents' Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2025-02-18",
    "name": "Day in Commemoration of the Birthday of Don Luis Muñoz-Marín",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2025-03-02",
    "name": "American Citizenship Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2025-03-03",
    "name": "Day off for American Citizenship Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2025-03-04",
    "name": "Carnival",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2025-03-22",
    "name": "Emancipation Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2025-04-16",
    "name": "José de Diego’s Birthday",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2025-04-18",
    "name": "Good Friday",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2025-04-20",
    "name": "Easter Sunday",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2025-05-11",
    "name": "Mothers' Day",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2025-05-26",
    "name": "Memorial Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2025-06-15",
    "name": "Fathers' Day",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2025-06-19",
    "name": "Juneteenth National Independence Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2025-07-04",
    "name": "US Independence Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2025-07-25",
    "name": "Constitution Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2025-07-27",
    "name": "José Celso Barbosa’s Birthday",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2025-09-01",
    "name": "Labor Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2025-10-13",
    "name": "Día de la Raza",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2025-11-11",
    "name": "Veterans Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2025-11-19",
    "name": "Discovery Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2025-11-27",
    "name": "Thanksgiving Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2025-12-24",
    "name": "Christmas Eve",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2025-12-25",
    "name": "Christmas Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2025-12-31",
    "name": "New Year's Eve",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2026-01-01",
    "name": "New Year's Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2026-01-06",
    "name": "Epiphany",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2026-01-11",
    "name": "Birthday of Eugenio María de Hostos",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2026-01-19",
    "name": "Martin Luther King Jr Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2026-02-14",
    "name": "Valentine's Day",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2026-02-16",
    "name": "Presidents' Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2026-02-17",
    "name": "Carnival",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2026-02-18",
    "name": "Day in Commemoration of the Birthday of Don Luis Muñoz-Marín",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2026-03-02",
    "name": "American Citizenship Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2026-03-22",
    "name": "Emancipation Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2026-03-23",
    "name": "Emancipation Day observed",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2026-04-03",
    "name": "Good Friday",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2026-04-05",
    "name": "Easter Sunday",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2026-04-16",
    "name": "José de Diego’s Birthday",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2026-05-10",
    "name": "Mothers' Day",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2026-05-25",
    "name": "Memorial Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2026-06-19",
    "name": "Juneteenth National Independence Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2026-06-21",
    "name": "Fathers' Day",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2026-07-04",
    "name": "US Independence Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2026-07-25",
    "name": "Constitution Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2026-07-27",
    "name": "José Celso Barbosa’s Birthday",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2026-09-07",
    "name": "Labor Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2026-10-12",
    "name": "Día de la Raza",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2026-11-11",
    "name": "Veterans Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2026-11-19",
    "name": "Discovery Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2026-11-26",
    "name": "Thanksgiving Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2026-12-24",
    "name": "Christmas Eve",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2026-12-25",
    "name": "Christmas Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2026-12-31",
    "name": "New Year's Eve",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2027-01-01",
    "name": "New Year's Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2027-01-06",
    "name": "Epiphany",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2027-01-11",
    "name": "Birthday of Eugenio María de Hostos",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2027-01-18",
    "name": "Martin Luther King Jr Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2027-02-09",
    "name": "Carnival",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2027-02-14",
    "name": "Valentine's Day",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2027-02-15",
    "name": "Presidents' Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2027-02-18",
    "name": "Day in Commemoration of the Birthday of Don Luis Muñoz-Marín",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2027-03-02",
    "name": "American Citizenship Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2027-03-22",
    "name": "Emancipation Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2027-03-26",
    "name": "Good Friday",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2027-03-28",
    "name": "Easter Sunday",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2027-04-16",
    "name": "José de Diego’s Birthday",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2027-05-09",
    "name": "Mothers' Day",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2027-05-31",
    "name": "Memorial Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2027-06-19",
    "name": "Juneteenth National Independence Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2027-06-20",
    "name": "Fathers' Day",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2027-07-04",
    "name": "US Independence Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2027-07-05",
    "name": "US Independence Day observed",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2027-07-25",
    "name": "Constitution Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2027-07-27",
    "name": "José Celso Barbosa’s Birthday",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2027-09-06",
    "name": "Labor Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2027-10-11",
    "name": "Día de la Raza",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2027-11-11",
    "name": "Veterans Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2027-11-19",
    "name": "Discovery Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2027-11-25",
    "name": "Thanksgiving Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2027-12-24",
    "name": "Christmas Eve",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2027-12-25",
    "name": "Christmas Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2027-12-31",
    "name": "New Year's Eve",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2028-01-01",
    "name": "New Year's Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2028-01-06",
    "name": "Epiphany",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2028-01-11",
    "name": "Birthday of Eugenio María de Hostos",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2028-01-17",
    "name": "Martin Luther King Jr Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2028-02-14",
    "name": "Valentine's Day",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2028-02-18",
    "name": "Day in Commemoration of the Birthday of Don Luis Muñoz-Marín",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2028-02-21",
    "name": "Presidents' Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2028-02-29",
    "name": "Carnival",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2028-03-02",
    "name": "American Citizenship Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2028-03-22",
    "name": "Emancipation Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2028-04-14",
    "name": "Good Friday",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2028-04-16",
    "name": "Easter Sunday",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2028-04-16",
    "name": "José de Diego’s Birthday",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2028-05-14",
    "name": "Mothers' Day",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2028-05-29",
    "name": "Memorial Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2028-06-18",
    "name": "Fathers' Day",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2028-06-19",
    "name": "Juneteenth National Independence Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2028-07-04",
    "name": "US Independence Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2028-07-25",
    "name": "Constitution Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2028-07-27",
    "name": "José Celso Barbosa’s Birthday",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2028-09-04",
    "name": "Labor Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2028-10-09",
    "name": "Día de la Raza",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2028-11-11",
    "name": "Veterans Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2028-11-19",
    "name": "Discovery Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2028-11-20",
    "name": "Discovery Day observed",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2028-11-23",
    "name": "Thanksgiving Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2028-12-24",
    "name": "Christmas Eve",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2028-12-25",
    "name": "Christmas Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2028-12-31",
    "name": "New Year's Eve",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2029-01-01",
    "name": "New Year's Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2029-01-06",
    "name": "Epiphany",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2029-01-11",
    "name": "Birthday of Eugenio María de Hostos",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2029-01-15",
    "name": "Martin Luther King Jr Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2029-02-13",
    "name": "Carnival",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2029-02-14",
    "name": "Valentine's Day",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2029-02-18",
    "name": "Day in Commemoration of the Birthday of Don Luis Muñoz-Marín",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2029-02-19",
    "name": "Presidents' Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2029-03-02",
    "name": "American Citizenship Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2029-03-22",
    "name": "Emancipation Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2029-03-30",
    "name": "Good Friday",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2029-04-01",
    "name": "Easter Sunday",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2029-04-16",
    "name": "José de Diego’s Birthday",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2029-05-13",
    "name": "Mothers' Day",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2029-05-28",
    "name": "Memorial Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2029-06-17",
    "name": "Fathers' Day",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2029-06-19",
    "name": "Juneteenth National Independence Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2029-07-04",
    "name": "US Independence Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2029-07-25",
    "name": "Constitution Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2029-07-27",
    "name": "José Celso Barbosa’s Birthday",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2029-09-03",
    "name": "Labor Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2029-10-08",
    "name": "Día de la Raza",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2029-11-11",
    "name": "Veterans Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2029-11-12",
    "name": "Veterans Day observed",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2029-11-19",
    "name": "Discovery Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2029-11-22",
    "name": "Thanksgiving Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2029-12-24",
    "name": "Christmas Eve",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2029-12-25",
    "name": "Christmas Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2029-12-31",
    "name": "New Year's Eve",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2030-01-01",
    "name": "New Year's Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2030-01-06",
    "name": "Epiphany",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2030-01-07",
    "name": "Day off for Epiphany",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2030-01-11",
    "name": "Birthday of Eugenio María de Hostos",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2030-01-21",
    "name": "Martin Luther King Jr Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2030-02-14",
    "name": "Valentine's Day",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2030-02-18",
    "name": "Day in Commemoration of the Birthday of Don Luis Muñoz-Marín",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2030-02-18",
    "name": "Presidents' Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2030-03-02",
    "name": "American Citizenship Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2030-03-05",
    "name": "Carnival",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2030-03-22",
    "name": "Emancipation Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2030-04-16",
    "name": "José de Diego’s Birthday",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2030-04-19",
    "name": "Good Friday",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2030-04-21",
    "name": "Easter Sunday",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2030-05-12",
    "name": "Mothers' Day",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2030-05-27",
    "name": "Memorial Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2030-06-16",
    "name": "Fathers' Day",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2030-06-19",
    "name": "Juneteenth National Independence Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2030-07-04",
    "name": "US Independence Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2030-07-25",
    "name": "Constitution Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2030-07-27",
    "name": "José Celso Barbosa’s Birthday",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2030-09-02",
    "name": "Labor Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2030-10-14",
    "name": "Día de la Raza",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2030-11-11",
    "name": "Veterans Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2030-11-19",
    "name": "Discovery Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2030-11-28",
    "name": "Thanksgiving Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2030-12-24",
    "name": "Christmas Eve",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2030-12-25",
    "name": "Christmas Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2030-12-31",
    "name": "New Year's Eve",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2031-01-01",
    "name": "New Year's Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2031-01-06",
    "name": "Epiphany",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2031-01-11",
    "name": "Birthday of Eugenio María de Hostos",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2031-01-20",
    "name": "Martin Luther King Jr Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2031-02-14",
    "name": "Valentine's Day",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2031-02-17",
    "name": "Presidents' Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2031-02-18",
    "name": "Day in Commemoration of the Birthday of Don Luis Muñoz-Marín",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2031-02-25",
    "name": "Carnival",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2031-03-02",
    "name": "American Citizenship Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2031-03-03",
    "name": "Day off for American Citizenship Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2031-03-22",
    "name": "Emancipation Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2031-04-11",
    "name": "Good Friday",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2031-04-13",
    "name": "Easter Sunday",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2031-04-16",
    "name": "José de Diego’s Birthday",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2031-05-11",
    "name": "Mothers' Day",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2031-05-26",
    "name": "Memorial Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2031-06-15",
    "name": "Fathers' Day",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2031-06-19",
    "name": "Juneteenth National Independence Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2031-07-04",
    "name": "US Independence Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2031-07-25",
    "name": "Constitution Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2031-07-27",
    "name": "José Celso Barbosa’s Birthday",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2031-09-01",
    "name": "Labor Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2031-10-13",
    "name": "Día de la Raza",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2031-11-11",
    "name": "Veterans Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2031-11-19",
    "name": "Discovery Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2031-11-27",
    "name": "Thanksgiving Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2031-12-24",
    "name": "Christmas Eve",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2031-12-25",
    "name": "Christmas Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2031-12-31",
    "name": "New Year's Eve",
-   "type": "Observance"
+   "type": "observance"
   }
  ]
 }

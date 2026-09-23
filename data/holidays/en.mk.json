@@ -5,2332 +5,2332 @@
  "from": 2021,
  "to": 2031,
  "count": 465,
- "fetchedAt": "2026-09-23T12:14:40.919Z",
+ "fetchedAt": "2026-09-23T12:37:50.050Z",
  "events": [
   {
    "date": "2021-01-01",
    "name": "New Year's Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2021-01-06",
    "name": "Christmas Eve (Orthodox)",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2021-01-07",
    "name": "Christmas Day (Orthodox)",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2021-01-19",
    "name": "Epiphany (Orthodox)",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2021-01-27",
    "name": "St Sava's Day (Serbian community)",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2021-02-14",
    "name": "Valentine's Day",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2021-03-08",
    "name": "Mothers' Day",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2021-03-28",
    "name": "Daylight Saving Time starts",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2021-04-02",
    "name": "Good Friday (Catholic/Protestant)",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2021-04-03",
    "name": "Easter Saturday (Catholic/Protestant)",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2021-04-04",
    "name": "Easter Sunday (Catholic/Protestant)",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2021-04-05",
    "name": "Easter Monday (Catholic/Protestant)",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2021-04-08",
    "name": "International Romani Day (Roma community)",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2021-04-30",
    "name": "Good Friday (Orthodox)",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2021-05-01",
    "name": "Easter Saturday (Orthodox)",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2021-05-01",
    "name": "Labor Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2021-05-02",
    "name": "Easter Sunday (Orthodox)",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2021-05-03",
    "name": "Easter Monday (Orthodox)",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2021-05-13",
    "name": "Ramadan Bayram",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2021-05-23",
    "name": "Vlach’s National Day (Vlach community)",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2021-05-24",
    "name": "Saints Cyril and Methodius' Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2021-06-18",
    "name": "Friday before Pentecost (Orthodox)",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2021-07-20",
    "name": "Kurban Bayram (Muslim community)",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2021-08-02",
    "name": "Republic Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2021-08-28",
    "name": "Feast of the Assumption of Mary (Orthodox)",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2021-09-08",
    "name": "Independence Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2021-09-12",
    "name": "Fathers' Day",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2021-09-16",
    "name": "First day of Yom Kippur (Jewish community)",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2021-09-28",
    "name": "International Bosniaks' Day (Bosniak community)",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2021-10-11",
    "name": "Day of People’s Uprising",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2021-10-23",
    "name": "Day of the Macedonian Revolutionary Struggle",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2021-10-31",
    "name": "Daylight Saving Time ends",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2021-10-31",
    "name": "Halloween",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2021-11-01",
    "name": "All Saints' Day (Catholic/Protestant)",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2021-11-22",
    "name": "Albanian Alphabet Day (Albanian community)",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2021-12-08",
    "name": "Saint Kliment Ohridski's Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2021-12-21",
    "name": "Turkish Language Day (Turkish community)",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2021-12-24",
    "name": "Christmas Eve (Catholic/Protestant)",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2021-12-25",
    "name": "Christmas Day (Catholic/Protestant)",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2021-12-31",
    "name": "New Year's Eve",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2022-01-01",
    "name": "New Year's Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2022-01-06",
    "name": "Christmas Eve (Orthodox)",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2022-01-07",
    "name": "Christmas Day (Orthodox)",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2022-01-19",
    "name": "Epiphany (Orthodox)",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2022-01-27",
    "name": "St Sava's Day (Serbian community)",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2022-02-14",
    "name": "Valentine's Day",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2022-03-08",
    "name": "Mothers' Day",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2022-03-27",
    "name": "Daylight Saving Time starts",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2022-04-08",
    "name": "International Romani Day (Roma community)",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2022-04-15",
    "name": "Good Friday (Catholic/Protestant)",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2022-04-16",
    "name": "Easter Saturday (Catholic/Protestant)",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2022-04-17",
    "name": "Easter Sunday (Catholic/Protestant)",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2022-04-18",
    "name": "Easter Monday (Catholic/Protestant)",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2022-04-22",
    "name": "Good Friday (Orthodox)",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2022-04-23",
    "name": "Easter Saturday (Orthodox)",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2022-04-24",
    "name": "Easter Sunday (Orthodox)",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2022-04-25",
    "name": "Easter Monday (Orthodox)",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2022-05-01",
    "name": "Labor Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2022-05-02",
    "name": "Day off for Labor Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2022-05-02",
    "name": "Ramadan Bayram",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2022-05-23",
    "name": "Vlach’s National Day (Vlach community)",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2022-05-24",
    "name": "Saints Cyril and Methodius' Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2022-06-10",
    "name": "Friday before Pentecost (Orthodox)",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2022-07-09",
    "name": "Kurban Bayram (Muslim community)",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2022-08-02",
    "name": "Republic Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2022-08-28",
    "name": "Feast of the Assumption of Mary (Orthodox)",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2022-09-08",
    "name": "Independence Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2022-09-11",
    "name": "Fathers' Day",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2022-09-28",
    "name": "International Bosniaks' Day (Bosniak community)",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2022-10-05",
    "name": "First day of Yom Kippur (Jewish community)",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2022-10-11",
    "name": "Day of People’s Uprising",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2022-10-23",
    "name": "Day of the Macedonian Revolutionary Struggle",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2022-10-24",
    "name": "Day off for Day of the Macedonian Revolutionary Struggle",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2022-10-30",
    "name": "Daylight Saving Time ends",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2022-10-31",
    "name": "Halloween",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2022-11-01",
    "name": "All Saints' Day (Catholic/Protestant)",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2022-11-22",
    "name": "Albanian Alphabet Day (Albanian community)",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2022-12-08",
    "name": "Saint Kliment Ohridski's Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2022-12-21",
    "name": "Turkish Language Day (Turkish community)",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2022-12-24",
    "name": "Christmas Eve (Catholic/Protestant)",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2022-12-25",
    "name": "Christmas Day (Catholic/Protestant)",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2022-12-31",
    "name": "New Year's Eve",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2023-01-01",
    "name": "New Year's Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2023-01-02",
    "name": "Day off for New Year's Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2023-01-06",
    "name": "Christmas Eve (Orthodox)",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2023-01-07",
    "name": "Christmas Day (Orthodox)",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2023-01-19",
    "name": "Epiphany (Orthodox)",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2023-01-27",
    "name": "St Sava's Day (Serbian community)",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2023-02-14",
    "name": "Valentine's Day",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2023-03-08",
    "name": "Mothers' Day",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2023-03-23",
    "name": "Ramadan Start",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2023-03-26",
    "name": "Daylight Saving Time starts",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2023-04-07",
    "name": "Good Friday (Catholic/Protestant)",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2023-04-08",
    "name": "Easter Saturday (Catholic/Protestant)",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2023-04-08",
    "name": "International Romani Day (Roma community)",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2023-04-09",
    "name": "Easter Sunday (Catholic/Protestant)",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2023-04-10",
    "name": "Easter Monday (Catholic/Protestant)",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2023-04-14",
    "name": "Good Friday (Orthodox)",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2023-04-15",
    "name": "Easter Saturday (Orthodox)",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2023-04-16",
    "name": "Easter Sunday (Orthodox)",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2023-04-17",
    "name": "Easter Monday (Orthodox)",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2023-04-21",
    "name": "Ramadan Bayram",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2023-05-01",
    "name": "Labor Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2023-05-23",
    "name": "Vlach’s National Day (Vlach community)",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2023-05-24",
    "name": "Saints Cyril and Methodius' Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2023-06-02",
    "name": "Friday before Pentecost (Orthodox)",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2023-06-28",
    "name": "Kurban Bayram (Muslim community)",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2023-08-02",
    "name": "Republic Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2023-08-28",
    "name": "Feast of the Assumption of Mary (Orthodox)",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2023-09-08",
    "name": "Independence Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2023-09-10",
    "name": "Fathers' Day",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2023-09-25",
    "name": "First day of Yom Kippur (Jewish community)",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2023-09-28",
    "name": "International Bosniaks' Day (Bosniak community)",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2023-10-11",
    "name": "Day of People’s Uprising",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2023-10-23",
    "name": "Day of the Macedonian Revolutionary Struggle",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2023-10-29",
    "name": "Daylight Saving Time ends",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2023-10-31",
    "name": "Halloween",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2023-11-01",
    "name": "All Saints' Day (Catholic/Protestant)",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2023-11-22",
    "name": "Albanian Alphabet Day (Albanian community)",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2023-12-08",
    "name": "Saint Kliment Ohridski's Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2023-12-21",
    "name": "Turkish Language Day (Turkish community)",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2023-12-24",
    "name": "Christmas Eve (Catholic/Protestant)",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2023-12-25",
    "name": "Christmas Day (Catholic/Protestant)",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2023-12-31",
    "name": "New Year's Eve",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2024-01-01",
    "name": "New Year's Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2024-01-06",
    "name": "Christmas Eve (Orthodox)",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2024-01-07",
    "name": "Christmas Day (Orthodox)",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2024-01-08",
    "name": "Day off for Christmas Day (Orthodox)",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2024-01-19",
    "name": "Epiphany (Orthodox)",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2024-01-27",
    "name": "St Sava's Day (Serbian community)",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2024-02-14",
    "name": "Valentine's Day",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2024-03-08",
    "name": "Mothers' Day",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2024-03-11",
    "name": "Ramadan Start",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2024-03-29",
    "name": "Good Friday (Catholic/Protestant)",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2024-03-30",
    "name": "Easter Saturday (Catholic/Protestant)",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2024-03-31",
    "name": "Daylight Saving Time starts",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2024-03-31",
    "name": "Easter Sunday (Catholic/Protestant)",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2024-04-01",
    "name": "Easter Monday (Catholic/Protestant)",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2024-04-08",
    "name": "International Romani Day (Roma community)",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2024-04-10",
    "name": "Ramadan Bayram",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2024-04-24",
    "name": "Election Holiday",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2024-05-01",
    "name": "Labor Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2024-05-03",
    "name": "Good Friday (Orthodox)",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2024-05-04",
    "name": "Easter Saturday (Orthodox)",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2024-05-05",
    "name": "Easter Sunday (Orthodox)",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2024-05-06",
    "name": "Easter Monday (Orthodox)",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2024-05-08",
    "name": "Election Holiday",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2024-05-23",
    "name": "Vlach’s National Day (Vlach community)",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2024-05-24",
    "name": "Saints Cyril and Methodius' Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2024-06-16",
    "name": "Kurban Bayram (Muslim community)",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2024-06-21",
    "name": "Friday before Pentecost (Orthodox)",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2024-08-02",
    "name": "Republic Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2024-08-28",
    "name": "Feast of the Assumption of Mary (Orthodox)",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2024-09-08",
    "name": "Fathers' Day",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2024-09-08",
    "name": "Independence Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2024-09-09",
    "name": "Day off for Independence Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2024-09-28",
    "name": "International Bosniaks' Day (Bosniak community)",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2024-10-11",
    "name": "Day of People’s Uprising",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2024-10-12",
    "name": "First day of Yom Kippur (Jewish community)",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2024-10-23",
    "name": "Day of the Macedonian Revolutionary Struggle",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2024-10-27",
    "name": "Daylight Saving Time ends",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2024-10-31",
    "name": "Halloween",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2024-11-01",
    "name": "All Saints' Day (Catholic/Protestant)",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2024-11-22",
    "name": "Albanian Alphabet Day (Albanian community)",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2024-12-08",
    "name": "Saint Kliment Ohridski's Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2024-12-09",
    "name": "Day off for Saint Kliment Ohridski's Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2024-12-21",
    "name": "Turkish Language Day (Turkish community)",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2024-12-24",
    "name": "Christmas Eve (Catholic/Protestant)",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2024-12-25",
    "name": "Christmas Day (Catholic/Protestant)",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2024-12-31",
    "name": "New Year's Eve",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2025-01-01",
    "name": "New Year's Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2025-01-06",
    "name": "Christmas Eve (Orthodox)",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2025-01-07",
    "name": "Christmas Day (Orthodox)",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2025-01-19",
    "name": "Epiphany (Orthodox)",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2025-01-27",
    "name": "St Sava's Day (Serbian community)",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2025-02-14",
    "name": "Valentine's Day",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2025-03-01",
    "name": "Ramadan Start",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2025-03-08",
    "name": "Mothers' Day",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2025-03-30",
    "name": "Daylight Saving Time starts",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2025-03-30",
    "name": "Ramadan Bayram",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2025-04-08",
    "name": "International Romani Day (Roma community)",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2025-04-18",
    "name": "Good Friday (Catholic/Protestant)",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2025-04-18",
    "name": "Good Friday (Orthodox)",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2025-04-19",
    "name": "Easter Saturday (Catholic/Protestant)",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2025-04-19",
    "name": "Easter Saturday (Orthodox)",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2025-04-20",
    "name": "Easter Sunday (Catholic/Protestant)",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2025-04-20",
    "name": "Easter Sunday (Orthodox)",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2025-04-21",
    "name": "Easter Monday (Catholic/Protestant)",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2025-04-21",
    "name": "Easter Monday (Orthodox)",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2025-05-01",
    "name": "Labor Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2025-05-23",
    "name": "Vlach’s National Day (Vlach community)",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2025-05-24",
    "name": "Saints Cyril and Methodius' Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2025-06-06",
    "name": "Friday before Pentecost (Orthodox)",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2025-06-06",
    "name": "Kurban Bayram (Muslim community)",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2025-08-02",
    "name": "Republic Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2025-08-28",
    "name": "Feast of the Assumption of Mary (Orthodox)",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2025-09-08",
    "name": "Independence Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2025-09-14",
    "name": "Fathers' Day",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2025-09-28",
    "name": "International Bosniaks' Day (Bosniak community)",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2025-10-02",
    "name": "First day of Yom Kippur (Jewish community)",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2025-10-11",
    "name": "Day of People’s Uprising",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2025-10-23",
    "name": "Day of the Macedonian Revolutionary Struggle",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2025-10-26",
    "name": "Daylight Saving Time ends",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2025-10-31",
    "name": "Halloween",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2025-11-01",
    "name": "All Saints' Day (Catholic/Protestant)",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2025-11-22",
    "name": "Albanian Alphabet Day (Albanian community)",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2025-12-08",
    "name": "Saint Kliment Ohridski's Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2025-12-21",
    "name": "Turkish Language Day (Turkish community)",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2025-12-24",
    "name": "Christmas Eve (Catholic/Protestant)",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2025-12-25",
    "name": "Christmas Day (Catholic/Protestant)",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2025-12-31",
    "name": "New Year's Eve",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2026-01-01",
    "name": "New Year's Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2026-01-06",
    "name": "Christmas Eve (Orthodox)",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2026-01-07",
    "name": "Christmas Day (Orthodox)",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2026-01-19",
    "name": "Epiphany (Orthodox)",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2026-01-27",
    "name": "St Sava's Day (Serbian community)",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2026-02-14",
    "name": "Valentine's Day",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2026-02-19",
    "name": "Ramadan Start",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2026-03-08",
    "name": "Mothers' Day",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2026-03-20",
    "name": "Ramadan Bayram",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2026-03-29",
    "name": "Daylight Saving Time starts",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2026-04-03",
    "name": "Good Friday (Catholic/Protestant)",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2026-04-04",
    "name": "Easter Saturday (Catholic/Protestant)",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2026-04-05",
    "name": "Easter Sunday (Catholic/Protestant)",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2026-04-06",
    "name": "Easter Monday (Catholic/Protestant)",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2026-04-08",
    "name": "International Romani Day (Roma community)",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2026-04-10",
    "name": "Good Friday (Orthodox)",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2026-04-11",
    "name": "Easter Saturday (Orthodox)",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2026-04-12",
    "name": "Easter Sunday (Orthodox)",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2026-04-13",
    "name": "Easter Monday (Orthodox)",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2026-05-01",
    "name": "Labor Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2026-05-23",
    "name": "Vlach’s National Day (Vlach community)",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2026-05-24",
    "name": "Saints Cyril and Methodius' Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2026-05-25",
    "name": "Saints Cyril and Methodius' Day observed",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2026-05-27",
    "name": "Kurban Bayram (Muslim community)",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2026-05-29",
    "name": "Friday before Pentecost (Orthodox)",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2026-08-02",
    "name": "Republic Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2026-08-03",
    "name": "Republic Day observed",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2026-08-28",
    "name": "Feast of the Assumption of Mary (Orthodox)",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2026-09-08",
    "name": "Independence Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2026-09-13",
    "name": "Fathers' Day",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2026-09-21",
    "name": "First day of Yom Kippur (Jewish community)",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2026-09-28",
    "name": "International Bosniaks' Day (Bosniak community)",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2026-10-11",
    "name": "Day of People’s Uprising",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2026-10-12",
    "name": "Day of People’s Uprising observed",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2026-10-23",
    "name": "Day of the Macedonian Revolutionary Struggle",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2026-10-25",
    "name": "Daylight Saving Time ends",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2026-10-31",
    "name": "Halloween",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2026-11-01",
    "name": "All Saints' Day (Catholic/Protestant)",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2026-11-22",
    "name": "Albanian Alphabet Day (Albanian community)",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2026-12-08",
    "name": "Saint Kliment Ohridski's Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2026-12-21",
    "name": "Turkish Language Day (Turkish community)",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2026-12-24",
    "name": "Christmas Eve (Catholic/Protestant)",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2026-12-25",
    "name": "Christmas Day (Catholic/Protestant)",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2026-12-31",
    "name": "New Year's Eve",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2027-01-01",
    "name": "New Year's Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2027-01-06",
    "name": "Christmas Eve (Orthodox)",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2027-01-07",
    "name": "Christmas Day (Orthodox)",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2027-01-19",
    "name": "Epiphany (Orthodox)",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2027-01-27",
    "name": "St Sava's Day (Serbian community)",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2027-02-08",
    "name": "Ramadan Start (tentative)",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2027-02-14",
    "name": "Valentine's Day",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2027-03-08",
    "name": "Mothers' Day",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2027-03-10",
    "name": "Ramadan Bayram (tentative)",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2027-03-26",
    "name": "Good Friday (Catholic/Protestant)",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2027-03-27",
    "name": "Easter Saturday (Catholic/Protestant)",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2027-03-28",
    "name": "Daylight Saving Time starts",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2027-03-28",
    "name": "Easter Sunday (Catholic/Protestant)",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2027-03-29",
    "name": "Easter Monday (Catholic/Protestant)",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2027-04-08",
    "name": "International Romani Day (Roma community)",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2027-04-30",
    "name": "Good Friday (Orthodox)",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2027-05-01",
    "name": "Easter Saturday (Orthodox)",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2027-05-01",
    "name": "Labor Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2027-05-02",
    "name": "Easter Sunday (Orthodox)",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2027-05-03",
    "name": "Easter Monday (Orthodox)",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2027-05-17",
    "name": "Kurban Bayram (Muslim community) (tentative)",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2027-05-23",
    "name": "Vlach’s National Day (Vlach community)",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2027-05-24",
    "name": "Saints Cyril and Methodius' Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2027-06-18",
    "name": "Friday before Pentecost (Orthodox)",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2027-08-02",
    "name": "Republic Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2027-08-28",
    "name": "Feast of the Assumption of Mary (Orthodox)",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2027-09-08",
    "name": "Independence Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2027-09-12",
    "name": "Fathers' Day",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2027-09-28",
    "name": "International Bosniaks' Day (Bosniak community)",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2027-10-11",
    "name": "Day of People’s Uprising",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2027-10-11",
    "name": "First day of Yom Kippur (Jewish community)",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2027-10-23",
    "name": "Day of the Macedonian Revolutionary Struggle",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2027-10-31",
    "name": "Daylight Saving Time ends",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2027-10-31",
    "name": "Halloween",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2027-11-01",
    "name": "All Saints' Day (Catholic/Protestant)",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2027-11-22",
    "name": "Albanian Alphabet Day (Albanian community)",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2027-12-08",
    "name": "Saint Kliment Ohridski's Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2027-12-21",
    "name": "Turkish Language Day (Turkish community)",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2027-12-24",
    "name": "Christmas Eve (Catholic/Protestant)",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2027-12-25",
    "name": "Christmas Day (Catholic/Protestant)",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2027-12-31",
    "name": "New Year's Eve",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2028-01-01",
    "name": "New Year's Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2028-01-06",
    "name": "Christmas Eve (Orthodox)",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2028-01-07",
    "name": "Christmas Day (Orthodox)",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2028-01-19",
    "name": "Epiphany (Orthodox)",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2028-01-27",
    "name": "St Sava's Day (Serbian community)",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2028-01-28",
    "name": "Ramadan Start (tentative)",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2028-02-14",
    "name": "Valentine's Day",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2028-02-27",
    "name": "Ramadan Bayram (tentative)",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2028-02-28",
    "name": "Ramadan Bayram observed (tentative)",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2028-03-08",
    "name": "Mothers' Day",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2028-03-26",
    "name": "Daylight Saving Time starts",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2028-04-08",
    "name": "International Romani Day (Roma community)",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2028-04-14",
    "name": "Good Friday (Catholic/Protestant)",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2028-04-14",
    "name": "Good Friday (Orthodox)",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2028-04-15",
    "name": "Easter Saturday (Catholic/Protestant)",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2028-04-15",
    "name": "Easter Saturday (Orthodox)",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2028-04-16",
    "name": "Easter Sunday (Catholic/Protestant)",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2028-04-16",
    "name": "Easter Sunday (Orthodox)",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2028-04-17",
    "name": "Easter Monday (Catholic/Protestant)",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2028-04-17",
    "name": "Easter Monday (Orthodox)",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2028-05-01",
    "name": "Labor Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2028-05-05",
    "name": "Kurban Bayram (Muslim community) (tentative)",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2028-05-23",
    "name": "Vlach’s National Day (Vlach community)",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2028-05-24",
    "name": "Saints Cyril and Methodius' Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2028-06-02",
    "name": "Friday before Pentecost (Orthodox)",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2028-08-02",
    "name": "Republic Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2028-08-28",
    "name": "Feast of the Assumption of Mary (Orthodox)",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2028-09-08",
    "name": "Independence Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2028-09-10",
    "name": "Fathers' Day",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2028-09-28",
    "name": "International Bosniaks' Day (Bosniak community)",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2028-09-30",
    "name": "First day of Yom Kippur (Jewish community)",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2028-10-11",
    "name": "Day of People’s Uprising",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2028-10-23",
    "name": "Day of the Macedonian Revolutionary Struggle",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2028-10-29",
    "name": "Daylight Saving Time ends",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2028-10-31",
    "name": "Halloween",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2028-11-01",
    "name": "All Saints' Day (Catholic/Protestant)",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2028-11-22",
    "name": "Albanian Alphabet Day (Albanian community)",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2028-12-08",
    "name": "Saint Kliment Ohridski's Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2028-12-21",
    "name": "Turkish Language Day (Turkish community)",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2028-12-24",
    "name": "Christmas Eve (Catholic/Protestant)",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2028-12-25",
    "name": "Christmas Day (Catholic/Protestant)",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2028-12-31",
    "name": "New Year's Eve",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2029-01-01",
    "name": "New Year's Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2029-01-06",
    "name": "Christmas Eve (Orthodox)",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2029-01-07",
    "name": "Christmas Day (Orthodox)",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2029-01-08",
    "name": "Day off for Christmas Day (Orthodox)",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2029-01-16",
    "name": "Ramadan Start (tentative)",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2029-01-19",
    "name": "Epiphany (Orthodox)",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2029-01-27",
    "name": "St Sava's Day (Serbian community)",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2029-02-14",
    "name": "Valentine's Day",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2029-02-15",
    "name": "Ramadan Bayram (tentative)",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2029-03-08",
    "name": "Mothers' Day",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2029-03-25",
    "name": "Daylight Saving Time starts",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2029-03-30",
    "name": "Good Friday (Catholic/Protestant)",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2029-03-31",
    "name": "Easter Saturday (Catholic/Protestant)",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2029-04-01",
    "name": "Easter Sunday (Catholic/Protestant)",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2029-04-02",
    "name": "Easter Monday (Catholic/Protestant)",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2029-04-06",
    "name": "Good Friday (Orthodox)",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2029-04-07",
    "name": "Easter Saturday (Orthodox)",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2029-04-08",
    "name": "Easter Sunday (Orthodox)",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2029-04-08",
    "name": "International Romani Day (Roma community)",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2029-04-09",
    "name": "Easter Monday (Orthodox)",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2029-04-24",
    "name": "Kurban Bayram (Muslim community) (tentative)",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2029-05-01",
    "name": "Labor Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2029-05-23",
    "name": "Vlach’s National Day (Vlach community)",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2029-05-24",
    "name": "Saints Cyril and Methodius' Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2029-05-25",
    "name": "Friday before Pentecost (Orthodox)",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2029-08-02",
    "name": "Republic Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2029-08-28",
    "name": "Feast of the Assumption of Mary (Orthodox)",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2029-09-08",
    "name": "Independence Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2029-09-09",
    "name": "Fathers' Day",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2029-09-19",
    "name": "First day of Yom Kippur (Jewish community)",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2029-09-28",
    "name": "International Bosniaks' Day (Bosniak community)",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2029-10-11",
    "name": "Day of People’s Uprising",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2029-10-23",
    "name": "Day of the Macedonian Revolutionary Struggle",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2029-10-28",
    "name": "Daylight Saving Time ends",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2029-10-31",
    "name": "Halloween",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2029-11-01",
    "name": "All Saints' Day (Catholic/Protestant)",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2029-11-22",
    "name": "Albanian Alphabet Day (Albanian community)",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2029-12-08",
    "name": "Saint Kliment Ohridski's Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2029-12-21",
    "name": "Turkish Language Day (Turkish community)",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2029-12-24",
    "name": "Christmas Eve (Catholic/Protestant)",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2029-12-25",
    "name": "Christmas Day (Catholic/Protestant)",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2029-12-31",
    "name": "New Year's Eve",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2030-01-01",
    "name": "New Year's Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2030-01-06",
    "name": "Christmas Eve (Orthodox)",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2030-01-06",
    "name": "Ramadan Start (tentative)",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2030-01-07",
    "name": "Christmas Day (Orthodox)",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2030-01-19",
    "name": "Epiphany (Orthodox)",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2030-01-27",
    "name": "St Sava's Day (Serbian community)",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2030-02-05",
    "name": "Ramadan Bayram (tentative)",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2030-02-14",
    "name": "Valentine's Day",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2030-03-08",
    "name": "Mothers' Day",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2030-03-31",
    "name": "Daylight Saving Time starts",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2030-04-08",
    "name": "International Romani Day (Roma community)",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2030-04-14",
    "name": "Kurban Bayram (Muslim community) (tentative)",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2030-04-19",
    "name": "Good Friday (Catholic/Protestant)",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2030-04-20",
    "name": "Easter Saturday (Catholic/Protestant)",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2030-04-21",
    "name": "Easter Sunday (Catholic/Protestant)",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2030-04-22",
    "name": "Easter Monday (Catholic/Protestant)",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2030-04-26",
    "name": "Good Friday (Orthodox)",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2030-04-27",
    "name": "Easter Saturday (Orthodox)",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2030-04-28",
    "name": "Easter Sunday (Orthodox)",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2030-04-29",
    "name": "Easter Monday (Orthodox)",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2030-05-01",
    "name": "Labor Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2030-05-23",
    "name": "Vlach’s National Day (Vlach community)",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2030-05-24",
    "name": "Saints Cyril and Methodius' Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2030-06-14",
    "name": "Friday before Pentecost (Orthodox)",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2030-08-02",
    "name": "Republic Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2030-08-28",
    "name": "Feast of the Assumption of Mary (Orthodox)",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2030-09-08",
    "name": "Fathers' Day",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2030-09-08",
    "name": "Independence Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2030-09-09",
    "name": "Day off for Independence Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2030-09-28",
    "name": "International Bosniaks' Day (Bosniak community)",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2030-10-07",
    "name": "First day of Yom Kippur (Jewish community)",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2030-10-11",
    "name": "Day of People’s Uprising",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2030-10-23",
    "name": "Day of the Macedonian Revolutionary Struggle",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2030-10-27",
    "name": "Daylight Saving Time ends",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2030-10-31",
    "name": "Halloween",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2030-11-01",
    "name": "All Saints' Day (Catholic/Protestant)",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2030-11-22",
    "name": "Albanian Alphabet Day (Albanian community)",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2030-12-08",
    "name": "Saint Kliment Ohridski's Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2030-12-09",
    "name": "Day off for Saint Kliment Ohridski's Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2030-12-21",
    "name": "Turkish Language Day (Turkish community)",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2030-12-24",
    "name": "Christmas Eve (Catholic/Protestant)",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2030-12-25",
    "name": "Christmas Day (Catholic/Protestant)",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2030-12-26",
    "name": "Ramadan Start (tentative)",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2030-12-31",
    "name": "New Year's Eve",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2031-01-01",
    "name": "New Year's Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2031-01-06",
    "name": "Christmas Eve (Orthodox)",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2031-01-07",
    "name": "Christmas Day (Orthodox)",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2031-01-19",
    "name": "Epiphany (Orthodox)",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2031-01-25",
    "name": "Ramadan Bayram (tentative)",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2031-01-27",
    "name": "St Sava's Day (Serbian community)",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2031-02-14",
    "name": "Valentine's Day",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2031-03-08",
    "name": "Mothers' Day",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2031-03-30",
    "name": "Daylight Saving Time starts",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2031-04-03",
    "name": "Kurban Bayram (Muslim community) (tentative)",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2031-04-08",
    "name": "International Romani Day (Roma community)",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2031-04-11",
    "name": "Good Friday (Catholic/Protestant)",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2031-04-11",
    "name": "Good Friday (Orthodox)",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2031-04-12",
    "name": "Easter Saturday (Catholic/Protestant)",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2031-04-12",
    "name": "Easter Saturday (Orthodox)",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2031-04-13",
    "name": "Easter Sunday (Catholic/Protestant)",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2031-04-13",
    "name": "Easter Sunday (Orthodox)",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2031-04-14",
    "name": "Easter Monday (Catholic/Protestant)",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2031-04-14",
    "name": "Easter Monday (Orthodox)",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2031-05-01",
    "name": "Labor Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2031-05-23",
    "name": "Vlach’s National Day (Vlach community)",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2031-05-24",
    "name": "Saints Cyril and Methodius' Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2031-05-30",
    "name": "Friday before Pentecost (Orthodox)",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2031-08-02",
    "name": "Republic Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2031-08-28",
    "name": "Feast of the Assumption of Mary (Orthodox)",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2031-09-08",
    "name": "Independence Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2031-09-14",
    "name": "Fathers' Day",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2031-09-27",
    "name": "First day of Yom Kippur (Jewish community)",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2031-09-28",
    "name": "International Bosniaks' Day (Bosniak community)",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2031-10-11",
    "name": "Day of People’s Uprising",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2031-10-23",
    "name": "Day of the Macedonian Revolutionary Struggle",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2031-10-26",
    "name": "Daylight Saving Time ends",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2031-10-31",
    "name": "Halloween",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2031-11-01",
    "name": "All Saints' Day (Catholic/Protestant)",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2031-11-22",
    "name": "Albanian Alphabet Day (Albanian community)",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2031-12-08",
    "name": "Saint Kliment Ohridski's Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2031-12-15",
    "name": "Ramadan Start (tentative)",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2031-12-21",
    "name": "Turkish Language Day (Turkish community)",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2031-12-24",
    "name": "Christmas Eve (Catholic/Protestant)",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2031-12-25",
    "name": "Christmas Day (Catholic/Protestant)",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2031-12-31",
    "name": "New Year's Eve",
-   "type": "Observance"
+   "type": "observance"
   }
  ]
 }

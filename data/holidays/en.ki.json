@@ -5,822 +5,822 @@
  "from": 2021,
  "to": 2031,
  "count": 163,
- "fetchedAt": "2026-09-23T12:14:40.867Z",
+ "fetchedAt": "2026-09-23T12:37:50.023Z",
  "events": [
   {
    "date": "2021-01-01",
    "name": "New Year's Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2021-03-08",
    "name": "International Women's Day",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2021-03-12",
    "name": "International Women's Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2021-04-02",
    "name": "Good Friday",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2021-04-05",
    "name": "Easter Monday",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2021-04-09",
    "name": "National Health Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2021-07-08",
    "name": "Gospel Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2021-07-09",
    "name": "National Culture and Senior Citizen Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2021-07-12",
    "name": "Independence Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2021-07-13",
    "name": "Kiribati Special Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2021-08-06",
    "name": "Youth Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2021-10-08",
    "name": "World Teachers' Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2021-12-10",
    "name": "Human Rights and Peace Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2021-12-24",
    "name": "Day off for Christmas Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2021-12-25",
    "name": "Christmas Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2021-12-26",
    "name": "Boxing Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2021-12-27",
    "name": "Day off for Boxing Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2022-01-01",
    "name": "New Year's Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2022-01-03",
    "name": "Day off for New Year's Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2022-03-08",
    "name": "International Women's Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2022-04-08",
    "name": "National Health Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2022-04-15",
    "name": "Good Friday",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2022-04-18",
    "name": "Easter Monday",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2022-05-01",
    "name": "Labor Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2022-05-02",
    "name": "Day off for Labor Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2022-07-08",
    "name": "Gospel Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2022-07-11",
    "name": "National Culture and Senior Citizen Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2022-07-12",
    "name": "Independence Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2022-07-13",
    "name": "Kiribati Special Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2022-08-05",
    "name": "Youth Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2022-10-05",
    "name": "World Teachers' Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2022-12-11",
    "name": "Human Rights and Peace Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2022-12-12",
    "name": "Day off for Human Rights and Peace Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2022-12-25",
    "name": "Christmas Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2022-12-26",
    "name": "Boxing Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2022-12-26",
    "name": "Day off for Christmas Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2022-12-27",
    "name": "Day off for Boxing Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2023-01-01",
    "name": "New Year's Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2023-01-02",
    "name": "Day off for New Year's Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2023-03-08",
    "name": "International Women's Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2023-04-07",
    "name": "Good Friday",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2023-04-10",
    "name": "Easter Monday",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2023-04-11",
    "name": "National Health Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2023-05-01",
    "name": "Labor Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2023-06-23",
    "name": "Police National Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2023-07-10",
    "name": "Gospel Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2023-07-11",
    "name": "Independence Day Holiday",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2023-07-12",
    "name": "Independence Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2023-07-13",
    "name": "Kiribati Special Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2023-08-07",
    "name": "Youth Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2023-10-06",
    "name": "World Teachers' Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2023-12-11",
    "name": "Human Rights and Peace Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2023-12-25",
    "name": "Christmas Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2023-12-26",
    "name": "Boxing Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2024-01-01",
    "name": "New Year's Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2024-03-08",
    "name": "International Women's Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2024-03-29",
    "name": "Good Friday",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2024-04-01",
    "name": "Easter Monday",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2024-04-08",
    "name": "National Health Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2024-05-01",
    "name": "Labor Day",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2024-05-03",
    "name": "Labor Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2024-06-21",
    "name": "Police National Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2024-07-11",
    "name": "Gospel Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2024-07-11",
    "name": "Independence Day Holiday",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2024-07-12",
    "name": "Independence Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2024-07-13",
    "name": "National Culture and Senior Citizen Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2024-08-05",
    "name": "Youth Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2024-10-07",
    "name": "World Teachers' Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2024-12-09",
    "name": "Human Rights and Peace Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2024-12-25",
    "name": "Christmas Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2024-12-26",
    "name": "Boxing Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2025-01-01",
    "name": "New Year's Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2025-03-07",
    "name": "Day off for International Women's Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2025-03-08",
    "name": "International Women's Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2025-04-07",
    "name": "National Health Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2025-04-18",
    "name": "Good Friday",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2025-04-21",
    "name": "Easter Monday",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2025-05-01",
    "name": "Labor Day",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2025-05-02",
    "name": "Labor Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2025-06-23",
    "name": "Police National Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2025-07-10",
    "name": "Gospel Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2025-07-11",
    "name": "National Culture and Senior Citizen Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2025-07-12",
    "name": "Independence Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2025-07-14",
    "name": "Independence Day Holiday",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2025-07-15",
    "name": "Kiribati Special Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2025-08-01",
    "name": "Youth Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2025-10-06",
    "name": "World Teachers' Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2025-12-12",
    "name": "Human Rights and Peace Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2025-12-25",
    "name": "Christmas Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2025-12-26",
    "name": "Boxing Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2026-01-01",
    "name": "New Year's Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2026-01-02",
    "name": "Kiribati Holiday",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2026-03-08",
    "name": "International Women's Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2026-03-09",
    "name": "Day off for International Women's Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2026-04-03",
    "name": "Good Friday",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2026-04-06",
    "name": "Easter Monday",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2026-04-07",
    "name": "National Health Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2026-05-01",
    "name": "Labor Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2026-06-22",
    "name": "Police National Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2026-07-10",
    "name": "Gospel Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2026-07-12",
    "name": "Independence Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2026-07-13",
    "name": "Day off for Independence Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2026-07-14",
    "name": "National Culture and Senior Citizen Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2026-07-15",
    "name": "Kiribati Special Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2026-08-03",
    "name": "Youth Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2026-10-05",
    "name": "World Teachers' Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2026-12-11",
    "name": "Human Rights and Peace Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2026-12-25",
    "name": "Christmas Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2026-12-26",
    "name": "Boxing Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2026-12-28",
    "name": "Day off for Boxing Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2026-12-29",
    "name": "Kiribati Holiday",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2026-12-30",
    "name": "Kiribati Holiday",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2026-12-31",
    "name": "Kiribati Holiday",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2027-01-01",
    "name": "New Year's Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2027-03-08",
    "name": "International Women's Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2027-03-26",
    "name": "Good Friday",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2027-03-29",
    "name": "Easter Monday",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2027-05-01",
    "name": "Labor Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2027-07-12",
    "name": "Independence Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2027-08-02",
    "name": "Youth Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2027-12-11",
    "name": "Human Rights and Peace Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2027-12-25",
    "name": "Christmas Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2027-12-26",
    "name": "Boxing Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2028-01-01",
    "name": "New Year's Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2028-03-08",
    "name": "International Women's Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2028-04-14",
    "name": "Good Friday",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2028-04-17",
    "name": "Easter Monday",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2028-05-01",
    "name": "Labor Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2028-07-12",
    "name": "Independence Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2028-08-07",
    "name": "Youth Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2028-12-11",
    "name": "Human Rights and Peace Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2028-12-25",
    "name": "Christmas Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2028-12-26",
    "name": "Boxing Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2029-01-01",
    "name": "New Year's Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2029-03-08",
    "name": "International Women's Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2029-03-30",
    "name": "Good Friday",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2029-04-02",
    "name": "Easter Monday",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2029-05-01",
    "name": "Labor Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2029-07-12",
    "name": "Independence Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2029-08-06",
    "name": "Youth Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2029-12-11",
    "name": "Human Rights and Peace Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2029-12-25",
    "name": "Christmas Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2029-12-26",
    "name": "Boxing Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2030-01-01",
    "name": "New Year's Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2030-03-08",
    "name": "International Women's Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2030-04-19",
    "name": "Good Friday",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2030-04-22",
    "name": "Easter Monday",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2030-05-01",
    "name": "Labor Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2030-07-12",
    "name": "Independence Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2030-08-05",
    "name": "Youth Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2030-12-11",
    "name": "Human Rights and Peace Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2030-12-25",
    "name": "Christmas Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2030-12-26",
    "name": "Boxing Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2031-01-01",
    "name": "New Year's Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2031-03-08",
    "name": "International Women's Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2031-04-11",
    "name": "Good Friday",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2031-04-14",
    "name": "Easter Monday",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2031-05-01",
    "name": "Labor Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2031-07-12",
    "name": "Independence Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2031-08-04",
    "name": "Youth Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2031-12-11",
    "name": "Human Rights and Peace Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2031-12-25",
    "name": "Christmas Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2031-12-26",
    "name": "Boxing Day",
-   "type": "Public holiday"
+   "type": "public"
   }
  ]
 }

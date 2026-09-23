@@ -5,1837 +5,1837 @@
  "from": 2021,
  "to": 2031,
  "count": 366,
- "fetchedAt": "2026-09-23T12:14:41.061Z",
+ "fetchedAt": "2026-09-23T12:37:50.119Z",
  "events": [
   {
    "date": "2021-01-01",
    "name": "New Year's Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2021-01-27",
    "name": "Day of Fatherland Defenders",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2021-02-18",
    "name": "Day of Diplomatic Staff of Turkmenistan",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2021-03-08",
    "name": "International Women's Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2021-03-21",
    "name": "Nowruz Bayram",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2021-03-22",
    "name": "Nowruz Bayram",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2021-04-07",
    "name": "World Health Day",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2021-04-25",
    "name": "Turkmen Horse Festival",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2021-05-09",
    "name": "Victory Day",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2021-05-13",
    "name": "Oraza Bayram",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2021-05-18",
    "name": "Constitution Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2021-05-23",
    "name": "Carpet Day",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2021-05-25",
    "name": "Ashgabat City Day",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2021-06-01",
    "name": "International Children's Day",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2021-06-03",
    "name": "World Bicycle Day",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2021-06-05",
    "name": "World Envrionment Day",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2021-06-12",
    "name": "Science Day",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2021-06-27",
    "name": "Day of Turkmen Workers of Culture and Art",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2021-07-20",
    "name": "Kurban Bayramy",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2021-07-21",
    "name": "Kurban Bayramy Holiday",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2021-07-22",
    "name": "Kurban Bayramy Holiday",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2021-09-01",
    "name": "Day of Students and Knowledge",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2021-09-27",
    "name": "Independence Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2021-10-01",
    "name": "International Day of Older Persons",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2021-10-06",
    "name": "Memorial Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2021-11-14",
    "name": "Harvest Festival",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2021-12-12",
    "name": "Day of Neutrality",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2021-12-14",
    "name": "Day of Oil and Gas Industry and Geology Workers",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2021-12-21",
    "name": "Niyazov Day",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2022-01-01",
    "name": "New Year's Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2022-01-27",
    "name": "Day of Fatherland Defenders",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2022-02-18",
    "name": "Day of Diplomatic Staff of Turkmenistan",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2022-03-08",
    "name": "International Women's Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2022-03-21",
    "name": "Nowruz Bayram",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2022-03-22",
    "name": "Nowruz Bayram",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2022-04-07",
    "name": "World Health Day",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2022-04-24",
    "name": "Turkmen Horse Festival",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2022-05-02",
    "name": "Oraza Bayram",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2022-05-09",
    "name": "Victory Day",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2022-05-18",
    "name": "Constitution Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2022-05-22",
    "name": "Carpet Day",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2022-05-25",
    "name": "Ashgabat City Day",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2022-06-01",
    "name": "International Children's Day",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2022-06-03",
    "name": "World Bicycle Day",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2022-06-05",
    "name": "World Envrionment Day",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2022-06-12",
    "name": "Science Day",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2022-06-27",
    "name": "Day of Turkmen Workers of Culture and Art",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2022-07-09",
    "name": "Kurban Bayramy",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2022-07-09",
    "name": "Kurban Bayramy Holiday",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2022-07-11",
    "name": "Kurban Bayramy Holiday",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2022-09-01",
    "name": "Day of Students and Knowledge",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2022-09-27",
    "name": "Independence Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2022-10-01",
    "name": "International Day of Older Persons",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2022-10-06",
    "name": "Memorial Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2022-10-10",
    "name": "Day of Healthcare and Medical Industry Workers",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2022-10-30",
    "name": "Turkmen Alabai Day",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2022-11-03",
    "name": "Day of Workers of the Construction and Industrial Complex",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2022-11-13",
    "name": "Harvest Festival",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2022-12-12",
    "name": "Day of Neutrality",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2022-12-14",
    "name": "Day of Oil and Gas Industry and Geology Workers",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2022-12-21",
    "name": "Niyazov Day",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2023-01-01",
    "name": "New Year's Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2023-01-27",
    "name": "Day of Fatherland Defenders",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2023-02-18",
    "name": "Day of Diplomatic Staff of Turkmenistan",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2023-03-08",
    "name": "International Women's Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2023-03-21",
    "name": "Nowruz Bayram",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2023-03-22",
    "name": "Nowruz Bayram",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2023-04-07",
    "name": "World Health Day",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2023-04-21",
    "name": "Oraza Bayram",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2023-04-30",
    "name": "Turkmen Horse Festival",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2023-05-09",
    "name": "Victory Day",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2023-05-18",
    "name": "Constitution Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2023-05-25",
    "name": "Ashgabat City Day",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2023-05-28",
    "name": "Carpet Day",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2023-06-01",
    "name": "International Children's Day",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2023-06-03",
    "name": "World Bicycle Day",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2023-06-05",
    "name": "World Envrionment Day",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2023-06-12",
    "name": "Science Day",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2023-06-27",
    "name": "Day of Turkmen Workers of Culture and Art",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2023-06-28",
    "name": "Kurban Bayramy",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2023-06-29",
    "name": "Kurban Bayramy Holiday",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2023-06-30",
    "name": "Kurban Bayramy Holiday",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2023-09-01",
    "name": "Day of Students and Knowledge",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2023-09-27",
    "name": "Independence Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2023-10-01",
    "name": "International Day of Older Persons",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2023-10-06",
    "name": "Memorial Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2023-10-10",
    "name": "Day of Healthcare and Medical Industry Workers",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2023-10-29",
    "name": "Turkmen Alabai Day",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2023-11-03",
    "name": "Day of Workers of the Construction and Industrial Complex",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2023-11-12",
    "name": "Harvest Festival",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2023-12-12",
    "name": "Day of Neutrality",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2023-12-14",
    "name": "Day of Oil and Gas Industry and Geology Workers",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2023-12-21",
    "name": "Niyazov Day",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2024-01-01",
    "name": "New Year's Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2024-01-27",
    "name": "Day of Fatherland Defenders",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2024-02-18",
    "name": "Day of Diplomatic Staff of Turkmenistan",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2024-03-08",
    "name": "International Women's Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2024-03-11",
    "name": "Ramadan Start",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2024-03-21",
    "name": "Nowruz Bayram",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2024-03-22",
    "name": "Nowruz Bayram",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2024-04-07",
    "name": "World Health Day",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2024-04-10",
    "name": "Oraza Bayram",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2024-04-28",
    "name": "Turkmen Horse Festival",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2024-05-09",
    "name": "Victory Day",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2024-05-18",
    "name": "Constitution Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2024-05-25",
    "name": "Ashgabat City Day",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2024-05-26",
    "name": "Carpet Day",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2024-06-01",
    "name": "International Children's Day",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2024-06-03",
    "name": "World Bicycle Day",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2024-06-05",
    "name": "World Envrionment Day",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2024-06-12",
    "name": "Science Day",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2024-06-16",
    "name": "Kurban Bayramy",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2024-06-17",
    "name": "Kurban Bayramy Holiday",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2024-06-18",
    "name": "Kurban Bayramy Holiday",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2024-06-19",
    "name": "Day off for Kurban Bayramy",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2024-06-27",
    "name": "Day of Turkmen Workers of Culture and Art",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2024-09-01",
    "name": "Day of Students and Knowledge",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2024-09-27",
    "name": "Independence Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2024-10-01",
    "name": "International Day of Older Persons",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2024-10-06",
    "name": "Memorial Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2024-10-07",
    "name": "Day off for Memorial Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2024-10-10",
    "name": "Day of Healthcare and Medical Industry Workers",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2024-10-27",
    "name": "Turkmen Alabai Day",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2024-11-03",
    "name": "Day of Workers of the Construction and Industrial Complex",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2024-11-10",
    "name": "Harvest Festival",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2024-12-12",
    "name": "Day of Neutrality",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2024-12-14",
    "name": "Day of Oil and Gas Industry and Geology Workers",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2024-12-21",
    "name": "Niyazov Day",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2025-01-01",
    "name": "New Year's Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2025-01-27",
    "name": "Day of Fatherland Defenders",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2025-02-18",
    "name": "Day of Diplomatic Staff of Turkmenistan",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2025-03-01",
    "name": "Ramadan Start",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2025-03-08",
    "name": "International Women's Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2025-03-21",
    "name": "Nowruz Bayram",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2025-03-22",
    "name": "Nowruz Bayram",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2025-03-30",
    "name": "Oraza Bayram",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2025-04-07",
    "name": "World Health Day",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2025-04-27",
    "name": "Turkmen Horse Festival",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2025-05-09",
    "name": "Victory Day",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2025-05-18",
    "name": "Constitution Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2025-05-19",
    "name": "Day off for Constitution Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2025-05-25",
    "name": "Ashgabat City Day",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2025-05-25",
    "name": "Carpet Day",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2025-06-01",
    "name": "International Children's Day",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2025-06-03",
    "name": "World Bicycle Day",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2025-06-05",
    "name": "World Envrionment Day",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2025-06-06",
    "name": "Kurban Bayramy",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2025-06-07",
    "name": "Kurban Bayramy Holiday",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2025-06-08",
    "name": "Kurban Bayramy Holiday",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2025-06-09",
    "name": "Kurban Bayramy Holiday",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2025-06-12",
    "name": "Science Day",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2025-06-27",
    "name": "Day of Turkmen Workers of Culture and Art",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2025-09-01",
    "name": "Day of Students and Knowledge",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2025-09-27",
    "name": "Independence Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2025-10-01",
    "name": "International Day of Older Persons",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2025-10-06",
    "name": "Memorial Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2025-10-10",
    "name": "Day of Healthcare and Medical Industry Workers",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2025-10-26",
    "name": "Turkmen Alabai Day",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2025-11-03",
    "name": "Day of Workers of the Construction and Industrial Complex",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2025-11-09",
    "name": "Harvest Festival",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2025-12-11",
    "name": "Day of Neutrality",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2025-12-12",
    "name": "Day of Neutrality",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2025-12-13",
    "name": "Day of Neutrality",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2025-12-14",
    "name": "Day of Oil and Gas Industry and Geology Workers",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2025-12-21",
    "name": "Niyazov Day",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2026-01-01",
    "name": "New Year's Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2026-01-27",
    "name": "Day of Fatherland Defenders",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2026-02-18",
    "name": "Day of Diplomatic Staff of Turkmenistan",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2026-02-18",
    "name": "Ramadan Start",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2026-03-08",
    "name": "International Women's Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2026-03-09",
    "name": "International Women's Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2026-03-20",
    "name": "Oraza Bayram",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2026-03-21",
    "name": "Nowruz Bayram",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2026-03-22",
    "name": "Nowruz Bayram",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2026-03-23",
    "name": "Nowruz Bayram",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2026-04-07",
    "name": "World Health Day",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2026-04-26",
    "name": "Turkmen Horse Festival",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2026-05-09",
    "name": "Victory Day",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2026-05-18",
    "name": "Constitution Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2026-05-24",
    "name": "Carpet Day",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2026-05-25",
    "name": "Ashgabat City Day",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2026-05-27",
    "name": "Kurban Bayramy",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2026-05-28",
    "name": "Kurban Bayramy Holiday",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2026-05-29",
    "name": "Kurban Bayramy Holiday",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2026-06-01",
    "name": "International Children's Day",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2026-06-03",
    "name": "World Bicycle Day",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2026-06-05",
    "name": "World Envrionment Day",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2026-06-12",
    "name": "Science Day",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2026-06-27",
    "name": "Day of Turkmen Workers of Culture and Art",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2026-09-01",
    "name": "Day of Students and Knowledge",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2026-09-27",
    "name": "Independence Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2026-10-01",
    "name": "International Day of Older Persons",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2026-10-06",
    "name": "Memorial Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2026-10-10",
    "name": "Day of Healthcare and Medical Industry Workers",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2026-11-01",
    "name": "Turkmen Alabai Day",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2026-11-03",
    "name": "Day of Workers of the Construction and Industrial Complex",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2026-11-08",
    "name": "Harvest Festival",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2026-12-12",
    "name": "Day of Neutrality",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2026-12-14",
    "name": "Day of Oil and Gas Industry and Geology Workers",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2026-12-21",
    "name": "Niyazov Day",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2027-01-01",
    "name": "New Year's Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2027-01-27",
    "name": "Day of Fatherland Defenders",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2027-02-08",
    "name": "Ramadan Start (tentative)",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2027-02-18",
    "name": "Day of Diplomatic Staff of Turkmenistan",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2027-03-08",
    "name": "International Women's Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2027-03-10",
    "name": "Oraza Bayram (tentative)",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2027-03-21",
    "name": "Nowruz Bayram",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2027-03-22",
    "name": "Nowruz Bayram",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2027-04-07",
    "name": "World Health Day",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2027-04-25",
    "name": "Turkmen Horse Festival",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2027-05-09",
    "name": "Victory Day",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2027-05-16",
    "name": "Kurban Bayramy Holiday (tentative)",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2027-05-17",
    "name": "Kurban Bayramy (tentative)",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2027-05-18",
    "name": "Constitution Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2027-05-18",
    "name": "Kurban Bayramy Holiday (tentative)",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2027-05-23",
    "name": "Carpet Day",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2027-05-25",
    "name": "Ashgabat City Day",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2027-06-01",
    "name": "International Children's Day",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2027-06-03",
    "name": "World Bicycle Day",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2027-06-05",
    "name": "World Envrionment Day",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2027-06-12",
    "name": "Science Day",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2027-06-27",
    "name": "Day of Turkmen Workers of Culture and Art",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2027-09-01",
    "name": "Day of Students and Knowledge",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2027-09-27",
    "name": "Independence Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2027-10-01",
    "name": "International Day of Older Persons",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2027-10-06",
    "name": "Memorial Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2027-10-10",
    "name": "Day of Healthcare and Medical Industry Workers",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2027-10-31",
    "name": "Turkmen Alabai Day",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2027-11-03",
    "name": "Day of Workers of the Construction and Industrial Complex",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2027-11-14",
    "name": "Harvest Festival",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2027-12-12",
    "name": "Day of Neutrality",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2027-12-14",
    "name": "Day of Oil and Gas Industry and Geology Workers",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2027-12-21",
    "name": "Niyazov Day",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2028-01-01",
    "name": "New Year's Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2028-01-27",
    "name": "Day of Fatherland Defenders",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2028-01-28",
    "name": "Ramadan Start (tentative)",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2028-02-18",
    "name": "Day of Diplomatic Staff of Turkmenistan",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2028-02-27",
    "name": "Oraza Bayram (tentative)",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2028-03-08",
    "name": "International Women's Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2028-03-21",
    "name": "Nowruz Bayram",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2028-03-22",
    "name": "Nowruz Bayram",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2028-04-07",
    "name": "World Health Day",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2028-04-30",
    "name": "Turkmen Horse Festival",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2028-05-04",
    "name": "Kurban Bayramy Holiday (tentative)",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2028-05-05",
    "name": "Kurban Bayramy (tentative)",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2028-05-06",
    "name": "Kurban Bayramy Holiday (tentative)",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2028-05-09",
    "name": "Victory Day",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2028-05-18",
    "name": "Constitution Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2028-05-25",
    "name": "Ashgabat City Day",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2028-05-28",
    "name": "Carpet Day",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2028-06-01",
    "name": "International Children's Day",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2028-06-03",
    "name": "World Bicycle Day",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2028-06-05",
    "name": "World Envrionment Day",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2028-06-12",
    "name": "Science Day",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2028-06-27",
    "name": "Day of Turkmen Workers of Culture and Art",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2028-09-01",
    "name": "Day of Students and Knowledge",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2028-09-27",
    "name": "Independence Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2028-10-01",
    "name": "International Day of Older Persons",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2028-10-06",
    "name": "Memorial Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2028-10-10",
    "name": "Day of Healthcare and Medical Industry Workers",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2028-10-29",
    "name": "Turkmen Alabai Day",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2028-11-03",
    "name": "Day of Workers of the Construction and Industrial Complex",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2028-11-12",
    "name": "Harvest Festival",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2028-12-12",
    "name": "Day of Neutrality",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2028-12-14",
    "name": "Day of Oil and Gas Industry and Geology Workers",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2028-12-21",
    "name": "Niyazov Day",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2029-01-01",
    "name": "New Year's Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2029-01-16",
    "name": "Ramadan Start (tentative)",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2029-01-27",
    "name": "Day of Fatherland Defenders",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2029-02-15",
    "name": "Oraza Bayram (tentative)",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2029-02-18",
    "name": "Day of Diplomatic Staff of Turkmenistan",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2029-03-08",
    "name": "International Women's Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2029-03-21",
    "name": "Nowruz Bayram",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2029-03-22",
    "name": "Nowruz Bayram",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2029-04-07",
    "name": "World Health Day",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2029-04-23",
    "name": "Kurban Bayramy Holiday (tentative)",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2029-04-24",
    "name": "Kurban Bayramy (tentative)",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2029-04-25",
    "name": "Kurban Bayramy Holiday (tentative)",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2029-04-29",
    "name": "Turkmen Horse Festival",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2029-05-09",
    "name": "Victory Day",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2029-05-18",
    "name": "Constitution Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2029-05-25",
    "name": "Ashgabat City Day",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2029-05-27",
    "name": "Carpet Day",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2029-06-01",
    "name": "International Children's Day",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2029-06-03",
    "name": "World Bicycle Day",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2029-06-05",
    "name": "World Envrionment Day",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2029-06-12",
    "name": "Science Day",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2029-06-27",
    "name": "Day of Turkmen Workers of Culture and Art",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2029-09-01",
    "name": "Day of Students and Knowledge",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2029-09-27",
    "name": "Independence Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2029-10-01",
    "name": "International Day of Older Persons",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2029-10-06",
    "name": "Memorial Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2029-10-10",
    "name": "Day of Healthcare and Medical Industry Workers",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2029-10-28",
    "name": "Turkmen Alabai Day",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2029-11-03",
    "name": "Day of Workers of the Construction and Industrial Complex",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2029-11-11",
    "name": "Harvest Festival",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2029-12-12",
    "name": "Day of Neutrality",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2029-12-14",
    "name": "Day of Oil and Gas Industry and Geology Workers",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2029-12-21",
    "name": "Niyazov Day",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2030-01-01",
    "name": "New Year's Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2030-01-06",
    "name": "Ramadan Start (tentative)",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2030-01-27",
    "name": "Day of Fatherland Defenders",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2030-02-05",
    "name": "Oraza Bayram (tentative)",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2030-02-18",
    "name": "Day of Diplomatic Staff of Turkmenistan",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2030-03-08",
    "name": "International Women's Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2030-03-21",
    "name": "Nowruz Bayram",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2030-03-22",
    "name": "Nowruz Bayram",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2030-04-07",
    "name": "World Health Day",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2030-04-13",
    "name": "Kurban Bayramy Holiday (tentative)",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2030-04-14",
    "name": "Kurban Bayramy (tentative)",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2030-04-15",
    "name": "Kurban Bayramy Holiday (tentative)",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2030-04-28",
    "name": "Turkmen Horse Festival",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2030-05-09",
    "name": "Victory Day",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2030-05-18",
    "name": "Constitution Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2030-05-25",
    "name": "Ashgabat City Day",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2030-05-26",
    "name": "Carpet Day",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2030-06-01",
    "name": "International Children's Day",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2030-06-03",
    "name": "World Bicycle Day",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2030-06-05",
    "name": "World Envrionment Day",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2030-06-12",
    "name": "Science Day",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2030-06-27",
    "name": "Day of Turkmen Workers of Culture and Art",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2030-09-01",
    "name": "Day of Students and Knowledge",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2030-09-27",
    "name": "Independence Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2030-10-01",
    "name": "International Day of Older Persons",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2030-10-06",
    "name": "Memorial Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2030-10-10",
    "name": "Day of Healthcare and Medical Industry Workers",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2030-10-27",
    "name": "Turkmen Alabai Day",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2030-11-03",
    "name": "Day of Workers of the Construction and Industrial Complex",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2030-11-10",
    "name": "Harvest Festival",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2030-12-12",
    "name": "Day of Neutrality",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2030-12-14",
    "name": "Day of Oil and Gas Industry and Geology Workers",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2030-12-21",
    "name": "Niyazov Day",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2030-12-26",
    "name": "Ramadan Start (tentative)",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2031-01-01",
    "name": "New Year's Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2031-01-25",
    "name": "Oraza Bayram (tentative)",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2031-01-27",
    "name": "Day of Fatherland Defenders",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2031-02-18",
    "name": "Day of Diplomatic Staff of Turkmenistan",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2031-03-08",
    "name": "International Women's Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2031-03-21",
    "name": "Nowruz Bayram",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2031-03-22",
    "name": "Nowruz Bayram",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2031-04-02",
    "name": "Kurban Bayramy Holiday (tentative)",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2031-04-03",
    "name": "Kurban Bayramy (tentative)",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2031-04-04",
    "name": "Kurban Bayramy Holiday (tentative)",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2031-04-07",
    "name": "World Health Day",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2031-04-27",
    "name": "Turkmen Horse Festival",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2031-05-09",
    "name": "Victory Day",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2031-05-18",
    "name": "Constitution Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2031-05-25",
    "name": "Ashgabat City Day",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2031-05-25",
    "name": "Carpet Day",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2031-06-01",
    "name": "International Children's Day",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2031-06-03",
    "name": "World Bicycle Day",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2031-06-05",
    "name": "World Envrionment Day",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2031-06-12",
    "name": "Science Day",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2031-06-27",
    "name": "Day of Turkmen Workers of Culture and Art",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2031-09-01",
    "name": "Day of Students and Knowledge",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2031-09-27",
    "name": "Independence Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2031-10-01",
    "name": "International Day of Older Persons",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2031-10-06",
    "name": "Memorial Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2031-10-10",
    "name": "Day of Healthcare and Medical Industry Workers",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2031-10-26",
    "name": "Turkmen Alabai Day",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2031-11-03",
    "name": "Day of Workers of the Construction and Industrial Complex",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2031-11-09",
    "name": "Harvest Festival",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2031-12-12",
    "name": "Day of Neutrality",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2031-12-14",
    "name": "Day of Oil and Gas Industry and Geology Workers",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2031-12-15",
    "name": "Ramadan Start (tentative)",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2031-12-21",
    "name": "Niyazov Day",
-   "type": "Observance"
+   "type": "observance"
   }
  ]
 }

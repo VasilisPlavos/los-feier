@@ -5,827 +5,827 @@
  "from": 2021,
  "to": 2031,
  "count": 164,
- "fetchedAt": "2026-09-23T12:14:40.712Z",
+ "fetchedAt": "2026-09-23T12:37:49.945Z",
  "events": [
   {
    "date": "2021-01-01",
    "name": "New Year",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2021-03-29",
    "name": "Commemoration of Boganda",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2021-03-30",
    "name": "Investiture Ceremony Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2021-04-05",
    "name": "Easter Monday",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2021-05-01",
    "name": "Labour Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2021-05-13",
    "name": "Ascension Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2021-05-13",
    "name": "Eid al-Fitr",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2021-05-24",
    "name": "Whit Monday",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2021-06-30",
    "name": "National Prayer Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2021-07-20",
    "name": "Eid al-Adha",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2021-08-13",
    "name": "Independence Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2021-08-15",
    "name": "Assumption of Mary",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2021-11-01",
    "name": "All Saints' Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2021-12-01",
    "name": "Republic Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2021-12-25",
    "name": "Christmas Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2022-01-01",
    "name": "New Year",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2022-03-29",
    "name": "Commemoration of Boganda",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2022-04-18",
    "name": "Easter Monday",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2022-05-01",
    "name": "Labour Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2022-05-02",
    "name": "Eid al-Fitr",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2022-05-26",
    "name": "Ascension Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2022-06-06",
    "name": "Whit Monday",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2022-06-30",
    "name": "National Prayer Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2022-07-09",
    "name": "Eid al-Adha",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2022-08-13",
    "name": "Independence Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2022-08-15",
    "name": "Assumption of Mary",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2022-11-01",
    "name": "All Saints' Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2022-12-01",
    "name": "Republic Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2022-12-25",
    "name": "Christmas Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2023-01-01",
    "name": "New Year",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2023-03-29",
    "name": "Commemoration of Boganda",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2023-04-10",
    "name": "Easter Monday",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2023-04-21",
    "name": "Eid al-Fitr",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2023-05-01",
    "name": "Labour Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2023-05-18",
    "name": "Ascension Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2023-05-29",
    "name": "Whit Monday",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2023-06-28",
    "name": "Eid al-Adha",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2023-06-30",
    "name": "National Prayer Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2023-08-13",
    "name": "Independence Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2023-08-15",
    "name": "Assumption of Mary",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2023-11-01",
    "name": "All Saints' Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2023-12-01",
    "name": "Republic Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2023-12-25",
    "name": "Christmas Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2024-01-01",
    "name": "New Year",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2024-03-11",
    "name": "Ramadan Start",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2024-03-29",
    "name": "Commemoration of Boganda",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2024-04-01",
    "name": "Easter Monday",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2024-04-10",
    "name": "Eid al-Fitr",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2024-05-01",
    "name": "Labour Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2024-05-09",
    "name": "Ascension Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2024-05-20",
    "name": "Whit Monday",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2024-06-17",
    "name": "Eid al-Adha",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2024-06-30",
    "name": "National Prayer Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2024-08-13",
    "name": "Independence Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2024-08-15",
    "name": "Assumption of Mary",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2024-11-01",
    "name": "All Saints' Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2024-12-01",
    "name": "Republic Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2024-12-25",
    "name": "Christmas Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2025-01-01",
    "name": "New Year",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2025-03-01",
    "name": "Ramadan Start",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2025-03-29",
    "name": "Commemoration of Boganda",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2025-03-30",
    "name": "Eid al-Fitr",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2025-04-21",
    "name": "Easter Monday",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2025-05-01",
    "name": "Labour Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2025-05-29",
    "name": "Ascension Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2025-06-06",
    "name": "Eid al-Adha",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2025-06-09",
    "name": "Whit Monday",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2025-06-30",
    "name": "National Prayer Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2025-08-13",
    "name": "Independence Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2025-08-15",
    "name": "Assumption of Mary",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2025-11-01",
    "name": "All Saints' Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2025-12-01",
    "name": "Republic Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2025-12-25",
    "name": "Christmas Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2026-01-01",
    "name": "New Year",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2026-02-18",
    "name": "Ramadan Start",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2026-03-20",
    "name": "Eid al-Fitr",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2026-03-29",
    "name": "Commemoration of Boganda",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2026-04-06",
    "name": "Easter Monday",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2026-05-01",
    "name": "Labour Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2026-05-14",
    "name": "Ascension Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2026-05-25",
    "name": "Whit Monday",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2026-05-27",
    "name": "Eid al-Adha",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2026-06-30",
    "name": "National Prayer Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2026-08-13",
    "name": "Independence Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2026-08-15",
    "name": "Assumption of Mary",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2026-11-01",
    "name": "All Saints' Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2026-12-01",
    "name": "Republic Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2026-12-25",
    "name": "Christmas Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2027-01-01",
    "name": "New Year",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2027-02-08",
    "name": "Ramadan Start (tentative)",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2027-03-10",
    "name": "Eid al-Fitr (tentative)",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2027-03-29",
    "name": "Commemoration of Boganda",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2027-03-29",
    "name": "Easter Monday",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2027-05-01",
    "name": "Labour Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2027-05-06",
    "name": "Ascension Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2027-05-17",
    "name": "Eid al-Adha (tentative)",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2027-05-17",
    "name": "Whit Monday",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2027-06-30",
    "name": "National Prayer Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2027-08-13",
    "name": "Independence Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2027-08-15",
    "name": "Assumption of Mary",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2027-11-01",
    "name": "All Saints' Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2027-12-01",
    "name": "Republic Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2027-12-25",
    "name": "Christmas Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2028-01-01",
    "name": "New Year",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2028-01-28",
    "name": "Ramadan Start (tentative)",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2028-02-27",
    "name": "Eid al-Fitr (tentative)",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2028-03-29",
    "name": "Commemoration of Boganda",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2028-04-17",
    "name": "Easter Monday",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2028-05-01",
    "name": "Labour Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2028-05-05",
    "name": "Eid al-Adha (tentative)",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2028-05-25",
    "name": "Ascension Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2028-06-05",
    "name": "Whit Monday",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2028-06-30",
    "name": "National Prayer Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2028-08-13",
    "name": "Independence Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2028-08-15",
    "name": "Assumption of Mary",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2028-11-01",
    "name": "All Saints' Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2028-12-01",
    "name": "Republic Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2028-12-25",
    "name": "Christmas Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2029-01-01",
    "name": "New Year",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2029-01-16",
    "name": "Ramadan Start (tentative)",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2029-02-15",
    "name": "Eid al-Fitr (tentative)",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2029-03-29",
    "name": "Commemoration of Boganda",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2029-04-02",
    "name": "Easter Monday",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2029-04-24",
    "name": "Eid al-Adha (tentative)",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2029-05-01",
    "name": "Labour Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2029-05-10",
    "name": "Ascension Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2029-05-21",
    "name": "Whit Monday",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2029-06-30",
    "name": "National Prayer Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2029-08-13",
    "name": "Independence Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2029-08-15",
    "name": "Assumption of Mary",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2029-11-01",
    "name": "All Saints' Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2029-12-01",
    "name": "Republic Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2029-12-25",
    "name": "Christmas Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2030-01-01",
    "name": "New Year",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2030-01-06",
    "name": "Ramadan Start (tentative)",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2030-02-05",
    "name": "Eid al-Fitr (tentative)",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2030-03-29",
    "name": "Commemoration of Boganda",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2030-04-14",
    "name": "Eid al-Adha (tentative)",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2030-04-22",
    "name": "Easter Monday",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2030-05-01",
    "name": "Labour Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2030-05-30",
    "name": "Ascension Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2030-06-10",
    "name": "Whit Monday",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2030-06-30",
    "name": "National Prayer Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2030-08-13",
    "name": "Independence Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2030-08-15",
    "name": "Assumption of Mary",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2030-11-01",
    "name": "All Saints' Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2030-12-01",
    "name": "Republic Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2030-12-25",
    "name": "Christmas Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2030-12-26",
    "name": "Ramadan Start (tentative)",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2031-01-01",
    "name": "New Year",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2031-01-25",
    "name": "Eid al-Fitr (tentative)",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2031-03-29",
    "name": "Commemoration of Boganda",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2031-04-03",
    "name": "Eid al-Adha (tentative)",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2031-04-14",
    "name": "Easter Monday",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2031-05-01",
    "name": "Labour Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2031-05-22",
    "name": "Ascension Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2031-06-02",
    "name": "Whit Monday",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2031-06-30",
    "name": "National Prayer Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2031-08-13",
    "name": "Independence Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2031-08-15",
    "name": "Assumption of Mary",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2031-11-01",
    "name": "All Saints' Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2031-12-01",
    "name": "Republic Day",
-   "type": "Public holiday"
+   "type": "public"
   },
   {
    "date": "2031-12-15",
    "name": "Ramadan Start (tentative)",
-   "type": "Observance"
+   "type": "observance"
   },
   {
    "date": "2031-12-25",
    "name": "Christmas Day",
-   "type": "Public holiday"
+   "type": "public"
   }
  ]
 }

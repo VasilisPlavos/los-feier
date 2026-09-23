@@ -63,15 +63,18 @@ interface CalendarFile {
 interface GoogleHoliday {
   date: string;              // "YYYY-MM-DD"
   name: string;              // SUMMARY
-  type: string;              // "Public holiday" | "Observance" | …
-  regions?: string[];        // π.χ. ["Zurich", "Bern"]· απουσία = εθνική
+  type: "public" | "observance"; // κανονικοποιημένο (βλ. 3.3)
+  regions?: string[];        // π.χ. ["Zurich", "Bern"] (πάντα αγγλικά ονόματα)· απουσία = εθνική
   days?: number;             // μόνο αν > 1
+  tentative?: true;          // «Date is tentative and may change.»
 }
 ```
 
 ### 3.3 Γνωστές ιδιαιτερότητες
 
 - Οι ελβετικές αργίες έχουν `regions` ανά καντόνι· η Ζυρίχη προκύπτει με φίλτρο.
+- Το `type` προκύπτει από την 1η γραμμή του DESCRIPTION των αγγλικών ημερολογίων: «Public holiday…» → `public`, οτιδήποτε άλλο (Observance, κενό, tentative) → `observance`.
+- Στα τοπικά ημερολόγια (`el.greek`, `de.ch`, `fr.ch`, `it.ch`) η Google μεταφράζει το DESCRIPTION (π.χ. «Gedenktag in Zürich»). Το script παίρνει `type`/`regions`/`tentative` από το αγγλικό δίδυμο (`en.greek`, `en.ch`), ζευγαρώνοντας ανά ημερομηνία και πλήθος περιοχών (κόμματα). Τα `name` μένουν στη γλώσσα του ημερολογίου.
 - Sechseläuten και Knabenschiessen είναι `Observance`. Το Knabenschiessen εμφανίζεται Σάββατο–Κυριακή–Δευτέρα· με ½ ανά όνομα μετράει ουσιαστικά μόνο η Δευτέρα (το Σαββατοκύριακο είναι ήδη ρεπό).
 - Εκτός 2021–2031 δεν υπάρχουν δεδομένα.
 - Τα `.ics` έχουν `DTSTAMP` που αλλάζει σε κάθε λήψη (θόρυβος στο git diff — αποδεκτό).
@@ -148,7 +151,7 @@ Default: `weeklyPlan = [0,0,0,0,0,1,1]`, `includeObservances = false`, `language
 
 Για κάθε `GoogleHoliday` του έτους:
 1. **Ορατή** αν `regions` απουσιάζει ή τέμνεται με `calendar.regions`. Οι μη ορατές αγνοούνται εντελώς.
-2. **Προεπιλογή:** `enabled = type === "Public holiday" || includeObservances`, `fraction = 1`.
+2. **Προεπιλογή:** `enabled = type === "public" || includeObservances`, `fraction = 1`.
 3. Εφαρμογή `holidayRules[name]`, μετά `yearOverrides[year][name]` (το τελευταίο υπερισχύει, ανά πεδίο).
 
 Προστίθενται οι `customHolidays` που πέφτουν στο έτος (οι `yearly` για ανύπαρκτη ημερομηνία, π.χ. 29/2, παραλείπονται σε μη δίσεκτα έτη). Οι custom υπόκεινται επίσης σε `yearOverrides` με κλειδί το όνομά τους.
