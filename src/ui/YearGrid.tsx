@@ -17,12 +17,13 @@ const MOVES: Record<string, number> = { ArrowLeft: -1, ArrowRight: 1, ArrowUp: -
 export function YearGrid({ year, resolve, today, stretchDays, highlightDays, onToggle }: Props) {
   const scroller = useRef<HTMLDivElement>(null);
 
+  // Bring the current month's column into view sideways only: scrollIntoView would also scroll the
+  // page down and hide the hero. The scroller is position: relative, so offsetLeft is measured from it.
   useEffect(() => {
     if (Number(today.slice(0, 4)) !== year) return;
-    const current = scroller.current?.querySelector<HTMLElement>(`[data-month="${Number(today.slice(5, 7))}"]`);
-    if (current && typeof current.scrollIntoView === "function") {
-      current.scrollIntoView({ block: "nearest", inline: "start" });
-    }
+    const el = scroller.current;
+    const current = el?.querySelector<HTMLElement>(`[data-month="${Number(today.slice(5, 7))}"]`);
+    if (el && current) el.scrollLeft = current.offsetLeft;
   }, [year, today]);
 
   const onKeyDown = (e: KeyboardEvent<HTMLDivElement>) => {
