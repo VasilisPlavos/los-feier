@@ -6,6 +6,19 @@ A modern, open-source successor of the old argies.gr calendar.
 
 **Live:** https://vasilisplavos.github.io/los-feier/
 
+## Why “Los Feier”?
+
+The name reads two ways, and both fit:
+
+1. **Spanish: *Los Feier*.** *Los* is the Spanish article “the”, and *Feier* is the German word for a celebration or a day off. Together they read like “The Holidays”, a Spanish–German hybrid that sounds like *Los Festivos*, light and friendly.
+2. **German / Swiss: *Los, feier!*** *Los!* is the German for “Go! / Off you go!”, and *feier* is the imperative of *feiern*: to celebrate, to rest, to take the day off. So *Los, feier!* literally means “Go on, celebrate!” or “Start your holidays!”.
+
+Why it works as a brand:
+
+- **Short and punchy.** Two syllables, easy to remember, and it fits nicely on an app icon.
+- **Positive vibe.** It sounds like a nudge to go and rest, not like a bureaucratic calendar.
+- **A nod to Swiss culture.** In Switzerland, *Feier* (as in *Feierabend*, *Feiertag*) is the word for time off, so locals get it right away.
+
 ## Features
 
 - Holiday calendars for ~220 countries plus religious calendars (Google public holiday calendars). Pick several at once, each with its own regions (e.g. Swiss cantons); the first visit asks which ones you want.
