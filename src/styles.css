@@ -56,7 +56,6 @@ button, input, select { font: inherit; color: inherit; }
 .year-nav strong { min-width: 3.5em; text-align: center; font-size: 18px; }
 .icon-button { border: 1px solid var(--border); background: var(--surface); border-radius: 8px; padding: 6px 10px; cursor: pointer; }
 .header .spacer { flex: 1; }
-.calendar-button { border: none; background: none; color: var(--accent); cursor: pointer; padding: 4px; }
 .summary-bar { display: none; }
 .sidebar { grid-area: side; padding: 16px; display: flex; flex-direction: column; gap: 16px; border-right: 1px solid var(--border); }
 .main { grid-area: main; padding: 16px; min-width: 0; display: flex; flex-direction: column; gap: 12px; }

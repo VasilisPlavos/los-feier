@@ -3,7 +3,6 @@
   "header.prevYear": "Προηγούμενο έτος",
   "header.nextYear": "Επόμενο έτος",
   "header.settings": "Ρυθμίσεις",
-  "header.noCalendar": "Επιλέξτε ημερολόγιο αργιών",
   "weekly.title": "Εβδομαδιαίο πλάνο",
   "weekly.work": "Εργάσιμη",
   "weekly.half": "Μισή μέρα ρεπό",
@@ -62,8 +61,6 @@
   "tabs.plan": "Πλάνο",
   "tabs.breaks": "Διαστήματα",
   "tabs.holidays": "Αργίες",
-  "firstRun.using": "Χρησιμοποιείται το «{name}».",
-  "firstRun.change": "Αλλαγή",
   "common.dismiss": "Κλείσιμο",
   "picker.title": "Ημερολόγια αργιών · ισχύουν από το {year} και μετά",
   "picker.firstRunTitle": "Παρακαλώ επιλέξτε ημερολόγια",
@@ -86,5 +83,6 @@
   "calendars.choose": "Επιλογή",
   "calendars.removeProfile": "Κατάργηση ρυθμίσεων {year}",
   "calendars.loadFailed": "δεν φορτώθηκε",
-  "calendars.unknown": "δεν είναι πια διαθέσιμο"
+  "calendars.unknown": "δεν είναι πια διαθέσιμο",
+  "errors.noDataSome": "Δεν υπάρχουν δεδομένα αργιών του {year} για: {names}."
 }

@@ -21,27 +21,6 @@ export function useCalendarIndex(): { status: LoadStatus; index: CalendarIndexEn
   return { ...result, retry: () => setAttempt((n) => n + 1) };
 }
 
-export function useCalendar(id: string | null): { status: LoadStatus; calendar: CalendarFile | null; retry(): void } {
-  const [attempt, setAttempt] = useState(0);
-  const [result, setResult] = useState<{ status: LoadStatus; calendar: CalendarFile | null }>({ status: "idle", calendar: null });
-  useEffect(() => {
-    if (!id) {
-      setResult({ status: "idle", calendar: null });
-      return;
-    }
-    let cancelled = false;
-    setResult({ status: "loading", calendar: null });
-    loadCalendar(id).then(
-      (calendar) => !cancelled && setResult({ status: "ready", calendar }),
-      () => !cancelled && setResult({ status: "error", calendar: null }),
-    );
-    return () => {
-      cancelled = true;
-    };
-  }, [id, attempt]);
-  return { ...result, retry: () => setAttempt((n) => n + 1) };
-}
-
 interface CalendarsResult {
   key: string; // the id set these results belong to
   loaded: Record<string, CalendarFile>;

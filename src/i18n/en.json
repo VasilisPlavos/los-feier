@@ -3,7 +3,6 @@
   "header.prevYear": "Previous year",
   "header.nextYear": "Next year",
   "header.settings": "Settings",
-  "header.noCalendar": "Choose a holiday calendar",
   "weekly.title": "Weekly plan",
   "weekly.work": "Working day",
   "weekly.half": "Half day off",
@@ -62,8 +61,6 @@
   "tabs.plan": "Plan",
   "tabs.breaks": "Breaks",
   "tabs.holidays": "Holidays",
-  "firstRun.using": "Using “{name}”.",
-  "firstRun.change": "Change",
   "common.dismiss": "Dismiss",
   "picker.title": "Holiday calendars · from {year} onwards",
   "picker.firstRunTitle": "Please choose your holiday calendars",
@@ -86,5 +83,6 @@
   "calendars.choose": "Choose",
   "calendars.removeProfile": "Remove the {year} settings",
   "calendars.loadFailed": "could not be loaded",
-  "calendars.unknown": "no longer available"
+  "calendars.unknown": "no longer available",
+  "errors.noDataSome": "There is no {year} holiday data for: {names}."
 }

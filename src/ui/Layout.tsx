@@ -1,10 +1,13 @@
 import { useEffect, useMemo, useState, type ReactNode } from "react";
 import { datesBetween, todayIso } from "../core/dates";
-import { calendarRegions, hasDataForYear, suggestCalendarId } from "../data/calendars";
-import { useCalendar, useCalendarIndex } from "../data/hooks";
+import { calendarIdsFor, profileFor } from "../core/profiles";
+import { hasDataForYear, suggestCalendarId } from "../data/calendars";
+import { useCalendarIndex, useCalendars } from "../data/hooks";
 import { useI18n } from "../i18n/I18nProvider";
 import { downloadText } from "../state/exportImport";
 import { useStore } from "../state/StoreProvider";
+import { CalendarPickerDialog, type CalendarChoice } from "./CalendarPickerDialog";
+import { CalendarsPanel } from "./CalendarsPanel";
 import { HolidayListPanel } from "./HolidayListPanel";
 import { SettingsDialog } from "./SettingsDialog";
 import { SummaryPanel } from "./SummaryPanel";
@@ -25,12 +28,14 @@ export function Layout() {
   const [year, setYear] = useState(() => yearFromHash(window.location.hash) ?? new Date().getFullYear());
   const [tab, setTab] = useState<Tab>("breaks");
   const [settingsOpen, setSettingsOpen] = useState(false);
+  const [pickerOpen, setPickerOpen] = useState(false);
   const [selectedStart, setSelectedStart] = useState<string | null>(null);
-  const [firstRunName, setFirstRunName] = useState<string | null>(null);
 
   const index = useCalendarIndex();
-  const cal = useCalendar(state.calendar.id);
-  const model = useYearModel(state, cal.calendar, year);
+  const profile = profileFor(state.profiles, year);
+  // Neighbouring years too: breaks that cross New Year read the other year's holidays.
+  const cals = useCalendars(calendarIdsFor(state.profiles, [year - 1, year, year + 1]));
+  const model = useYearModel(state, cals.calendars, year);
   const today = todayIso();
 
   useEffect(() => {
@@ -48,18 +53,6 @@ export function Layout() {
     else root.dataset.theme = state.theme;
   }, [state.theme]);
 
-  useEffect(() => {
-    if (state.calendar.id !== null || index.status !== "ready" || !index.index) return;
-    const languages = navigator.languages?.length ? navigator.languages : [navigator.language];
-    const suggested = suggestCalendarId(languages, index.index);
-    if (suggested) {
-      dispatch({ type: "setCalendar", id: suggested });
-      setFirstRunName(index.index.find((c) => c.id === suggested)?.name ?? suggested);
-    } else {
-      setSettingsOpen(true);
-    }
-  }, [state.calendar.id, index.status, index.index, dispatch]);
-
   const stretchDays = useMemo(
     () => new Set(model.stretches.flatMap((s) => datesBetween(s.start, s.end))),
     [model.stretches],
@@ -75,17 +68,24 @@ export function Layout() {
     [selectedStretch],
   );
 
-  const calendarName = index.index?.find((c) => c.id === state.calendar.id)?.name;
-  // Only show regions that still exist in the loaded calendar; once it's not loaded yet, fall
-  // back to the stored regions so the label doesn't flicker empty while data is in flight.
-  const visibleRegions = cal.calendar
-    ? state.calendar.regions.filter((r) => calendarRegions(cal.calendar!).includes(r))
-    : state.calendar.regions;
-  const calendarLabel = calendarName
-    ? [calendarName, ...visibleRegions].join(" · ")
-    : t("header.noCalendar");
-  const loadFailed = index.status === "error" || cal.status === "error";
-  const noData = cal.status === "ready" && cal.calendar !== null && !hasDataForYear(cal.calendar, year);
+  const firstRun = Object.keys(state.profiles).length === 0 && index.status === "ready";
+  const pickerYear = firstRun ? new Date().getFullYear() : year;
+  const pickerInitial = (): CalendarChoice => {
+    if (!firstRun) return { calendars: profile.calendars, includeObservances: profile.includeObservances };
+    const languages = navigator.languages?.length ? navigator.languages : [navigator.language];
+    const suggested = index.index ? suggestCalendarId(languages, index.index) : null;
+    return { calendars: suggested ? [{ id: suggested, regions: [] }] : [], includeObservances: false };
+  };
+
+  const calendarNames = useMemo(
+    () => Object.fromEntries((index.index ?? []).map((c) => [c.id, c.name])),
+    [index.index],
+  );
+
+  const loadFailed = index.status === "error" || cals.failed.length > 0;
+  const yearCalendars = cals.calendars.filter((c) => profile.calendars.some((s) => s.id === c.id));
+  const withoutData = cals.loading ? [] : yearCalendars.filter((c) => !hasDataForYear(c, year));
+  const noData = withoutData.length > 0 && withoutData.length === yearCalendars.length;
 
   const slot = (name: Tab, content: ReactNode) => (
     <div className="panel-slot" data-panel={name} data-active={tab === name}>
@@ -106,9 +106,6 @@ export function Layout() {
             ›
           </button>
         </nav>
-        <button type="button" className="calendar-button" onClick={() => setSettingsOpen(true)}>
-          {calendarLabel}
-        </button>
         <span className="spacer" />
         <button type="button" className="icon-button" aria-label={t("header.settings")} onClick={() => setSettingsOpen(true)}>
           ⚙
@@ -134,17 +131,15 @@ export function Layout() {
         {loadFailed && (
           <div className="banner" data-kind="error" role="alert">
             {t("errors.calendarLoad")}
-            <button type="button" onClick={() => (index.status === "error" ? index.retry() : cal.retry())}>
+            <button type="button" onClick={() => (index.status === "error" ? index.retry() : cals.retry())}>
               {t("errors.retry")}
             </button>
           </div>
         )}
         {noData && <div className="banner">{t("errors.noData", { year: String(year) })}</div>}
-        {firstRunName && (
+        {!noData && withoutData.length > 0 && (
           <div className="banner">
-            {t("firstRun.using", { name: firstRunName })}
-            <button type="button" onClick={() => setSettingsOpen(true)}>{t("firstRun.change")}</button>
-            <button type="button" onClick={() => setFirstRunName(null)}>{t("common.dismiss")}</button>
+            {t("errors.noDataSome", { year: String(year), names: withoutData.map((c) => c.name).join(", ") })}
           </div>
         )}
         <YearGrid
@@ -158,7 +153,10 @@ export function Layout() {
       </main>
 
       <aside className="sidebar">
-        {slot("plan", <WeeklyPlanPanel plan={state.weeklyPlan} onCycle={(weekday) => dispatch({ type: "cycleWeekly", weekday })} />)}
+        {slot(
+          "plan",
+          <WeeklyPlanPanel plan={profile.weeklyPlan} onCycle={(weekday) => dispatch({ type: "cycleWeekly", year, weekday })} />,
+        )}
         {slot(
           "breaks",
           <SummaryPanel
@@ -168,7 +166,27 @@ export function Layout() {
             onSelect={(s) => setSelectedStart(s ? s.start : null)}
           />,
         )}
-        {slot("holidays", <HolidayListPanel year={year} holidays={model.holidays} state={state} dispatch={dispatch} />)}
+        {slot(
+          "holidays",
+          <div className="panel-stack">
+            <CalendarsPanel
+              year={year}
+              profiles={state.profiles}
+              index={index.index}
+              loaded={cals.calendars}
+              failed={cals.failed}
+              onEdit={() => setPickerOpen(true)}
+              onRemoveProfile={(y) => dispatch({ type: "removeProfile", year: y })}
+            />
+            <HolidayListPanel
+              year={year}
+              holidays={model.holidays}
+              profile={profile}
+              calendarNames={calendarNames}
+              dispatch={dispatch}
+            />
+          </div>,
+        )}
       </aside>
 
       <nav className="tabbar" role="tablist">
@@ -179,14 +197,20 @@ export function Layout() {
         ))}
       </nav>
 
-      <SettingsDialog
-        open={settingsOpen}
-        onClose={() => setSettingsOpen(false)}
+      <CalendarPickerDialog
+        open={pickerOpen || firstRun}
+        year={pickerYear}
+        firstRun={firstRun}
         index={index.index}
-        calendar={cal.calendar}
-        state={state}
-        dispatch={dispatch}
+        initial={pickerInitial()}
+        onSave={(choice) => {
+          dispatch({ type: "setCalendars", year: pickerYear, ...choice });
+          setPickerOpen(false);
+        }}
+        onClose={() => setPickerOpen(false)}
       />
+
+      <SettingsDialog open={settingsOpen} onClose={() => setSettingsOpen(false)} state={state} dispatch={dispatch} />
     </div>
   );
 }
