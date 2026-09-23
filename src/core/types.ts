@@ -24,6 +24,21 @@ export interface CustomHoliday {
   rule: CustomRule;
 }
 
+/** One chosen holiday calendar and the regions chosen in it ([] = national holidays only). */
+export interface SelectedCalendar {
+  id: string; // e.g. "en.ch"
+  regions: string[];
+}
+
+/** Everything that applies from one configured year onwards (until the next configured year). */
+export interface YearProfile {
+  calendars: SelectedCalendar[]; // [] = no calendar
+  includeObservances: boolean;
+  holidayRules: Record<string, HolidayRule>; // holiday name -> rule
+  customHolidays: CustomHoliday[];
+  weeklyPlan: WeeklyPlan;
+}
+
 export type Theme = "system" | "light" | "dark";
 
 /** Everything the user chose. Saved as one JSON object. */
