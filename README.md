@@ -4,7 +4,7 @@ Plan your leave around public holidays. See the whole year as 12 months (3 × 4)
 
 A modern, open-source successor of the old argies.gr calendar.
 
-**Live:** https://vasilisplavos.github.io/losfeier/
+**Live:** https://vasilisplavos.github.io/los-feier/
 
 ## Features
 
