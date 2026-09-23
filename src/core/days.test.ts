@@ -1,7 +1,7 @@
 import { describe, expect, test } from "vitest";
 import { computeDay, createDayResolver, nextLeaveValue } from "./days";
 import type { WeeklyPlan } from "./types";
-import { makeState, zurichFixture } from "../test/fixtures";
+import { makeProfile, makeState, zurichFixture } from "../test/fixtures";
 
 const MON_FRI: WeeklyPlan = [0, 0, 0, 0, 0, 1, 1];
 
@@ -67,15 +67,28 @@ describe("createDayResolver", () => {
       holidayRules: { "Knabenschiessen (Zurich)": { enabled: true, fraction: 0.5 } },
       leave: { "2026-09-14": 0.5 },
     });
-    const resolve = createDayResolver(state, zurichFixture);
+    const resolve = createDayResolver(state, [zurichFixture]);
     expect(resolve("2026-09-14")).toMatchObject({ holiday: 0.5, holidayNames: ["Knabenschiessen (Zurich)"], free: true });
     expect(resolve("2026-04-03")).toMatchObject({ holiday: 1, free: true });
     expect(resolve("2027-01-01")).toMatchObject({ holiday: 1, free: true });
     expect(resolve("2026-04-07").free).toBe(false);
   });
 
+  test("each date uses the profile of its own year (holidays and weekly plan)", () => {
+    const state = makeState({
+      profiles: {
+        "2026": makeProfile(),
+        "2027": makeProfile({ calendars: [], weeklyPlan: [0, 0, 0, 0, 1, 1, 1] }),
+      },
+    });
+    const resolve = createDayResolver(state, [zurichFixture]);
+    expect(resolve("2026-12-25")).toMatchObject({ holiday: 1, weekly: 0 }); // Friday, Christmas (2026 profile)
+    expect(resolve("2027-01-01")).toMatchObject({ holiday: 0, weekly: 1 }); // Friday: no calendar, 4-day week
+    expect(resolve("2026-04-03").weekly).toBe(0); // a Friday in 2026 is a working day
+  });
+
   test("returns the same object for repeated calls (cached)", () => {
-    const resolve = createDayResolver(makeState(), zurichFixture);
+    const resolve = createDayResolver(makeState(), [zurichFixture]);
     expect(resolve("2026-04-07")).toBe(resolve("2026-04-07"));
   });
 });

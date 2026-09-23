@@ -24,23 +24,30 @@ export interface CustomHoliday {
   rule: CustomRule;
 }
 
+/** One chosen holiday calendar and the regions chosen in it ([] = national holidays only). */
+export interface SelectedCalendar {
+  id: string; // e.g. "en.ch"
+  regions: string[];
+}
+
+/** Everything that applies from one configured year onwards (until the next configured year). */
+export interface YearProfile {
+  calendars: SelectedCalendar[]; // [] = no calendar
+  includeObservances: boolean;
+  holidayRules: Record<string, HolidayRule>; // holiday name -> rule
+  customHolidays: CustomHoliday[];
+  weeklyPlan: WeeklyPlan;
+}
+
 export type Theme = "system" | "light" | "dark";
 
 /** Everything the user chose. Saved as one JSON object. */
 export interface AppState {
-  version: 1;
+  version: 2;
   language: string | null; // null = follow the system language
-  calendar: {
-    id: string | null; // e.g. "en.ch"; null = not chosen yet
-    regions: string[]; // e.g. ["Zurich"]; [] = national holidays only
-    includeObservances: boolean;
-  };
-  holidayRules: Record<string, HolidayRule>; // holiday name -> rule, all years
-  yearOverrides: Record<string, Record<string, HolidayRule>>; // "2026" -> holiday name -> rule
-  customHolidays: CustomHoliday[];
-  weeklyPlan: WeeklyPlan;
-  leave: Record<string, Fraction>; // "YYYY-MM-DD" -> leave taken
   theme: Theme;
+  leave: Record<string, Fraction>; // "YYYY-MM-DD" -> leave taken
+  profiles: Record<string, YearProfile>; // "2026" -> profile; {} = first run
 }
 
 export type HolidayType = "public" | "observance";
@@ -79,8 +86,8 @@ export interface ResolvedHoliday {
   enabled: boolean;
   fraction: Fraction;
   customId?: string;
+  calendarIds: string[]; // calendars this holiday comes from; [] for custom holidays
   hasRule: boolean; // a holidayRules entry exists for this name
-  hasYearOverride: boolean; // a yearOverrides entry exists for this name in this year
 }
 
 /** Everything the UI and the statistics need to know about one date. */

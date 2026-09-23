@@ -2,21 +2,16 @@ import { fireEvent, screen, waitFor } from "@testing-library/react";
 import userEvent from "@testing-library/user-event";
 import { afterEach, describe, expect, test, vi } from "vitest";
 import { SettingsDialog } from "./SettingsDialog";
-import { makeState, zurichFixture } from "../test/fixtures";
+import { makeState } from "../test/fixtures";
 import { renderWithI18n } from "../test/render";
 import { createDefaultState } from "../state/defaults";
-import type { AppState, CalendarIndexEntry } from "../core/types";
-
-const INDEX: CalendarIndexEntry[] = [
-  { id: "en.ch", name: "Holidays in Switzerland", lang: "en", from: 2021, to: 2031, count: 325 },
-  { id: "el.greek", name: "Διακοπές στην Ελλάδα", lang: "el", from: 2021, to: 2031, count: 245 },
-];
+import type { AppState } from "../core/types";
 
 function setup(state: AppState = makeState()) {
   const dispatch = vi.fn();
   const onClose = vi.fn();
   renderWithI18n(
-    <SettingsDialog open onClose={onClose} index={INDEX} calendar={zurichFixture} state={state} dispatch={dispatch} />,
+    <SettingsDialog open onClose={onClose} state={state} dispatch={dispatch} />,
   );
   return { dispatch, onClose };
 }
@@ -25,33 +20,15 @@ afterEach(() => vi.restoreAllMocks());
 
 describe("SettingsDialog", () => {
   test("renders nothing when closed", () => {
-    renderWithI18n(<SettingsDialog open={false} onClose={() => {}} index={INDEX} calendar={null} state={makeState()} dispatch={() => {}} />);
+    renderWithI18n(<SettingsDialog open={false} onClose={() => {}} state={makeState()} dispatch={() => {}} />);
     expect(screen.queryByRole("dialog")).not.toBeInTheDocument();
   });
 
-  test("search filters calendars and choosing one dispatches setCalendar", async () => {
-    const { dispatch } = setup();
-    await userEvent.type(screen.getByPlaceholderText("Search countries…"), "ελλ");
-    expect(screen.getAllByRole("option", { name: /\(/ })).toHaveLength(1);
-    await userEvent.selectOptions(screen.getByLabelText("Holiday calendar"), "el.greek");
-    expect(dispatch).toHaveBeenCalledWith({ type: "setCalendar", id: "el.greek" });
-  });
-
-  test("changing calendar with existing rules asks for confirmation", async () => {
-    const confirm = vi.spyOn(window, "confirm").mockReturnValue(false);
-    const { dispatch } = setup(makeState({ holidayRules: { X: { enabled: false } } }));
-    await userEvent.selectOptions(screen.getByLabelText("Holiday calendar"), "el.greek");
-    expect(confirm).toHaveBeenCalled();
-    expect(dispatch).not.toHaveBeenCalled();
-  });
-
-  test("regions and observances", async () => {
-    const { dispatch } = setup();
-    expect(screen.getByLabelText("Zurich")).toBeChecked();
-    await userEvent.click(screen.getByLabelText("Bern"));
-    expect(dispatch).toHaveBeenCalledWith({ type: "setRegions", regions: ["Zurich", "Bern"] });
-    await userEvent.click(screen.getByLabelText("Treat observances as holidays"));
-    expect(dispatch).toHaveBeenCalledWith({ type: "setIncludeObservances", value: true });
+  test("has no calendar options any more", () => {
+    setup();
+    expect(screen.queryByText("Holiday calendar")).not.toBeInTheDocument();
+    expect(screen.queryByText("Regions")).not.toBeInTheDocument();
+    expect(screen.queryByText("Treat observances as holidays")).not.toBeInTheDocument();
   });
 
   test("language and theme", async () => {
@@ -78,7 +55,7 @@ describe("SettingsDialog", () => {
 
   test("REVIEW FOCUS: importing a newer version is refused", async () => {
     const { dispatch } = setup();
-    const file = new File([JSON.stringify({ ...createDefaultState(), version: 2 })], "b.json", { type: "application/json" });
+    const file = new File([JSON.stringify({ ...createDefaultState(), version: 3 })], "b.json", { type: "application/json" });
     fireEvent.change(screen.getByLabelText("Import JSON"), { target: { files: [file] } });
     expect(await screen.findByText("The file was made by a newer version of the app.")).toBeInTheDocument();
     expect(dispatch).not.toHaveBeenCalled();
@@ -111,7 +88,7 @@ describe("SettingsDialog", () => {
 
     const onClose = vi.fn();
     renderWithI18n(
-      <SettingsDialog open onClose={onClose} index={INDEX} calendar={zurichFixture} state={makeState()} dispatch={() => {}} />,
+      <SettingsDialog open onClose={onClose} state={makeState()} dispatch={() => {}} />,
     );
 
     await waitFor(() => expect(screen.getByRole("dialog")).toContainElement(document.activeElement as HTMLElement));
@@ -135,23 +112,6 @@ describe("SettingsDialog", () => {
     last.focus();
     fireEvent.keyDown(document, { key: "Tab" });
     expect(document.activeElement).toBe(first);
-  });
-
-  test("F3: stale regions from a previous calendar stay visible until unchecked", async () => {
-    const dispatch = vi.fn();
-    renderWithI18n(
-      <SettingsDialog
-        open
-        onClose={() => {}}
-        index={INDEX}
-        calendar={zurichFixture}
-        state={makeState({ calendar: { id: "en.ch", regions: ["Zurich", "Geneva"], includeObservances: false } })}
-        dispatch={dispatch}
-      />,
-    );
-    expect(screen.getByLabelText("Geneva")).toBeChecked();
-    await userEvent.click(screen.getByLabelText("Geneva"));
-    expect(dispatch).toHaveBeenCalledWith({ type: "setRegions", regions: ["Zurich"] });
   });
 
   test("F5: choosing a file clears the input's value afterwards, so re-choosing the same file fires change again", async () => {

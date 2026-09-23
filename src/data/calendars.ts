@@ -78,3 +78,14 @@ export function suggestCalendarId(languages: readonly string[], index: CalendarI
   }
   return null;
 }
+
+/** Lower case without accents, so "ελλαδα" finds "Ελλάδα" and "zurich" finds "Zürich". */
+export function foldText(text: string): string {
+  return text.normalize("NFD").replace(/\p{M}/gu, "").toLowerCase();
+}
+
+/** True when `text` contains `query`, ignoring case and accents; a blank query matches everything. */
+export function matchesQuery(text: string, query: string): boolean {
+  const q = foldText(query.trim());
+  return q === "" || foldText(text).includes(q);
+}

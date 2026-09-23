@@ -1,21 +1,27 @@
-import { act, screen, waitFor } from "@testing-library/react";
+import { act, fireEvent, screen, waitFor, within } from "@testing-library/react";
 import { render } from "@testing-library/react";
 import userEvent from "@testing-library/user-event";
 import { afterEach, beforeEach, describe, expect, test, vi } from "vitest";
 import App from "./App";
 import { clearCalendarCache } from "./data/calendars";
 import { STORAGE_KEY } from "./state/storage";
-import { makeState, zurichFixture } from "./test/fixtures";
+import { christianFixture, makeCalendar, makeState, zurichFixture } from "./test/fixtures";
+
+const longFixture = makeCalendar("en.long", "Long Calendar", [], 2021, 2031);
 
 const INDEX = [
   { id: "en.ch", name: "Holidays in Switzerland", lang: "en", from: 2025, to: 2027, count: 12 },
   { id: "el.greek", name: "Διακοπές στην Ελλάδα", lang: "el", from: 2021, to: 2031, count: 0 },
+  { id: "en.christian", name: "Christian Holidays", lang: "en", from: 2025, to: 2027, count: 3 },
+  { id: "en.long", name: "Long Calendar", lang: "en", from: 2021, to: 2031, count: 0 },
 ];
 
 function stubFetch() {
   const fetchMock = vi.fn(async (url: string) => {
     if (url.endsWith("index.json")) return { ok: true, status: 200, json: async () => INDEX };
     if (url.endsWith("en.ch.json")) return { ok: true, status: 200, json: async () => zurichFixture };
+    if (url.endsWith("en.christian.json")) return { ok: true, status: 200, json: async () => christianFixture };
+    if (url.endsWith("en.long.json")) return { ok: true, status: 200, json: async () => longFixture };
     return { ok: false, status: 404, json: async () => ({}) };
   });
   vi.stubGlobal("fetch", fetchMock);
@@ -39,20 +45,94 @@ afterEach(() => {
 const seed = (overrides = {}) => localStorage.setItem(STORAGE_KEY, JSON.stringify(makeState(overrides)));
 
 describe("App", () => {
-  test("first run picks a calendar from the browser language", async () => {
+  test("first run asks for calendars with the browser-language suggestion checked", async () => {
     stubFetch();
     setLanguages(["de-CH"]);
     render(<App />);
-    expect(await screen.findByText("Using “Holidays in Switzerland”.")).toBeInTheDocument();
-    // Auto-save runs in an effect after the render that shows the banner.
-    await waitFor(() => expect(JSON.parse(localStorage.getItem(STORAGE_KEY)!).calendar.id).toBe("en.ch"));
+    const dialog = await screen.findByRole("dialog", { name: "Please choose your holiday calendars" });
+    expect(within(dialog).getByLabelText("Holidays in Switzerland")).toBeChecked();
+    await userEvent.click(within(dialog).getByRole("button", { name: "Continue" }));
+    expect(screen.queryByRole("dialog")).not.toBeInTheDocument();
+    const thisYear = String(new Date().getFullYear());
+    await waitFor(() =>
+      expect(JSON.parse(localStorage.getItem(STORAGE_KEY)!).profiles[thisYear].calendars).toEqual([{ id: "en.ch", regions: [] }]),
+    );
   });
 
-  test("first run without a suggestion opens the settings", async () => {
+  test("REVIEW FOCUS: first run without a suggestion, closed with Escape, saves an empty profile and does not reopen", async () => {
     stubFetch();
     setLanguages(["xx"]);
     render(<App />);
-    expect(await screen.findByRole("dialog")).toBeInTheDocument();
+    const dialog = await screen.findByRole("dialog", { name: "Please choose your holiday calendars" });
+    expect(within(dialog).getAllByRole("checkbox").filter((cb) => (cb as HTMLInputElement).checked)).toEqual([]);
+    fireEvent.keyDown(document, { key: "Escape" });
+    expect(screen.queryByRole("dialog")).not.toBeInTheDocument();
+    const thisYear = String(new Date().getFullYear());
+    await waitFor(() => expect(JSON.parse(localStorage.getItem(STORAGE_KEY)!).profiles[thisYear].calendars).toEqual([]));
+    await userEvent.click(document.querySelector<HTMLButtonElement>('[data-date="2026-04-07"]')!);
+    expect(screen.getByRole("heading", { name: "Leave days: 1" })).toBeInTheDocument();
+  });
+
+  test("a change in another year creates that year's settings, which can be removed", async () => {
+    stubFetch();
+    seed();
+    render(<App />);
+    await screen.findAllByText(/4-day breaks/);
+    await userEvent.click(screen.getByRole("button", { name: "Next year" }));
+    await userEvent.click(await screen.findByRole("checkbox", { name: "Counts as holiday: New Year's Day" }));
+    const stored = () => Object.keys(JSON.parse(localStorage.getItem(STORAGE_KEY)!).profiles).sort();
+    await waitFor(() => expect(stored()).toEqual(["2020", "2027"]));
+    expect(screen.getByRole("button", { name: /Calendars \(1\) · from 2027/ })).toBeInTheDocument();
+
+    await userEvent.click(screen.getByRole("button", { name: "Previous year" }));
+    expect(screen.getByRole("button", { name: /from 2020/ })).toBeInTheDocument();
+    expect(screen.getByRole("checkbox", { name: "Counts as holiday: New Year's Day" })).toBeChecked();
+
+    await userEvent.click(screen.getByRole("button", { name: "Next year" }));
+    await userEvent.click(screen.getByRole("button", { name: /Calendars \(1\)/ }));
+    await userEvent.click(screen.getByRole("button", { name: "Remove the 2027 settings" }));
+    await waitFor(() => expect(stored()).toEqual(["2020"]));
+    expect(screen.getByRole("checkbox", { name: "Counts as holiday: New Year's Day" })).toBeChecked();
+  });
+
+  test("Change opens the picker for the year on screen and saves a second calendar", async () => {
+    stubFetch();
+    seed();
+    render(<App />);
+    await screen.findAllByText(/4-day breaks/);
+    await userEvent.click(screen.getByRole("button", { name: "Change" }));
+    const dialog = screen.getByRole("dialog", { name: "Holiday calendars · from 2026 onwards" });
+    await userEvent.click(within(dialog).getByLabelText("Christian Holidays"));
+    await userEvent.click(within(dialog).getByRole("button", { name: "Save" }));
+    await waitFor(() =>
+      expect(JSON.parse(localStorage.getItem(STORAGE_KEY)!).profiles["2026"].calendars).toEqual([
+        { id: "en.ch", regions: ["Zurich"] },
+        { id: "en.christian", regions: [] },
+      ]),
+    );
+    expect(await screen.findByText("Christmas Eve")).toBeInTheDocument();
+  });
+
+  test("REVIEW: a calendar that is no longer in the index gives no un-retryable load-error banner", async () => {
+    const fetchMock = stubFetch();
+    seed({ calendars: [{ id: "en.ch", regions: ["Zurich"] }, { id: "en.gone", regions: [] }] });
+    render(<App />);
+    await screen.findAllByText(/4-day breaks/);
+    await waitFor(() => expect(screen.queryByText("The holiday calendar could not be loaded.")).not.toBeInTheDocument());
+    const before = fetchMock.mock.calls.length;
+    await userEvent.click(screen.getByRole("button", { name: /Calendars \(2\)/ }));
+    expect(screen.getByText("en.gone").closest("li")).toHaveTextContent("no longer available");
+    expect(fetchMock.mock.calls.length).toBe(before);
+  });
+
+  test("a year where only some calendars have data names the missing ones", async () => {
+    stubFetch();
+    seed({ calendars: [{ id: "en.ch", regions: ["Zurich"] }, { id: "en.long", regions: [] }] });
+    window.location.hash = "#2028";
+    render(<App />);
+    // zurichFixture ends in 2027, the "Long Calendar" fixture runs to 2031:
+    expect(await screen.findByText("There is no 2028 holiday data for: Holidays in Switzerland.")).toBeInTheDocument();
+    expect(screen.queryByText(/There is no holiday data for 2028/)).not.toBeInTheDocument();
   });
 
   test("clicking a day updates the leave total and is saved", async () => {
@@ -86,7 +166,7 @@ describe("App", () => {
 
   test("calendar load failure shows retry", async () => {
     const fetchMock = stubFetch();
-    seed({ calendar: { id: "el.greek", regions: [], includeObservances: false } });
+    seed({ calendars: [{ id: "el.greek", regions: [] }] });
     render(<App />);
     expect(await screen.findByText("The holiday calendar could not be loaded.")).toBeInTheDocument();
     await userEvent.click(screen.getByRole("button", { name: "Retry" }));
@@ -104,15 +184,6 @@ describe("App", () => {
     localStorage.setItem(STORAGE_KEY, "{broken");
     render(<App />);
     expect(await screen.findByText(/could not be read/)).toBeInTheDocument();
-  });
-
-  test("F3: header omits a stale region no longer present in the loaded calendar", async () => {
-    stubFetch();
-    seed({ calendar: { id: "en.ch", regions: ["Geneva", "Zurich"], includeObservances: false } });
-    render(<App />);
-    const button = await screen.findByRole("button", { name: /Holidays in Switzerland/ });
-    expect(button.textContent).toContain("Zurich");
-    expect(button.textContent).not.toContain("Geneva");
   });
 
   test("F4: selecting a stretch highlights its days", async () => {

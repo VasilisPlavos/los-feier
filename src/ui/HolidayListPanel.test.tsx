@@ -3,14 +3,22 @@ import userEvent from "@testing-library/user-event";
 import { describe, expect, test, vi } from "vitest";
 import { HolidayListPanel } from "./HolidayListPanel";
 import { resolveYearHolidays } from "../core/holidays";
-import { makeState, zurichFixture } from "../test/fixtures";
+import { christianFixture, makeProfile, zurichFixture } from "../test/fixtures";
 import { renderWithI18n } from "../test/render";
-import type { AppState } from "../core/types";
+import type { CalendarFile, YearProfile } from "../core/types";
 
-function setup(state: AppState = makeState()) {
+const NAMES = { "en.ch": "Holidays in Switzerland", "en.christian": "Christian Holidays" };
+
+function setup(profile: YearProfile = makeProfile(), calendars: CalendarFile[] = [zurichFixture]) {
   const dispatch = vi.fn();
   renderWithI18n(
-    <HolidayListPanel year={2026} holidays={resolveYearHolidays(state, zurichFixture, 2026)} state={state} dispatch={dispatch} />,
+    <HolidayListPanel
+      year={2026}
+      holidays={resolveYearHolidays(profile, calendars, 2026)}
+      profile={profile}
+      calendarNames={NAMES}
+      dispatch={dispatch}
+    />,
   );
   return dispatch;
 }
@@ -18,49 +26,54 @@ function setup(state: AppState = makeState()) {
 const row = (name: string, index = 0) => screen.getAllByText(name)[index].closest("li")!;
 
 describe("HolidayListPanel", () => {
-  test("lists visible holidays including observances", () => {
+  test("lists visible holidays including observances, without a scope choice", () => {
     setup();
     expect(screen.getByText("Good Friday")).toBeInTheDocument();
     expect(screen.getAllByText("Knabenschiessen (Zurich)")).toHaveLength(3);
     expect(screen.queryByText("Saint Joseph's Day")).not.toBeInTheDocument();
     expect(within(row("Knabenschiessen (Zurich)")).getByRole("checkbox")).not.toBeChecked();
+    expect(screen.queryByRole("combobox")).not.toBeInTheDocument();
   });
 
-  test("enabling an observance for all years", async () => {
+  test("enabling an observance writes a rule for the year on screen", async () => {
     const dispatch = setup();
     await userEvent.click(within(row("Knabenschiessen (Zurich)")).getByRole("checkbox"));
-    expect(dispatch).toHaveBeenCalledWith({ type: "setHolidayRule", name: "Knabenschiessen (Zurich)", scope: "all", rule: { enabled: true } });
+    expect(dispatch).toHaveBeenCalledWith({
+      type: "setHolidayRule", year: 2026, name: "Knabenschiessen (Zurich)", rule: { enabled: true },
+    });
   });
 
   test("making a holiday half keeps the existing rule fields", async () => {
-    const dispatch = setup(makeState({ holidayRules: { "Knabenschiessen (Zurich)": { enabled: true } } }));
+    const dispatch = setup(makeProfile({ holidayRules: { "Knabenschiessen (Zurich)": { enabled: true } } }));
     await userEvent.click(within(row("Knabenschiessen (Zurich)")).getByRole("button", { name: /half day/ }));
     expect(dispatch).toHaveBeenCalledWith({
-      type: "setHolidayRule", name: "Knabenschiessen (Zurich)", scope: "all", rule: { enabled: true, fraction: 0.5 },
+      type: "setHolidayRule", year: 2026, name: "Knabenschiessen (Zurich)", rule: { enabled: true, fraction: 0.5 },
     });
   });
 
-  test("scope 'Only 2026' writes a year override, badge undoes it", async () => {
-    const state = makeState({ yearOverrides: { "2026": { "St. Stephen's Day": { enabled: false } } } });
-    const dispatch = setup(state);
-    await userEvent.selectOptions(screen.getByRole("combobox"), "year");
-    await userEvent.click(within(row("Good Friday")).getByRole("checkbox"));
-    expect(dispatch).toHaveBeenCalledWith({ type: "setHolidayRule", name: "Good Friday", scope: 2026, rule: { enabled: false } });
-    await userEvent.click(within(row("St. Stephen's Day")).getByRole("button", { name: /only 2026/ }));
-    expect(dispatch).toHaveBeenCalledWith({ type: "setHolidayRule", name: "St. Stephen's Day", scope: 2026, rule: null });
-  });
-
-  test("custom holiday: ½ edits it, checkbox disabled for all years, × deletes", async () => {
-    const state = makeState({
-      customHolidays: [{ id: "c1", name: "Company day", fraction: 1, rule: { type: "yearly", month: 6, day: 15 } }],
-    });
-    const dispatch = setup(state);
+  test("custom holiday: checkbox writes a rule, ½ edits it, × deletes it", async () => {
+    const dispatch = setup(
+      makeProfile({ customHolidays: [{ id: "c1", name: "Company day", fraction: 1, rule: { type: "yearly", month: 6, day: 15 } }] }),
+    );
     const r = row("Company day");
-    expect(within(r).getByRole("checkbox")).toBeDisabled();
+    await userEvent.click(within(r).getByRole("checkbox"));
+    expect(dispatch).toHaveBeenCalledWith({ type: "setHolidayRule", year: 2026, name: "Company day", rule: { enabled: false } });
     await userEvent.click(within(r).getByRole("button", { name: /half day/ }));
-    expect(dispatch).toHaveBeenCalledWith({ type: "updateCustomHoliday", id: "c1", changes: { fraction: 0.5 } });
+    expect(dispatch).toHaveBeenCalledWith({ type: "updateCustomHoliday", year: 2026, id: "c1", changes: { fraction: 0.5 } });
     await userEvent.click(within(r).getByRole("button", { name: /Delete/ }));
-    expect(dispatch).toHaveBeenCalledWith({ type: "removeCustomHoliday", id: "c1" });
+    expect(dispatch).toHaveBeenCalledWith({ type: "removeCustomHoliday", year: 2026, id: "c1" });
+  });
+
+  test("with several calendars each holiday names its calendars", () => {
+    const profile = makeProfile({ calendars: [{ id: "en.ch", regions: ["Zurich"] }, { id: "en.christian", regions: [] }] });
+    setup(profile, [zurichFixture, christianFixture]);
+    expect(row("Good Friday")).toHaveTextContent("Holidays in Switzerland, Christian Holidays");
+    expect(row("Christmas Eve")).toHaveTextContent("Christian Holidays");
+  });
+
+  test("with one calendar no calendar names are shown", () => {
+    setup();
+    expect(row("Good Friday")).not.toHaveTextContent("Holidays in Switzerland");
   });
 
   test("adding a custom holiday", async () => {
@@ -72,6 +85,7 @@ describe("HolidayListPanel", () => {
     await userEvent.click(screen.getByRole("button", { name: "Add" }));
     expect(dispatch).toHaveBeenCalledWith({
       type: "addCustomHoliday",
+      year: 2026,
       holiday: expect.objectContaining({ name: "Company day", fraction: 0.5, rule: { type: "yearly", month: 6, day: 15 } }),
     });
   });

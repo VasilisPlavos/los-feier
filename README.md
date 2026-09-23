@@ -8,9 +8,10 @@ A modern, open-source successor of the old argies.gr calendar.
 
 ## Features
 
-- Holiday calendars for ~220 countries (Google public holiday calendars), with region filters (e.g. Swiss cantons).
-- Enable/disable any holiday, make it a half day, for all years or just one year; add your own holidays.
-- Weekly plan with half days (e.g. Friday afternoon off, 4-day week).
+- Holiday calendars for ~220 countries plus religious calendars (Google public holiday calendars). Pick several at once, each with its own regions (e.g. Swiss cantons); the first visit asks which ones you want.
+- Enable/disable any holiday, make it a half day, add your own holidays.
+- Settings apply from the year you make them onwards: change something in 2027 and 2026 stays as it was, while 2028+ follows 2027. The first configured year also covers every earlier year.
+- Weekly plan with half days (e.g. Friday afternoon off, 4-day week), also per year.
 - Click a day: full leave → half leave → none. Half holiday + half leave = a full free day.
 - Leave counter and list of breaks, grouped by length.
 - English and Greek UI (system language by default). Light/dark theme.

@@ -1,5 +1,6 @@
 import { weekday, yearOf } from "./dates";
 import { holidayFractions, resolveYearHolidays } from "./holidays";
+import { profileFor } from "./profiles";
 import type { AppState, CalendarFile, DayInfo, Fraction, WeeklyPlan } from "./types";
 
 export function computeDay(
@@ -32,20 +33,21 @@ export function computeDay(
 
 export type DayResolver = (date: string) => DayInfo;
 
-/** Returns a function that computes DayInfo for any date, caching holidays per year. */
-export function createDayResolver(state: AppState, calendar: CalendarFile | null): DayResolver {
-  const holidaysByYear = new Map<number, ReturnType<typeof holidayFractions>>();
+/** Returns a function that computes DayInfo for any date, using the profile of that date's year. */
+export function createDayResolver(state: Pick<AppState, "profiles" | "leave">, calendars: CalendarFile[]): DayResolver {
+  const years = new Map<number, { fractions: ReturnType<typeof holidayFractions>; weeklyPlan: WeeklyPlan }>();
   const days = new Map<string, DayInfo>();
   return (date) => {
     const cached = days.get(date);
     if (cached) return cached;
     const year = yearOf(date);
-    let fractions = holidaysByYear.get(year);
-    if (!fractions) {
-      fractions = holidayFractions(resolveYearHolidays(state, calendar, year));
-      holidaysByYear.set(year, fractions);
+    let entry = years.get(year);
+    if (!entry) {
+      const profile = profileFor(state.profiles, year);
+      entry = { fractions: holidayFractions(resolveYearHolidays(profile, calendars, year)), weeklyPlan: profile.weeklyPlan };
+      years.set(year, entry);
     }
-    const info = computeDay(date, fractions.get(date), state.weeklyPlan, state.leave);
+    const info = computeDay(date, entry.fractions.get(date), entry.weeklyPlan, state.leave);
     days.set(date, info);
     return info;
   };

@@ -1,6 +1,6 @@
 import { afterEach, describe, expect, test, vi } from "vitest";
 import {
-  calendarRegions, clearCalendarCache, hasDataForYear, isCalendarId, loadCalendar, loadIndex, suggestCalendarId,
+  calendarRegions, clearCalendarCache, hasDataForYear, isCalendarId, loadCalendar, loadIndex, matchesQuery, suggestCalendarId,
   type FetchLike,
 } from "./calendars";
 import { zurichFixture } from "../test/fixtures";
@@ -92,5 +92,18 @@ describe("calendar helpers", () => {
   test("hasDataForYear uses from/to", () => {
     expect(hasDataForYear(zurichFixture, 2026)).toBe(true);
     expect(hasDataForYear(zurichFixture, 2019)).toBe(false);
+  });
+});
+
+describe("matchesQuery", () => {
+  test.each([
+    ["Διακοπές στην Ελλάδα", "ελλαδα", true],
+    ["Διακοπές στην Ελλάδα", "ΕΛΛΆΔΑ", true],
+    ["Holidays in Switzerland", "switz", true],
+    ["Zürich", "zurich", true],
+    ["Holidays in Switzerland", "greece", false],
+    ["anything", "   ", true],
+  ])("%s ~ %s → %s", (text, query, expected) => {
+    expect(matchesQuery(text, query)).toBe(expected);
   });
 });
