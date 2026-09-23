@@ -17,23 +17,30 @@ const customHoliday = z.object({
   ]),
 });
 
-export const appStateSchema = z.object({
-  version: z.literal(1),
-  language: z.string().nullable(),
-  calendar: z.object({
-    // Calendar ids look like "en.ch" or "en.new_zealand"; anything else could be a path trick.
-    id: z.string().regex(/^[a-z]{2}\.[a-z_]+$/).nullable(),
-    regions: z.array(z.string()),
-    includeObservances: z.boolean(),
-  }),
+const weeklyPlan = z.tuple([weeklyValue, weeklyValue, weeklyValue, weeklyValue, weeklyValue, weeklyValue, weeklyValue]);
+
+const yearProfile = z.object({
+  calendars: z.array(
+    z.object({
+      // Calendar ids look like "en.ch" or "en.new_zealand"; anything else could be a path trick.
+      id: z.string().regex(/^[a-z]{2}\.[a-z_]+$/),
+      regions: z.array(z.string()),
+    }),
+  ),
+  includeObservances: z.boolean(),
   holidayRules: z.record(z.string(), rule),
-  yearOverrides: z.record(z.string().regex(/^\d{4}$/), z.record(z.string(), rule)),
   customHolidays: z.array(customHoliday),
-  weeklyPlan: z.tuple([weeklyValue, weeklyValue, weeklyValue, weeklyValue, weeklyValue, weeklyValue, weeklyValue]),
+  weeklyPlan,
+});
+
+export const appStateSchema = z.object({
+  version: z.literal(2),
+  language: z.string().nullable(),
+  theme: z.enum(["system", "light", "dark"]),
   leave: z
     .record(z.string(), fraction)
     .refine((leave) => Object.keys(leave).every(isValidIsoDate), "Invalid leave date"),
-  theme: z.enum(["system", "light", "dark"]),
+  profiles: z.record(z.string().regex(/^\d{4}$/), yearProfile),
 });
 
 export type ParseError = "invalidJson" | "unsupportedVersion" | "invalidShape";
@@ -41,7 +48,7 @@ export type ParseResult = { ok: true; state: AppState } | { ok: false; error: Pa
 
 export function parseAppState(input: unknown): ParseResult {
   if (typeof input === "object" && input !== null && typeof (input as { version?: unknown }).version === "number") {
-    if ((input as { version: number }).version > 1) return { ok: false, error: "unsupportedVersion" };
+    if ((input as { version: number }).version > 2) return { ok: false, error: "unsupportedVersion" };
   }
   const result = appStateSchema.safeParse(input);
   return result.success ? { ok: true, state: result.data as AppState } : { ok: false, error: "invalidShape" };

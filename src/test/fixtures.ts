@@ -1,5 +1,6 @@
+import { createDefaultProfile } from "../core/profiles";
 import { createDefaultState } from "../state/defaults";
-import type { AppState, CalendarFile, GoogleHoliday } from "../core/types";
+import type { AppState, CalendarFile, GoogleHoliday, YearProfile } from "../core/types";
 
 export function makeCalendar(id: string, name: string, events: GoogleHoliday[], from = 2025, to = 2027): CalendarFile {
   return { id, name, lang: id.split(".")[0], from, to, count: events.length, fetchedAt: "2026-09-23T00:00:00.000Z", events };
@@ -21,12 +22,25 @@ export const zurichFixture: CalendarFile = makeCalendar("en.ch", "Holidays in Sw
   { date: "2027-01-01", name: "New Year's Day", type: "public" },
 ]);
 
-/** Default state with calendar en.ch / Zurich, plus any overrides. */
-export function makeState(overrides: Partial<AppState> = {}): AppState {
+/** A profile with calendar en.ch / Zurich, plus any overrides. */
+export function makeProfile(overrides: Partial<YearProfile> = {}): YearProfile {
+  return { ...createDefaultProfile(), calendars: [{ id: "en.ch", regions: ["Zurich"] }], ...overrides };
+}
+
+type StateOverrides = Partial<YearProfile> & Partial<Pick<AppState, "language" | "theme" | "leave" | "profiles">>;
+
+/**
+ * Default state with one profile at 2020 — it covers every year — built from `makeProfile` and the
+ * profile fields in `overrides`. Pass `profiles` to replace the profiles entirely.
+ */
+export function makeState(overrides: StateOverrides = {}): AppState {
+  const { language, theme, leave, profiles, ...profile } = overrides;
   const base = createDefaultState();
   return {
     ...base,
-    calendar: { id: "en.ch", regions: ["Zurich"], includeObservances: false },
-    ...overrides,
+    language: language ?? base.language,
+    theme: theme ?? base.theme,
+    leave: leave ?? base.leave,
+    profiles: profiles ?? { "2020": makeProfile(profile) },
   };
 }

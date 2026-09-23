@@ -43,19 +43,11 @@ export type Theme = "system" | "light" | "dark";
 
 /** Everything the user chose. Saved as one JSON object. */
 export interface AppState {
-  version: 1;
+  version: 2;
   language: string | null; // null = follow the system language
-  calendar: {
-    id: string | null; // e.g. "en.ch"; null = not chosen yet
-    regions: string[]; // e.g. ["Zurich"]; [] = national holidays only
-    includeObservances: boolean;
-  };
-  holidayRules: Record<string, HolidayRule>; // holiday name -> rule, all years
-  yearOverrides: Record<string, Record<string, HolidayRule>>; // "2026" -> holiday name -> rule
-  customHolidays: CustomHoliday[];
-  weeklyPlan: WeeklyPlan;
-  leave: Record<string, Fraction>; // "YYYY-MM-DD" -> leave taken
   theme: Theme;
+  leave: Record<string, Fraction>; // "YYYY-MM-DD" -> leave taken
+  profiles: Record<string, YearProfile>; // "2026" -> profile; {} = first run
 }
 
 export type HolidayType = "public" | "observance";
