@@ -71,20 +71,32 @@ test.describe("with a Zurich profile", () => {
     await expect(easter2027).not.toHaveAttribute("data-holiday");
     await expect(page.getByRole("button", { name: /from 2027/ })).toBeVisible();
 
-    await page.getByRole("button", { name: "Previous year" }).click();
+    await page.getByRole("combobox", { name: "Year" }).selectOption("2026");
     await expect(page.locator('[data-date="2026-04-06"]')).toHaveAttribute("data-holiday", "1");
     await expect(page.getByRole("button", { name: /from 2026/ })).toBeVisible();
 
-    await page.getByRole("button", { name: "Next year" }).click();
+    await page.getByRole("combobox", { name: "Year" }).selectOption("2027");
     await page.getByRole("button", { name: /Calendars \(1\)/ }).click();
     await page.getByRole("button", { name: "Remove the 2027 settings" }).click();
     await expect(page.locator('[data-date="2027-03-29"]')).toHaveAttribute("data-holiday", "1");
+  });
+
+  test("header bar picks a year, the hero follows it and About opens", async ({ page }) => {
+    await page.goto("./#2026");
+    const banner = page.getByRole("banner");
+    await expect(banner.getByRole("heading", { name: "Los Feier!", level: 1 })).toBeVisible();
+    await banner.getByRole("combobox", { name: "Year" }).selectOption("2028");
+    await expect(page.getByRole("heading", { name: "Holiday calendar 2028" })).toBeVisible();
+    await expect(page).toHaveURL(/#2028$/);
+    await banner.getByRole("button", { name: "About" }).click();
+    await expect(page.getByRole("dialog", { name: "About Los Feier" })).toBeVisible();
   });
 
   test("bottom tabs switch panels", async ({ page }) => {
     await page.goto("./#2026");
     await page.getByRole("tab", { name: "Plan" }).click();
     await expect(page.getByRole("heading", { name: "Weekly plan" })).toBeVisible();
+    await expect(page.getByText(/Your usual working week/)).toBeVisible();
     await expect(page.getByRole("heading", { name: /Leave days/ })).toBeHidden();
   });
 });
@@ -117,7 +129,7 @@ test.describe("first run in Greek", () => {
     await expect(dialog.getByRole("checkbox", { name: "Διακοπές στην Ελλάδα" })).toBeChecked();
     await dialog.getByRole("button", { name: "Συνέχεια" }).click();
     await expect(dialog).toBeHidden();
-    await expect(page.getByRole("heading", { name: "Los Feier", level: 1 })).toBeVisible();
+    await expect(page.getByRole("heading", { name: "Los Feier!", level: 1 })).toBeVisible();
     await expect(page.getByRole("tab", { name: "Αργίες" })).toBeVisible();
     await expect(page.locator('[data-date="2026-03-25"]')).toHaveAttribute("data-holiday", "1");
   });
