@@ -1,0 +1,1261 @@
+{
+ "id": "en.sa",
+ "name": "Holidays in South Africa",
+ "lang": "en",
+ "from": 2021,
+ "to": 2031,
+ "count": 250,
+ "fetchedAt": "2026-09-23T12:14:41.004Z",
+ "events": [
+  {
+   "date": "2021-01-01",
+   "name": "New Year's Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2021-02-21",
+   "name": "Armed Forces Day",
+   "type": "Observance"
+  },
+  {
+   "date": "2021-03-21",
+   "name": "Human Rights Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2021-03-22",
+   "name": "Day off for Human Rights Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2021-04-02",
+   "name": "Good Friday",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2021-04-03",
+   "name": "Holy Saturday",
+   "type": "Observance"
+  },
+  {
+   "date": "2021-04-04",
+   "name": "Easter Sunday",
+   "type": "Observance"
+  },
+  {
+   "date": "2021-04-05",
+   "name": "Family Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2021-04-27",
+   "name": "Freedom Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2021-05-01",
+   "name": "Workers' Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2021-05-09",
+   "name": "Mother's Day",
+   "type": "Observance"
+  },
+  {
+   "date": "2021-06-16",
+   "name": "Tweede Nuwe Jaar",
+   "type": "Observance"
+  },
+  {
+   "date": "2021-06-16",
+   "name": "Youth Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2021-06-20",
+   "name": "Father's Day",
+   "type": "Observance"
+  },
+  {
+   "date": "2021-07-18",
+   "name": "Nelson Mandela Day",
+   "type": "Observance"
+  },
+  {
+   "date": "2021-08-09",
+   "name": "National Women's Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2021-09-24",
+   "name": "Heritage Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2021-11-01",
+   "name": "Local Government Elections",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2021-12-16",
+   "name": "Day of Reconciliation",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2021-12-24",
+   "name": "Christmas Eve",
+   "type": "Observance"
+  },
+  {
+   "date": "2021-12-25",
+   "name": "Christmas Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2021-12-26",
+   "name": "Day of Goodwill",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2021-12-27",
+   "name": "Day of Goodwill observed",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2021-12-31",
+   "name": "New Year's Eve",
+   "type": "Observance"
+  },
+  {
+   "date": "2022-01-01",
+   "name": "New Year's Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2022-01-02",
+   "name": "Tweede Nuwe Jaar",
+   "type": "Observance"
+  },
+  {
+   "date": "2022-02-21",
+   "name": "Armed Forces Day",
+   "type": "Observance"
+  },
+  {
+   "date": "2022-03-21",
+   "name": "Human Rights Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2022-04-15",
+   "name": "Good Friday",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2022-04-16",
+   "name": "Holy Saturday",
+   "type": "Observance"
+  },
+  {
+   "date": "2022-04-17",
+   "name": "Easter Sunday",
+   "type": "Observance"
+  },
+  {
+   "date": "2022-04-18",
+   "name": "Family Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2022-04-27",
+   "name": "Freedom Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2022-05-01",
+   "name": "Workers' Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2022-05-02",
+   "name": "Day off for Workers' Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2022-05-08",
+   "name": "Mother's Day",
+   "type": "Observance"
+  },
+  {
+   "date": "2022-06-16",
+   "name": "Youth Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2022-06-19",
+   "name": "Father's Day",
+   "type": "Observance"
+  },
+  {
+   "date": "2022-07-18",
+   "name": "Nelson Mandela Day",
+   "type": "Observance"
+  },
+  {
+   "date": "2022-08-09",
+   "name": "National Women's Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2022-09-24",
+   "name": "Heritage Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2022-12-16",
+   "name": "Day of Reconciliation",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2022-12-24",
+   "name": "Christmas Eve",
+   "type": "Observance"
+  },
+  {
+   "date": "2022-12-25",
+   "name": "Christmas Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2022-12-26",
+   "name": "Day of Goodwill",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2022-12-27",
+   "name": "Public Holiday",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2022-12-31",
+   "name": "New Year's Eve",
+   "type": "Observance"
+  },
+  {
+   "date": "2023-01-01",
+   "name": "New Year's Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2023-01-02",
+   "name": "Day off for New Year's Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2023-01-02",
+   "name": "Tweede Nuwe Jaar",
+   "type": "Observance"
+  },
+  {
+   "date": "2023-02-21",
+   "name": "Armed Forces Day",
+   "type": "Observance"
+  },
+  {
+   "date": "2023-03-21",
+   "name": "Human Rights Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2023-04-07",
+   "name": "Good Friday",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2023-04-08",
+   "name": "Holy Saturday",
+   "type": "Observance"
+  },
+  {
+   "date": "2023-04-09",
+   "name": "Easter Sunday",
+   "type": "Observance"
+  },
+  {
+   "date": "2023-04-10",
+   "name": "Family Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2023-04-27",
+   "name": "Freedom Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2023-05-01",
+   "name": "Workers' Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2023-05-14",
+   "name": "Mother's Day",
+   "type": "Observance"
+  },
+  {
+   "date": "2023-06-16",
+   "name": "Youth Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2023-06-18",
+   "name": "Father's Day",
+   "type": "Observance"
+  },
+  {
+   "date": "2023-07-18",
+   "name": "Nelson Mandela Day",
+   "type": "Observance"
+  },
+  {
+   "date": "2023-08-09",
+   "name": "National Women's Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2023-09-24",
+   "name": "Heritage Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2023-09-25",
+   "name": "Day off for Heritage Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2023-12-15",
+   "name": "Rugby World Cup Win Public Holiday",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2023-12-16",
+   "name": "Day of Reconciliation",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2023-12-24",
+   "name": "Christmas Eve",
+   "type": "Observance"
+  },
+  {
+   "date": "2023-12-25",
+   "name": "Christmas Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2023-12-26",
+   "name": "Day of Goodwill",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2023-12-31",
+   "name": "New Year's Eve",
+   "type": "Observance"
+  },
+  {
+   "date": "2024-01-01",
+   "name": "New Year's Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2024-01-02",
+   "name": "Tweede Nuwe Jaar",
+   "type": "Observance"
+  },
+  {
+   "date": "2024-02-21",
+   "name": "Armed Forces Day",
+   "type": "Observance"
+  },
+  {
+   "date": "2024-03-21",
+   "name": "Human Rights Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2024-03-29",
+   "name": "Good Friday",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2024-03-30",
+   "name": "Holy Saturday",
+   "type": "Observance"
+  },
+  {
+   "date": "2024-03-31",
+   "name": "Easter Sunday",
+   "type": "Observance"
+  },
+  {
+   "date": "2024-04-01",
+   "name": "Family Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2024-04-27",
+   "name": "Freedom Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2024-05-01",
+   "name": "Workers' Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2024-05-12",
+   "name": "Mother's Day",
+   "type": "Observance"
+  },
+  {
+   "date": "2024-05-29",
+   "name": "Election Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2024-06-16",
+   "name": "Father's Day",
+   "type": "Observance"
+  },
+  {
+   "date": "2024-06-16",
+   "name": "Youth Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2024-06-17",
+   "name": "Day off for Youth Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2024-07-18",
+   "name": "Nelson Mandela Day",
+   "type": "Observance"
+  },
+  {
+   "date": "2024-08-09",
+   "name": "National Women's Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2024-09-24",
+   "name": "Heritage Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2024-12-16",
+   "name": "Day of Reconciliation",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2024-12-24",
+   "name": "Christmas Eve",
+   "type": "Observance"
+  },
+  {
+   "date": "2024-12-25",
+   "name": "Christmas Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2024-12-26",
+   "name": "Day of Goodwill",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2024-12-31",
+   "name": "New Year's Eve",
+   "type": "Observance"
+  },
+  {
+   "date": "2025-01-01",
+   "name": "New Year's Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2025-01-02",
+   "name": "Tweede Nuwe Jaar",
+   "type": "Observance"
+  },
+  {
+   "date": "2025-02-21",
+   "name": "Armed Forces Day",
+   "type": "Observance"
+  },
+  {
+   "date": "2025-03-21",
+   "name": "Human Rights Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2025-04-18",
+   "name": "Good Friday",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2025-04-19",
+   "name": "Holy Saturday",
+   "type": "Observance"
+  },
+  {
+   "date": "2025-04-20",
+   "name": "Easter Sunday",
+   "type": "Observance"
+  },
+  {
+   "date": "2025-04-21",
+   "name": "Family Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2025-04-27",
+   "name": "Freedom Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2025-04-28",
+   "name": "Freedom Day observed",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2025-05-01",
+   "name": "Workers' Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2025-05-11",
+   "name": "Mother's Day",
+   "type": "Observance"
+  },
+  {
+   "date": "2025-06-15",
+   "name": "Father's Day",
+   "type": "Observance"
+  },
+  {
+   "date": "2025-06-16",
+   "name": "Youth Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2025-07-18",
+   "name": "Nelson Mandela Day",
+   "type": "Observance"
+  },
+  {
+   "date": "2025-08-09",
+   "name": "National Women's Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2025-09-24",
+   "name": "Heritage Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2025-12-16",
+   "name": "Day of Reconciliation",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2025-12-24",
+   "name": "Christmas Eve",
+   "type": "Observance"
+  },
+  {
+   "date": "2025-12-25",
+   "name": "Christmas Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2025-12-26",
+   "name": "Day of Goodwill",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2025-12-31",
+   "name": "New Year's Eve",
+   "type": "Observance"
+  },
+  {
+   "date": "2026-01-01",
+   "name": "New Year's Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2026-01-02",
+   "name": "Tweede Nuwe Jaar",
+   "type": "Observance"
+  },
+  {
+   "date": "2026-02-21",
+   "name": "Armed Forces Day",
+   "type": "Observance"
+  },
+  {
+   "date": "2026-03-21",
+   "name": "Human Rights Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2026-04-03",
+   "name": "Good Friday",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2026-04-04",
+   "name": "Holy Saturday",
+   "type": "Observance"
+  },
+  {
+   "date": "2026-04-05",
+   "name": "Easter Sunday",
+   "type": "Observance"
+  },
+  {
+   "date": "2026-04-06",
+   "name": "Family Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2026-04-27",
+   "name": "Freedom Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2026-05-01",
+   "name": "Workers' Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2026-05-10",
+   "name": "Mother's Day",
+   "type": "Observance"
+  },
+  {
+   "date": "2026-06-16",
+   "name": "Youth Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2026-06-21",
+   "name": "Father's Day",
+   "type": "Observance"
+  },
+  {
+   "date": "2026-07-18",
+   "name": "Nelson Mandela Day",
+   "type": "Observance"
+  },
+  {
+   "date": "2026-08-09",
+   "name": "National Women's Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2026-08-10",
+   "name": "Day off for National Women's Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2026-09-24",
+   "name": "Heritage Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2026-11-04",
+   "name": "Local Government Elections",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2026-12-16",
+   "name": "Day of Reconciliation",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2026-12-24",
+   "name": "Christmas Eve",
+   "type": "Observance"
+  },
+  {
+   "date": "2026-12-25",
+   "name": "Christmas Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2026-12-26",
+   "name": "Day of Goodwill",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2026-12-31",
+   "name": "New Year's Eve",
+   "type": "Observance"
+  },
+  {
+   "date": "2027-01-01",
+   "name": "New Year's Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2027-01-02",
+   "name": "Tweede Nuwe Jaar",
+   "type": "Observance"
+  },
+  {
+   "date": "2027-02-21",
+   "name": "Armed Forces Day",
+   "type": "Observance"
+  },
+  {
+   "date": "2027-03-21",
+   "name": "Human Rights Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2027-03-22",
+   "name": "Day off for Human Rights Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2027-03-26",
+   "name": "Good Friday",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2027-03-27",
+   "name": "Holy Saturday",
+   "type": "Observance"
+  },
+  {
+   "date": "2027-03-28",
+   "name": "Easter Sunday",
+   "type": "Observance"
+  },
+  {
+   "date": "2027-03-29",
+   "name": "Family Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2027-04-27",
+   "name": "Freedom Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2027-05-01",
+   "name": "Workers' Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2027-05-09",
+   "name": "Mother's Day",
+   "type": "Observance"
+  },
+  {
+   "date": "2027-06-16",
+   "name": "Youth Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2027-06-20",
+   "name": "Father's Day",
+   "type": "Observance"
+  },
+  {
+   "date": "2027-07-18",
+   "name": "Nelson Mandela Day",
+   "type": "Observance"
+  },
+  {
+   "date": "2027-08-09",
+   "name": "National Women's Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2027-09-24",
+   "name": "Heritage Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2027-12-16",
+   "name": "Day of Reconciliation",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2027-12-24",
+   "name": "Christmas Eve",
+   "type": "Observance"
+  },
+  {
+   "date": "2027-12-25",
+   "name": "Christmas Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2027-12-26",
+   "name": "Day of Goodwill",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2027-12-27",
+   "name": "Day of Goodwill observed",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2027-12-31",
+   "name": "New Year's Eve",
+   "type": "Observance"
+  },
+  {
+   "date": "2028-01-01",
+   "name": "New Year's Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2028-01-02",
+   "name": "Tweede Nuwe Jaar",
+   "type": "Observance"
+  },
+  {
+   "date": "2028-02-21",
+   "name": "Armed Forces Day",
+   "type": "Observance"
+  },
+  {
+   "date": "2028-03-21",
+   "name": "Human Rights Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2028-04-14",
+   "name": "Good Friday",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2028-04-15",
+   "name": "Holy Saturday",
+   "type": "Observance"
+  },
+  {
+   "date": "2028-04-16",
+   "name": "Easter Sunday",
+   "type": "Observance"
+  },
+  {
+   "date": "2028-04-17",
+   "name": "Family Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2028-04-27",
+   "name": "Freedom Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2028-05-01",
+   "name": "Workers' Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2028-05-14",
+   "name": "Mother's Day",
+   "type": "Observance"
+  },
+  {
+   "date": "2028-06-16",
+   "name": "Youth Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2028-06-18",
+   "name": "Father's Day",
+   "type": "Observance"
+  },
+  {
+   "date": "2028-07-18",
+   "name": "Nelson Mandela Day",
+   "type": "Observance"
+  },
+  {
+   "date": "2028-08-09",
+   "name": "National Women's Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2028-09-24",
+   "name": "Heritage Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2028-09-25",
+   "name": "Day off for Heritage Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2028-12-16",
+   "name": "Day of Reconciliation",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2028-12-24",
+   "name": "Christmas Eve",
+   "type": "Observance"
+  },
+  {
+   "date": "2028-12-25",
+   "name": "Christmas Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2028-12-26",
+   "name": "Day of Goodwill",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2028-12-31",
+   "name": "New Year's Eve",
+   "type": "Observance"
+  },
+  {
+   "date": "2029-01-01",
+   "name": "New Year's Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2029-01-02",
+   "name": "Tweede Nuwe Jaar",
+   "type": "Observance"
+  },
+  {
+   "date": "2029-02-21",
+   "name": "Armed Forces Day",
+   "type": "Observance"
+  },
+  {
+   "date": "2029-03-21",
+   "name": "Human Rights Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2029-03-30",
+   "name": "Good Friday",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2029-03-31",
+   "name": "Holy Saturday",
+   "type": "Observance"
+  },
+  {
+   "date": "2029-04-01",
+   "name": "Easter Sunday",
+   "type": "Observance"
+  },
+  {
+   "date": "2029-04-02",
+   "name": "Family Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2029-04-27",
+   "name": "Freedom Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2029-05-01",
+   "name": "Workers' Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2029-05-13",
+   "name": "Mother's Day",
+   "type": "Observance"
+  },
+  {
+   "date": "2029-06-16",
+   "name": "Youth Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2029-06-17",
+   "name": "Father's Day",
+   "type": "Observance"
+  },
+  {
+   "date": "2029-07-18",
+   "name": "Nelson Mandela Day",
+   "type": "Observance"
+  },
+  {
+   "date": "2029-08-09",
+   "name": "National Women's Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2029-09-24",
+   "name": "Heritage Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2029-12-16",
+   "name": "Day of Reconciliation",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2029-12-17",
+   "name": "Day off for Day of Reconciliation",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2029-12-24",
+   "name": "Christmas Eve",
+   "type": "Observance"
+  },
+  {
+   "date": "2029-12-25",
+   "name": "Christmas Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2029-12-26",
+   "name": "Day of Goodwill",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2029-12-31",
+   "name": "New Year's Eve",
+   "type": "Observance"
+  },
+  {
+   "date": "2030-01-01",
+   "name": "New Year's Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2030-01-02",
+   "name": "Tweede Nuwe Jaar",
+   "type": "Observance"
+  },
+  {
+   "date": "2030-02-21",
+   "name": "Armed Forces Day",
+   "type": "Observance"
+  },
+  {
+   "date": "2030-03-21",
+   "name": "Human Rights Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2030-04-19",
+   "name": "Good Friday",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2030-04-20",
+   "name": "Holy Saturday",
+   "type": "Observance"
+  },
+  {
+   "date": "2030-04-21",
+   "name": "Easter Sunday",
+   "type": "Observance"
+  },
+  {
+   "date": "2030-04-22",
+   "name": "Family Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2030-04-27",
+   "name": "Freedom Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2030-05-01",
+   "name": "Workers' Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2030-05-12",
+   "name": "Mother's Day",
+   "type": "Observance"
+  },
+  {
+   "date": "2030-06-16",
+   "name": "Father's Day",
+   "type": "Observance"
+  },
+  {
+   "date": "2030-06-16",
+   "name": "Youth Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2030-06-17",
+   "name": "Day off for Youth Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2030-07-18",
+   "name": "Nelson Mandela Day",
+   "type": "Observance"
+  },
+  {
+   "date": "2030-08-09",
+   "name": "National Women's Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2030-09-24",
+   "name": "Heritage Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2030-12-16",
+   "name": "Day of Reconciliation",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2030-12-24",
+   "name": "Christmas Eve",
+   "type": "Observance"
+  },
+  {
+   "date": "2030-12-25",
+   "name": "Christmas Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2030-12-26",
+   "name": "Day of Goodwill",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2030-12-31",
+   "name": "New Year's Eve",
+   "type": "Observance"
+  },
+  {
+   "date": "2031-01-01",
+   "name": "New Year's Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2031-01-02",
+   "name": "Tweede Nuwe Jaar",
+   "type": "Observance"
+  },
+  {
+   "date": "2031-02-21",
+   "name": "Armed Forces Day",
+   "type": "Observance"
+  },
+  {
+   "date": "2031-03-21",
+   "name": "Human Rights Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2031-04-11",
+   "name": "Good Friday",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2031-04-12",
+   "name": "Holy Saturday",
+   "type": "Observance"
+  },
+  {
+   "date": "2031-04-13",
+   "name": "Easter Sunday",
+   "type": "Observance"
+  },
+  {
+   "date": "2031-04-14",
+   "name": "Family Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2031-04-27",
+   "name": "Freedom Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2031-04-28",
+   "name": "Freedom Day observed",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2031-05-01",
+   "name": "Workers' Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2031-05-11",
+   "name": "Mother's Day",
+   "type": "Observance"
+  },
+  {
+   "date": "2031-06-15",
+   "name": "Father's Day",
+   "type": "Observance"
+  },
+  {
+   "date": "2031-06-16",
+   "name": "Youth Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2031-07-18",
+   "name": "Nelson Mandela Day",
+   "type": "Observance"
+  },
+  {
+   "date": "2031-08-09",
+   "name": "National Women's Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2031-09-24",
+   "name": "Heritage Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2031-12-16",
+   "name": "Day of Reconciliation",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2031-12-24",
+   "name": "Christmas Eve",
+   "type": "Observance"
+  },
+  {
+   "date": "2031-12-25",
+   "name": "Christmas Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2031-12-26",
+   "name": "Day of Goodwill",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2031-12-31",
+   "name": "New Year's Eve",
+   "type": "Observance"
+  }
+ ]
+}

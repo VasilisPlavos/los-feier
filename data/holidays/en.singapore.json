@@ -1,0 +1,1396 @@
+{
+ "id": "en.singapore",
+ "name": "Holidays in Singapore",
+ "lang": "en",
+ "from": 2021,
+ "to": 2031,
+ "count": 277,
+ "fetchedAt": "2026-09-23T12:14:41.012Z",
+ "events": [
+  {
+   "date": "2021-01-01",
+   "name": "New Year’s Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2021-01-28",
+   "name": "Thaipusam",
+   "type": "Observance"
+  },
+  {
+   "date": "2021-02-12",
+   "name": "Chinese New Year's Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2021-02-13",
+   "name": "Second Day of Chinese New Year",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2021-02-14",
+   "name": "Valentine's Day",
+   "type": "Observance"
+  },
+  {
+   "date": "2021-02-15",
+   "name": "Total Defense Day",
+   "type": "Observance"
+  },
+  {
+   "date": "2021-03-08",
+   "name": "International Women's Day",
+   "type": "Observance"
+  },
+  {
+   "date": "2021-04-01",
+   "name": "April Fool's Day",
+   "type": "Observance"
+  },
+  {
+   "date": "2021-04-02",
+   "name": "Good Friday",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2021-04-03",
+   "name": "Easter Saturday",
+   "type": "Observance"
+  },
+  {
+   "date": "2021-04-04",
+   "name": "Easter Sunday",
+   "type": "Observance"
+  },
+  {
+   "date": "2021-05-01",
+   "name": "Labour Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2021-05-09",
+   "name": "Mother's Day",
+   "type": "Observance"
+  },
+  {
+   "date": "2021-05-13",
+   "name": "Hari Raya Puasa",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2021-05-26",
+   "name": "Vesak Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2021-06-20",
+   "name": "Father's Day",
+   "type": "Observance"
+  },
+  {
+   "date": "2021-07-01",
+   "name": "Singapore Armed Forces Day",
+   "type": "Observance"
+  },
+  {
+   "date": "2021-07-20",
+   "name": "Hari Raya Haji",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2021-07-21",
+   "name": "Racial Harmony Day",
+   "type": "Observance"
+  },
+  {
+   "date": "2021-08-09",
+   "name": "National Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2021-11-04",
+   "name": "Diwali/Deepavali",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2021-12-24",
+   "name": "Christmas Eve",
+   "type": "Observance"
+  },
+  {
+   "date": "2021-12-25",
+   "name": "Christmas Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2021-12-31",
+   "name": "New Year’s Eve",
+   "type": "Observance"
+  },
+  {
+   "date": "2022-01-01",
+   "name": "New Year’s Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2022-01-18",
+   "name": "Thaipusam",
+   "type": "Observance"
+  },
+  {
+   "date": "2022-02-01",
+   "name": "Chinese New Year's Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2022-02-02",
+   "name": "Second Day of Chinese New Year",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2022-02-14",
+   "name": "Valentine's Day",
+   "type": "Observance"
+  },
+  {
+   "date": "2022-02-15",
+   "name": "Total Defense Day",
+   "type": "Observance"
+  },
+  {
+   "date": "2022-03-08",
+   "name": "International Women's Day",
+   "type": "Observance"
+  },
+  {
+   "date": "2022-04-01",
+   "name": "April Fool's Day",
+   "type": "Observance"
+  },
+  {
+   "date": "2022-04-15",
+   "name": "Good Friday",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2022-04-16",
+   "name": "Easter Saturday",
+   "type": "Observance"
+  },
+  {
+   "date": "2022-04-17",
+   "name": "Easter Sunday",
+   "type": "Observance"
+  },
+  {
+   "date": "2022-05-01",
+   "name": "Labour Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2022-05-02",
+   "name": "Day off for Labour Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2022-05-03",
+   "name": "Hari Raya Puasa",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2022-05-08",
+   "name": "Mother's Day",
+   "type": "Observance"
+  },
+  {
+   "date": "2022-05-15",
+   "name": "Vesak Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2022-05-16",
+   "name": "Day off for Vesak Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2022-06-19",
+   "name": "Father's Day",
+   "type": "Observance"
+  },
+  {
+   "date": "2022-07-01",
+   "name": "Singapore Armed Forces Day",
+   "type": "Observance"
+  },
+  {
+   "date": "2022-07-10",
+   "name": "Hari Raya Haji",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2022-07-11",
+   "name": "Day off for Hari Raya Haji",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2022-07-21",
+   "name": "Racial Harmony Day",
+   "type": "Observance"
+  },
+  {
+   "date": "2022-08-09",
+   "name": "National Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2022-10-24",
+   "name": "Diwali/Deepavali",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2022-12-24",
+   "name": "Christmas Eve",
+   "type": "Observance"
+  },
+  {
+   "date": "2022-12-25",
+   "name": "Christmas Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2022-12-26",
+   "name": "Day off for Christmas Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2022-12-31",
+   "name": "New Year’s Eve",
+   "type": "Observance"
+  },
+  {
+   "date": "2023-01-01",
+   "name": "New Year’s Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2023-01-02",
+   "name": "New Year’s Day observed",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2023-01-22",
+   "name": "Chinese New Year's Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2023-01-23",
+   "name": "Second Day of Chinese New Year",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2023-01-24",
+   "name": "Day off for Chinese New Year's Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2023-02-05",
+   "name": "Thaipusam",
+   "type": "Observance"
+  },
+  {
+   "date": "2023-02-14",
+   "name": "Valentine's Day",
+   "type": "Observance"
+  },
+  {
+   "date": "2023-02-15",
+   "name": "Total Defense Day",
+   "type": "Observance"
+  },
+  {
+   "date": "2023-03-08",
+   "name": "International Women's Day",
+   "type": "Observance"
+  },
+  {
+   "date": "2023-03-23",
+   "name": "Ramadan Start",
+   "type": "Observance"
+  },
+  {
+   "date": "2023-04-01",
+   "name": "April Fool's Day",
+   "type": "Observance"
+  },
+  {
+   "date": "2023-04-07",
+   "name": "Good Friday",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2023-04-08",
+   "name": "Easter Saturday",
+   "type": "Observance"
+  },
+  {
+   "date": "2023-04-09",
+   "name": "Easter Sunday",
+   "type": "Observance"
+  },
+  {
+   "date": "2023-04-22",
+   "name": "Hari Raya Puasa",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2023-05-01",
+   "name": "Labour Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2023-05-14",
+   "name": "Mother's Day",
+   "type": "Observance"
+  },
+  {
+   "date": "2023-06-03",
+   "name": "Vesak Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2023-06-18",
+   "name": "Father's Day",
+   "type": "Observance"
+  },
+  {
+   "date": "2023-06-29",
+   "name": "Hari Raya Haji",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2023-07-01",
+   "name": "Singapore Armed Forces Day",
+   "type": "Observance"
+  },
+  {
+   "date": "2023-07-21",
+   "name": "Racial Harmony Day",
+   "type": "Observance"
+  },
+  {
+   "date": "2023-08-09",
+   "name": "National Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2023-09-01",
+   "name": "Election Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2023-11-12",
+   "name": "Diwali/Deepavali",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2023-11-13",
+   "name": "Day off for Diwali/Deepavali",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2023-12-24",
+   "name": "Christmas Eve",
+   "type": "Observance"
+  },
+  {
+   "date": "2023-12-25",
+   "name": "Christmas Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2023-12-31",
+   "name": "New Year’s Eve",
+   "type": "Observance"
+  },
+  {
+   "date": "2024-01-01",
+   "name": "New Year’s Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2024-01-25",
+   "name": "Thaipusam",
+   "type": "Observance"
+  },
+  {
+   "date": "2024-02-10",
+   "name": "Chinese New Year's Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2024-02-11",
+   "name": "Second Day of Chinese New Year",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2024-02-12",
+   "name": "Day off for Chinese New Year's Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2024-02-14",
+   "name": "Valentine's Day",
+   "type": "Observance"
+  },
+  {
+   "date": "2024-02-15",
+   "name": "Total Defense Day",
+   "type": "Observance"
+  },
+  {
+   "date": "2024-03-08",
+   "name": "International Women's Day",
+   "type": "Observance"
+  },
+  {
+   "date": "2024-03-12",
+   "name": "Ramadan Start",
+   "type": "Observance"
+  },
+  {
+   "date": "2024-03-29",
+   "name": "Good Friday",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2024-03-30",
+   "name": "Easter Saturday",
+   "type": "Observance"
+  },
+  {
+   "date": "2024-03-31",
+   "name": "Easter Sunday",
+   "type": "Observance"
+  },
+  {
+   "date": "2024-04-01",
+   "name": "April Fool's Day",
+   "type": "Observance"
+  },
+  {
+   "date": "2024-04-10",
+   "name": "Hari Raya Puasa",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2024-05-01",
+   "name": "Labour Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2024-05-12",
+   "name": "Mother's Day",
+   "type": "Observance"
+  },
+  {
+   "date": "2024-05-22",
+   "name": "Vesak Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2024-06-16",
+   "name": "Father's Day",
+   "type": "Observance"
+  },
+  {
+   "date": "2024-06-17",
+   "name": "Hari Raya Haji",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2024-07-01",
+   "name": "Singapore Armed Forces Day",
+   "type": "Observance"
+  },
+  {
+   "date": "2024-07-21",
+   "name": "Racial Harmony Day",
+   "type": "Observance"
+  },
+  {
+   "date": "2024-08-09",
+   "name": "National Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2024-10-31",
+   "name": "Diwali/Deepavali",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2024-12-24",
+   "name": "Christmas Eve",
+   "type": "Observance"
+  },
+  {
+   "date": "2024-12-25",
+   "name": "Christmas Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2024-12-31",
+   "name": "New Year’s Eve",
+   "type": "Observance"
+  },
+  {
+   "date": "2025-01-01",
+   "name": "New Year’s Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2025-01-29",
+   "name": "Chinese New Year's Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2025-01-30",
+   "name": "Second Day of Chinese New Year",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2025-02-11",
+   "name": "Thaipusam",
+   "type": "Observance"
+  },
+  {
+   "date": "2025-02-14",
+   "name": "Valentine's Day",
+   "type": "Observance"
+  },
+  {
+   "date": "2025-02-15",
+   "name": "Total Defense Day",
+   "type": "Observance"
+  },
+  {
+   "date": "2025-03-02",
+   "name": "Ramadan Start",
+   "type": "Observance"
+  },
+  {
+   "date": "2025-03-08",
+   "name": "International Women's Day",
+   "type": "Observance"
+  },
+  {
+   "date": "2025-03-31",
+   "name": "Hari Raya Puasa",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2025-04-01",
+   "name": "April Fool's Day",
+   "type": "Observance"
+  },
+  {
+   "date": "2025-04-18",
+   "name": "Good Friday",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2025-04-19",
+   "name": "Easter Saturday",
+   "type": "Observance"
+  },
+  {
+   "date": "2025-04-20",
+   "name": "Easter Sunday",
+   "type": "Observance"
+  },
+  {
+   "date": "2025-05-01",
+   "name": "Labour Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2025-05-03",
+   "name": "Election Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2025-05-11",
+   "name": "Mother's Day",
+   "type": "Observance"
+  },
+  {
+   "date": "2025-05-12",
+   "name": "Vesak Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2025-06-07",
+   "name": "Hari Raya Haji",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2025-06-15",
+   "name": "Father's Day",
+   "type": "Observance"
+  },
+  {
+   "date": "2025-07-01",
+   "name": "Singapore Armed Forces Day",
+   "type": "Observance"
+  },
+  {
+   "date": "2025-07-21",
+   "name": "Racial Harmony Day",
+   "type": "Observance"
+  },
+  {
+   "date": "2025-08-09",
+   "name": "National Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2025-10-20",
+   "name": "Diwali/Deepavali",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2025-12-24",
+   "name": "Christmas Eve",
+   "type": "Observance"
+  },
+  {
+   "date": "2025-12-25",
+   "name": "Christmas Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2025-12-31",
+   "name": "New Year’s Eve",
+   "type": "Observance"
+  },
+  {
+   "date": "2026-01-01",
+   "name": "New Year’s Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2026-02-01",
+   "name": "Thaipusam",
+   "type": "Observance"
+  },
+  {
+   "date": "2026-02-14",
+   "name": "Valentine's Day",
+   "type": "Observance"
+  },
+  {
+   "date": "2026-02-15",
+   "name": "Total Defense Day",
+   "type": "Observance"
+  },
+  {
+   "date": "2026-02-17",
+   "name": "Chinese New Year's Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2026-02-18",
+   "name": "Second Day of Chinese New Year",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2026-02-19",
+   "name": "Ramadan Start",
+   "type": "Observance"
+  },
+  {
+   "date": "2026-03-08",
+   "name": "International Women's Day",
+   "type": "Observance"
+  },
+  {
+   "date": "2026-03-21",
+   "name": "Hari Raya Puasa",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2026-04-01",
+   "name": "April Fool's Day",
+   "type": "Observance"
+  },
+  {
+   "date": "2026-04-03",
+   "name": "Good Friday",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2026-04-04",
+   "name": "Easter Saturday",
+   "type": "Observance"
+  },
+  {
+   "date": "2026-04-05",
+   "name": "Easter Sunday",
+   "type": "Observance"
+  },
+  {
+   "date": "2026-05-01",
+   "name": "Labour Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2026-05-10",
+   "name": "Mother's Day",
+   "type": "Observance"
+  },
+  {
+   "date": "2026-05-27",
+   "name": "Hari Raya Haji",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2026-05-31",
+   "name": "Vesak Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2026-06-01",
+   "name": "Day off for Vesak Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2026-06-21",
+   "name": "Father's Day",
+   "type": "Observance"
+  },
+  {
+   "date": "2026-07-01",
+   "name": "Singapore Armed Forces Day",
+   "type": "Observance"
+  },
+  {
+   "date": "2026-07-21",
+   "name": "Racial Harmony Day",
+   "type": "Observance"
+  },
+  {
+   "date": "2026-08-09",
+   "name": "National Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2026-08-10",
+   "name": "National Day observed",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2026-11-08",
+   "name": "Diwali/Deepavali",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2026-11-09",
+   "name": "Day off for Diwali/Deepavali",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2026-12-24",
+   "name": "Christmas Eve",
+   "type": "Observance"
+  },
+  {
+   "date": "2026-12-25",
+   "name": "Christmas Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2026-12-31",
+   "name": "New Year’s Eve",
+   "type": "Observance"
+  },
+  {
+   "date": "2027-01-01",
+   "name": "New Year’s Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2027-02-06",
+   "name": "Chinese New Year's Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2027-02-07",
+   "name": "Second Day of Chinese New Year",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2027-02-08",
+   "name": "Ramadan Start (tentative)",
+   "type": "Observance"
+  },
+  {
+   "date": "2027-02-14",
+   "name": "Valentine's Day",
+   "type": "Observance"
+  },
+  {
+   "date": "2027-02-15",
+   "name": "Total Defense Day",
+   "type": "Observance"
+  },
+  {
+   "date": "2027-03-08",
+   "name": "International Women's Day",
+   "type": "Observance"
+  },
+  {
+   "date": "2027-03-10",
+   "name": "Hari Raya Puasa (tentative)",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2027-03-26",
+   "name": "Good Friday",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2027-03-27",
+   "name": "Easter Saturday",
+   "type": "Observance"
+  },
+  {
+   "date": "2027-03-28",
+   "name": "Easter Sunday",
+   "type": "Observance"
+  },
+  {
+   "date": "2027-04-01",
+   "name": "April Fool's Day",
+   "type": "Observance"
+  },
+  {
+   "date": "2027-05-01",
+   "name": "Labour Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2027-05-09",
+   "name": "Mother's Day",
+   "type": "Observance"
+  },
+  {
+   "date": "2027-05-17",
+   "name": "Hari Raya Haji (tentative)",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2027-05-20",
+   "name": "Vesak Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2027-06-20",
+   "name": "Father's Day",
+   "type": "Observance"
+  },
+  {
+   "date": "2027-07-01",
+   "name": "Singapore Armed Forces Day",
+   "type": "Observance"
+  },
+  {
+   "date": "2027-07-21",
+   "name": "Racial Harmony Day",
+   "type": "Observance"
+  },
+  {
+   "date": "2027-08-09",
+   "name": "National Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2027-10-28",
+   "name": "Diwali/Deepavali",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2027-12-24",
+   "name": "Christmas Eve",
+   "type": "Observance"
+  },
+  {
+   "date": "2027-12-25",
+   "name": "Christmas Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2027-12-31",
+   "name": "New Year’s Eve",
+   "type": "Observance"
+  },
+  {
+   "date": "2028-01-01",
+   "name": "New Year’s Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2028-01-26",
+   "name": "Chinese New Year's Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2028-01-27",
+   "name": "Second Day of Chinese New Year",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2028-01-28",
+   "name": "Ramadan Start (tentative)",
+   "type": "Observance"
+  },
+  {
+   "date": "2028-02-14",
+   "name": "Valentine's Day",
+   "type": "Observance"
+  },
+  {
+   "date": "2028-02-15",
+   "name": "Total Defense Day",
+   "type": "Observance"
+  },
+  {
+   "date": "2028-02-27",
+   "name": "Hari Raya Puasa (tentative)",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2028-03-08",
+   "name": "International Women's Day",
+   "type": "Observance"
+  },
+  {
+   "date": "2028-04-01",
+   "name": "April Fool's Day",
+   "type": "Observance"
+  },
+  {
+   "date": "2028-04-14",
+   "name": "Good Friday",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2028-04-15",
+   "name": "Easter Saturday",
+   "type": "Observance"
+  },
+  {
+   "date": "2028-04-16",
+   "name": "Easter Sunday",
+   "type": "Observance"
+  },
+  {
+   "date": "2028-05-01",
+   "name": "Labour Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2028-05-05",
+   "name": "Hari Raya Haji (tentative)",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2028-05-14",
+   "name": "Mother's Day",
+   "type": "Observance"
+  },
+  {
+   "date": "2028-06-18",
+   "name": "Father's Day",
+   "type": "Observance"
+  },
+  {
+   "date": "2028-07-01",
+   "name": "Singapore Armed Forces Day",
+   "type": "Observance"
+  },
+  {
+   "date": "2028-07-21",
+   "name": "Racial Harmony Day",
+   "type": "Observance"
+  },
+  {
+   "date": "2028-08-09",
+   "name": "National Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2028-10-17",
+   "name": "Diwali/Deepavali",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2028-12-24",
+   "name": "Christmas Eve",
+   "type": "Observance"
+  },
+  {
+   "date": "2028-12-25",
+   "name": "Christmas Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2028-12-31",
+   "name": "New Year’s Eve",
+   "type": "Observance"
+  },
+  {
+   "date": "2029-01-01",
+   "name": "New Year’s Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2029-01-16",
+   "name": "Ramadan Start (tentative)",
+   "type": "Observance"
+  },
+  {
+   "date": "2029-02-13",
+   "name": "Chinese New Year's Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2029-02-14",
+   "name": "Second Day of Chinese New Year",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2029-02-14",
+   "name": "Valentine's Day",
+   "type": "Observance"
+  },
+  {
+   "date": "2029-02-15",
+   "name": "Hari Raya Puasa (tentative)",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2029-02-15",
+   "name": "Total Defense Day",
+   "type": "Observance"
+  },
+  {
+   "date": "2029-03-08",
+   "name": "International Women's Day",
+   "type": "Observance"
+  },
+  {
+   "date": "2029-03-30",
+   "name": "Good Friday",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2029-03-31",
+   "name": "Easter Saturday",
+   "type": "Observance"
+  },
+  {
+   "date": "2029-04-01",
+   "name": "April Fool's Day",
+   "type": "Observance"
+  },
+  {
+   "date": "2029-04-01",
+   "name": "Easter Sunday",
+   "type": "Observance"
+  },
+  {
+   "date": "2029-04-24",
+   "name": "Hari Raya Haji (tentative)",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2029-05-01",
+   "name": "Labour Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2029-05-13",
+   "name": "Mother's Day",
+   "type": "Observance"
+  },
+  {
+   "date": "2029-06-17",
+   "name": "Father's Day",
+   "type": "Observance"
+  },
+  {
+   "date": "2029-07-01",
+   "name": "Singapore Armed Forces Day",
+   "type": "Observance"
+  },
+  {
+   "date": "2029-07-21",
+   "name": "Racial Harmony Day",
+   "type": "Observance"
+  },
+  {
+   "date": "2029-08-09",
+   "name": "National Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2029-11-05",
+   "name": "Diwali/Deepavali",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2029-12-24",
+   "name": "Christmas Eve",
+   "type": "Observance"
+  },
+  {
+   "date": "2029-12-25",
+   "name": "Christmas Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2029-12-31",
+   "name": "New Year’s Eve",
+   "type": "Observance"
+  },
+  {
+   "date": "2030-01-01",
+   "name": "New Year’s Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2030-01-06",
+   "name": "Ramadan Start (tentative)",
+   "type": "Observance"
+  },
+  {
+   "date": "2030-02-04",
+   "name": "Chinese New Year's Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2030-02-04",
+   "name": "Second Day of Chinese New Year",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2030-02-05",
+   "name": "Hari Raya Puasa (tentative)",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2030-02-14",
+   "name": "Valentine's Day",
+   "type": "Observance"
+  },
+  {
+   "date": "2030-02-15",
+   "name": "Total Defense Day",
+   "type": "Observance"
+  },
+  {
+   "date": "2030-03-08",
+   "name": "International Women's Day",
+   "type": "Observance"
+  },
+  {
+   "date": "2030-04-01",
+   "name": "April Fool's Day",
+   "type": "Observance"
+  },
+  {
+   "date": "2030-04-14",
+   "name": "Hari Raya Haji (tentative)",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2030-04-19",
+   "name": "Good Friday",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2030-04-20",
+   "name": "Easter Saturday",
+   "type": "Observance"
+  },
+  {
+   "date": "2030-04-21",
+   "name": "Easter Sunday",
+   "type": "Observance"
+  },
+  {
+   "date": "2030-05-01",
+   "name": "Labour Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2030-05-12",
+   "name": "Mother's Day",
+   "type": "Observance"
+  },
+  {
+   "date": "2030-06-16",
+   "name": "Father's Day",
+   "type": "Observance"
+  },
+  {
+   "date": "2030-07-01",
+   "name": "Singapore Armed Forces Day",
+   "type": "Observance"
+  },
+  {
+   "date": "2030-07-21",
+   "name": "Racial Harmony Day",
+   "type": "Observance"
+  },
+  {
+   "date": "2030-08-09",
+   "name": "National Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2030-10-26",
+   "name": "Diwali/Deepavali",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2030-12-24",
+   "name": "Christmas Eve",
+   "type": "Observance"
+  },
+  {
+   "date": "2030-12-25",
+   "name": "Christmas Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2030-12-26",
+   "name": "Ramadan Start (tentative)",
+   "type": "Observance"
+  },
+  {
+   "date": "2030-12-31",
+   "name": "New Year’s Eve",
+   "type": "Observance"
+  },
+  {
+   "date": "2031-01-01",
+   "name": "New Year’s Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2031-01-23",
+   "name": "Chinese New Year's Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2031-01-24",
+   "name": "Second Day of Chinese New Year",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2031-01-25",
+   "name": "Hari Raya Puasa (tentative)",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2031-02-14",
+   "name": "Valentine's Day",
+   "type": "Observance"
+  },
+  {
+   "date": "2031-02-15",
+   "name": "Total Defense Day",
+   "type": "Observance"
+  },
+  {
+   "date": "2031-03-08",
+   "name": "International Women's Day",
+   "type": "Observance"
+  },
+  {
+   "date": "2031-04-01",
+   "name": "April Fool's Day",
+   "type": "Observance"
+  },
+  {
+   "date": "2031-04-03",
+   "name": "Hari Raya Haji (tentative)",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2031-04-11",
+   "name": "Good Friday",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2031-04-12",
+   "name": "Easter Saturday",
+   "type": "Observance"
+  },
+  {
+   "date": "2031-04-13",
+   "name": "Easter Sunday",
+   "type": "Observance"
+  },
+  {
+   "date": "2031-05-01",
+   "name": "Labour Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2031-05-11",
+   "name": "Mother's Day",
+   "type": "Observance"
+  },
+  {
+   "date": "2031-06-15",
+   "name": "Father's Day",
+   "type": "Observance"
+  },
+  {
+   "date": "2031-07-01",
+   "name": "Singapore Armed Forces Day",
+   "type": "Observance"
+  },
+  {
+   "date": "2031-07-21",
+   "name": "Racial Harmony Day",
+   "type": "Observance"
+  },
+  {
+   "date": "2031-08-09",
+   "name": "National Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2031-12-15",
+   "name": "Ramadan Start (tentative)",
+   "type": "Observance"
+  },
+  {
+   "date": "2031-12-24",
+   "name": "Christmas Eve",
+   "type": "Observance"
+  },
+  {
+   "date": "2031-12-25",
+   "name": "Christmas Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2031-12-31",
+   "name": "New Year’s Eve",
+   "type": "Observance"
+  }
+ ]
+}

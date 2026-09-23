@@ -1,0 +1,1166 @@
+{
+ "id": "en.cy",
+ "name": "Holidays in Cyprus",
+ "lang": "en",
+ "from": 2021,
+ "to": 2031,
+ "count": 231,
+ "fetchedAt": "2026-09-23T12:14:40.744Z",
+ "events": [
+  {
+   "date": "2021-01-01",
+   "name": "New Year's Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2021-01-06",
+   "name": "Epiphany",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2021-03-15",
+   "name": "Green Monday",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2021-03-25",
+   "name": "Greek Independence Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2021-03-28",
+   "name": "Daylight Saving Time starts",
+   "type": "Observance"
+  },
+  {
+   "date": "2021-04-01",
+   "name": "Cyprus National Holiday",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2021-04-30",
+   "name": "Good Friday (Orthodox)",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2021-05-01",
+   "name": "Holy Saturday (Orthodox)",
+   "type": "Observance"
+  },
+  {
+   "date": "2021-05-01",
+   "name": "Labour Day/May Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2021-05-02",
+   "name": "Easter Sunday (Orthodox)",
+   "type": "Observance"
+  },
+  {
+   "date": "2021-05-03",
+   "name": "Easter Monday (Orthodox)",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2021-05-04",
+   "name": "Easter Tuesday (Orthodox)",
+   "type": "Observance"
+  },
+  {
+   "date": "2021-06-21",
+   "name": "Orthodox Pentecost Monday",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2021-08-15",
+   "name": "Assumption of the Virgin Mary",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2021-10-01",
+   "name": "Cyprus Independence Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2021-10-28",
+   "name": "Ochi Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2021-10-31",
+   "name": "Daylight Saving Time ends",
+   "type": "Observance"
+  },
+  {
+   "date": "2021-12-24",
+   "name": "Christmas Eve",
+   "type": "Observance"
+  },
+  {
+   "date": "2021-12-25",
+   "name": "Christmas Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2021-12-26",
+   "name": "Boxing Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2021-12-31",
+   "name": "New Year's Eve",
+   "type": "Observance"
+  },
+  {
+   "date": "2022-01-01",
+   "name": "New Year's Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2022-01-06",
+   "name": "Epiphany",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2022-03-07",
+   "name": "Green Monday",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2022-03-25",
+   "name": "Greek Independence Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2022-03-27",
+   "name": "Daylight Saving Time starts",
+   "type": "Observance"
+  },
+  {
+   "date": "2022-04-01",
+   "name": "Cyprus National Holiday",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2022-04-22",
+   "name": "Good Friday (Orthodox)",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2022-04-23",
+   "name": "Holy Saturday (Orthodox)",
+   "type": "Observance"
+  },
+  {
+   "date": "2022-04-24",
+   "name": "Easter Sunday (Orthodox)",
+   "type": "Observance"
+  },
+  {
+   "date": "2022-04-25",
+   "name": "Easter Monday (Orthodox)",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2022-04-26",
+   "name": "Easter Tuesday (Orthodox)",
+   "type": "Observance"
+  },
+  {
+   "date": "2022-05-01",
+   "name": "Labour Day/May Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2022-06-13",
+   "name": "Orthodox Pentecost Monday",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2022-08-15",
+   "name": "Assumption of the Virgin Mary",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2022-10-01",
+   "name": "Cyprus Independence Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2022-10-28",
+   "name": "Ochi Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2022-10-30",
+   "name": "Daylight Saving Time ends",
+   "type": "Observance"
+  },
+  {
+   "date": "2022-12-24",
+   "name": "Christmas Eve",
+   "type": "Observance"
+  },
+  {
+   "date": "2022-12-25",
+   "name": "Christmas Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2022-12-26",
+   "name": "Boxing Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2022-12-31",
+   "name": "New Year's Eve",
+   "type": "Observance"
+  },
+  {
+   "date": "2023-01-01",
+   "name": "New Year's Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2023-01-06",
+   "name": "Epiphany",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2023-02-27",
+   "name": "Green Monday",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2023-03-25",
+   "name": "Greek Independence Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2023-03-26",
+   "name": "Daylight Saving Time starts",
+   "type": "Observance"
+  },
+  {
+   "date": "2023-04-01",
+   "name": "Cyprus National Holiday",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2023-04-14",
+   "name": "Good Friday (Orthodox)",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2023-04-15",
+   "name": "Holy Saturday (Orthodox)",
+   "type": "Observance"
+  },
+  {
+   "date": "2023-04-16",
+   "name": "Easter Sunday (Orthodox)",
+   "type": "Observance"
+  },
+  {
+   "date": "2023-04-17",
+   "name": "Easter Monday (Orthodox)",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2023-04-18",
+   "name": "Easter Tuesday (Orthodox)",
+   "type": "Observance"
+  },
+  {
+   "date": "2023-05-01",
+   "name": "Labour Day/May Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2023-06-05",
+   "name": "Orthodox Pentecost Monday",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2023-08-15",
+   "name": "Assumption of the Virgin Mary",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2023-10-01",
+   "name": "Cyprus Independence Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2023-10-28",
+   "name": "Ochi Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2023-10-29",
+   "name": "Daylight Saving Time ends",
+   "type": "Observance"
+  },
+  {
+   "date": "2023-12-24",
+   "name": "Christmas Eve",
+   "type": "Observance"
+  },
+  {
+   "date": "2023-12-25",
+   "name": "Christmas Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2023-12-26",
+   "name": "Boxing Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2023-12-31",
+   "name": "New Year's Eve",
+   "type": "Observance"
+  },
+  {
+   "date": "2024-01-01",
+   "name": "New Year's Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2024-01-06",
+   "name": "Epiphany",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2024-03-18",
+   "name": "Green Monday",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2024-03-25",
+   "name": "Greek Independence Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2024-03-31",
+   "name": "Daylight Saving Time starts",
+   "type": "Observance"
+  },
+  {
+   "date": "2024-04-01",
+   "name": "Cyprus National Holiday",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2024-05-01",
+   "name": "Labour Day/May Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2024-05-03",
+   "name": "Good Friday (Orthodox)",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2024-05-04",
+   "name": "Holy Saturday (Orthodox)",
+   "type": "Observance"
+  },
+  {
+   "date": "2024-05-05",
+   "name": "Easter Sunday (Orthodox)",
+   "type": "Observance"
+  },
+  {
+   "date": "2024-05-06",
+   "name": "Easter Monday (Orthodox)",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2024-05-07",
+   "name": "Easter Tuesday (Orthodox)",
+   "type": "Observance"
+  },
+  {
+   "date": "2024-06-24",
+   "name": "Orthodox Pentecost Monday",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2024-08-15",
+   "name": "Assumption of the Virgin Mary",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2024-10-01",
+   "name": "Cyprus Independence Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2024-10-27",
+   "name": "Daylight Saving Time ends",
+   "type": "Observance"
+  },
+  {
+   "date": "2024-10-28",
+   "name": "Ochi Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2024-12-24",
+   "name": "Christmas Eve",
+   "type": "Observance"
+  },
+  {
+   "date": "2024-12-25",
+   "name": "Christmas Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2024-12-26",
+   "name": "Boxing Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2024-12-31",
+   "name": "New Year's Eve",
+   "type": "Observance"
+  },
+  {
+   "date": "2025-01-01",
+   "name": "New Year's Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2025-01-06",
+   "name": "Epiphany",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2025-03-03",
+   "name": "Green Monday",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2025-03-25",
+   "name": "Greek Independence Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2025-03-30",
+   "name": "Daylight Saving Time starts",
+   "type": "Observance"
+  },
+  {
+   "date": "2025-04-01",
+   "name": "Cyprus National Holiday",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2025-04-18",
+   "name": "Good Friday (Orthodox)",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2025-04-19",
+   "name": "Holy Saturday (Orthodox)",
+   "type": "Observance"
+  },
+  {
+   "date": "2025-04-20",
+   "name": "Easter Sunday (Orthodox)",
+   "type": "Observance"
+  },
+  {
+   "date": "2025-04-21",
+   "name": "Easter Monday (Orthodox)",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2025-04-22",
+   "name": "Easter Tuesday (Orthodox)",
+   "type": "Observance"
+  },
+  {
+   "date": "2025-05-01",
+   "name": "Labour Day/May Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2025-06-09",
+   "name": "Orthodox Pentecost Monday",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2025-08-15",
+   "name": "Assumption of the Virgin Mary",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2025-10-01",
+   "name": "Cyprus Independence Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2025-10-26",
+   "name": "Daylight Saving Time ends",
+   "type": "Observance"
+  },
+  {
+   "date": "2025-10-28",
+   "name": "Ochi Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2025-12-24",
+   "name": "Christmas Eve",
+   "type": "Observance"
+  },
+  {
+   "date": "2025-12-25",
+   "name": "Christmas Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2025-12-26",
+   "name": "Boxing Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2025-12-31",
+   "name": "New Year's Eve",
+   "type": "Observance"
+  },
+  {
+   "date": "2026-01-01",
+   "name": "New Year's Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2026-01-06",
+   "name": "Epiphany",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2026-02-23",
+   "name": "Green Monday",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2026-03-25",
+   "name": "Greek Independence Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2026-03-29",
+   "name": "Daylight Saving Time starts",
+   "type": "Observance"
+  },
+  {
+   "date": "2026-04-01",
+   "name": "Cyprus National Holiday",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2026-04-10",
+   "name": "Good Friday (Orthodox)",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2026-04-11",
+   "name": "Holy Saturday (Orthodox)",
+   "type": "Observance"
+  },
+  {
+   "date": "2026-04-12",
+   "name": "Easter Sunday (Orthodox)",
+   "type": "Observance"
+  },
+  {
+   "date": "2026-04-13",
+   "name": "Easter Monday (Orthodox)",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2026-04-14",
+   "name": "Easter Tuesday (Orthodox)",
+   "type": "Observance"
+  },
+  {
+   "date": "2026-05-01",
+   "name": "Labour Day/May Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2026-06-01",
+   "name": "Orthodox Pentecost Monday",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2026-08-15",
+   "name": "Assumption of the Virgin Mary",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2026-10-01",
+   "name": "Cyprus Independence Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2026-10-25",
+   "name": "Daylight Saving Time ends",
+   "type": "Observance"
+  },
+  {
+   "date": "2026-10-28",
+   "name": "Ochi Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2026-12-24",
+   "name": "Christmas Eve",
+   "type": "Observance"
+  },
+  {
+   "date": "2026-12-25",
+   "name": "Christmas Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2026-12-26",
+   "name": "Boxing Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2026-12-31",
+   "name": "New Year's Eve",
+   "type": "Observance"
+  },
+  {
+   "date": "2027-01-01",
+   "name": "New Year's Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2027-01-06",
+   "name": "Epiphany",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2027-03-15",
+   "name": "Green Monday",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2027-03-25",
+   "name": "Greek Independence Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2027-03-28",
+   "name": "Daylight Saving Time starts",
+   "type": "Observance"
+  },
+  {
+   "date": "2027-04-01",
+   "name": "Cyprus National Holiday",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2027-04-30",
+   "name": "Good Friday (Orthodox)",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2027-05-01",
+   "name": "Holy Saturday (Orthodox)",
+   "type": "Observance"
+  },
+  {
+   "date": "2027-05-01",
+   "name": "Labour Day/May Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2027-05-02",
+   "name": "Easter Sunday (Orthodox)",
+   "type": "Observance"
+  },
+  {
+   "date": "2027-05-03",
+   "name": "Easter Monday (Orthodox)",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2027-05-04",
+   "name": "Easter Tuesday (Orthodox)",
+   "type": "Observance"
+  },
+  {
+   "date": "2027-06-21",
+   "name": "Orthodox Pentecost Monday",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2027-08-15",
+   "name": "Assumption of the Virgin Mary",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2027-10-01",
+   "name": "Cyprus Independence Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2027-10-28",
+   "name": "Ochi Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2027-10-31",
+   "name": "Daylight Saving Time ends",
+   "type": "Observance"
+  },
+  {
+   "date": "2027-12-24",
+   "name": "Christmas Eve",
+   "type": "Observance"
+  },
+  {
+   "date": "2027-12-25",
+   "name": "Christmas Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2027-12-26",
+   "name": "Boxing Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2027-12-31",
+   "name": "New Year's Eve",
+   "type": "Observance"
+  },
+  {
+   "date": "2028-01-01",
+   "name": "New Year's Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2028-01-06",
+   "name": "Epiphany",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2028-02-28",
+   "name": "Green Monday",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2028-03-25",
+   "name": "Greek Independence Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2028-03-26",
+   "name": "Daylight Saving Time starts",
+   "type": "Observance"
+  },
+  {
+   "date": "2028-04-01",
+   "name": "Cyprus National Holiday",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2028-04-14",
+   "name": "Good Friday (Orthodox)",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2028-04-15",
+   "name": "Holy Saturday (Orthodox)",
+   "type": "Observance"
+  },
+  {
+   "date": "2028-04-16",
+   "name": "Easter Sunday (Orthodox)",
+   "type": "Observance"
+  },
+  {
+   "date": "2028-04-17",
+   "name": "Easter Monday (Orthodox)",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2028-04-18",
+   "name": "Easter Tuesday (Orthodox)",
+   "type": "Observance"
+  },
+  {
+   "date": "2028-05-01",
+   "name": "Labour Day/May Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2028-06-05",
+   "name": "Orthodox Pentecost Monday",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2028-08-15",
+   "name": "Assumption of the Virgin Mary",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2028-10-01",
+   "name": "Cyprus Independence Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2028-10-28",
+   "name": "Ochi Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2028-10-29",
+   "name": "Daylight Saving Time ends",
+   "type": "Observance"
+  },
+  {
+   "date": "2028-12-24",
+   "name": "Christmas Eve",
+   "type": "Observance"
+  },
+  {
+   "date": "2028-12-25",
+   "name": "Christmas Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2028-12-26",
+   "name": "Boxing Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2028-12-31",
+   "name": "New Year's Eve",
+   "type": "Observance"
+  },
+  {
+   "date": "2029-01-01",
+   "name": "New Year's Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2029-01-06",
+   "name": "Epiphany",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2029-02-19",
+   "name": "Green Monday",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2029-03-25",
+   "name": "Daylight Saving Time starts",
+   "type": "Observance"
+  },
+  {
+   "date": "2029-03-25",
+   "name": "Greek Independence Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2029-04-01",
+   "name": "Cyprus National Holiday",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2029-04-06",
+   "name": "Good Friday (Orthodox)",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2029-04-07",
+   "name": "Holy Saturday (Orthodox)",
+   "type": "Observance"
+  },
+  {
+   "date": "2029-04-08",
+   "name": "Easter Sunday (Orthodox)",
+   "type": "Observance"
+  },
+  {
+   "date": "2029-04-09",
+   "name": "Easter Monday (Orthodox)",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2029-04-10",
+   "name": "Easter Tuesday (Orthodox)",
+   "type": "Observance"
+  },
+  {
+   "date": "2029-05-01",
+   "name": "Labour Day/May Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2029-05-28",
+   "name": "Orthodox Pentecost Monday",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2029-08-15",
+   "name": "Assumption of the Virgin Mary",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2029-10-01",
+   "name": "Cyprus Independence Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2029-10-28",
+   "name": "Daylight Saving Time ends",
+   "type": "Observance"
+  },
+  {
+   "date": "2029-10-28",
+   "name": "Ochi Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2029-12-24",
+   "name": "Christmas Eve",
+   "type": "Observance"
+  },
+  {
+   "date": "2029-12-25",
+   "name": "Christmas Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2029-12-26",
+   "name": "Boxing Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2029-12-31",
+   "name": "New Year's Eve",
+   "type": "Observance"
+  },
+  {
+   "date": "2030-01-01",
+   "name": "New Year's Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2030-01-06",
+   "name": "Epiphany",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2030-03-11",
+   "name": "Green Monday",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2030-03-25",
+   "name": "Greek Independence Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2030-03-31",
+   "name": "Daylight Saving Time starts",
+   "type": "Observance"
+  },
+  {
+   "date": "2030-04-01",
+   "name": "Cyprus National Holiday",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2030-04-26",
+   "name": "Good Friday (Orthodox)",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2030-04-27",
+   "name": "Holy Saturday (Orthodox)",
+   "type": "Observance"
+  },
+  {
+   "date": "2030-04-28",
+   "name": "Easter Sunday (Orthodox)",
+   "type": "Observance"
+  },
+  {
+   "date": "2030-04-29",
+   "name": "Easter Monday (Orthodox)",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2030-04-30",
+   "name": "Easter Tuesday (Orthodox)",
+   "type": "Observance"
+  },
+  {
+   "date": "2030-05-01",
+   "name": "Labour Day/May Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2030-06-17",
+   "name": "Orthodox Pentecost Monday",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2030-08-15",
+   "name": "Assumption of the Virgin Mary",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2030-10-01",
+   "name": "Cyprus Independence Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2030-10-27",
+   "name": "Daylight Saving Time ends",
+   "type": "Observance"
+  },
+  {
+   "date": "2030-10-28",
+   "name": "Ochi Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2030-12-24",
+   "name": "Christmas Eve",
+   "type": "Observance"
+  },
+  {
+   "date": "2030-12-25",
+   "name": "Christmas Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2030-12-26",
+   "name": "Boxing Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2030-12-31",
+   "name": "New Year's Eve",
+   "type": "Observance"
+  },
+  {
+   "date": "2031-01-01",
+   "name": "New Year's Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2031-01-06",
+   "name": "Epiphany",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2031-02-24",
+   "name": "Green Monday",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2031-03-25",
+   "name": "Greek Independence Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2031-03-30",
+   "name": "Daylight Saving Time starts",
+   "type": "Observance"
+  },
+  {
+   "date": "2031-04-01",
+   "name": "Cyprus National Holiday",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2031-04-11",
+   "name": "Good Friday (Orthodox)",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2031-04-12",
+   "name": "Holy Saturday (Orthodox)",
+   "type": "Observance"
+  },
+  {
+   "date": "2031-04-13",
+   "name": "Easter Sunday (Orthodox)",
+   "type": "Observance"
+  },
+  {
+   "date": "2031-04-14",
+   "name": "Easter Monday (Orthodox)",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2031-04-15",
+   "name": "Easter Tuesday (Orthodox)",
+   "type": "Observance"
+  },
+  {
+   "date": "2031-05-01",
+   "name": "Labour Day/May Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2031-06-02",
+   "name": "Orthodox Pentecost Monday",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2031-08-15",
+   "name": "Assumption of the Virgin Mary",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2031-10-01",
+   "name": "Cyprus Independence Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2031-10-26",
+   "name": "Daylight Saving Time ends",
+   "type": "Observance"
+  },
+  {
+   "date": "2031-10-28",
+   "name": "Ochi Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2031-12-24",
+   "name": "Christmas Eve",
+   "type": "Observance"
+  },
+  {
+   "date": "2031-12-25",
+   "name": "Christmas Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2031-12-26",
+   "name": "Boxing Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2031-12-31",
+   "name": "New Year's Eve",
+   "type": "Observance"
+  }
+ ]
+}

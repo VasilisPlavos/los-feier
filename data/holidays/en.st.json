@@ -1,0 +1,766 @@
+{
+ "id": "en.st",
+ "name": "Holidays in São Tomé & Príncipe",
+ "lang": "en",
+ "from": 2021,
+ "to": 2031,
+ "count": 151,
+ "fetchedAt": "2026-09-23T12:14:41.033Z",
+ "events": [
+  {
+   "date": "2021-01-01",
+   "name": "New Year",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2021-01-04",
+   "name": "Day of King Amador",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2021-02-03",
+   "name": "Commemoration of the Batepá Massacre",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2021-04-30",
+   "name": "Day off for Labour Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2021-05-01",
+   "name": "Labour Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2021-07-12",
+   "name": "Independence Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2021-09-06",
+   "name": "Armed Forces' Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2021-09-30",
+   "name": "Nationalization of the Roças",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2021-12-21",
+   "name": "São Tomé Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2021-12-24",
+   "name": "Day off for Christmas Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2021-12-25",
+   "name": "Christmas Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2021-12-31",
+   "name": "Day off for New Year",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2022-01-01",
+   "name": "New Year",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2022-01-04",
+   "name": "Day of King Amador",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2022-02-03",
+   "name": "Commemoration of the Batepá Massacre",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2022-05-01",
+   "name": "Labour Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2022-05-02",
+   "name": "Day off for Labour Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2022-07-12",
+   "name": "Independence Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2022-09-06",
+   "name": "Armed Forces' Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2022-09-30",
+   "name": "Nationalization of the Roças",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2022-12-21",
+   "name": "São Tomé Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2022-12-25",
+   "name": "Christmas Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2022-12-26",
+   "name": "Day off for Christmas Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2023-01-01",
+   "name": "New Year",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2023-01-02",
+   "name": "Day off for New Year",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2023-01-04",
+   "name": "Day of King Amador",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2023-02-03",
+   "name": "Commemoration of the Batepá Massacre",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2023-05-01",
+   "name": "Labour Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2023-07-12",
+   "name": "Independence Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2023-09-06",
+   "name": "Armed Forces' Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2023-09-29",
+   "name": "Day off for Nationalization of the Roças",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2023-09-30",
+   "name": "Nationalization of the Roças",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2023-12-21",
+   "name": "São Tomé Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2023-12-25",
+   "name": "Christmas Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2024-01-01",
+   "name": "New Year",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2024-01-04",
+   "name": "Day of King Amador",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2024-02-02",
+   "name": "Day off for Commemoration of the Batepá Massacre",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2024-02-03",
+   "name": "Commemoration of the Batepá Massacre",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2024-05-01",
+   "name": "Labour Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2024-07-12",
+   "name": "Independence Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2024-09-06",
+   "name": "Armed Forces' Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2024-09-30",
+   "name": "Nationalization of the Roças",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2024-12-20",
+   "name": "Day off for São Tomé Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2024-12-21",
+   "name": "São Tomé Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2024-12-25",
+   "name": "Christmas Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2025-01-01",
+   "name": "New Year",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2025-01-03",
+   "name": "Day off for Day of King Amador",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2025-01-04",
+   "name": "Day of King Amador",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2025-02-03",
+   "name": "Commemoration of the Batepá Massacre",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2025-05-01",
+   "name": "Labour Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2025-07-11",
+   "name": "Day off for Independence Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2025-07-12",
+   "name": "Independence Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2025-09-05",
+   "name": "Day off for Armed Forces' Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2025-09-06",
+   "name": "Armed Forces' Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2025-09-30",
+   "name": "Nationalization of the Roças",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2025-12-21",
+   "name": "São Tomé Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2025-12-22",
+   "name": "Day off for São Tomé Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2025-12-25",
+   "name": "Christmas Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2026-01-01",
+   "name": "New Year",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2026-01-04",
+   "name": "Day of King Amador",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2026-01-05",
+   "name": "Day off for Day of King Amador",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2026-02-03",
+   "name": "Commemoration of the Batepá Massacre",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2026-02-18",
+   "name": "Ash Wednesday",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2026-05-01",
+   "name": "Labour Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2026-06-01",
+   "name": "Children's Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2026-07-12",
+   "name": "Independence Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2026-07-13",
+   "name": "Day off for Independence Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2026-09-06",
+   "name": "Armed Forces' Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2026-09-07",
+   "name": "Day off for Armed Forces' Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2026-09-30",
+   "name": "Nationalization of the Roças",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2026-11-02",
+   "name": "All Souls Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2026-11-26",
+   "name": "Day of the Signing of the Argel Accord",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2026-12-21",
+   "name": "São Tomé Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2026-12-25",
+   "name": "Christmas Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2027-01-01",
+   "name": "New Year",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2027-01-04",
+   "name": "Day of King Amador",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2027-02-03",
+   "name": "Commemoration of the Batepá Massacre",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2027-02-10",
+   "name": "Ash Wednesday",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2027-04-30",
+   "name": "Day off for Labour Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2027-05-01",
+   "name": "Labour Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2027-06-01",
+   "name": "Children's Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2027-07-12",
+   "name": "Independence Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2027-09-06",
+   "name": "Armed Forces' Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2027-09-30",
+   "name": "Nationalization of the Roças",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2027-11-02",
+   "name": "All Souls Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2027-11-26",
+   "name": "Day of the Signing of the Argel Accord",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2027-12-21",
+   "name": "São Tomé Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2027-12-24",
+   "name": "Day off for Christmas Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2027-12-25",
+   "name": "Christmas Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2027-12-31",
+   "name": "Day off for New Year",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2028-01-01",
+   "name": "New Year",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2028-01-04",
+   "name": "Day of King Amador",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2028-02-03",
+   "name": "Commemoration of the Batepá Massacre",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2028-03-01",
+   "name": "Ash Wednesday",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2028-05-01",
+   "name": "Labour Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2028-06-01",
+   "name": "Children's Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2028-07-12",
+   "name": "Independence Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2028-09-06",
+   "name": "Armed Forces' Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2028-09-29",
+   "name": "Day off for Nationalization of the Roças",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2028-09-30",
+   "name": "Nationalization of the Roças",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2028-11-02",
+   "name": "All Souls Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2028-11-26",
+   "name": "Day of the Signing of the Argel Accord",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2028-12-21",
+   "name": "São Tomé Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2028-12-25",
+   "name": "Christmas Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2029-01-01",
+   "name": "New Year",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2029-01-04",
+   "name": "Day of King Amador",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2029-02-02",
+   "name": "Day off for Commemoration of the Batepá Massacre",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2029-02-03",
+   "name": "Commemoration of the Batepá Massacre",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2029-02-14",
+   "name": "Ash Wednesday",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2029-05-01",
+   "name": "Labour Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2029-06-01",
+   "name": "Children's Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2029-07-12",
+   "name": "Independence Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2029-09-06",
+   "name": "Armed Forces' Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2029-09-30",
+   "name": "Nationalization of the Roças",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2029-10-01",
+   "name": "Day off for Nationalization of the Roças",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2029-11-02",
+   "name": "All Souls Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2029-11-26",
+   "name": "Day of the Signing of the Argel Accord",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2029-12-21",
+   "name": "São Tomé Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2029-12-25",
+   "name": "Christmas Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2030-01-01",
+   "name": "New Year",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2030-01-04",
+   "name": "Day of King Amador",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2030-02-03",
+   "name": "Commemoration of the Batepá Massacre",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2030-02-04",
+   "name": "Day off for Commemoration of the Batepá Massacre",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2030-03-06",
+   "name": "Ash Wednesday",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2030-05-01",
+   "name": "Labour Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2030-06-01",
+   "name": "Children's Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2030-07-12",
+   "name": "Independence Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2030-09-06",
+   "name": "Armed Forces' Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2030-09-30",
+   "name": "Nationalization of the Roças",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2030-11-02",
+   "name": "All Souls Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2030-11-26",
+   "name": "Day of the Signing of the Argel Accord",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2030-12-20",
+   "name": "Day off for São Tomé Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2030-12-21",
+   "name": "São Tomé Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2030-12-25",
+   "name": "Christmas Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2031-01-01",
+   "name": "New Year",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2031-01-03",
+   "name": "Day off for Day of King Amador",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2031-01-04",
+   "name": "Day of King Amador",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2031-02-03",
+   "name": "Commemoration of the Batepá Massacre",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2031-02-26",
+   "name": "Ash Wednesday",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2031-05-01",
+   "name": "Labour Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2031-06-01",
+   "name": "Children's Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2031-07-11",
+   "name": "Day off for Independence Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2031-07-12",
+   "name": "Independence Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2031-09-05",
+   "name": "Day off for Armed Forces' Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2031-09-06",
+   "name": "Armed Forces' Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2031-09-30",
+   "name": "Nationalization of the Roças",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2031-11-02",
+   "name": "All Souls Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2031-11-26",
+   "name": "Day of the Signing of the Argel Accord",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2031-12-21",
+   "name": "São Tomé Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2031-12-22",
+   "name": "Day off for São Tomé Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2031-12-25",
+   "name": "Christmas Day",
+   "type": "Public holiday"
+  }
+ ]
+}

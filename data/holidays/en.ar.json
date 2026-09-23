@@ -1,0 +1,2116 @@
+{
+ "id": "en.ar",
+ "name": "Holidays in Argentina",
+ "lang": "en",
+ "from": 2021,
+ "to": 2031,
+ "count": 421,
+ "fetchedAt": "2026-09-23T12:14:40.654Z",
+ "events": [
+  {
+   "date": "2021-01-01",
+   "name": "New Year's Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2021-02-15",
+   "name": "Carnival / Shrove Monday",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2021-02-16",
+   "name": "Carnival / Shrove Tuesday / Pancake Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2021-03-24",
+   "name": "Memorial Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2021-03-27",
+   "name": "Passover Eve",
+   "type": "Observance"
+  },
+  {
+   "date": "2021-03-28",
+   "name": "First day of Passover",
+   "type": "Observance"
+  },
+  {
+   "date": "2021-03-29",
+   "name": "Second Day of Passover",
+   "type": "Observance"
+  },
+  {
+   "date": "2021-04-01",
+   "name": "Maundy Thursday",
+   "type": "Observance"
+  },
+  {
+   "date": "2021-04-02",
+   "name": "Day of the Veterans",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2021-04-02",
+   "name": "Good Friday",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2021-04-02",
+   "name": "Sixth Day of Passover",
+   "type": "Observance"
+  },
+  {
+   "date": "2021-04-03",
+   "name": "Seventh Day of Passover",
+   "type": "Observance"
+  },
+  {
+   "date": "2021-04-04",
+   "name": "Easter Sunday",
+   "type": "Observance"
+  },
+  {
+   "date": "2021-04-04",
+   "name": "Last day of Passover",
+   "type": "Observance"
+  },
+  {
+   "date": "2021-04-24",
+   "name": "Action Day for Tolerance and Respect between People",
+   "type": "Observance"
+  },
+  {
+   "date": "2021-05-01",
+   "name": "Labor Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2021-05-13",
+   "name": "End of Ramadan",
+   "type": "Observance"
+  },
+  {
+   "date": "2021-05-24",
+   "name": "Tourist Bridge Holiday",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2021-05-25",
+   "name": "National Day/May 1810 Revolution",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2021-06-17",
+   "name": "Commemoration of General Don Martín Miguel de Güemes",
+   "type": "Observance"
+  },
+  {
+   "date": "2021-06-20",
+   "name": "Flag Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2021-06-21",
+   "name": "Day off for the Commemoration of General Don Martín Miguel de Güemes",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2021-07-09",
+   "name": "Independence Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2021-07-20",
+   "name": "Eid al-Adha",
+   "type": "Observance"
+  },
+  {
+   "date": "2021-08-10",
+   "name": "Muharram/New Year",
+   "type": "Observance"
+  },
+  {
+   "date": "2021-08-16",
+   "name": "San Martín Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2021-09-06",
+   "name": "Rosh Hashana Eve",
+   "type": "Observance"
+  },
+  {
+   "date": "2021-09-07",
+   "name": "Rosh Hashana",
+   "type": "Observance"
+  },
+  {
+   "date": "2021-09-08",
+   "name": "Second day of Rosh Hashana",
+   "type": "Observance"
+  },
+  {
+   "date": "2021-09-15",
+   "name": "Yom Kippur Eve",
+   "type": "Observance"
+  },
+  {
+   "date": "2021-09-16",
+   "name": "Yom Kippur",
+   "type": "Observance"
+  },
+  {
+   "date": "2021-10-08",
+   "name": "Tourist Bridge Holiday",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2021-10-11",
+   "name": "Day of Respect for Cultural Diversity",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2021-10-17",
+   "name": "Mothers' Day",
+   "type": "Observance"
+  },
+  {
+   "date": "2021-11-20",
+   "name": "National Sovereignty Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2021-11-22",
+   "name": "Tourist Bridge Holiday",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2021-12-08",
+   "name": "Immaculate Conception",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2021-12-25",
+   "name": "Christmas Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2021-12-31",
+   "name": "New Year's Eve",
+   "type": "Observance"
+  },
+  {
+   "date": "2022-01-01",
+   "name": "New Year's Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2022-01-13",
+   "name": "Public Sector Half Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2022-01-14",
+   "name": "Public Sector Half Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2022-02-28",
+   "name": "Carnival / Shrove Monday",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2022-03-01",
+   "name": "Carnival / Shrove Tuesday / Pancake Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2022-03-24",
+   "name": "Memorial Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2022-04-02",
+   "name": "Day of the Veterans",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2022-04-14",
+   "name": "Maundy Thursday",
+   "type": "Observance"
+  },
+  {
+   "date": "2022-04-15",
+   "name": "Good Friday",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2022-04-15",
+   "name": "Passover Eve",
+   "type": "Observance"
+  },
+  {
+   "date": "2022-04-16",
+   "name": "First day of Passover",
+   "type": "Observance"
+  },
+  {
+   "date": "2022-04-17",
+   "name": "Easter Sunday",
+   "type": "Observance"
+  },
+  {
+   "date": "2022-04-17",
+   "name": "Second Day of Passover",
+   "type": "Observance"
+  },
+  {
+   "date": "2022-04-21",
+   "name": "Sixth Day of Passover",
+   "type": "Observance"
+  },
+  {
+   "date": "2022-04-22",
+   "name": "Seventh Day of Passover",
+   "type": "Observance"
+  },
+  {
+   "date": "2022-04-23",
+   "name": "Last day of Passover",
+   "type": "Observance"
+  },
+  {
+   "date": "2022-04-24",
+   "name": "Action Day for Tolerance and Respect between People",
+   "type": "Observance"
+  },
+  {
+   "date": "2022-05-01",
+   "name": "Labor Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2022-05-02",
+   "name": "End of Ramadan",
+   "type": "Observance"
+  },
+  {
+   "date": "2022-05-18",
+   "name": "Census Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2022-05-25",
+   "name": "National Day/May 1810 Revolution",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2022-06-17",
+   "name": "Commemoration of General Don Martín Miguel de Güemes",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2022-06-20",
+   "name": "Flag Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2022-07-09",
+   "name": "Eid al-Adha",
+   "type": "Observance"
+  },
+  {
+   "date": "2022-07-09",
+   "name": "Independence Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2022-07-30",
+   "name": "Muharram/New Year",
+   "type": "Observance"
+  },
+  {
+   "date": "2022-08-15",
+   "name": "San Martín Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2022-09-02",
+   "name": "Public Holiday",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2022-09-25",
+   "name": "Rosh Hashana Eve",
+   "type": "Observance"
+  },
+  {
+   "date": "2022-09-26",
+   "name": "Rosh Hashana",
+   "type": "Observance"
+  },
+  {
+   "date": "2022-09-27",
+   "name": "Second day of Rosh Hashana",
+   "type": "Observance"
+  },
+  {
+   "date": "2022-10-04",
+   "name": "Yom Kippur Eve",
+   "type": "Observance"
+  },
+  {
+   "date": "2022-10-05",
+   "name": "Yom Kippur",
+   "type": "Observance"
+  },
+  {
+   "date": "2022-10-07",
+   "name": "Tourist Bridge Holiday",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2022-10-10",
+   "name": "Day of Respect for Cultural Diversity",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2022-10-16",
+   "name": "Mothers' Day",
+   "type": "Observance"
+  },
+  {
+   "date": "2022-11-20",
+   "name": "National Sovereignty Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2022-11-21",
+   "name": "Tourist Bridge Holiday",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2022-12-08",
+   "name": "Immaculate Conception",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2022-12-09",
+   "name": "Tourist Bridge Holiday",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2022-12-20",
+   "name": "World Cup Win Public Holiday",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2022-12-25",
+   "name": "Christmas Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2022-12-31",
+   "name": "New Year's Eve",
+   "type": "Observance"
+  },
+  {
+   "date": "2023-01-01",
+   "name": "New Year's Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2023-02-20",
+   "name": "Carnival / Shrove Monday",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2023-02-21",
+   "name": "Carnival / Shrove Tuesday / Pancake Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2023-03-23",
+   "name": "Ramadan Start",
+   "type": "Observance"
+  },
+  {
+   "date": "2023-03-24",
+   "name": "Memorial Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2023-04-02",
+   "name": "Day of the Veterans",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2023-04-05",
+   "name": "Passover Eve",
+   "type": "Observance"
+  },
+  {
+   "date": "2023-04-06",
+   "name": "First day of Passover",
+   "type": "Observance"
+  },
+  {
+   "date": "2023-04-06",
+   "name": "Maundy Thursday",
+   "type": "Observance"
+  },
+  {
+   "date": "2023-04-07",
+   "name": "Good Friday",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2023-04-07",
+   "name": "Second Day of Passover",
+   "type": "Observance"
+  },
+  {
+   "date": "2023-04-09",
+   "name": "Easter Sunday",
+   "type": "Observance"
+  },
+  {
+   "date": "2023-04-11",
+   "name": "Sixth Day of Passover",
+   "type": "Observance"
+  },
+  {
+   "date": "2023-04-12",
+   "name": "Seventh Day of Passover",
+   "type": "Observance"
+  },
+  {
+   "date": "2023-04-13",
+   "name": "Last day of Passover",
+   "type": "Observance"
+  },
+  {
+   "date": "2023-04-21",
+   "name": "End of Ramadan",
+   "type": "Observance"
+  },
+  {
+   "date": "2023-04-24",
+   "name": "Action Day for Tolerance and Respect between People",
+   "type": "Observance"
+  },
+  {
+   "date": "2023-05-01",
+   "name": "Labor Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2023-05-25",
+   "name": "National Day/May 1810 Revolution",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2023-05-26",
+   "name": "Tourist Bridge Holiday",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2023-06-17",
+   "name": "Commemoration of General Don Martín Miguel de Güemes",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2023-06-19",
+   "name": "Tourist Bridge Holiday",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2023-06-20",
+   "name": "Flag Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2023-06-28",
+   "name": "Eid al-Adha",
+   "type": "Observance"
+  },
+  {
+   "date": "2023-07-09",
+   "name": "Independence Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2023-07-19",
+   "name": "Muharram/New Year",
+   "type": "Observance"
+  },
+  {
+   "date": "2023-08-21",
+   "name": "San Martín Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2023-09-15",
+   "name": "Rosh Hashana Eve",
+   "type": "Observance"
+  },
+  {
+   "date": "2023-09-16",
+   "name": "Rosh Hashana",
+   "type": "Observance"
+  },
+  {
+   "date": "2023-09-17",
+   "name": "Second day of Rosh Hashana",
+   "type": "Observance"
+  },
+  {
+   "date": "2023-09-24",
+   "name": "Yom Kippur Eve",
+   "type": "Observance"
+  },
+  {
+   "date": "2023-09-25",
+   "name": "Yom Kippur",
+   "type": "Observance"
+  },
+  {
+   "date": "2023-10-13",
+   "name": "Tourist Bridge Holiday",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2023-10-15",
+   "name": "Mothers' Day",
+   "type": "Observance"
+  },
+  {
+   "date": "2023-10-16",
+   "name": "Day of Respect for Cultural Diversity",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2023-11-20",
+   "name": "National Sovereignty Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2023-12-08",
+   "name": "Immaculate Conception",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2023-12-25",
+   "name": "Christmas Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2023-12-31",
+   "name": "New Year's Eve",
+   "type": "Observance"
+  },
+  {
+   "date": "2024-01-01",
+   "name": "New Year's Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2024-02-12",
+   "name": "Carnival / Shrove Monday",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2024-02-13",
+   "name": "Carnival / Shrove Tuesday / Pancake Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2024-03-11",
+   "name": "Ramadan Start",
+   "type": "Observance"
+  },
+  {
+   "date": "2024-03-24",
+   "name": "Memorial Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2024-03-28",
+   "name": "Maundy Thursday",
+   "type": "Observance"
+  },
+  {
+   "date": "2024-03-29",
+   "name": "Good Friday",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2024-03-31",
+   "name": "Easter Sunday",
+   "type": "Observance"
+  },
+  {
+   "date": "2024-04-01",
+   "name": "Tourist Bridge Holiday",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2024-04-02",
+   "name": "Day of the Veterans",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2024-04-10",
+   "name": "End of Ramadan",
+   "type": "Observance"
+  },
+  {
+   "date": "2024-04-22",
+   "name": "Passover Eve",
+   "type": "Observance"
+  },
+  {
+   "date": "2024-04-23",
+   "name": "First day of Passover",
+   "type": "Observance"
+  },
+  {
+   "date": "2024-04-24",
+   "name": "Action Day for Tolerance and Respect between People",
+   "type": "Observance"
+  },
+  {
+   "date": "2024-04-24",
+   "name": "Second Day of Passover",
+   "type": "Observance"
+  },
+  {
+   "date": "2024-04-28",
+   "name": "Sixth Day of Passover",
+   "type": "Observance"
+  },
+  {
+   "date": "2024-04-29",
+   "name": "Seventh Day of Passover",
+   "type": "Observance"
+  },
+  {
+   "date": "2024-04-30",
+   "name": "Last day of Passover",
+   "type": "Observance"
+  },
+  {
+   "date": "2024-05-01",
+   "name": "Labor Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2024-05-25",
+   "name": "National Day/May 1810 Revolution",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2024-06-16",
+   "name": "Eid al-Adha",
+   "type": "Observance"
+  },
+  {
+   "date": "2024-06-17",
+   "name": "Commemoration of General Don Martín Miguel de Güemes",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2024-06-20",
+   "name": "Flag Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2024-06-21",
+   "name": "Tourist Bridge Holiday",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2024-07-07",
+   "name": "Muharram/New Year",
+   "type": "Observance"
+  },
+  {
+   "date": "2024-07-09",
+   "name": "Independence Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2024-08-17",
+   "name": "San Martín Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2024-10-02",
+   "name": "Rosh Hashana Eve",
+   "type": "Observance"
+  },
+  {
+   "date": "2024-10-03",
+   "name": "Rosh Hashana",
+   "type": "Observance"
+  },
+  {
+   "date": "2024-10-04",
+   "name": "Second day of Rosh Hashana",
+   "type": "Observance"
+  },
+  {
+   "date": "2024-10-11",
+   "name": "Tourist Bridge Holiday",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2024-10-11",
+   "name": "Yom Kippur Eve",
+   "type": "Observance"
+  },
+  {
+   "date": "2024-10-12",
+   "name": "Day of Respect for Cultural Diversity",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2024-10-12",
+   "name": "Yom Kippur",
+   "type": "Observance"
+  },
+  {
+   "date": "2024-10-20",
+   "name": "Mothers' Day",
+   "type": "Observance"
+  },
+  {
+   "date": "2024-11-18",
+   "name": "National Sovereignty Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2024-12-09",
+   "name": "Immaculate Conception",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2024-12-25",
+   "name": "Christmas Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2024-12-31",
+   "name": "New Year's Eve",
+   "type": "Observance"
+  },
+  {
+   "date": "2025-01-01",
+   "name": "New Year's Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2025-03-01",
+   "name": "Ramadan Start",
+   "type": "Observance"
+  },
+  {
+   "date": "2025-03-03",
+   "name": "Carnival / Shrove Monday",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2025-03-04",
+   "name": "Carnival / Shrove Tuesday / Pancake Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2025-03-24",
+   "name": "Memorial Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2025-03-30",
+   "name": "End of Ramadan",
+   "type": "Observance"
+  },
+  {
+   "date": "2025-04-02",
+   "name": "Day of the Veterans",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2025-04-12",
+   "name": "Passover Eve",
+   "type": "Observance"
+  },
+  {
+   "date": "2025-04-13",
+   "name": "First day of Passover",
+   "type": "Observance"
+  },
+  {
+   "date": "2025-04-14",
+   "name": "Second Day of Passover",
+   "type": "Observance"
+  },
+  {
+   "date": "2025-04-17",
+   "name": "Maundy Thursday",
+   "type": "Observance"
+  },
+  {
+   "date": "2025-04-18",
+   "name": "Good Friday",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2025-04-18",
+   "name": "Sixth Day of Passover",
+   "type": "Observance"
+  },
+  {
+   "date": "2025-04-19",
+   "name": "Seventh Day of Passover",
+   "type": "Observance"
+  },
+  {
+   "date": "2025-04-20",
+   "name": "Easter Sunday",
+   "type": "Observance"
+  },
+  {
+   "date": "2025-04-20",
+   "name": "Last day of Passover",
+   "type": "Observance"
+  },
+  {
+   "date": "2025-04-24",
+   "name": "Action Day for Tolerance and Respect between People",
+   "type": "Observance"
+  },
+  {
+   "date": "2025-05-01",
+   "name": "Labor Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2025-05-02",
+   "name": "Tourist Bridge Holiday",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2025-05-25",
+   "name": "National Day/May 1810 Revolution",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2025-06-06",
+   "name": "Eid al-Adha",
+   "type": "Observance"
+  },
+  {
+   "date": "2025-06-16",
+   "name": "Day off for the Commemoration of General Don Martín Miguel de Güemes",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2025-06-17",
+   "name": "Commemoration of General Don Martín Miguel de Güemes",
+   "type": "Observance"
+  },
+  {
+   "date": "2025-06-20",
+   "name": "Flag Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2025-06-26",
+   "name": "Muharram/New Year",
+   "type": "Observance"
+  },
+  {
+   "date": "2025-07-09",
+   "name": "Independence Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2025-08-15",
+   "name": "Tourist Bridge Holiday",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2025-08-17",
+   "name": "San Martín Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2025-09-22",
+   "name": "Rosh Hashana Eve",
+   "type": "Observance"
+  },
+  {
+   "date": "2025-09-23",
+   "name": "Rosh Hashana",
+   "type": "Observance"
+  },
+  {
+   "date": "2025-09-24",
+   "name": "Second day of Rosh Hashana",
+   "type": "Observance"
+  },
+  {
+   "date": "2025-10-01",
+   "name": "Yom Kippur Eve",
+   "type": "Observance"
+  },
+  {
+   "date": "2025-10-02",
+   "name": "Yom Kippur",
+   "type": "Observance"
+  },
+  {
+   "date": "2025-10-10",
+   "name": "Day off for Day of Respect for Cultural Diversity",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2025-10-12",
+   "name": "Day of Respect for Cultural Diversity",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2025-10-19",
+   "name": "Mothers' Day",
+   "type": "Observance"
+  },
+  {
+   "date": "2025-11-21",
+   "name": "Tourist Bridge Holiday",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2025-11-24",
+   "name": "National Sovereignty Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2025-12-08",
+   "name": "Immaculate Conception",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2025-12-25",
+   "name": "Christmas Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2025-12-31",
+   "name": "New Year's Eve",
+   "type": "Observance"
+  },
+  {
+   "date": "2026-01-01",
+   "name": "New Year's Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2026-02-16",
+   "name": "Carnival / Shrove Monday",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2026-02-17",
+   "name": "Carnival / Shrove Tuesday / Pancake Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2026-02-18",
+   "name": "Ramadan Start",
+   "type": "Observance"
+  },
+  {
+   "date": "2026-03-20",
+   "name": "End of Ramadan",
+   "type": "Observance"
+  },
+  {
+   "date": "2026-03-23",
+   "name": "Tourist Bridge Holiday",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2026-03-24",
+   "name": "Memorial Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2026-04-01",
+   "name": "Passover Eve",
+   "type": "Observance"
+  },
+  {
+   "date": "2026-04-02",
+   "name": "Day of the Veterans",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2026-04-02",
+   "name": "First day of Passover",
+   "type": "Observance"
+  },
+  {
+   "date": "2026-04-02",
+   "name": "Maundy Thursday",
+   "type": "Observance"
+  },
+  {
+   "date": "2026-04-03",
+   "name": "Good Friday",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2026-04-03",
+   "name": "Second Day of Passover",
+   "type": "Observance"
+  },
+  {
+   "date": "2026-04-05",
+   "name": "Easter Sunday",
+   "type": "Observance"
+  },
+  {
+   "date": "2026-04-07",
+   "name": "Sixth Day of Passover",
+   "type": "Observance"
+  },
+  {
+   "date": "2026-04-08",
+   "name": "Seventh Day of Passover",
+   "type": "Observance"
+  },
+  {
+   "date": "2026-04-09",
+   "name": "Last day of Passover",
+   "type": "Observance"
+  },
+  {
+   "date": "2026-04-24",
+   "name": "Action Day for Tolerance and Respect between People",
+   "type": "Observance"
+  },
+  {
+   "date": "2026-05-01",
+   "name": "Labor Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2026-05-25",
+   "name": "National Day/May 1810 Revolution",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2026-05-27",
+   "name": "Eid al-Adha",
+   "type": "Observance"
+  },
+  {
+   "date": "2026-06-15",
+   "name": "Commemoration of General Don Martín Miguel de Güemes",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2026-06-16",
+   "name": "Muharram/New Year",
+   "type": "Observance"
+  },
+  {
+   "date": "2026-06-17",
+   "name": "Commemoration of General Don Martín Miguel de Güemes",
+   "type": "Observance"
+  },
+  {
+   "date": "2026-06-20",
+   "name": "Flag Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2026-07-09",
+   "name": "Independence Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2026-07-10",
+   "name": "Tourist Bridge Holiday",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2026-08-17",
+   "name": "San Martín Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2026-09-11",
+   "name": "Rosh Hashana Eve",
+   "type": "Observance"
+  },
+  {
+   "date": "2026-09-12",
+   "name": "Rosh Hashana",
+   "type": "Observance"
+  },
+  {
+   "date": "2026-09-13",
+   "name": "Second day of Rosh Hashana",
+   "type": "Observance"
+  },
+  {
+   "date": "2026-09-20",
+   "name": "Yom Kippur Eve",
+   "type": "Observance"
+  },
+  {
+   "date": "2026-09-21",
+   "name": "Yom Kippur",
+   "type": "Observance"
+  },
+  {
+   "date": "2026-10-12",
+   "name": "Day of Respect for Cultural Diversity",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2026-10-18",
+   "name": "Mothers' Day",
+   "type": "Observance"
+  },
+  {
+   "date": "2026-11-23",
+   "name": "National Sovereignty Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2026-12-07",
+   "name": "Tourist Bridge Holiday",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2026-12-08",
+   "name": "Immaculate Conception",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2026-12-25",
+   "name": "Christmas Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2026-12-31",
+   "name": "New Year's Eve",
+   "type": "Observance"
+  },
+  {
+   "date": "2027-01-01",
+   "name": "New Year's Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2027-02-08",
+   "name": "Carnival / Shrove Monday",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2027-02-08",
+   "name": "Ramadan Start (tentative)",
+   "type": "Observance"
+  },
+  {
+   "date": "2027-02-09",
+   "name": "Carnival / Shrove Tuesday / Pancake Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2027-03-10",
+   "name": "End of Ramadan (tentative)",
+   "type": "Observance"
+  },
+  {
+   "date": "2027-03-24",
+   "name": "Memorial Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2027-03-25",
+   "name": "Maundy Thursday",
+   "type": "Observance"
+  },
+  {
+   "date": "2027-03-26",
+   "name": "Good Friday",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2027-03-28",
+   "name": "Easter Sunday",
+   "type": "Observance"
+  },
+  {
+   "date": "2027-04-02",
+   "name": "Day of the Veterans",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2027-04-21",
+   "name": "Passover Eve",
+   "type": "Observance"
+  },
+  {
+   "date": "2027-04-22",
+   "name": "First day of Passover",
+   "type": "Observance"
+  },
+  {
+   "date": "2027-04-23",
+   "name": "Second Day of Passover",
+   "type": "Observance"
+  },
+  {
+   "date": "2027-04-24",
+   "name": "Action Day for Tolerance and Respect between People",
+   "type": "Observance"
+  },
+  {
+   "date": "2027-04-27",
+   "name": "Sixth Day of Passover",
+   "type": "Observance"
+  },
+  {
+   "date": "2027-04-28",
+   "name": "Seventh Day of Passover",
+   "type": "Observance"
+  },
+  {
+   "date": "2027-04-29",
+   "name": "Last day of Passover",
+   "type": "Observance"
+  },
+  {
+   "date": "2027-05-01",
+   "name": "Labor Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2027-05-17",
+   "name": "Eid al-Adha (tentative)",
+   "type": "Observance"
+  },
+  {
+   "date": "2027-05-25",
+   "name": "National Day/May 1810 Revolution",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2027-06-06",
+   "name": "Muharram/New Year (tentative)",
+   "type": "Observance"
+  },
+  {
+   "date": "2027-06-17",
+   "name": "Commemoration of General Don Martín Miguel de Güemes",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2027-06-20",
+   "name": "Flag Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2027-07-09",
+   "name": "Independence Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2027-08-16",
+   "name": "San Martín Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2027-10-01",
+   "name": "Rosh Hashana Eve",
+   "type": "Observance"
+  },
+  {
+   "date": "2027-10-02",
+   "name": "Rosh Hashana",
+   "type": "Observance"
+  },
+  {
+   "date": "2027-10-03",
+   "name": "Second day of Rosh Hashana",
+   "type": "Observance"
+  },
+  {
+   "date": "2027-10-10",
+   "name": "Yom Kippur Eve",
+   "type": "Observance"
+  },
+  {
+   "date": "2027-10-11",
+   "name": "Day of Respect for Cultural Diversity",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2027-10-11",
+   "name": "Yom Kippur",
+   "type": "Observance"
+  },
+  {
+   "date": "2027-10-17",
+   "name": "Mothers' Day",
+   "type": "Observance"
+  },
+  {
+   "date": "2027-11-22",
+   "name": "National Sovereignty Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2027-12-08",
+   "name": "Immaculate Conception",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2027-12-25",
+   "name": "Christmas Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2027-12-31",
+   "name": "New Year's Eve",
+   "type": "Observance"
+  },
+  {
+   "date": "2028-01-01",
+   "name": "New Year's Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2028-01-28",
+   "name": "Ramadan Start (tentative)",
+   "type": "Observance"
+  },
+  {
+   "date": "2028-02-27",
+   "name": "End of Ramadan (tentative)",
+   "type": "Observance"
+  },
+  {
+   "date": "2028-02-28",
+   "name": "Carnival / Shrove Monday",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2028-02-29",
+   "name": "Carnival / Shrove Tuesday / Pancake Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2028-03-24",
+   "name": "Memorial Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2028-04-02",
+   "name": "Day of the Veterans",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2028-04-10",
+   "name": "Passover Eve",
+   "type": "Observance"
+  },
+  {
+   "date": "2028-04-11",
+   "name": "First day of Passover",
+   "type": "Observance"
+  },
+  {
+   "date": "2028-04-12",
+   "name": "Second Day of Passover",
+   "type": "Observance"
+  },
+  {
+   "date": "2028-04-13",
+   "name": "Maundy Thursday",
+   "type": "Observance"
+  },
+  {
+   "date": "2028-04-14",
+   "name": "Good Friday",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2028-04-16",
+   "name": "Easter Sunday",
+   "type": "Observance"
+  },
+  {
+   "date": "2028-04-16",
+   "name": "Sixth Day of Passover",
+   "type": "Observance"
+  },
+  {
+   "date": "2028-04-17",
+   "name": "Seventh Day of Passover",
+   "type": "Observance"
+  },
+  {
+   "date": "2028-04-18",
+   "name": "Last day of Passover",
+   "type": "Observance"
+  },
+  {
+   "date": "2028-04-24",
+   "name": "Action Day for Tolerance and Respect between People",
+   "type": "Observance"
+  },
+  {
+   "date": "2028-05-01",
+   "name": "Labor Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2028-05-05",
+   "name": "Eid al-Adha (tentative)",
+   "type": "Observance"
+  },
+  {
+   "date": "2028-05-25",
+   "name": "Muharram/New Year (tentative)",
+   "type": "Observance"
+  },
+  {
+   "date": "2028-05-25",
+   "name": "National Day/May 1810 Revolution",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2028-06-17",
+   "name": "Commemoration of General Don Martín Miguel de Güemes",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2028-06-20",
+   "name": "Flag Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2028-07-09",
+   "name": "Independence Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2028-08-21",
+   "name": "San Martín Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2028-09-20",
+   "name": "Rosh Hashana Eve",
+   "type": "Observance"
+  },
+  {
+   "date": "2028-09-21",
+   "name": "Rosh Hashana",
+   "type": "Observance"
+  },
+  {
+   "date": "2028-09-22",
+   "name": "Second day of Rosh Hashana",
+   "type": "Observance"
+  },
+  {
+   "date": "2028-09-29",
+   "name": "Yom Kippur Eve",
+   "type": "Observance"
+  },
+  {
+   "date": "2028-09-30",
+   "name": "Yom Kippur",
+   "type": "Observance"
+  },
+  {
+   "date": "2028-10-09",
+   "name": "Day of Respect for Cultural Diversity",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2028-10-15",
+   "name": "Mothers' Day",
+   "type": "Observance"
+  },
+  {
+   "date": "2028-11-20",
+   "name": "National Sovereignty Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2028-12-08",
+   "name": "Immaculate Conception",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2028-12-25",
+   "name": "Christmas Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2028-12-31",
+   "name": "New Year's Eve",
+   "type": "Observance"
+  },
+  {
+   "date": "2029-01-01",
+   "name": "New Year's Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2029-01-16",
+   "name": "Ramadan Start (tentative)",
+   "type": "Observance"
+  },
+  {
+   "date": "2029-02-12",
+   "name": "Carnival / Shrove Monday",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2029-02-13",
+   "name": "Carnival / Shrove Tuesday / Pancake Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2029-02-15",
+   "name": "End of Ramadan (tentative)",
+   "type": "Observance"
+  },
+  {
+   "date": "2029-03-24",
+   "name": "Memorial Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2029-03-29",
+   "name": "Maundy Thursday",
+   "type": "Observance"
+  },
+  {
+   "date": "2029-03-30",
+   "name": "Good Friday",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2029-03-30",
+   "name": "Passover Eve",
+   "type": "Observance"
+  },
+  {
+   "date": "2029-03-31",
+   "name": "First day of Passover",
+   "type": "Observance"
+  },
+  {
+   "date": "2029-04-01",
+   "name": "Easter Sunday",
+   "type": "Observance"
+  },
+  {
+   "date": "2029-04-01",
+   "name": "Second Day of Passover",
+   "type": "Observance"
+  },
+  {
+   "date": "2029-04-02",
+   "name": "Day of the Veterans",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2029-04-05",
+   "name": "Sixth Day of Passover",
+   "type": "Observance"
+  },
+  {
+   "date": "2029-04-06",
+   "name": "Seventh Day of Passover",
+   "type": "Observance"
+  },
+  {
+   "date": "2029-04-07",
+   "name": "Last day of Passover",
+   "type": "Observance"
+  },
+  {
+   "date": "2029-04-24",
+   "name": "Action Day for Tolerance and Respect between People",
+   "type": "Observance"
+  },
+  {
+   "date": "2029-04-24",
+   "name": "Eid al-Adha (tentative)",
+   "type": "Observance"
+  },
+  {
+   "date": "2029-05-01",
+   "name": "Labor Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2029-05-15",
+   "name": "Muharram/New Year (tentative)",
+   "type": "Observance"
+  },
+  {
+   "date": "2029-05-25",
+   "name": "National Day/May 1810 Revolution",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2029-06-17",
+   "name": "Commemoration of General Don Martín Miguel de Güemes",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2029-06-20",
+   "name": "Flag Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2029-07-09",
+   "name": "Independence Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2029-08-20",
+   "name": "San Martín Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2029-09-09",
+   "name": "Rosh Hashana Eve",
+   "type": "Observance"
+  },
+  {
+   "date": "2029-09-10",
+   "name": "Rosh Hashana",
+   "type": "Observance"
+  },
+  {
+   "date": "2029-09-11",
+   "name": "Second day of Rosh Hashana",
+   "type": "Observance"
+  },
+  {
+   "date": "2029-09-18",
+   "name": "Yom Kippur Eve",
+   "type": "Observance"
+  },
+  {
+   "date": "2029-09-19",
+   "name": "Yom Kippur",
+   "type": "Observance"
+  },
+  {
+   "date": "2029-10-08",
+   "name": "Day of Respect for Cultural Diversity",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2029-10-21",
+   "name": "Mothers' Day",
+   "type": "Observance"
+  },
+  {
+   "date": "2029-11-19",
+   "name": "National Sovereignty Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2029-12-08",
+   "name": "Immaculate Conception",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2029-12-25",
+   "name": "Christmas Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2029-12-31",
+   "name": "New Year's Eve",
+   "type": "Observance"
+  },
+  {
+   "date": "2030-01-01",
+   "name": "New Year's Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2030-01-06",
+   "name": "Ramadan Start (tentative)",
+   "type": "Observance"
+  },
+  {
+   "date": "2030-02-05",
+   "name": "End of Ramadan (tentative)",
+   "type": "Observance"
+  },
+  {
+   "date": "2030-03-04",
+   "name": "Carnival / Shrove Monday",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2030-03-05",
+   "name": "Carnival / Shrove Tuesday / Pancake Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2030-03-24",
+   "name": "Memorial Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2030-04-02",
+   "name": "Day of the Veterans",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2030-04-14",
+   "name": "Eid al-Adha (tentative)",
+   "type": "Observance"
+  },
+  {
+   "date": "2030-04-17",
+   "name": "Passover Eve",
+   "type": "Observance"
+  },
+  {
+   "date": "2030-04-18",
+   "name": "First day of Passover",
+   "type": "Observance"
+  },
+  {
+   "date": "2030-04-18",
+   "name": "Maundy Thursday",
+   "type": "Observance"
+  },
+  {
+   "date": "2030-04-19",
+   "name": "Good Friday",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2030-04-19",
+   "name": "Second Day of Passover",
+   "type": "Observance"
+  },
+  {
+   "date": "2030-04-21",
+   "name": "Easter Sunday",
+   "type": "Observance"
+  },
+  {
+   "date": "2030-04-23",
+   "name": "Sixth Day of Passover",
+   "type": "Observance"
+  },
+  {
+   "date": "2030-04-24",
+   "name": "Action Day for Tolerance and Respect between People",
+   "type": "Observance"
+  },
+  {
+   "date": "2030-04-24",
+   "name": "Seventh Day of Passover",
+   "type": "Observance"
+  },
+  {
+   "date": "2030-04-25",
+   "name": "Last day of Passover",
+   "type": "Observance"
+  },
+  {
+   "date": "2030-05-01",
+   "name": "Labor Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2030-05-04",
+   "name": "Muharram/New Year (tentative)",
+   "type": "Observance"
+  },
+  {
+   "date": "2030-05-25",
+   "name": "National Day/May 1810 Revolution",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2030-06-17",
+   "name": "Commemoration of General Don Martín Miguel de Güemes",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2030-06-20",
+   "name": "Flag Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2030-07-09",
+   "name": "Independence Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2030-09-27",
+   "name": "Rosh Hashana Eve",
+   "type": "Observance"
+  },
+  {
+   "date": "2030-09-28",
+   "name": "Rosh Hashana",
+   "type": "Observance"
+  },
+  {
+   "date": "2030-09-29",
+   "name": "Second day of Rosh Hashana",
+   "type": "Observance"
+  },
+  {
+   "date": "2030-10-06",
+   "name": "Yom Kippur Eve",
+   "type": "Observance"
+  },
+  {
+   "date": "2030-10-07",
+   "name": "Yom Kippur",
+   "type": "Observance"
+  },
+  {
+   "date": "2030-10-14",
+   "name": "Day of Respect for Cultural Diversity",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2030-10-20",
+   "name": "Mothers' Day",
+   "type": "Observance"
+  },
+  {
+   "date": "2030-11-18",
+   "name": "National Sovereignty Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2030-12-09",
+   "name": "Immaculate Conception",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2030-12-25",
+   "name": "Christmas Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2030-12-26",
+   "name": "Ramadan Start (tentative)",
+   "type": "Observance"
+  },
+  {
+   "date": "2030-12-31",
+   "name": "New Year's Eve",
+   "type": "Observance"
+  },
+  {
+   "date": "2031-01-01",
+   "name": "New Year's Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2031-01-25",
+   "name": "End of Ramadan (tentative)",
+   "type": "Observance"
+  },
+  {
+   "date": "2031-02-24",
+   "name": "Carnival / Shrove Monday",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2031-02-25",
+   "name": "Carnival / Shrove Tuesday / Pancake Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2031-03-24",
+   "name": "Memorial Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2031-04-02",
+   "name": "Day of the Veterans",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2031-04-03",
+   "name": "Eid al-Adha (tentative)",
+   "type": "Observance"
+  },
+  {
+   "date": "2031-04-07",
+   "name": "Passover Eve",
+   "type": "Observance"
+  },
+  {
+   "date": "2031-04-08",
+   "name": "First day of Passover",
+   "type": "Observance"
+  },
+  {
+   "date": "2031-04-09",
+   "name": "Second Day of Passover",
+   "type": "Observance"
+  },
+  {
+   "date": "2031-04-10",
+   "name": "Maundy Thursday",
+   "type": "Observance"
+  },
+  {
+   "date": "2031-04-11",
+   "name": "Good Friday",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2031-04-13",
+   "name": "Easter Sunday",
+   "type": "Observance"
+  },
+  {
+   "date": "2031-04-13",
+   "name": "Sixth Day of Passover",
+   "type": "Observance"
+  },
+  {
+   "date": "2031-04-14",
+   "name": "Seventh Day of Passover",
+   "type": "Observance"
+  },
+  {
+   "date": "2031-04-15",
+   "name": "Last day of Passover",
+   "type": "Observance"
+  },
+  {
+   "date": "2031-04-23",
+   "name": "Muharram/New Year (tentative)",
+   "type": "Observance"
+  },
+  {
+   "date": "2031-04-24",
+   "name": "Action Day for Tolerance and Respect between People",
+   "type": "Observance"
+  },
+  {
+   "date": "2031-05-01",
+   "name": "Labor Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2031-05-25",
+   "name": "National Day/May 1810 Revolution",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2031-06-17",
+   "name": "Commemoration of General Don Martín Miguel de Güemes",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2031-06-20",
+   "name": "Flag Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2031-07-09",
+   "name": "Independence Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2031-08-17",
+   "name": "San Martín Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2031-09-17",
+   "name": "Rosh Hashana Eve",
+   "type": "Observance"
+  },
+  {
+   "date": "2031-09-18",
+   "name": "Rosh Hashana",
+   "type": "Observance"
+  },
+  {
+   "date": "2031-09-19",
+   "name": "Second day of Rosh Hashana",
+   "type": "Observance"
+  },
+  {
+   "date": "2031-09-26",
+   "name": "Yom Kippur Eve",
+   "type": "Observance"
+  },
+  {
+   "date": "2031-09-27",
+   "name": "Yom Kippur",
+   "type": "Observance"
+  },
+  {
+   "date": "2031-10-13",
+   "name": "Day of Respect for Cultural Diversity",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2031-10-19",
+   "name": "Mothers' Day",
+   "type": "Observance"
+  },
+  {
+   "date": "2031-11-24",
+   "name": "National Sovereignty Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2031-12-08",
+   "name": "Immaculate Conception",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2031-12-15",
+   "name": "Ramadan Start (tentative)",
+   "type": "Observance"
+  },
+  {
+   "date": "2031-12-25",
+   "name": "Christmas Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2031-12-31",
+   "name": "New Year's Eve",
+   "type": "Observance"
+  }
+ ]
+}

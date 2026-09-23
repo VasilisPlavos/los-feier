@@ -1,0 +1,1116 @@
+{
+ "id": "en.mexican",
+ "name": "Holidays in Mexico",
+ "lang": "en",
+ "from": 2021,
+ "to": 2031,
+ "count": 221,
+ "fetchedAt": "2026-09-23T12:14:40.911Z",
+ "events": [
+  {
+   "date": "2021-01-01",
+   "name": "New Year's Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2021-02-01",
+   "name": "Constitution Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2021-02-05",
+   "name": "Constitution Day",
+   "type": "Observance"
+  },
+  {
+   "date": "2021-02-17",
+   "name": "Ash Wednesday",
+   "type": "Observance"
+  },
+  {
+   "date": "2021-03-15",
+   "name": "Benito Juárez's Birthday Memorial",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2021-03-21",
+   "name": "Benito Juárez's Birthday Memorial",
+   "type": "Observance"
+  },
+  {
+   "date": "2021-03-28",
+   "name": "Palm Sunday",
+   "type": "Observance"
+  },
+  {
+   "date": "2021-04-01",
+   "name": "Maundy Thursday",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2021-04-02",
+   "name": "Good Friday",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2021-04-03",
+   "name": "Holy Saturday",
+   "type": "Observance"
+  },
+  {
+   "date": "2021-04-04",
+   "name": "Easter Sunday",
+   "type": "Observance"
+  },
+  {
+   "date": "2021-05-01",
+   "name": "Labor Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2021-05-05",
+   "name": "Battle of Puebla (Cinco de Mayo)",
+   "type": "Observance"
+  },
+  {
+   "date": "2021-09-16",
+   "name": "Independence Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2021-10-12",
+   "name": "Day of Race",
+   "type": "Observance"
+  },
+  {
+   "date": "2021-11-02",
+   "name": "All Souls' Day",
+   "type": "Observance"
+  },
+  {
+   "date": "2021-11-20",
+   "name": "Revolution Day Memorial",
+   "type": "Observance"
+  },
+  {
+   "date": "2021-12-12",
+   "name": "Day of the Virgin of Guadalupe",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2021-12-25",
+   "name": "Christmas Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2021-12-31",
+   "name": "New Year's Eve",
+   "type": "Observance"
+  },
+  {
+   "date": "2022-01-01",
+   "name": "New Year's Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2022-02-05",
+   "name": "Constitution Day",
+   "type": "Observance"
+  },
+  {
+   "date": "2022-02-07",
+   "name": "Constitution Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2022-03-02",
+   "name": "Ash Wednesday",
+   "type": "Observance"
+  },
+  {
+   "date": "2022-03-21",
+   "name": "Benito Juárez's Birthday Memorial",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2022-04-10",
+   "name": "Palm Sunday",
+   "type": "Observance"
+  },
+  {
+   "date": "2022-04-14",
+   "name": "Maundy Thursday",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2022-04-15",
+   "name": "Good Friday",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2022-04-16",
+   "name": "Holy Saturday",
+   "type": "Observance"
+  },
+  {
+   "date": "2022-04-17",
+   "name": "Easter Sunday",
+   "type": "Observance"
+  },
+  {
+   "date": "2022-05-01",
+   "name": "Labor Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2022-05-05",
+   "name": "Battle of Puebla (Cinco de Mayo)",
+   "type": "Observance"
+  },
+  {
+   "date": "2022-09-16",
+   "name": "Independence Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2022-10-12",
+   "name": "Day of Race",
+   "type": "Observance"
+  },
+  {
+   "date": "2022-11-02",
+   "name": "All Souls' Day",
+   "type": "Observance"
+  },
+  {
+   "date": "2022-11-20",
+   "name": "Revolution Day Memorial",
+   "type": "Observance"
+  },
+  {
+   "date": "2022-12-12",
+   "name": "Day of the Virgin of Guadalupe",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2022-12-25",
+   "name": "Christmas Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2022-12-31",
+   "name": "New Year's Eve",
+   "type": "Observance"
+  },
+  {
+   "date": "2023-01-01",
+   "name": "New Year's Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2023-02-05",
+   "name": "Constitution Day",
+   "type": "Observance"
+  },
+  {
+   "date": "2023-02-06",
+   "name": "Constitution Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2023-02-22",
+   "name": "Ash Wednesday",
+   "type": "Observance"
+  },
+  {
+   "date": "2023-03-20",
+   "name": "Benito Juárez's Birthday Memorial",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2023-03-21",
+   "name": "Benito Juárez's Birthday Memorial",
+   "type": "Observance"
+  },
+  {
+   "date": "2023-04-02",
+   "name": "Palm Sunday",
+   "type": "Observance"
+  },
+  {
+   "date": "2023-04-06",
+   "name": "Maundy Thursday",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2023-04-07",
+   "name": "Good Friday",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2023-04-08",
+   "name": "Holy Saturday",
+   "type": "Observance"
+  },
+  {
+   "date": "2023-04-09",
+   "name": "Easter Sunday",
+   "type": "Observance"
+  },
+  {
+   "date": "2023-05-01",
+   "name": "Labor Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2023-05-05",
+   "name": "Battle of Puebla (Cinco de Mayo)",
+   "type": "Observance"
+  },
+  {
+   "date": "2023-09-16",
+   "name": "Independence Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2023-10-12",
+   "name": "Day of Race",
+   "type": "Observance"
+  },
+  {
+   "date": "2023-11-02",
+   "name": "All Souls' Day",
+   "type": "Observance"
+  },
+  {
+   "date": "2023-11-20",
+   "name": "Revolution Day Memorial",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2023-12-12",
+   "name": "Day of the Virgin of Guadalupe",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2023-12-25",
+   "name": "Christmas Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2023-12-31",
+   "name": "New Year's Eve",
+   "type": "Observance"
+  },
+  {
+   "date": "2024-01-01",
+   "name": "New Year's Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2024-02-05",
+   "name": "Constitution Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2024-02-14",
+   "name": "Ash Wednesday",
+   "type": "Observance"
+  },
+  {
+   "date": "2024-03-18",
+   "name": "Benito Juárez's Birthday Memorial",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2024-03-21",
+   "name": "Benito Juárez's Birthday Memorial",
+   "type": "Observance"
+  },
+  {
+   "date": "2024-03-24",
+   "name": "Palm Sunday",
+   "type": "Observance"
+  },
+  {
+   "date": "2024-03-28",
+   "name": "Maundy Thursday",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2024-03-29",
+   "name": "Good Friday",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2024-03-30",
+   "name": "Holy Saturday",
+   "type": "Observance"
+  },
+  {
+   "date": "2024-03-31",
+   "name": "Easter Sunday",
+   "type": "Observance"
+  },
+  {
+   "date": "2024-05-01",
+   "name": "Labor Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2024-05-05",
+   "name": "Battle of Puebla (Cinco de Mayo)",
+   "type": "Observance"
+  },
+  {
+   "date": "2024-06-02",
+   "name": "General Election Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2024-09-16",
+   "name": "Independence Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2024-10-01",
+   "name": "Inauguration day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2024-10-12",
+   "name": "Day of Race",
+   "type": "Observance"
+  },
+  {
+   "date": "2024-11-02",
+   "name": "All Souls' Day",
+   "type": "Observance"
+  },
+  {
+   "date": "2024-11-18",
+   "name": "Revolution Day Memorial",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2024-12-12",
+   "name": "Day of the Virgin of Guadalupe",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2024-12-25",
+   "name": "Christmas Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2024-12-31",
+   "name": "New Year's Eve",
+   "type": "Observance"
+  },
+  {
+   "date": "2025-01-01",
+   "name": "New Year's Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2025-02-03",
+   "name": "Constitution Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2025-02-05",
+   "name": "Constitution Day",
+   "type": "Observance"
+  },
+  {
+   "date": "2025-03-05",
+   "name": "Ash Wednesday",
+   "type": "Observance"
+  },
+  {
+   "date": "2025-03-17",
+   "name": "Benito Juárez's Birthday Memorial",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2025-03-21",
+   "name": "Benito Juárez's Birthday Memorial",
+   "type": "Observance"
+  },
+  {
+   "date": "2025-04-13",
+   "name": "Palm Sunday",
+   "type": "Observance"
+  },
+  {
+   "date": "2025-04-17",
+   "name": "Maundy Thursday",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2025-04-18",
+   "name": "Good Friday",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2025-04-19",
+   "name": "Holy Saturday",
+   "type": "Observance"
+  },
+  {
+   "date": "2025-04-20",
+   "name": "Easter Sunday",
+   "type": "Observance"
+  },
+  {
+   "date": "2025-05-01",
+   "name": "Labor Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2025-05-05",
+   "name": "Battle of Puebla (Cinco de Mayo)",
+   "type": "Observance"
+  },
+  {
+   "date": "2025-06-01",
+   "name": "Judicial Election Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2025-09-16",
+   "name": "Independence Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2025-10-12",
+   "name": "Day of Race",
+   "type": "Observance"
+  },
+  {
+   "date": "2025-11-02",
+   "name": "All Souls' Day",
+   "type": "Observance"
+  },
+  {
+   "date": "2025-11-17",
+   "name": "Revolution Day Memorial",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2025-12-12",
+   "name": "Day of the Virgin of Guadalupe",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2025-12-25",
+   "name": "Christmas Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2025-12-31",
+   "name": "New Year's Eve",
+   "type": "Observance"
+  },
+  {
+   "date": "2026-01-01",
+   "name": "New Year's Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2026-02-02",
+   "name": "Constitution Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2026-02-05",
+   "name": "Constitution Day",
+   "type": "Observance"
+  },
+  {
+   "date": "2026-02-18",
+   "name": "Ash Wednesday",
+   "type": "Observance"
+  },
+  {
+   "date": "2026-03-16",
+   "name": "Benito Juárez's Birthday Memorial",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2026-03-21",
+   "name": "Benito Juárez's Birthday Memorial",
+   "type": "Observance"
+  },
+  {
+   "date": "2026-03-29",
+   "name": "Palm Sunday",
+   "type": "Observance"
+  },
+  {
+   "date": "2026-04-02",
+   "name": "Maundy Thursday",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2026-04-03",
+   "name": "Good Friday",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2026-04-04",
+   "name": "Holy Saturday",
+   "type": "Observance"
+  },
+  {
+   "date": "2026-04-05",
+   "name": "Easter Sunday",
+   "type": "Observance"
+  },
+  {
+   "date": "2026-05-01",
+   "name": "Labor Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2026-05-05",
+   "name": "Battle of Puebla (Cinco de Mayo)",
+   "type": "Observance"
+  },
+  {
+   "date": "2026-09-16",
+   "name": "Independence Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2026-10-12",
+   "name": "Day of Race",
+   "type": "Observance"
+  },
+  {
+   "date": "2026-11-02",
+   "name": "All Souls' Day",
+   "type": "Observance"
+  },
+  {
+   "date": "2026-11-16",
+   "name": "Revolution Day Memorial",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2026-12-12",
+   "name": "Day of the Virgin of Guadalupe",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2026-12-25",
+   "name": "Christmas Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2026-12-31",
+   "name": "New Year's Eve",
+   "type": "Observance"
+  },
+  {
+   "date": "2027-01-01",
+   "name": "New Year's Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2027-02-01",
+   "name": "Constitution Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2027-02-05",
+   "name": "Constitution Day",
+   "type": "Observance"
+  },
+  {
+   "date": "2027-02-10",
+   "name": "Ash Wednesday",
+   "type": "Observance"
+  },
+  {
+   "date": "2027-03-15",
+   "name": "Benito Juárez's Birthday Memorial",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2027-03-21",
+   "name": "Benito Juárez's Birthday Memorial",
+   "type": "Observance"
+  },
+  {
+   "date": "2027-03-21",
+   "name": "Palm Sunday",
+   "type": "Observance"
+  },
+  {
+   "date": "2027-03-25",
+   "name": "Maundy Thursday",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2027-03-26",
+   "name": "Good Friday",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2027-03-27",
+   "name": "Holy Saturday",
+   "type": "Observance"
+  },
+  {
+   "date": "2027-03-28",
+   "name": "Easter Sunday",
+   "type": "Observance"
+  },
+  {
+   "date": "2027-05-01",
+   "name": "Labor Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2027-05-05",
+   "name": "Battle of Puebla (Cinco de Mayo)",
+   "type": "Observance"
+  },
+  {
+   "date": "2027-09-16",
+   "name": "Independence Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2027-10-12",
+   "name": "Day of Race",
+   "type": "Observance"
+  },
+  {
+   "date": "2027-11-02",
+   "name": "All Souls' Day",
+   "type": "Observance"
+  },
+  {
+   "date": "2027-11-15",
+   "name": "Revolution Day Memorial",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2027-12-12",
+   "name": "Day of the Virgin of Guadalupe",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2027-12-25",
+   "name": "Christmas Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2027-12-31",
+   "name": "New Year's Eve",
+   "type": "Observance"
+  },
+  {
+   "date": "2028-01-01",
+   "name": "New Year's Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2028-02-05",
+   "name": "Constitution Day",
+   "type": "Observance"
+  },
+  {
+   "date": "2028-02-07",
+   "name": "Constitution Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2028-03-01",
+   "name": "Ash Wednesday",
+   "type": "Observance"
+  },
+  {
+   "date": "2028-03-20",
+   "name": "Benito Juárez's Birthday Memorial",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2028-03-21",
+   "name": "Benito Juárez's Birthday Memorial",
+   "type": "Observance"
+  },
+  {
+   "date": "2028-04-09",
+   "name": "Palm Sunday",
+   "type": "Observance"
+  },
+  {
+   "date": "2028-04-13",
+   "name": "Maundy Thursday",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2028-04-14",
+   "name": "Good Friday",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2028-04-15",
+   "name": "Holy Saturday",
+   "type": "Observance"
+  },
+  {
+   "date": "2028-04-16",
+   "name": "Easter Sunday",
+   "type": "Observance"
+  },
+  {
+   "date": "2028-05-01",
+   "name": "Labor Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2028-05-05",
+   "name": "Battle of Puebla (Cinco de Mayo)",
+   "type": "Observance"
+  },
+  {
+   "date": "2028-09-16",
+   "name": "Independence Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2028-10-12",
+   "name": "Day of Race",
+   "type": "Observance"
+  },
+  {
+   "date": "2028-11-02",
+   "name": "All Souls' Day",
+   "type": "Observance"
+  },
+  {
+   "date": "2028-11-20",
+   "name": "Revolution Day Memorial",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2028-12-12",
+   "name": "Day of the Virgin of Guadalupe",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2028-12-25",
+   "name": "Christmas Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2028-12-31",
+   "name": "New Year's Eve",
+   "type": "Observance"
+  },
+  {
+   "date": "2029-01-01",
+   "name": "New Year's Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2029-02-05",
+   "name": "Constitution Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2029-02-14",
+   "name": "Ash Wednesday",
+   "type": "Observance"
+  },
+  {
+   "date": "2029-03-19",
+   "name": "Benito Juárez's Birthday Memorial",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2029-03-21",
+   "name": "Benito Juárez's Birthday Memorial",
+   "type": "Observance"
+  },
+  {
+   "date": "2029-03-25",
+   "name": "Palm Sunday",
+   "type": "Observance"
+  },
+  {
+   "date": "2029-03-29",
+   "name": "Maundy Thursday",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2029-03-30",
+   "name": "Good Friday",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2029-03-31",
+   "name": "Holy Saturday",
+   "type": "Observance"
+  },
+  {
+   "date": "2029-04-01",
+   "name": "Easter Sunday",
+   "type": "Observance"
+  },
+  {
+   "date": "2029-05-01",
+   "name": "Labor Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2029-05-05",
+   "name": "Battle of Puebla (Cinco de Mayo)",
+   "type": "Observance"
+  },
+  {
+   "date": "2029-09-16",
+   "name": "Independence Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2029-10-12",
+   "name": "Day of Race",
+   "type": "Observance"
+  },
+  {
+   "date": "2029-11-02",
+   "name": "All Souls' Day",
+   "type": "Observance"
+  },
+  {
+   "date": "2029-11-19",
+   "name": "Revolution Day Memorial",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2029-12-12",
+   "name": "Day of the Virgin of Guadalupe",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2029-12-25",
+   "name": "Christmas Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2029-12-31",
+   "name": "New Year's Eve",
+   "type": "Observance"
+  },
+  {
+   "date": "2030-01-01",
+   "name": "New Year's Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2030-02-04",
+   "name": "Constitution Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2030-02-05",
+   "name": "Constitution Day",
+   "type": "Observance"
+  },
+  {
+   "date": "2030-03-06",
+   "name": "Ash Wednesday",
+   "type": "Observance"
+  },
+  {
+   "date": "2030-03-18",
+   "name": "Benito Juárez's Birthday Memorial",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2030-03-21",
+   "name": "Benito Juárez's Birthday Memorial",
+   "type": "Observance"
+  },
+  {
+   "date": "2030-04-14",
+   "name": "Palm Sunday",
+   "type": "Observance"
+  },
+  {
+   "date": "2030-04-18",
+   "name": "Maundy Thursday",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2030-04-19",
+   "name": "Good Friday",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2030-04-20",
+   "name": "Holy Saturday",
+   "type": "Observance"
+  },
+  {
+   "date": "2030-04-21",
+   "name": "Easter Sunday",
+   "type": "Observance"
+  },
+  {
+   "date": "2030-05-01",
+   "name": "Labor Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2030-05-05",
+   "name": "Battle of Puebla (Cinco de Mayo)",
+   "type": "Observance"
+  },
+  {
+   "date": "2030-09-16",
+   "name": "Independence Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2030-10-01",
+   "name": "Inauguration day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2030-10-12",
+   "name": "Day of Race",
+   "type": "Observance"
+  },
+  {
+   "date": "2030-11-02",
+   "name": "All Souls' Day",
+   "type": "Observance"
+  },
+  {
+   "date": "2030-11-18",
+   "name": "Revolution Day Memorial",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2030-12-12",
+   "name": "Day of the Virgin of Guadalupe",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2030-12-25",
+   "name": "Christmas Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2030-12-31",
+   "name": "New Year's Eve",
+   "type": "Observance"
+  },
+  {
+   "date": "2031-01-01",
+   "name": "New Year's Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2031-02-03",
+   "name": "Constitution Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2031-02-05",
+   "name": "Constitution Day",
+   "type": "Observance"
+  },
+  {
+   "date": "2031-02-26",
+   "name": "Ash Wednesday",
+   "type": "Observance"
+  },
+  {
+   "date": "2031-03-17",
+   "name": "Benito Juárez's Birthday Memorial",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2031-03-21",
+   "name": "Benito Juárez's Birthday Memorial",
+   "type": "Observance"
+  },
+  {
+   "date": "2031-04-06",
+   "name": "Palm Sunday",
+   "type": "Observance"
+  },
+  {
+   "date": "2031-04-10",
+   "name": "Maundy Thursday",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2031-04-11",
+   "name": "Good Friday",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2031-04-12",
+   "name": "Holy Saturday",
+   "type": "Observance"
+  },
+  {
+   "date": "2031-04-13",
+   "name": "Easter Sunday",
+   "type": "Observance"
+  },
+  {
+   "date": "2031-05-01",
+   "name": "Labor Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2031-05-05",
+   "name": "Battle of Puebla (Cinco de Mayo)",
+   "type": "Observance"
+  },
+  {
+   "date": "2031-09-16",
+   "name": "Independence Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2031-10-12",
+   "name": "Day of Race",
+   "type": "Observance"
+  },
+  {
+   "date": "2031-11-02",
+   "name": "All Souls' Day",
+   "type": "Observance"
+  },
+  {
+   "date": "2031-11-17",
+   "name": "Revolution Day Memorial",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2031-12-12",
+   "name": "Day of the Virgin of Guadalupe",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2031-12-25",
+   "name": "Christmas Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2031-12-31",
+   "name": "New Year's Eve",
+   "type": "Observance"
+  }
+ ]
+}

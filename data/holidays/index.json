@@ -1,0 +1,1802 @@
+[
+ {
+  "id": "de.ch",
+  "name": "Feiertage in der Schweiz",
+  "lang": "de",
+  "from": 2021,
+  "to": 2031,
+  "count": 325
+ },
+ {
+  "id": "el.greek",
+  "name": "Διακοπές στην Ελλάδα",
+  "lang": "el",
+  "from": 2021,
+  "to": 2031,
+  "count": 245
+ },
+ {
+  "id": "en.ad",
+  "name": "Holidays in Andorra",
+  "lang": "en",
+  "from": 2021,
+  "to": 2031,
+  "count": 275
+ },
+ {
+  "id": "en.ae",
+  "name": "Holidays in United Arab Emirates",
+  "lang": "en",
+  "from": 2021,
+  "to": 2027,
+  "count": 139
+ },
+ {
+  "id": "en.af",
+  "name": "Holidays in Afghanistan",
+  "lang": "en",
+  "from": 2021,
+  "to": 2031,
+  "count": 194
+ },
+ {
+  "id": "en.ag",
+  "name": "Holidays in Antigua & Barbuda",
+  "lang": "en",
+  "from": 2021,
+  "to": 2031,
+  "count": 154
+ },
+ {
+  "id": "en.ai",
+  "name": "Holidays in Anguilla",
+  "lang": "en",
+  "from": 2021,
+  "to": 2031,
+  "count": 176
+ },
+ {
+  "id": "en.al",
+  "name": "Holidays in Albania",
+  "lang": "en",
+  "from": 2021,
+  "to": 2031,
+  "count": 387
+ },
+ {
+  "id": "en.am",
+  "name": "Holidays in Armenia",
+  "lang": "en",
+  "from": 2021,
+  "to": 2031,
+  "count": 425
+ },
+ {
+  "id": "en.ao",
+  "name": "Holidays in Angola",
+  "lang": "en",
+  "from": 2021,
+  "to": 2031,
+  "count": 175
+ },
+ {
+  "id": "en.ar",
+  "name": "Holidays in Argentina",
+  "lang": "en",
+  "from": 2021,
+  "to": 2031,
+  "count": 421
+ },
+ {
+  "id": "en.as",
+  "name": "Holidays in American Samoa",
+  "lang": "en",
+  "from": 2021,
+  "to": 2031,
+  "count": 158
+ },
+ {
+  "id": "en.australian",
+  "name": "Holidays in Australia",
+  "lang": "en",
+  "from": 2021,
+  "to": 2031,
+  "count": 285
+ },
+ {
+  "id": "en.austrian",
+  "name": "Holidays in Austria",
+  "lang": "en",
+  "from": 2021,
+  "to": 2031,
+  "count": 297
+ },
+ {
+  "id": "en.aw",
+  "name": "Holidays in Aruba",
+  "lang": "en",
+  "from": 2021,
+  "to": 2031,
+  "count": 122
+ },
+ {
+  "id": "en.az",
+  "name": "Holidays in Azerbaijan",
+  "lang": "en",
+  "from": 2021,
+  "to": 2026,
+  "count": 195
+ },
+ {
+  "id": "en.ba",
+  "name": "Holidays in Bosnia & Herzegovina",
+  "lang": "en",
+  "from": 2021,
+  "to": 2031,
+  "count": 292
+ },
+ {
+  "id": "en.bb",
+  "name": "Holidays in Barbados",
+  "lang": "en",
+  "from": 2021,
+  "to": 2031,
+  "count": 236
+ },
+ {
+  "id": "en.bd",
+  "name": "Holidays in Bangladesh",
+  "lang": "en",
+  "from": 2021,
+  "to": 2026,
+  "count": 385
+ },
+ {
+  "id": "en.be",
+  "name": "Holidays in Belgium",
+  "lang": "en",
+  "from": 2021,
+  "to": 2031,
+  "count": 275
+ },
+ {
+  "id": "en.bf",
+  "name": "Holidays in Burkina Faso",
+  "lang": "en",
+  "from": 2021,
+  "to": 2031,
+  "count": 198
+ },
+ {
+  "id": "en.bh",
+  "name": "Holidays in Bahrain",
+  "lang": "en",
+  "from": 2021,
+  "to": 2031,
+  "count": 192
+ },
+ {
+  "id": "en.bi",
+  "name": "Holidays in Burundi",
+  "lang": "en",
+  "from": 2021,
+  "to": 2031,
+  "count": 178
+ },
+ {
+  "id": "en.bj",
+  "name": "Holidays in Benin",
+  "lang": "en",
+  "from": 2021,
+  "to": 2031,
+  "count": 216
+ },
+ {
+  "id": "en.bl",
+  "name": "Holidays in St. Barthélemy",
+  "lang": "en",
+  "from": 2021,
+  "to": 2031,
+  "count": 198
+ },
+ {
+  "id": "en.bm",
+  "name": "Holidays in Bermuda",
+  "lang": "en",
+  "from": 2021,
+  "to": 2031,
+  "count": 227
+ },
+ {
+  "id": "en.bn",
+  "name": "Holidays in Brunei",
+  "lang": "en",
+  "from": 2021,
+  "to": 2031,
+  "count": 205
+ },
+ {
+  "id": "en.bo",
+  "name": "Holidays in Bolivia",
+  "lang": "en",
+  "from": 2021,
+  "to": 2031,
+  "count": 255
+ },
+ {
+  "id": "en.brazilian",
+  "name": "Holidays in Brazil",
+  "lang": "en",
+  "from": 2021,
+  "to": 2031,
+  "count": 275
+ },
+ {
+  "id": "en.bs",
+  "name": "Holidays in Bahamas",
+  "lang": "en",
+  "from": 2021,
+  "to": 2031,
+  "count": 235
+ },
+ {
+  "id": "en.bt",
+  "name": "Holidays in Bhutan",
+  "lang": "en",
+  "from": 2021,
+  "to": 2026,
+  "count": 109
+ },
+ {
+  "id": "en.bw",
+  "name": "Holidays in Botswana",
+  "lang": "en",
+  "from": 2021,
+  "to": 2031,
+  "count": 200
+ },
+ {
+  "id": "en.by",
+  "name": "Holidays in Belarus",
+  "lang": "en",
+  "from": 2021,
+  "to": 2031,
+  "count": 275
+ },
+ {
+  "id": "en.bz",
+  "name": "Holidays in Belize",
+  "lang": "en",
+  "from": 2021,
+  "to": 2031,
+  "count": 202
+ },
+ {
+  "id": "en.canadian",
+  "name": "Holidays in Canada",
+  "lang": "en",
+  "from": 2021,
+  "to": 2031,
+  "count": 422
+ },
+ {
+  "id": "en.cd",
+  "name": "Holidays in Congo - Kinshasa",
+  "lang": "en",
+  "from": 2021,
+  "to": 2031,
+  "count": 204
+ },
+ {
+  "id": "en.cf",
+  "name": "Holidays in Central African Republic",
+  "lang": "en",
+  "from": 2021,
+  "to": 2031,
+  "count": 164
+ },
+ {
+  "id": "en.cg",
+  "name": "Holidays in Congo - Brazzaville",
+  "lang": "en",
+  "from": 2021,
+  "to": 2031,
+  "count": 145
+ },
+ {
+  "id": "en.ch",
+  "name": "Holidays in Switzerland",
+  "lang": "en",
+  "from": 2021,
+  "to": 2031,
+  "count": 325
+ },
+ {
+  "id": "en.china",
+  "name": "Holidays in China",
+  "lang": "en",
+  "from": 2021,
+  "to": 2031,
+  "count": 379
+ },
+ {
+  "id": "en.christian",
+  "name": "Christian Holidays",
+  "lang": "en",
+  "from": 2021,
+  "to": 2031,
+  "count": 280
+ },
+ {
+  "id": "en.ci",
+  "name": "Holidays in Côte d’Ivoire",
+  "lang": "en",
+  "from": 2021,
+  "to": 2031,
+  "count": 169
+ },
+ {
+  "id": "en.ck",
+  "name": "Holidays in Cook Islands",
+  "lang": "en",
+  "from": 2021,
+  "to": 2031,
+  "count": 155
+ },
+ {
+  "id": "en.cl",
+  "name": "Holidays in Chile",
+  "lang": "en",
+  "from": 2021,
+  "to": 2031,
+  "count": 237
+ },
+ {
+  "id": "en.cm",
+  "name": "Holidays in Cameroon",
+  "lang": "en",
+  "from": 2021,
+  "to": 2031,
+  "count": 149
+ },
+ {
+  "id": "en.co",
+  "name": "Holidays in Colombia",
+  "lang": "en",
+  "from": 2021,
+  "to": 2031,
+  "count": 460
+ },
+ {
+  "id": "en.cr",
+  "name": "Holidays in Costa Rica",
+  "lang": "en",
+  "from": 2021,
+  "to": 2031,
+  "count": 231
+ },
+ {
+  "id": "en.cu",
+  "name": "Holidays in Cuba",
+  "lang": "en",
+  "from": 2021,
+  "to": 2031,
+  "count": 204
+ },
+ {
+  "id": "en.cv",
+  "name": "Holidays in Cape Verde",
+  "lang": "en",
+  "from": 2021,
+  "to": 2031,
+  "count": 166
+ },
+ {
+  "id": "en.cw",
+  "name": "Holidays in Curaçao",
+  "lang": "en",
+  "from": 2021,
+  "to": 2031,
+  "count": 144
+ },
+ {
+  "id": "en.cy",
+  "name": "Holidays in Cyprus",
+  "lang": "en",
+  "from": 2021,
+  "to": 2031,
+  "count": 231
+ },
+ {
+  "id": "en.danish",
+  "name": "Holidays in Denmark",
+  "lang": "en",
+  "from": 2021,
+  "to": 2031,
+  "count": 268
+ },
+ {
+  "id": "en.dj",
+  "name": "Holidays in Djibouti",
+  "lang": "en",
+  "from": 2021,
+  "to": 2031,
+  "count": 143
+ },
+ {
+  "id": "en.dm",
+  "name": "Holidays in Dominica",
+  "lang": "en",
+  "from": 2021,
+  "to": 2031,
+  "count": 154
+ },
+ {
+  "id": "en.do",
+  "name": "Holidays in Dominican Republic",
+  "lang": "en",
+  "from": 2021,
+  "to": 2031,
+  "count": 204
+ },
+ {
+  "id": "en.dutch",
+  "name": "Holidays in Netherlands",
+  "lang": "en",
+  "from": 2021,
+  "to": 2031,
+  "count": 200
+ },
+ {
+  "id": "en.dz",
+  "name": "Holidays in Algeria",
+  "lang": "en",
+  "from": 2021,
+  "to": 2031,
+  "count": 166
+ },
+ {
+  "id": "en.ec",
+  "name": "Holidays in Ecuador",
+  "lang": "en",
+  "from": 2021,
+  "to": 2031,
+  "count": 230
+ },
+ {
+  "id": "en.ee",
+  "name": "Holidays in Estonia",
+  "lang": "en",
+  "from": 2021,
+  "to": 2031,
+  "count": 275
+ },
+ {
+  "id": "en.eg",
+  "name": "Holidays in Egypt",
+  "lang": "en",
+  "from": 2021,
+  "to": 2031,
+  "count": 341
+ },
+ {
+  "id": "en.er",
+  "name": "Holidays in Eritrea",
+  "lang": "en",
+  "from": 2021,
+  "to": 2031,
+  "count": 186
+ },
+ {
+  "id": "en.et",
+  "name": "Holidays in Ethiopia",
+  "lang": "en",
+  "from": 2021,
+  "to": 2031,
+  "count": 136
+ },
+ {
+  "id": "en.finnish",
+  "name": "Holidays in Finland",
+  "lang": "en",
+  "from": 2021,
+  "to": 2031,
+  "count": 209
+ },
+ {
+  "id": "en.fj",
+  "name": "Holidays in Fiji",
+  "lang": "en",
+  "from": 2021,
+  "to": 2031,
+  "count": 131
+ },
+ {
+  "id": "en.fk",
+  "name": "Holidays in Falkland Islands (Islas Malvinas)",
+  "lang": "en",
+  "from": 2021,
+  "to": 2031,
+  "count": 167
+ },
+ {
+  "id": "en.fm",
+  "name": "Holidays in Micronesia",
+  "lang": "en",
+  "from": 2021,
+  "to": 2031,
+  "count": 124
+ },
+ {
+  "id": "en.fo",
+  "name": "Holidays in Faroe Islands",
+  "lang": "en",
+  "from": 2021,
+  "to": 2031,
+  "count": 220
+ },
+ {
+  "id": "en.french",
+  "name": "Holidays in France",
+  "lang": "en",
+  "from": 2021,
+  "to": 2031,
+  "count": 209
+ },
+ {
+  "id": "en.ga",
+  "name": "Holidays in Gabon",
+  "lang": "en",
+  "from": 2021,
+  "to": 2031,
+  "count": 213
+ },
+ {
+  "id": "en.gd",
+  "name": "Holidays in Grenada",
+  "lang": "en",
+  "from": 2021,
+  "to": 2031,
+  "count": 195
+ },
+ {
+  "id": "en.ge",
+  "name": "Holidays in Georgia",
+  "lang": "en",
+  "from": 2021,
+  "to": 2031,
+  "count": 257
+ },
+ {
+  "id": "en.german",
+  "name": "Holidays in Germany",
+  "lang": "en",
+  "from": 2021,
+  "to": 2031,
+  "count": 462
+ },
+ {
+  "id": "en.gf",
+  "name": "Holidays in French Guiana",
+  "lang": "en",
+  "from": 2021,
+  "to": 2031,
+  "count": 242
+ },
+ {
+  "id": "en.gg",
+  "name": "Holidays in Guernsey",
+  "lang": "en",
+  "from": 2021,
+  "to": 2031,
+  "count": 112
+ },
+ {
+  "id": "en.gh",
+  "name": "Holidays in Ghana",
+  "lang": "en",
+  "from": 2021,
+  "to": 2031,
+  "count": 273
+ },
+ {
+  "id": "en.gi",
+  "name": "Holidays in Gibraltar",
+  "lang": "en",
+  "from": 2021,
+  "to": 2031,
+  "count": 206
+ },
+ {
+  "id": "en.gl",
+  "name": "Holidays in Greenland",
+  "lang": "en",
+  "from": 2021,
+  "to": 2031,
+  "count": 196
+ },
+ {
+  "id": "en.gm",
+  "name": "Holidays in Gambia",
+  "lang": "en",
+  "from": 2021,
+  "to": 2031,
+  "count": 175
+ },
+ {
+  "id": "en.gn",
+  "name": "Holidays in Guinea",
+  "lang": "en",
+  "from": 2021,
+  "to": 2031,
+  "count": 153
+ },
+ {
+  "id": "en.gp",
+  "name": "Holidays in Guadeloupe",
+  "lang": "en",
+  "from": 2021,
+  "to": 2031,
+  "count": 207
+ },
+ {
+  "id": "en.gq",
+  "name": "Holidays in Equatorial Guinea",
+  "lang": "en",
+  "from": 2021,
+  "to": 2031,
+  "count": 178
+ },
+ {
+  "id": "en.greek",
+  "name": "Holidays in Greece",
+  "lang": "en",
+  "from": 2021,
+  "to": 2031,
+  "count": 245
+ },
+ {
+  "id": "en.gt",
+  "name": "Holidays in Guatemala",
+  "lang": "en",
+  "from": 2021,
+  "to": 2031,
+  "count": 208
+ },
+ {
+  "id": "en.gu",
+  "name": "Holidays in Guam",
+  "lang": "en",
+  "from": 2021,
+  "to": 2031,
+  "count": 156
+ },
+ {
+  "id": "en.gw",
+  "name": "Holidays in Guinea-Bissau",
+  "lang": "en",
+  "from": 2021,
+  "to": 2031,
+  "count": 115
+ },
+ {
+  "id": "en.gy",
+  "name": "Holidays in Guyana",
+  "lang": "en",
+  "from": 2021,
+  "to": 2031,
+  "count": 174
+ },
+ {
+  "id": "en.hn",
+  "name": "Holidays in Honduras",
+  "lang": "en",
+  "from": 2021,
+  "to": 2031,
+  "count": 256
+ },
+ {
+  "id": "en.hong_kong",
+  "name": "Holidays in Hong Kong",
+  "lang": "en",
+  "from": 2021,
+  "to": 2031,
+  "count": 280
+ },
+ {
+  "id": "en.ht",
+  "name": "Holidays in Haiti",
+  "lang": "en",
+  "from": 2021,
+  "to": 2031,
+  "count": 223
+ },
+ {
+  "id": "en.im",
+  "name": "Holidays in Isle of Man",
+  "lang": "en",
+  "from": 2021,
+  "to": 2031,
+  "count": 146
+ },
+ {
+  "id": "en.indian",
+  "name": "Holidays in India",
+  "lang": "en",
+  "from": 2021,
+  "to": 2031,
+  "count": 565
+ },
+ {
+  "id": "en.indonesian",
+  "name": "Holidays in Indonesia",
+  "lang": "en",
+  "from": 2021,
+  "to": 2027,
+  "count": 194
+ },
+ {
+  "id": "en.iq",
+  "name": "Holidays in Iraq",
+  "lang": "en",
+  "from": 2021,
+  "to": 2031,
+  "count": 224
+ },
+ {
+  "id": "en.ir",
+  "name": "Holidays in Iran",
+  "lang": "en",
+  "from": 2021,
+  "to": 2031,
+  "count": 295
+ },
+ {
+  "id": "en.irish",
+  "name": "Holidays in Ireland",
+  "lang": "en",
+  "from": 2021,
+  "to": 2031,
+  "count": 194
+ },
+ {
+  "id": "en.is",
+  "name": "Holidays in Iceland",
+  "lang": "en",
+  "from": 2021,
+  "to": 2031,
+  "count": 264
+ },
+ {
+  "id": "en.islamic",
+  "name": "Muslim Holidays",
+  "lang": "en",
+  "from": 2021,
+  "to": 2031,
+  "count": 91
+ },
+ {
+  "id": "en.italian",
+  "name": "Holidays in Italy",
+  "lang": "en",
+  "from": 2021,
+  "to": 2031,
+  "count": 209
+ },
+ {
+  "id": "en.japanese",
+  "name": "Holidays in Japan",
+  "lang": "en",
+  "from": 2021,
+  "to": 2031,
+  "count": 297
+ },
+ {
+  "id": "en.je",
+  "name": "Holidays in Jersey",
+  "lang": "en",
+  "from": 2021,
+  "to": 2031,
+  "count": 134
+ },
+ {
+  "id": "en.jewish",
+  "name": "Holidays in Israel",
+  "lang": "en",
+  "from": 2021,
+  "to": 2031,
+  "count": 1267
+ },
+ {
+  "id": "en.jm",
+  "name": "Holidays in Jamaica",
+  "lang": "en",
+  "from": 2021,
+  "to": 2031,
+  "count": 186
+ },
+ {
+  "id": "en.jo",
+  "name": "Holidays in Jordan",
+  "lang": "en",
+  "from": 2021,
+  "to": 2031,
+  "count": 280
+ },
+ {
+  "id": "en.ke",
+  "name": "Holidays in Kenya",
+  "lang": "en",
+  "from": 2021,
+  "to": 2031,
+  "count": 219
+ },
+ {
+  "id": "en.kg",
+  "name": "Holidays in Kyrgyzstan",
+  "lang": "en",
+  "from": 2021,
+  "to": 2031,
+  "count": 242
+ },
+ {
+  "id": "en.kh",
+  "name": "Holidays in Cambodia",
+  "lang": "en",
+  "from": 2021,
+  "to": 2031,
+  "count": 201
+ },
+ {
+  "id": "en.ki",
+  "name": "Holidays in Kiribati",
+  "lang": "en",
+  "from": 2021,
+  "to": 2031,
+  "count": 163
+ },
+ {
+  "id": "en.km",
+  "name": "Holidays in Comoros",
+  "lang": "en",
+  "from": 2021,
+  "to": 2031,
+  "count": 154
+ },
+ {
+  "id": "en.kn",
+  "name": "Holidays in St. Kitts & Nevis",
+  "lang": "en",
+  "from": 2021,
+  "to": 2031,
+  "count": 151
+ },
+ {
+  "id": "en.kp",
+  "name": "Holidays in North Korea",
+  "lang": "en",
+  "from": 2021,
+  "to": 2031,
+  "count": 174
+ },
+ {
+  "id": "en.kw",
+  "name": "Holidays in Kuwait",
+  "lang": "en",
+  "from": 2021,
+  "to": 2031,
+  "count": 205
+ },
+ {
+  "id": "en.ky",
+  "name": "Holidays in Cayman Islands",
+  "lang": "en",
+  "from": 2021,
+  "to": 2031,
+  "count": 232
+ },
+ {
+  "id": "en.kz",
+  "name": "Holidays in Kazakhstan",
+  "lang": "en",
+  "from": 2021,
+  "to": 2031,
+  "count": 224
+ },
+ {
+  "id": "en.la",
+  "name": "Holidays in Laos",
+  "lang": "en",
+  "from": 2021,
+  "to": 2031,
+  "count": 106
+ },
+ {
+  "id": "en.lb",
+  "name": "Holidays in Lebanon",
+  "lang": "en",
+  "from": 2021,
+  "to": 2031,
+  "count": 379
+ },
+ {
+  "id": "en.lc",
+  "name": "Holidays in St. Lucia",
+  "lang": "en",
+  "from": 2021,
+  "to": 2031,
+  "count": 154
+ },
+ {
+  "id": "en.li",
+  "name": "Holidays in Liechtenstein",
+  "lang": "en",
+  "from": 2021,
+  "to": 2031,
+  "count": 288
+ },
+ {
+  "id": "en.lk",
+  "name": "Holidays in Sri Lanka",
+  "lang": "en",
+  "from": 2021,
+  "to": 2027,
+  "count": 246
+ },
+ {
+  "id": "en.lr",
+  "name": "Holidays in Liberia",
+  "lang": "en",
+  "from": 2021,
+  "to": 2031,
+  "count": 138
+ },
+ {
+  "id": "en.ls",
+  "name": "Holidays in Lesotho",
+  "lang": "en",
+  "from": 2021,
+  "to": 2031,
+  "count": 122
+ },
+ {
+  "id": "en.lu",
+  "name": "Holidays in Luxembourg",
+  "lang": "en",
+  "from": 2021,
+  "to": 2031,
+  "count": 198
+ },
+ {
+  "id": "en.ly",
+  "name": "Holidays in Libya",
+  "lang": "en",
+  "from": 2021,
+  "to": 2031,
+  "count": 177
+ },
+ {
+  "id": "en.ma",
+  "name": "Holidays in Morocco",
+  "lang": "en",
+  "from": 2021,
+  "to": 2031,
+  "count": 221
+ },
+ {
+  "id": "en.malaysia",
+  "name": "Holidays in Malaysia",
+  "lang": "en",
+  "from": 2021,
+  "to": 2031,
+  "count": 334
+ },
+ {
+  "id": "en.mc",
+  "name": "Holidays in Monaco",
+  "lang": "en",
+  "from": 2021,
+  "to": 2031,
+  "count": 296
+ },
+ {
+  "id": "en.md",
+  "name": "Holidays in Moldova",
+  "lang": "en",
+  "from": 2021,
+  "to": 2031,
+  "count": 346
+ },
+ {
+  "id": "en.me",
+  "name": "Holidays in Montenegro",
+  "lang": "en",
+  "from": 2021,
+  "to": 2031,
+  "count": 362
+ },
+ {
+  "id": "en.mexican",
+  "name": "Holidays in Mexico",
+  "lang": "en",
+  "from": 2021,
+  "to": 2031,
+  "count": 221
+ },
+ {
+  "id": "en.mf",
+  "name": "Holidays in St. Martin",
+  "lang": "en",
+  "from": 2021,
+  "to": 2031,
+  "count": 187
+ },
+ {
+  "id": "en.mg",
+  "name": "Holidays in Madagascar",
+  "lang": "en",
+  "from": 2021,
+  "to": 2031,
+  "count": 188
+ },
+ {
+  "id": "en.mh",
+  "name": "Holidays in Marshall Islands",
+  "lang": "en",
+  "from": 2021,
+  "to": 2031,
+  "count": 138
+ },
+ {
+  "id": "en.mk",
+  "name": "Holidays in North Macedonia",
+  "lang": "en",
+  "from": 2021,
+  "to": 2031,
+  "count": 465
+ },
+ {
+  "id": "en.ml",
+  "name": "Holidays in Mali",
+  "lang": "en",
+  "from": 2021,
+  "to": 2031,
+  "count": 179
+ },
+ {
+  "id": "en.mm",
+  "name": "Holidays in Myanmar (Burma)",
+  "lang": "en",
+  "from": 2021,
+  "to": 2027,
+  "count": 243
+ },
+ {
+  "id": "en.mn",
+  "name": "Holidays in Mongolia",
+  "lang": "en",
+  "from": 2021,
+  "to": 2031,
+  "count": 302
+ },
+ {
+  "id": "en.mo",
+  "name": "Holidays in Macao",
+  "lang": "en",
+  "from": 2021,
+  "to": 2031,
+  "count": 298
+ },
+ {
+  "id": "en.mp",
+  "name": "Holidays in Northern Mariana Islands",
+  "lang": "en",
+  "from": 2021,
+  "to": 2031,
+  "count": 188
+ },
+ {
+  "id": "en.mq",
+  "name": "Holidays in Martinique",
+  "lang": "en",
+  "from": 2021,
+  "to": 2031,
+  "count": 220
+ },
+ {
+  "id": "en.mr",
+  "name": "Holidays in Mauritania",
+  "lang": "en",
+  "from": 2021,
+  "to": 2031,
+  "count": 105
+ },
+ {
+  "id": "en.ms",
+  "name": "Holidays in Montserrat",
+  "lang": "en",
+  "from": 2021,
+  "to": 2031,
+  "count": 142
+ },
+ {
+  "id": "en.mt",
+  "name": "Holidays in Malta",
+  "lang": "en",
+  "from": 2021,
+  "to": 2031,
+  "count": 231
+ },
+ {
+  "id": "en.mu",
+  "name": "Holidays in Mauritius",
+  "lang": "en",
+  "from": 2021,
+  "to": 2031,
+  "count": 168
+ },
+ {
+  "id": "en.mv",
+  "name": "Holidays in Maldives",
+  "lang": "en",
+  "from": 2021,
+  "to": 2031,
+  "count": 271
+ },
+ {
+  "id": "en.mw",
+  "name": "Holidays in Malawi",
+  "lang": "en",
+  "from": 2021,
+  "to": 2031,
+  "count": 204
+ },
+ {
+  "id": "en.mz",
+  "name": "Holidays in Mozambique",
+  "lang": "en",
+  "from": 2021,
+  "to": 2031,
+  "count": 128
+ },
+ {
+  "id": "en.na",
+  "name": "Holidays in Namibia",
+  "lang": "en",
+  "from": 2021,
+  "to": 2031,
+  "count": 169
+ },
+ {
+  "id": "en.nc",
+  "name": "Holidays in New Caledonia",
+  "lang": "en",
+  "from": 2021,
+  "to": 2031,
+  "count": 176
+ },
+ {
+  "id": "en.ne",
+  "name": "Holidays in Niger",
+  "lang": "en",
+  "from": 2021,
+  "to": 2031,
+  "count": 184
+ },
+ {
+  "id": "en.new_zealand",
+  "name": "Holidays in New Zealand",
+  "lang": "en",
+  "from": 2021,
+  "to": 2031,
+  "count": 241
+ },
+ {
+  "id": "en.ng",
+  "name": "Holidays in Nigeria",
+  "lang": "en",
+  "from": 2021,
+  "to": 2031,
+  "count": 290
+ },
+ {
+  "id": "en.ni",
+  "name": "Holidays in Nicaragua",
+  "lang": "en",
+  "from": 2021,
+  "to": 2031,
+  "count": 243
+ },
+ {
+  "id": "en.norwegian",
+  "name": "Holidays in Norway",
+  "lang": "en",
+  "from": 2021,
+  "to": 2031,
+  "count": 309
+ },
+ {
+  "id": "en.np",
+  "name": "Holidays in Nepal",
+  "lang": "en",
+  "from": 2021,
+  "to": 2026,
+  "count": 250
+ },
+ {
+  "id": "en.nr",
+  "name": "Holidays in Nauru",
+  "lang": "en",
+  "from": 2021,
+  "to": 2031,
+  "count": 190
+ },
+ {
+  "id": "en.om",
+  "name": "Holidays in Oman",
+  "lang": "en",
+  "from": 2021,
+  "to": 2031,
+  "count": 190
+ },
+ {
+  "id": "en.pa",
+  "name": "Holidays in Panama",
+  "lang": "en",
+  "from": 2021,
+  "to": 2031,
+  "count": 258
+ },
+ {
+  "id": "en.pe",
+  "name": "Holidays in Peru",
+  "lang": "en",
+  "from": 2021,
+  "to": 2031,
+  "count": 323
+ },
+ {
+  "id": "en.pf",
+  "name": "Holidays in French Polynesia",
+  "lang": "en",
+  "from": 2021,
+  "to": 2031,
+  "count": 154
+ },
+ {
+  "id": "en.pg",
+  "name": "Holidays in Papua New Guinea",
+  "lang": "en",
+  "from": 2021,
+  "to": 2031,
+  "count": 139
+ },
+ {
+  "id": "en.philippines",
+  "name": "Holidays in Philippines",
+  "lang": "en",
+  "from": 2021,
+  "to": 2031,
+  "count": 311
+ },
+ {
+  "id": "en.pk",
+  "name": "Holidays in Pakistan",
+  "lang": "en",
+  "from": 2021,
+  "to": 2026,
+  "count": 297
+ },
+ {
+  "id": "en.pm",
+  "name": "Holidays in St. Pierre & Miquelon",
+  "lang": "en",
+  "from": 2021,
+  "to": 2031,
+  "count": 154
+ },
+ {
+  "id": "en.polish",
+  "name": "Holidays in Poland",
+  "lang": "en",
+  "from": 2021,
+  "to": 2031,
+  "count": 253
+ },
+ {
+  "id": "en.portuguese",
+  "name": "Holidays in Portugal",
+  "lang": "en",
+  "from": 2021,
+  "to": 2031,
+  "count": 231
+ },
+ {
+  "id": "en.pr",
+  "name": "Holidays in Puerto Rico",
+  "lang": "en",
+  "from": 2021,
+  "to": 2031,
+  "count": 317
+ },
+ {
+  "id": "en.pw",
+  "name": "Holidays in Palau",
+  "lang": "en",
+  "from": 2021,
+  "to": 2031,
+  "count": 146
+ },
+ {
+  "id": "en.py",
+  "name": "Holidays in Paraguay",
+  "lang": "en",
+  "from": 2021,
+  "to": 2031,
+  "count": 184
+ },
+ {
+  "id": "en.qa",
+  "name": "Holidays in Qatar",
+  "lang": "en",
+  "from": 2021,
+  "to": 2031,
+  "count": 173
+ },
+ {
+  "id": "en.re",
+  "name": "Holidays in Réunion",
+  "lang": "en",
+  "from": 2021,
+  "to": 2031,
+  "count": 132
+ },
+ {
+  "id": "en.rs",
+  "name": "Holidays in Serbia",
+  "lang": "en",
+  "from": 2021,
+  "to": 2031,
+  "count": 349
+ },
+ {
+  "id": "en.russian",
+  "name": "Holidays in Russia",
+  "lang": "en",
+  "from": 2021,
+  "to": 2031,
+  "count": 201
+ },
+ {
+  "id": "en.rw",
+  "name": "Holidays in Rwanda",
+  "lang": "en",
+  "from": 2021,
+  "to": 2031,
+  "count": 207
+ },
+ {
+  "id": "en.sa",
+  "name": "Holidays in South Africa",
+  "lang": "en",
+  "from": 2021,
+  "to": 2031,
+  "count": 250
+ },
+ {
+  "id": "en.sb",
+  "name": "Holidays in Solomon Islands",
+  "lang": "en",
+  "from": 2021,
+  "to": 2031,
+  "count": 116
+ },
+ {
+  "id": "en.sc",
+  "name": "Holidays in Seychelles",
+  "lang": "en",
+  "from": 2021,
+  "to": 2031,
+  "count": 178
+ },
+ {
+  "id": "en.sd",
+  "name": "Holidays in Sudan",
+  "lang": "en",
+  "from": 2021,
+  "to": 2031,
+  "count": 183
+ },
+ {
+  "id": "en.sh",
+  "name": "Holidays in St. Helena",
+  "lang": "en",
+  "from": 2021,
+  "to": 2031,
+  "count": 118
+ },
+ {
+  "id": "en.singapore",
+  "name": "Holidays in Singapore",
+  "lang": "en",
+  "from": 2021,
+  "to": 2031,
+  "count": 277
+ },
+ {
+  "id": "en.sl",
+  "name": "Holidays in Sierra Leone",
+  "lang": "en",
+  "from": 2021,
+  "to": 2031,
+  "count": 158
+ },
+ {
+  "id": "en.sm",
+  "name": "Holidays in San Marino",
+  "lang": "en",
+  "from": 2021,
+  "to": 2031,
+  "count": 286
+ },
+ {
+  "id": "en.sn",
+  "name": "Holidays in Senegal",
+  "lang": "en",
+  "from": 2021,
+  "to": 2031,
+  "count": 193
+ },
+ {
+  "id": "en.so",
+  "name": "Holidays in Somalia",
+  "lang": "en",
+  "from": 2021,
+  "to": 2031,
+  "count": 165
+ },
+ {
+  "id": "en.south_korea",
+  "name": "Holidays in South Korea",
+  "lang": "en",
+  "from": 2021,
+  "to": 2031,
+  "count": 280
+ },
+ {
+  "id": "en.spain",
+  "name": "Holidays in Spain",
+  "lang": "en",
+  "from": 2021,
+  "to": 2031,
+  "count": 386
+ },
+ {
+  "id": "en.sr",
+  "name": "Holidays in Suriname",
+  "lang": "en",
+  "from": 2021,
+  "to": 2031,
+  "count": 186
+ },
+ {
+  "id": "en.ss",
+  "name": "Holidays in South Sudan",
+  "lang": "en",
+  "from": 2021,
+  "to": 2031,
+  "count": 273
+ },
+ {
+  "id": "en.st",
+  "name": "Holidays in São Tomé & Príncipe",
+  "lang": "en",
+  "from": 2021,
+  "to": 2031,
+  "count": 151
+ },
+ {
+  "id": "en.sv",
+  "name": "Holidays in El Salvador",
+  "lang": "en",
+  "from": 2021,
+  "to": 2031,
+  "count": 236
+ },
+ {
+  "id": "en.swedish",
+  "name": "Holidays in Sweden",
+  "lang": "en",
+  "from": 2021,
+  "to": 2031,
+  "count": 330
+ },
+ {
+  "id": "en.sx",
+  "name": "Holidays in Sint Maarten",
+  "lang": "en",
+  "from": 2021,
+  "to": 2031,
+  "count": 157
+ },
+ {
+  "id": "en.sy",
+  "name": "Holidays in Syria",
+  "lang": "en",
+  "from": 2021,
+  "to": 2031,
+  "count": 187
+ },
+ {
+  "id": "en.sz",
+  "name": "Holidays in Eswatini",
+  "lang": "en",
+  "from": 2021,
+  "to": 2031,
+  "count": 161
+ },
+ {
+  "id": "en.taiwan",
+  "name": "Holidays in Taiwan",
+  "lang": "en",
+  "from": 2021,
+  "to": 2031,
+  "count": 330
+ },
+ {
+  "id": "en.tc",
+  "name": "Holidays in Turks & Caicos Islands",
+  "lang": "en",
+  "from": 2021,
+  "to": 2031,
+  "count": 164
+ },
+ {
+  "id": "en.td",
+  "name": "Holidays in Chad",
+  "lang": "en",
+  "from": 2021,
+  "to": 2031,
+  "count": 174
+ },
+ {
+  "id": "en.tg",
+  "name": "Holidays in Togo",
+  "lang": "en",
+  "from": 2021,
+  "to": 2031,
+  "count": 172
+ },
+ {
+  "id": "en.th",
+  "name": "Holidays in Thailand",
+  "lang": "en",
+  "from": 2021,
+  "to": 2031,
+  "count": 317
+ },
+ {
+  "id": "en.tj",
+  "name": "Holidays in Tajikistan",
+  "lang": "en",
+  "from": 2021,
+  "to": 2031,
+  "count": 176
+ },
+ {
+  "id": "en.tl",
+  "name": "Holidays in Timor-Leste",
+  "lang": "en",
+  "from": 2021,
+  "to": 2031,
+  "count": 242
+ },
+ {
+  "id": "en.tm",
+  "name": "Holidays in Turkmenistan",
+  "lang": "en",
+  "from": 2021,
+  "to": 2031,
+  "count": 366
+ },
+ {
+  "id": "en.tn",
+  "name": "Holidays in Tunisia",
+  "lang": "en",
+  "from": 2021,
+  "to": 2031,
+  "count": 174
+ },
+ {
+  "id": "en.to",
+  "name": "Holidays in Tonga",
+  "lang": "en",
+  "from": 2021,
+  "to": 2031,
+  "count": 158
+ },
+ {
+  "id": "en.tt",
+  "name": "Holidays in Trinidad & Tobago",
+  "lang": "en",
+  "from": 2021,
+  "to": 2031,
+  "count": 265
+ },
+ {
+  "id": "en.tv",
+  "name": "Holidays in Tuvalu",
+  "lang": "en",
+  "from": 2021,
+  "to": 2031,
+  "count": 163
+ },
+ {
+  "id": "en.tz",
+  "name": "Holidays in Tanzania",
+  "lang": "en",
+  "from": 2021,
+  "to": 2031,
+  "count": 242
+ },
+ {
+  "id": "en.ug",
+  "name": "Holidays in Uganda",
+  "lang": "en",
+  "from": 2021,
+  "to": 2031,
+  "count": 207
+ },
+ {
+  "id": "en.uk",
+  "name": "Holidays in United Kingdom",
+  "lang": "en",
+  "from": 2021,
+  "to": 2031,
+  "count": 244
+ },
+ {
+  "id": "en.usa",
+  "name": "Holidays in United States",
+  "lang": "en",
+  "from": 2021,
+  "to": 2031,
+  "count": 317
+ },
+ {
+  "id": "en.uy",
+  "name": "Holidays in Uruguay",
+  "lang": "en",
+  "from": 2021,
+  "to": 2031,
+  "count": 207
+ },
+ {
+  "id": "en.uz",
+  "name": "Holidays in Uzbekistan",
+  "lang": "en",
+  "from": 2021,
+  "to": 2031,
+  "count": 176
+ },
+ {
+  "id": "en.va",
+  "name": "Holidays in Vatican City",
+  "lang": "en",
+  "from": 2021,
+  "to": 2031,
+  "count": 304
+ },
+ {
+  "id": "en.vc",
+  "name": "Holidays in St. Vincent & Grenadines",
+  "lang": "en",
+  "from": 2021,
+  "to": 2031,
+  "count": 150
+ },
+ {
+  "id": "en.ve",
+  "name": "Holidays in Venezuela",
+  "lang": "en",
+  "from": 2021,
+  "to": 2031,
+  "count": 409
+ },
+ {
+  "id": "en.vg",
+  "name": "Holidays in British Virgin Islands",
+  "lang": "en",
+  "from": 2021,
+  "to": 2031,
+  "count": 178
+ },
+ {
+  "id": "en.vi",
+  "name": "Holidays in U.S. Virgin Islands",
+  "lang": "en",
+  "from": 2021,
+  "to": 2031,
+  "count": 290
+ },
+ {
+  "id": "en.vietnamese",
+  "name": "Holidays in Vietnam",
+  "lang": "en",
+  "from": 2021,
+  "to": 2031,
+  "count": 216
+ },
+ {
+  "id": "en.vu",
+  "name": "Holidays in Vanuatu",
+  "lang": "en",
+  "from": 2021,
+  "to": 2031,
+  "count": 167
+ },
+ {
+  "id": "en.wf",
+  "name": "Holidays in Wallis & Futuna",
+  "lang": "en",
+  "from": 2021,
+  "to": 2031,
+  "count": 154
+ },
+ {
+  "id": "en.ws",
+  "name": "Holidays in Samoa",
+  "lang": "en",
+  "from": 2021,
+  "to": 2031,
+  "count": 133
+ },
+ {
+  "id": "en.ye",
+  "name": "Holidays in Yemen",
+  "lang": "en",
+  "from": 2021,
+  "to": 2031,
+  "count": 225
+ },
+ {
+  "id": "en.yt",
+  "name": "Holidays in Mayotte",
+  "lang": "en",
+  "from": 2021,
+  "to": 2031,
+  "count": 198
+ },
+ {
+  "id": "en.zm",
+  "name": "Holidays in Zambia",
+  "lang": "en",
+  "from": 2021,
+  "to": 2031,
+  "count": 223
+ },
+ {
+  "id": "en.zw",
+  "name": "Holidays in Zimbabwe",
+  "lang": "en",
+  "from": 2021,
+  "to": 2031,
+  "count": 197
+ },
+ {
+  "id": "fr.ch",
+  "name": "Jours fériés en Suisse",
+  "lang": "fr",
+  "from": 2021,
+  "to": 2031,
+  "count": 325
+ },
+ {
+  "id": "it.ch",
+  "name": "Festività in Svizzera",
+  "lang": "it",
+  "from": 2021,
+  "to": 2031,
+  "count": 325
+ }
+]

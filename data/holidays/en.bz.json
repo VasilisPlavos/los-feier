@@ -1,0 +1,1021 @@
+{
+ "id": "en.bz",
+ "name": "Holidays in Belize",
+ "lang": "en",
+ "from": 2021,
+ "to": 2031,
+ "count": 202,
+ "fetchedAt": "2026-09-23T12:14:40.704Z",
+ "events": [
+  {
+   "date": "2021-01-01",
+   "name": "New Year's Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2021-01-15",
+   "name": "George Price Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2021-03-08",
+   "name": "Day off for National Heroes and Benefactors Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2021-03-09",
+   "name": "National Heroes and Benefactors Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2021-04-02",
+   "name": "Good Friday",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2021-04-03",
+   "name": "Holy Saturday",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2021-04-04",
+   "name": "Easter Sunday",
+   "type": "Observance"
+  },
+  {
+   "date": "2021-04-05",
+   "name": "Easter Monday",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2021-05-01",
+   "name": "Labor Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2021-05-24",
+   "name": "Commonwealth Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2021-08-01",
+   "name": "Emancipation Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2021-08-02",
+   "name": "Day off for Emancipation Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2021-09-10",
+   "name": "St. George's Caye Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2021-09-21",
+   "name": "Independence Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2021-10-11",
+   "name": "Day off for El Día de la Raza",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2021-10-12",
+   "name": "El Día de la Raza",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2021-11-19",
+   "name": "Garifuna Settlement Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2021-12-25",
+   "name": "Christmas Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2021-12-26",
+   "name": "Boxing Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2021-12-27",
+   "name": "Day off for Boxing Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2022-01-01",
+   "name": "New Year's Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2022-01-15",
+   "name": "George Price Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2022-03-07",
+   "name": "Day off for National Heroes and Benefactors Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2022-03-09",
+   "name": "National Heroes and Benefactors Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2022-04-15",
+   "name": "Good Friday",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2022-04-16",
+   "name": "Holy Saturday",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2022-04-17",
+   "name": "Easter Sunday",
+   "type": "Observance"
+  },
+  {
+   "date": "2022-04-18",
+   "name": "Easter Monday",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2022-05-01",
+   "name": "Labor Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2022-05-02",
+   "name": "Day off for Labor Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2022-08-01",
+   "name": "Emancipation Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2022-09-10",
+   "name": "St. George's Caye Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2022-09-19",
+   "name": "Queen Elizabeth II's Funeral Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2022-09-21",
+   "name": "Independence Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2022-10-10",
+   "name": "Day off for El Día de la Raza",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2022-10-12",
+   "name": "El Día de la Raza",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2022-11-19",
+   "name": "Garifuna Settlement Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2022-12-25",
+   "name": "Christmas Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2022-12-26",
+   "name": "Boxing Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2023-01-01",
+   "name": "New Year's Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2023-01-02",
+   "name": "Day off for New Year's Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2023-01-15",
+   "name": "George Price Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2023-01-16",
+   "name": "Day off for George Price Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2023-03-06",
+   "name": "Day off for National Heroes and Benefactors Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2023-03-09",
+   "name": "National Heroes and Benefactors Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2023-04-07",
+   "name": "Good Friday",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2023-04-08",
+   "name": "Holy Saturday",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2023-04-09",
+   "name": "Easter Sunday",
+   "type": "Observance"
+  },
+  {
+   "date": "2023-04-10",
+   "name": "Easter Monday",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2023-05-01",
+   "name": "Labor Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2023-07-31",
+   "name": "Day off for Emancipation Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2023-08-01",
+   "name": "Emancipation Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2023-09-10",
+   "name": "St. George's Caye Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2023-09-11",
+   "name": "Day off for St. George's Caye Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2023-09-21",
+   "name": "Independence Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2023-10-09",
+   "name": "Day off for El Día de la Raza",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2023-10-12",
+   "name": "El Día de la Raza",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2023-11-19",
+   "name": "Garifuna Settlement Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2023-11-20",
+   "name": "Day off for Garifuna Settlement Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2023-12-25",
+   "name": "Christmas Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2023-12-26",
+   "name": "Boxing Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2024-01-01",
+   "name": "New Year's Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2024-01-15",
+   "name": "George Price Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2024-03-09",
+   "name": "National Heroes and Benefactors Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2024-03-11",
+   "name": "Day off for National Heroes and Benefactors Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2024-03-29",
+   "name": "Good Friday",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2024-03-30",
+   "name": "Holy Saturday",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2024-03-31",
+   "name": "Easter Sunday",
+   "type": "Observance"
+  },
+  {
+   "date": "2024-04-01",
+   "name": "Easter Monday",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2024-04-29",
+   "name": "Day off for Labor Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2024-05-01",
+   "name": "Labor Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2024-08-01",
+   "name": "Emancipation Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2024-09-10",
+   "name": "St. George's Caye Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2024-09-21",
+   "name": "Independence Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2024-10-12",
+   "name": "El Día de la Raza",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2024-10-14",
+   "name": "Day off for El Día de la Raza",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2024-11-19",
+   "name": "Garifuna Settlement Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2024-12-25",
+   "name": "Christmas Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2024-12-26",
+   "name": "Boxing Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2025-01-01",
+   "name": "New Year's Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2025-01-15",
+   "name": "George Price Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2025-03-09",
+   "name": "National Heroes and Benefactors Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2025-03-10",
+   "name": "Day off for National Heroes and Benefactors Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2025-04-18",
+   "name": "Good Friday",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2025-04-19",
+   "name": "Holy Saturday",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2025-04-20",
+   "name": "Easter Sunday",
+   "type": "Observance"
+  },
+  {
+   "date": "2025-04-21",
+   "name": "Easter Monday",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2025-05-01",
+   "name": "Labor Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2025-08-01",
+   "name": "Emancipation Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2025-09-10",
+   "name": "St. George's Caye Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2025-09-21",
+   "name": "Independence Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2025-09-22",
+   "name": "Day off for Independence Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2025-10-12",
+   "name": "El Día de la Raza",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2025-10-13",
+   "name": "Day off for El Día de la Raza",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2025-11-19",
+   "name": "Garifuna Settlement Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2025-12-25",
+   "name": "Christmas Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2025-12-26",
+   "name": "Boxing Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2026-01-01",
+   "name": "New Year's Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2026-01-15",
+   "name": "George Price Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2026-03-09",
+   "name": "National Heroes and Benefactors Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2026-04-03",
+   "name": "Good Friday",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2026-04-04",
+   "name": "Holy Saturday",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2026-04-05",
+   "name": "Easter Sunday",
+   "type": "Observance"
+  },
+  {
+   "date": "2026-04-06",
+   "name": "Easter Monday",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2026-05-01",
+   "name": "Labor Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2026-08-01",
+   "name": "Emancipation Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2026-09-10",
+   "name": "St. George's Caye Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2026-09-21",
+   "name": "Independence Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2026-10-12",
+   "name": "El Día de la Raza",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2026-11-19",
+   "name": "Garifuna Settlement Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2026-12-25",
+   "name": "Christmas Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2026-12-26",
+   "name": "Boxing Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2027-01-01",
+   "name": "New Year's Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2027-01-15",
+   "name": "George Price Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2027-03-08",
+   "name": "Day off for National Heroes and Benefactors Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2027-03-09",
+   "name": "National Heroes and Benefactors Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2027-03-26",
+   "name": "Good Friday",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2027-03-27",
+   "name": "Holy Saturday",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2027-03-28",
+   "name": "Easter Sunday",
+   "type": "Observance"
+  },
+  {
+   "date": "2027-03-29",
+   "name": "Easter Monday",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2027-05-01",
+   "name": "Labor Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2027-08-01",
+   "name": "Emancipation Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2027-08-02",
+   "name": "Day off for Emancipation Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2027-09-10",
+   "name": "St. George's Caye Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2027-09-21",
+   "name": "Independence Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2027-10-11",
+   "name": "Day off for El Día de la Raza",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2027-10-12",
+   "name": "El Día de la Raza",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2027-11-19",
+   "name": "Garifuna Settlement Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2027-12-25",
+   "name": "Christmas Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2027-12-26",
+   "name": "Boxing Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2027-12-28",
+   "name": "Day off for Boxing Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2028-01-01",
+   "name": "New Year's Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2028-01-15",
+   "name": "George Price Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2028-03-06",
+   "name": "Day off for National Heroes and Benefactors Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2028-03-09",
+   "name": "National Heroes and Benefactors Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2028-04-14",
+   "name": "Good Friday",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2028-04-15",
+   "name": "Holy Saturday",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2028-04-16",
+   "name": "Easter Sunday",
+   "type": "Observance"
+  },
+  {
+   "date": "2028-04-17",
+   "name": "Easter Monday",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2028-05-01",
+   "name": "Labor Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2028-08-01",
+   "name": "Emancipation Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2028-09-10",
+   "name": "St. George's Caye Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2028-09-11",
+   "name": "Day off for St. George's Caye Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2028-09-21",
+   "name": "Independence Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2028-10-09",
+   "name": "Day off for El Día de la Raza",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2028-10-12",
+   "name": "El Día de la Raza",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2028-11-19",
+   "name": "Garifuna Settlement Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2028-11-20",
+   "name": "Day off for Garifuna Settlement Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2028-12-25",
+   "name": "Christmas Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2028-12-26",
+   "name": "Boxing Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2029-01-01",
+   "name": "New Year's Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2029-01-15",
+   "name": "George Price Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2029-03-09",
+   "name": "National Heroes and Benefactors Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2029-03-12",
+   "name": "Day off for National Heroes and Benefactors Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2029-03-30",
+   "name": "Good Friday",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2029-03-31",
+   "name": "Holy Saturday",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2029-04-01",
+   "name": "Easter Sunday",
+   "type": "Observance"
+  },
+  {
+   "date": "2029-04-02",
+   "name": "Easter Monday",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2029-05-01",
+   "name": "Labor Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2029-08-01",
+   "name": "Emancipation Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2029-09-10",
+   "name": "St. George's Caye Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2029-09-21",
+   "name": "Independence Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2029-10-12",
+   "name": "El Día de la Raza",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2029-10-15",
+   "name": "Day off for El Día de la Raza",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2029-11-19",
+   "name": "Garifuna Settlement Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2029-12-25",
+   "name": "Christmas Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2029-12-26",
+   "name": "Boxing Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2030-01-01",
+   "name": "New Year's Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2030-01-15",
+   "name": "George Price Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2030-03-09",
+   "name": "National Heroes and Benefactors Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2030-03-11",
+   "name": "Day off for National Heroes and Benefactors Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2030-04-19",
+   "name": "Good Friday",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2030-04-20",
+   "name": "Holy Saturday",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2030-04-21",
+   "name": "Easter Sunday",
+   "type": "Observance"
+  },
+  {
+   "date": "2030-04-22",
+   "name": "Easter Monday",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2030-05-01",
+   "name": "Labor Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2030-08-01",
+   "name": "Emancipation Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2030-09-10",
+   "name": "St. George's Caye Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2030-09-21",
+   "name": "Independence Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2030-10-12",
+   "name": "El Día de la Raza",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2030-10-14",
+   "name": "Day off for El Día de la Raza",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2030-11-19",
+   "name": "Garifuna Settlement Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2030-12-25",
+   "name": "Christmas Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2030-12-26",
+   "name": "Boxing Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2031-01-01",
+   "name": "New Year's Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2031-01-15",
+   "name": "George Price Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2031-03-09",
+   "name": "National Heroes and Benefactors Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2031-03-10",
+   "name": "Day off for National Heroes and Benefactors Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2031-04-11",
+   "name": "Good Friday",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2031-04-12",
+   "name": "Holy Saturday",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2031-04-13",
+   "name": "Easter Sunday",
+   "type": "Observance"
+  },
+  {
+   "date": "2031-04-14",
+   "name": "Easter Monday",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2031-05-01",
+   "name": "Labor Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2031-08-01",
+   "name": "Emancipation Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2031-09-10",
+   "name": "St. George's Caye Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2031-09-21",
+   "name": "Independence Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2031-09-22",
+   "name": "Day off for Independence Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2031-10-12",
+   "name": "El Día de la Raza",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2031-10-13",
+   "name": "Day off for El Día de la Raza",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2031-11-19",
+   "name": "Garifuna Settlement Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2031-12-25",
+   "name": "Christmas Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2031-12-26",
+   "name": "Boxing Day",
+   "type": "Public holiday"
+  }
+ ]
+}

@@ -1,0 +1,1986 @@
+{
+ "id": "en.spain",
+ "name": "Holidays in Spain",
+ "lang": "en",
+ "from": 2021,
+ "to": 2031,
+ "count": 386,
+ "fetchedAt": "2026-09-23T12:14:41.027Z",
+ "events": [
+  {
+   "date": "2021-01-01",
+   "name": "New Year's Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2021-01-02",
+   "name": "Reconquest Day",
+   "type": "Observance"
+  },
+  {
+   "date": "2021-01-06",
+   "name": "Epiphany",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2021-02-14",
+   "name": "Valentine's Day",
+   "type": "Observance"
+  },
+  {
+   "date": "2021-02-15",
+   "name": "Carnival Monday",
+   "type": "Observance"
+  },
+  {
+   "date": "2021-02-16",
+   "name": "Carnival Tuesday",
+   "type": "Observance"
+  },
+  {
+   "date": "2021-02-17",
+   "name": "Ash Wednesday",
+   "type": "Observance"
+  },
+  {
+   "date": "2021-03-19",
+   "name": "Father’s Day",
+   "type": "Observance"
+  },
+  {
+   "date": "2021-03-19",
+   "name": "San Jose",
+   "type": "Observance"
+  },
+  {
+   "date": "2021-03-28",
+   "name": "Daylight Saving Time starts",
+   "type": "Observance"
+  },
+  {
+   "date": "2021-03-28",
+   "name": "Palm Sunday",
+   "type": "Observance"
+  },
+  {
+   "date": "2021-04-01",
+   "name": "Maundy Thursday",
+   "type": "Observance"
+  },
+  {
+   "date": "2021-04-02",
+   "name": "Good Friday",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2021-04-03",
+   "name": "Holy Saturday",
+   "type": "Observance"
+  },
+  {
+   "date": "2021-04-04",
+   "name": "Easter Sunday",
+   "type": "Observance"
+  },
+  {
+   "date": "2021-04-05",
+   "name": "Easter Monday",
+   "type": "Observance"
+  },
+  {
+   "date": "2021-04-23",
+   "name": "St George's Day",
+   "type": "Observance"
+  },
+  {
+   "date": "2021-05-01",
+   "name": "Labor Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2021-05-02",
+   "name": "Mothers' Day",
+   "type": "Observance"
+  },
+  {
+   "date": "2021-05-23",
+   "name": "Whit Sunday/Pentecost",
+   "type": "Observance"
+  },
+  {
+   "date": "2021-05-24",
+   "name": "Whit Monday",
+   "type": "Observance"
+  },
+  {
+   "date": "2021-06-03",
+   "name": "Corpus Christi",
+   "type": "Observance"
+  },
+  {
+   "date": "2021-06-24",
+   "name": "Saint John the Baptist Day",
+   "type": "Observance"
+  },
+  {
+   "date": "2021-07-25",
+   "name": "Feast of Saint James the Apostle",
+   "type": "Observance"
+  },
+  {
+   "date": "2021-08-15",
+   "name": "Assumption of Mary",
+   "type": "Observance"
+  },
+  {
+   "date": "2021-10-12",
+   "name": "Hispanic Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2021-10-31",
+   "name": "Daylight Saving Time ends",
+   "type": "Observance"
+  },
+  {
+   "date": "2021-11-01",
+   "name": "All Saints' Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2021-12-06",
+   "name": "Constitution Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2021-12-08",
+   "name": "Immaculate Conception",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2021-12-24",
+   "name": "Christmas Eve",
+   "type": "Observance"
+  },
+  {
+   "date": "2021-12-25",
+   "name": "Christmas Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2021-12-26",
+   "name": "Feast of the Holy Family",
+   "type": "Observance"
+  },
+  {
+   "date": "2021-12-26",
+   "name": "St Stephen's Day",
+   "type": "Observance"
+  },
+  {
+   "date": "2021-12-31",
+   "name": "New Year's Eve",
+   "type": "Observance"
+  },
+  {
+   "date": "2022-01-01",
+   "name": "New Year's Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2022-01-02",
+   "name": "Reconquest Day",
+   "type": "Observance"
+  },
+  {
+   "date": "2022-01-06",
+   "name": "Epiphany",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2022-02-14",
+   "name": "Valentine's Day",
+   "type": "Observance"
+  },
+  {
+   "date": "2022-02-28",
+   "name": "Carnival Monday",
+   "type": "Observance"
+  },
+  {
+   "date": "2022-03-01",
+   "name": "Carnival Tuesday",
+   "type": "Observance"
+  },
+  {
+   "date": "2022-03-02",
+   "name": "Ash Wednesday",
+   "type": "Observance"
+  },
+  {
+   "date": "2022-03-19",
+   "name": "Father’s Day",
+   "type": "Observance"
+  },
+  {
+   "date": "2022-03-19",
+   "name": "San Jose",
+   "type": "Observance"
+  },
+  {
+   "date": "2022-03-27",
+   "name": "Daylight Saving Time starts",
+   "type": "Observance"
+  },
+  {
+   "date": "2022-04-10",
+   "name": "Palm Sunday",
+   "type": "Observance"
+  },
+  {
+   "date": "2022-04-14",
+   "name": "Maundy Thursday",
+   "type": "Observance"
+  },
+  {
+   "date": "2022-04-15",
+   "name": "Good Friday",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2022-04-16",
+   "name": "Holy Saturday",
+   "type": "Observance"
+  },
+  {
+   "date": "2022-04-17",
+   "name": "Easter Sunday",
+   "type": "Observance"
+  },
+  {
+   "date": "2022-04-18",
+   "name": "Easter Monday",
+   "type": "Observance"
+  },
+  {
+   "date": "2022-04-23",
+   "name": "St George's Day",
+   "type": "Observance"
+  },
+  {
+   "date": "2022-05-01",
+   "name": "Labor Day (regional holiday)",
+   "type": "Observance",
+   "regions": [
+    "Andalusia",
+    "Aragon",
+    "Asturias",
+    "Balearic Islands",
+    "Basque Country",
+    "Canary Islands",
+    "Cantabria",
+    "Castile-La Mancha",
+    "Castile-Leon",
+    "Catalonia",
+    "Extremadura",
+    "Galicia",
+    "La Rioja",
+    "Madrid",
+    "Murcia",
+    "Navarre",
+    "Valencia",
+    "Ceuta",
+    "Melilla"
+   ]
+  },
+  {
+   "date": "2022-05-01",
+   "name": "Mothers' Day",
+   "type": "Observance"
+  },
+  {
+   "date": "2022-06-05",
+   "name": "Whit Sunday/Pentecost",
+   "type": "Observance"
+  },
+  {
+   "date": "2022-06-06",
+   "name": "Whit Monday",
+   "type": "Observance"
+  },
+  {
+   "date": "2022-06-16",
+   "name": "Corpus Christi",
+   "type": "Observance"
+  },
+  {
+   "date": "2022-06-24",
+   "name": "Saint John the Baptist Day",
+   "type": "Observance"
+  },
+  {
+   "date": "2022-07-25",
+   "name": "Feast of Saint James the Apostle",
+   "type": "Observance"
+  },
+  {
+   "date": "2022-08-15",
+   "name": "Assumption of Mary",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2022-09-11",
+   "name": "National Day of Catalonia (Catalonia)",
+   "type": "Observance",
+   "regions": [
+    "Catalonia"
+   ]
+  },
+  {
+   "date": "2022-10-12",
+   "name": "Hispanic Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2022-10-30",
+   "name": "Daylight Saving Time ends",
+   "type": "Observance"
+  },
+  {
+   "date": "2022-11-01",
+   "name": "All Saints' Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2022-12-06",
+   "name": "Constitution Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2022-12-08",
+   "name": "Immaculate Conception",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2022-12-24",
+   "name": "Christmas Eve",
+   "type": "Observance"
+  },
+  {
+   "date": "2022-12-25",
+   "name": "Christmas Day (regional holiday)",
+   "type": "Observance",
+   "regions": [
+    "Andalusia",
+    "Aragon",
+    "Asturias",
+    "Balearic Islands",
+    "Basque Country",
+    "Canary Islands",
+    "Cantabria",
+    "Castile-La Mancha",
+    "Castile-Leon",
+    "Catalonia",
+    "Extremadura",
+    "Galicia",
+    "La Rioja",
+    "Madrid",
+    "Murcia",
+    "Navarre",
+    "Valencia",
+    "Ceuta",
+    "Melilla"
+   ]
+  },
+  {
+   "date": "2022-12-26",
+   "name": "St Stephen's Day",
+   "type": "Observance"
+  },
+  {
+   "date": "2022-12-30",
+   "name": "Feast of the Holy Family",
+   "type": "Observance"
+  },
+  {
+   "date": "2022-12-31",
+   "name": "New Year's Eve",
+   "type": "Observance"
+  },
+  {
+   "date": "2023-01-01",
+   "name": "New Year's Day",
+   "type": "Observance"
+  },
+  {
+   "date": "2023-01-02",
+   "name": "Reconquest Day",
+   "type": "Observance"
+  },
+  {
+   "date": "2023-01-06",
+   "name": "Epiphany",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2023-02-14",
+   "name": "Valentine's Day",
+   "type": "Observance"
+  },
+  {
+   "date": "2023-02-20",
+   "name": "Carnival Monday",
+   "type": "Observance"
+  },
+  {
+   "date": "2023-02-21",
+   "name": "Carnival Tuesday",
+   "type": "Observance"
+  },
+  {
+   "date": "2023-02-22",
+   "name": "Ash Wednesday",
+   "type": "Observance"
+  },
+  {
+   "date": "2023-03-19",
+   "name": "Father’s Day",
+   "type": "Observance"
+  },
+  {
+   "date": "2023-03-19",
+   "name": "San Jose",
+   "type": "Observance"
+  },
+  {
+   "date": "2023-03-26",
+   "name": "Daylight Saving Time starts",
+   "type": "Observance"
+  },
+  {
+   "date": "2023-04-02",
+   "name": "Palm Sunday",
+   "type": "Observance"
+  },
+  {
+   "date": "2023-04-06",
+   "name": "Maundy Thursday",
+   "type": "Observance"
+  },
+  {
+   "date": "2023-04-07",
+   "name": "Good Friday",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2023-04-08",
+   "name": "Holy Saturday",
+   "type": "Observance"
+  },
+  {
+   "date": "2023-04-09",
+   "name": "Easter Sunday",
+   "type": "Observance"
+  },
+  {
+   "date": "2023-04-10",
+   "name": "Easter Monday",
+   "type": "Observance"
+  },
+  {
+   "date": "2023-04-23",
+   "name": "St George's Day",
+   "type": "Observance"
+  },
+  {
+   "date": "2023-05-01",
+   "name": "Labor Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2023-05-07",
+   "name": "Mothers' Day",
+   "type": "Observance"
+  },
+  {
+   "date": "2023-05-28",
+   "name": "Whit Sunday/Pentecost",
+   "type": "Observance"
+  },
+  {
+   "date": "2023-05-29",
+   "name": "Whit Monday",
+   "type": "Observance"
+  },
+  {
+   "date": "2023-06-08",
+   "name": "Corpus Christi",
+   "type": "Observance"
+  },
+  {
+   "date": "2023-06-24",
+   "name": "Saint John the Baptist Day",
+   "type": "Observance"
+  },
+  {
+   "date": "2023-07-25",
+   "name": "Feast of Saint James the Apostle",
+   "type": "Observance"
+  },
+  {
+   "date": "2023-08-15",
+   "name": "Assumption of Mary",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2023-10-12",
+   "name": "Hispanic Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2023-10-29",
+   "name": "Daylight Saving Time ends",
+   "type": "Observance"
+  },
+  {
+   "date": "2023-11-01",
+   "name": "All Saints' Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2023-12-06",
+   "name": "Constitution Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2023-12-08",
+   "name": "Immaculate Conception",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2023-12-24",
+   "name": "Christmas Eve",
+   "type": "Observance"
+  },
+  {
+   "date": "2023-12-25",
+   "name": "Christmas Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2023-12-26",
+   "name": "St Stephen's Day",
+   "type": "Observance"
+  },
+  {
+   "date": "2023-12-31",
+   "name": "Feast of the Holy Family",
+   "type": "Observance"
+  },
+  {
+   "date": "2023-12-31",
+   "name": "New Year's Eve",
+   "type": "Observance"
+  },
+  {
+   "date": "2024-01-01",
+   "name": "New Year's Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2024-01-02",
+   "name": "Reconquest Day",
+   "type": "Observance"
+  },
+  {
+   "date": "2024-01-06",
+   "name": "Epiphany",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2024-02-12",
+   "name": "Carnival Monday",
+   "type": "Observance"
+  },
+  {
+   "date": "2024-02-13",
+   "name": "Carnival Tuesday",
+   "type": "Observance"
+  },
+  {
+   "date": "2024-02-14",
+   "name": "Ash Wednesday",
+   "type": "Observance"
+  },
+  {
+   "date": "2024-02-14",
+   "name": "Valentine's Day",
+   "type": "Observance"
+  },
+  {
+   "date": "2024-03-19",
+   "name": "Father’s Day",
+   "type": "Observance"
+  },
+  {
+   "date": "2024-03-19",
+   "name": "San Jose",
+   "type": "Observance"
+  },
+  {
+   "date": "2024-03-24",
+   "name": "Palm Sunday",
+   "type": "Observance"
+  },
+  {
+   "date": "2024-03-28",
+   "name": "Maundy Thursday",
+   "type": "Observance"
+  },
+  {
+   "date": "2024-03-29",
+   "name": "Good Friday",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2024-03-30",
+   "name": "Holy Saturday",
+   "type": "Observance"
+  },
+  {
+   "date": "2024-03-31",
+   "name": "Daylight Saving Time starts",
+   "type": "Observance"
+  },
+  {
+   "date": "2024-03-31",
+   "name": "Easter Sunday",
+   "type": "Observance"
+  },
+  {
+   "date": "2024-04-01",
+   "name": "Easter Monday",
+   "type": "Observance"
+  },
+  {
+   "date": "2024-04-23",
+   "name": "St George's Day",
+   "type": "Observance"
+  },
+  {
+   "date": "2024-05-01",
+   "name": "Labor Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2024-05-05",
+   "name": "Mothers' Day",
+   "type": "Observance"
+  },
+  {
+   "date": "2024-05-19",
+   "name": "Whit Sunday/Pentecost",
+   "type": "Observance"
+  },
+  {
+   "date": "2024-05-20",
+   "name": "Whit Monday",
+   "type": "Observance"
+  },
+  {
+   "date": "2024-05-30",
+   "name": "Corpus Christi",
+   "type": "Observance"
+  },
+  {
+   "date": "2024-06-24",
+   "name": "Saint John the Baptist Day",
+   "type": "Observance"
+  },
+  {
+   "date": "2024-07-25",
+   "name": "Feast of Saint James the Apostle",
+   "type": "Observance"
+  },
+  {
+   "date": "2024-08-15",
+   "name": "Assumption of Mary",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2024-10-12",
+   "name": "Hispanic Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2024-10-27",
+   "name": "Daylight Saving Time ends",
+   "type": "Observance"
+  },
+  {
+   "date": "2024-11-01",
+   "name": "All Saints' Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2024-12-06",
+   "name": "Constitution Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2024-12-08",
+   "name": "Immaculate Conception",
+   "type": "Observance"
+  },
+  {
+   "date": "2024-12-24",
+   "name": "Christmas Eve",
+   "type": "Observance"
+  },
+  {
+   "date": "2024-12-25",
+   "name": "Christmas Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2024-12-26",
+   "name": "St Stephen's Day",
+   "type": "Observance"
+  },
+  {
+   "date": "2024-12-29",
+   "name": "Feast of the Holy Family",
+   "type": "Observance"
+  },
+  {
+   "date": "2024-12-31",
+   "name": "New Year's Eve",
+   "type": "Observance"
+  },
+  {
+   "date": "2025-01-01",
+   "name": "New Year's Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2025-01-02",
+   "name": "Reconquest Day",
+   "type": "Observance"
+  },
+  {
+   "date": "2025-01-06",
+   "name": "Epiphany",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2025-02-14",
+   "name": "Valentine's Day",
+   "type": "Observance"
+  },
+  {
+   "date": "2025-03-03",
+   "name": "Carnival Monday",
+   "type": "Observance"
+  },
+  {
+   "date": "2025-03-04",
+   "name": "Carnival Tuesday",
+   "type": "Observance"
+  },
+  {
+   "date": "2025-03-05",
+   "name": "Ash Wednesday",
+   "type": "Observance"
+  },
+  {
+   "date": "2025-03-19",
+   "name": "Father’s Day",
+   "type": "Observance"
+  },
+  {
+   "date": "2025-03-19",
+   "name": "San Jose",
+   "type": "Observance"
+  },
+  {
+   "date": "2025-03-30",
+   "name": "Daylight Saving Time starts",
+   "type": "Observance"
+  },
+  {
+   "date": "2025-04-13",
+   "name": "Palm Sunday",
+   "type": "Observance"
+  },
+  {
+   "date": "2025-04-17",
+   "name": "Maundy Thursday",
+   "type": "Observance"
+  },
+  {
+   "date": "2025-04-18",
+   "name": "Good Friday",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2025-04-19",
+   "name": "Holy Saturday",
+   "type": "Observance"
+  },
+  {
+   "date": "2025-04-20",
+   "name": "Easter Sunday",
+   "type": "Observance"
+  },
+  {
+   "date": "2025-04-21",
+   "name": "Easter Monday",
+   "type": "Observance"
+  },
+  {
+   "date": "2025-04-23",
+   "name": "St George's Day",
+   "type": "Observance"
+  },
+  {
+   "date": "2025-05-01",
+   "name": "Labor Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2025-05-04",
+   "name": "Mothers' Day",
+   "type": "Observance"
+  },
+  {
+   "date": "2025-06-08",
+   "name": "Whit Sunday/Pentecost",
+   "type": "Observance"
+  },
+  {
+   "date": "2025-06-09",
+   "name": "Whit Monday",
+   "type": "Observance"
+  },
+  {
+   "date": "2025-06-19",
+   "name": "Corpus Christi",
+   "type": "Observance"
+  },
+  {
+   "date": "2025-06-24",
+   "name": "Saint John the Baptist Day",
+   "type": "Observance"
+  },
+  {
+   "date": "2025-07-25",
+   "name": "Feast of Saint James the Apostle",
+   "type": "Observance"
+  },
+  {
+   "date": "2025-08-15",
+   "name": "Assumption of Mary",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2025-10-12",
+   "name": "Hispanic Day",
+   "type": "Observance"
+  },
+  {
+   "date": "2025-10-26",
+   "name": "Daylight Saving Time ends",
+   "type": "Observance"
+  },
+  {
+   "date": "2025-11-01",
+   "name": "All Saints' Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2025-12-06",
+   "name": "Constitution Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2025-12-08",
+   "name": "Immaculate Conception",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2025-12-24",
+   "name": "Christmas Eve",
+   "type": "Observance"
+  },
+  {
+   "date": "2025-12-25",
+   "name": "Christmas Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2025-12-26",
+   "name": "St Stephen's Day",
+   "type": "Observance"
+  },
+  {
+   "date": "2025-12-28",
+   "name": "Feast of the Holy Family",
+   "type": "Observance"
+  },
+  {
+   "date": "2025-12-31",
+   "name": "New Year's Eve",
+   "type": "Observance"
+  },
+  {
+   "date": "2026-01-01",
+   "name": "New Year's Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2026-01-02",
+   "name": "Reconquest Day",
+   "type": "Observance"
+  },
+  {
+   "date": "2026-01-06",
+   "name": "Epiphany",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2026-02-14",
+   "name": "Valentine's Day",
+   "type": "Observance"
+  },
+  {
+   "date": "2026-02-16",
+   "name": "Carnival Monday",
+   "type": "Observance"
+  },
+  {
+   "date": "2026-02-17",
+   "name": "Carnival Tuesday",
+   "type": "Observance"
+  },
+  {
+   "date": "2026-02-18",
+   "name": "Ash Wednesday",
+   "type": "Observance"
+  },
+  {
+   "date": "2026-03-19",
+   "name": "Father’s Day",
+   "type": "Observance"
+  },
+  {
+   "date": "2026-03-19",
+   "name": "San Jose",
+   "type": "Observance"
+  },
+  {
+   "date": "2026-03-29",
+   "name": "Daylight Saving Time starts",
+   "type": "Observance"
+  },
+  {
+   "date": "2026-03-29",
+   "name": "Palm Sunday",
+   "type": "Observance"
+  },
+  {
+   "date": "2026-04-02",
+   "name": "Maundy Thursday",
+   "type": "Observance"
+  },
+  {
+   "date": "2026-04-03",
+   "name": "Good Friday",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2026-04-04",
+   "name": "Holy Saturday",
+   "type": "Observance"
+  },
+  {
+   "date": "2026-04-05",
+   "name": "Easter Sunday",
+   "type": "Observance"
+  },
+  {
+   "date": "2026-04-06",
+   "name": "Easter Monday",
+   "type": "Observance"
+  },
+  {
+   "date": "2026-04-23",
+   "name": "St George's Day",
+   "type": "Observance"
+  },
+  {
+   "date": "2026-05-01",
+   "name": "Labor Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2026-05-03",
+   "name": "Mothers' Day",
+   "type": "Observance"
+  },
+  {
+   "date": "2026-05-24",
+   "name": "Whit Sunday/Pentecost",
+   "type": "Observance"
+  },
+  {
+   "date": "2026-05-25",
+   "name": "Whit Monday",
+   "type": "Observance"
+  },
+  {
+   "date": "2026-06-04",
+   "name": "Corpus Christi",
+   "type": "Observance"
+  },
+  {
+   "date": "2026-06-24",
+   "name": "Saint John the Baptist Day",
+   "type": "Observance"
+  },
+  {
+   "date": "2026-07-25",
+   "name": "Feast of Saint James the Apostle",
+   "type": "Observance"
+  },
+  {
+   "date": "2026-08-15",
+   "name": "Assumption of Mary",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2026-10-12",
+   "name": "Hispanic Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2026-10-25",
+   "name": "Daylight Saving Time ends",
+   "type": "Observance"
+  },
+  {
+   "date": "2026-11-01",
+   "name": "All Saints' Day",
+   "type": "Observance"
+  },
+  {
+   "date": "2026-12-06",
+   "name": "Constitution Day",
+   "type": "Observance"
+  },
+  {
+   "date": "2026-12-08",
+   "name": "Immaculate Conception",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2026-12-24",
+   "name": "Christmas Eve",
+   "type": "Observance"
+  },
+  {
+   "date": "2026-12-25",
+   "name": "Christmas Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2026-12-26",
+   "name": "St Stephen's Day",
+   "type": "Observance"
+  },
+  {
+   "date": "2026-12-27",
+   "name": "Feast of the Holy Family",
+   "type": "Observance"
+  },
+  {
+   "date": "2026-12-31",
+   "name": "New Year's Eve",
+   "type": "Observance"
+  },
+  {
+   "date": "2027-01-01",
+   "name": "New Year's Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2027-01-02",
+   "name": "Reconquest Day",
+   "type": "Observance"
+  },
+  {
+   "date": "2027-01-06",
+   "name": "Epiphany",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2027-02-08",
+   "name": "Carnival Monday",
+   "type": "Observance"
+  },
+  {
+   "date": "2027-02-09",
+   "name": "Carnival Tuesday",
+   "type": "Observance"
+  },
+  {
+   "date": "2027-02-10",
+   "name": "Ash Wednesday",
+   "type": "Observance"
+  },
+  {
+   "date": "2027-02-14",
+   "name": "Valentine's Day",
+   "type": "Observance"
+  },
+  {
+   "date": "2027-03-19",
+   "name": "Father’s Day",
+   "type": "Observance"
+  },
+  {
+   "date": "2027-03-19",
+   "name": "San Jose",
+   "type": "Observance"
+  },
+  {
+   "date": "2027-03-21",
+   "name": "Palm Sunday",
+   "type": "Observance"
+  },
+  {
+   "date": "2027-03-25",
+   "name": "Maundy Thursday",
+   "type": "Observance"
+  },
+  {
+   "date": "2027-03-26",
+   "name": "Good Friday",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2027-03-27",
+   "name": "Holy Saturday",
+   "type": "Observance"
+  },
+  {
+   "date": "2027-03-28",
+   "name": "Daylight Saving Time starts",
+   "type": "Observance"
+  },
+  {
+   "date": "2027-03-28",
+   "name": "Easter Sunday",
+   "type": "Observance"
+  },
+  {
+   "date": "2027-03-29",
+   "name": "Easter Monday",
+   "type": "Observance"
+  },
+  {
+   "date": "2027-04-23",
+   "name": "St George's Day",
+   "type": "Observance"
+  },
+  {
+   "date": "2027-05-01",
+   "name": "Labor Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2027-05-02",
+   "name": "Mothers' Day",
+   "type": "Observance"
+  },
+  {
+   "date": "2027-05-16",
+   "name": "Whit Sunday/Pentecost",
+   "type": "Observance"
+  },
+  {
+   "date": "2027-05-17",
+   "name": "Whit Monday",
+   "type": "Observance"
+  },
+  {
+   "date": "2027-05-27",
+   "name": "Corpus Christi",
+   "type": "Observance"
+  },
+  {
+   "date": "2027-06-24",
+   "name": "Saint John the Baptist Day",
+   "type": "Observance"
+  },
+  {
+   "date": "2027-07-25",
+   "name": "Feast of Saint James the Apostle",
+   "type": "Observance"
+  },
+  {
+   "date": "2027-08-15",
+   "name": "Assumption of Mary",
+   "type": "Observance"
+  },
+  {
+   "date": "2027-10-12",
+   "name": "Hispanic Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2027-10-31",
+   "name": "Daylight Saving Time ends",
+   "type": "Observance"
+  },
+  {
+   "date": "2027-11-01",
+   "name": "All Saints' Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2027-12-06",
+   "name": "Constitution Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2027-12-08",
+   "name": "Immaculate Conception",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2027-12-24",
+   "name": "Christmas Eve",
+   "type": "Observance"
+  },
+  {
+   "date": "2027-12-25",
+   "name": "Christmas Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2027-12-26",
+   "name": "Feast of the Holy Family",
+   "type": "Observance"
+  },
+  {
+   "date": "2027-12-26",
+   "name": "St Stephen's Day",
+   "type": "Observance"
+  },
+  {
+   "date": "2027-12-31",
+   "name": "New Year's Eve",
+   "type": "Observance"
+  },
+  {
+   "date": "2028-01-01",
+   "name": "New Year's Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2028-01-02",
+   "name": "Reconquest Day",
+   "type": "Observance"
+  },
+  {
+   "date": "2028-01-06",
+   "name": "Epiphany",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2028-02-14",
+   "name": "Valentine's Day",
+   "type": "Observance"
+  },
+  {
+   "date": "2028-02-28",
+   "name": "Carnival Monday",
+   "type": "Observance"
+  },
+  {
+   "date": "2028-02-29",
+   "name": "Carnival Tuesday",
+   "type": "Observance"
+  },
+  {
+   "date": "2028-03-01",
+   "name": "Ash Wednesday",
+   "type": "Observance"
+  },
+  {
+   "date": "2028-03-19",
+   "name": "Father’s Day",
+   "type": "Observance"
+  },
+  {
+   "date": "2028-03-19",
+   "name": "San Jose",
+   "type": "Observance"
+  },
+  {
+   "date": "2028-03-26",
+   "name": "Daylight Saving Time starts",
+   "type": "Observance"
+  },
+  {
+   "date": "2028-04-09",
+   "name": "Palm Sunday",
+   "type": "Observance"
+  },
+  {
+   "date": "2028-04-13",
+   "name": "Maundy Thursday",
+   "type": "Observance"
+  },
+  {
+   "date": "2028-04-14",
+   "name": "Good Friday",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2028-04-15",
+   "name": "Holy Saturday",
+   "type": "Observance"
+  },
+  {
+   "date": "2028-04-16",
+   "name": "Easter Sunday",
+   "type": "Observance"
+  },
+  {
+   "date": "2028-04-17",
+   "name": "Easter Monday",
+   "type": "Observance"
+  },
+  {
+   "date": "2028-04-23",
+   "name": "St George's Day",
+   "type": "Observance"
+  },
+  {
+   "date": "2028-05-01",
+   "name": "Labor Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2028-05-07",
+   "name": "Mothers' Day",
+   "type": "Observance"
+  },
+  {
+   "date": "2028-06-04",
+   "name": "Whit Sunday/Pentecost",
+   "type": "Observance"
+  },
+  {
+   "date": "2028-06-05",
+   "name": "Whit Monday",
+   "type": "Observance"
+  },
+  {
+   "date": "2028-06-15",
+   "name": "Corpus Christi",
+   "type": "Observance"
+  },
+  {
+   "date": "2028-06-24",
+   "name": "Saint John the Baptist Day",
+   "type": "Observance"
+  },
+  {
+   "date": "2028-07-25",
+   "name": "Feast of Saint James the Apostle",
+   "type": "Observance"
+  },
+  {
+   "date": "2028-08-15",
+   "name": "Assumption of Mary",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2028-10-12",
+   "name": "Hispanic Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2028-10-29",
+   "name": "Daylight Saving Time ends",
+   "type": "Observance"
+  },
+  {
+   "date": "2028-11-01",
+   "name": "All Saints' Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2028-12-06",
+   "name": "Constitution Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2028-12-08",
+   "name": "Immaculate Conception",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2028-12-24",
+   "name": "Christmas Eve",
+   "type": "Observance"
+  },
+  {
+   "date": "2028-12-25",
+   "name": "Christmas Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2028-12-26",
+   "name": "St Stephen's Day",
+   "type": "Observance"
+  },
+  {
+   "date": "2028-12-31",
+   "name": "Feast of the Holy Family",
+   "type": "Observance"
+  },
+  {
+   "date": "2028-12-31",
+   "name": "New Year's Eve",
+   "type": "Observance"
+  },
+  {
+   "date": "2029-01-01",
+   "name": "New Year's Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2029-01-02",
+   "name": "Reconquest Day",
+   "type": "Observance"
+  },
+  {
+   "date": "2029-01-06",
+   "name": "Epiphany",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2029-02-12",
+   "name": "Carnival Monday",
+   "type": "Observance"
+  },
+  {
+   "date": "2029-02-13",
+   "name": "Carnival Tuesday",
+   "type": "Observance"
+  },
+  {
+   "date": "2029-02-14",
+   "name": "Ash Wednesday",
+   "type": "Observance"
+  },
+  {
+   "date": "2029-02-14",
+   "name": "Valentine's Day",
+   "type": "Observance"
+  },
+  {
+   "date": "2029-03-19",
+   "name": "Father’s Day",
+   "type": "Observance"
+  },
+  {
+   "date": "2029-03-19",
+   "name": "San Jose",
+   "type": "Observance"
+  },
+  {
+   "date": "2029-03-25",
+   "name": "Daylight Saving Time starts",
+   "type": "Observance"
+  },
+  {
+   "date": "2029-03-25",
+   "name": "Palm Sunday",
+   "type": "Observance"
+  },
+  {
+   "date": "2029-03-29",
+   "name": "Maundy Thursday",
+   "type": "Observance"
+  },
+  {
+   "date": "2029-03-30",
+   "name": "Good Friday",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2029-03-31",
+   "name": "Holy Saturday",
+   "type": "Observance"
+  },
+  {
+   "date": "2029-04-01",
+   "name": "Easter Sunday",
+   "type": "Observance"
+  },
+  {
+   "date": "2029-04-02",
+   "name": "Easter Monday",
+   "type": "Observance"
+  },
+  {
+   "date": "2029-04-23",
+   "name": "St George's Day",
+   "type": "Observance"
+  },
+  {
+   "date": "2029-05-01",
+   "name": "Labor Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2029-05-06",
+   "name": "Mothers' Day",
+   "type": "Observance"
+  },
+  {
+   "date": "2029-05-20",
+   "name": "Whit Sunday/Pentecost",
+   "type": "Observance"
+  },
+  {
+   "date": "2029-05-21",
+   "name": "Whit Monday",
+   "type": "Observance"
+  },
+  {
+   "date": "2029-05-31",
+   "name": "Corpus Christi",
+   "type": "Observance"
+  },
+  {
+   "date": "2029-06-24",
+   "name": "Saint John the Baptist Day",
+   "type": "Observance"
+  },
+  {
+   "date": "2029-07-25",
+   "name": "Feast of Saint James the Apostle",
+   "type": "Observance"
+  },
+  {
+   "date": "2029-08-15",
+   "name": "Assumption of Mary",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2029-10-12",
+   "name": "Hispanic Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2029-10-28",
+   "name": "Daylight Saving Time ends",
+   "type": "Observance"
+  },
+  {
+   "date": "2029-11-01",
+   "name": "All Saints' Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2029-12-06",
+   "name": "Constitution Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2029-12-08",
+   "name": "Immaculate Conception",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2029-12-24",
+   "name": "Christmas Eve",
+   "type": "Observance"
+  },
+  {
+   "date": "2029-12-25",
+   "name": "Christmas Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2029-12-26",
+   "name": "St Stephen's Day",
+   "type": "Observance"
+  },
+  {
+   "date": "2029-12-30",
+   "name": "Feast of the Holy Family",
+   "type": "Observance"
+  },
+  {
+   "date": "2029-12-31",
+   "name": "New Year's Eve",
+   "type": "Observance"
+  },
+  {
+   "date": "2030-01-01",
+   "name": "New Year's Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2030-01-02",
+   "name": "Reconquest Day",
+   "type": "Observance"
+  },
+  {
+   "date": "2030-01-06",
+   "name": "Epiphany",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2030-02-14",
+   "name": "Valentine's Day",
+   "type": "Observance"
+  },
+  {
+   "date": "2030-03-04",
+   "name": "Carnival Monday",
+   "type": "Observance"
+  },
+  {
+   "date": "2030-03-05",
+   "name": "Carnival Tuesday",
+   "type": "Observance"
+  },
+  {
+   "date": "2030-03-06",
+   "name": "Ash Wednesday",
+   "type": "Observance"
+  },
+  {
+   "date": "2030-03-19",
+   "name": "Father’s Day",
+   "type": "Observance"
+  },
+  {
+   "date": "2030-03-19",
+   "name": "San Jose",
+   "type": "Observance"
+  },
+  {
+   "date": "2030-03-31",
+   "name": "Daylight Saving Time starts",
+   "type": "Observance"
+  },
+  {
+   "date": "2030-04-14",
+   "name": "Palm Sunday",
+   "type": "Observance"
+  },
+  {
+   "date": "2030-04-18",
+   "name": "Maundy Thursday",
+   "type": "Observance"
+  },
+  {
+   "date": "2030-04-19",
+   "name": "Good Friday",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2030-04-20",
+   "name": "Holy Saturday",
+   "type": "Observance"
+  },
+  {
+   "date": "2030-04-21",
+   "name": "Easter Sunday",
+   "type": "Observance"
+  },
+  {
+   "date": "2030-04-22",
+   "name": "Easter Monday",
+   "type": "Observance"
+  },
+  {
+   "date": "2030-04-23",
+   "name": "St George's Day",
+   "type": "Observance"
+  },
+  {
+   "date": "2030-05-01",
+   "name": "Labor Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2030-05-05",
+   "name": "Mothers' Day",
+   "type": "Observance"
+  },
+  {
+   "date": "2030-06-09",
+   "name": "Whit Sunday/Pentecost",
+   "type": "Observance"
+  },
+  {
+   "date": "2030-06-10",
+   "name": "Whit Monday",
+   "type": "Observance"
+  },
+  {
+   "date": "2030-06-20",
+   "name": "Corpus Christi",
+   "type": "Observance"
+  },
+  {
+   "date": "2030-06-24",
+   "name": "Saint John the Baptist Day",
+   "type": "Observance"
+  },
+  {
+   "date": "2030-07-25",
+   "name": "Feast of Saint James the Apostle",
+   "type": "Observance"
+  },
+  {
+   "date": "2030-08-15",
+   "name": "Assumption of Mary",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2030-10-12",
+   "name": "Hispanic Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2030-10-27",
+   "name": "Daylight Saving Time ends",
+   "type": "Observance"
+  },
+  {
+   "date": "2030-11-01",
+   "name": "All Saints' Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2030-12-06",
+   "name": "Constitution Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2030-12-08",
+   "name": "Immaculate Conception",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2030-12-24",
+   "name": "Christmas Eve",
+   "type": "Observance"
+  },
+  {
+   "date": "2030-12-25",
+   "name": "Christmas Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2030-12-26",
+   "name": "St Stephen's Day",
+   "type": "Observance"
+  },
+  {
+   "date": "2030-12-29",
+   "name": "Feast of the Holy Family",
+   "type": "Observance"
+  },
+  {
+   "date": "2030-12-31",
+   "name": "New Year's Eve",
+   "type": "Observance"
+  },
+  {
+   "date": "2031-01-01",
+   "name": "New Year's Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2031-01-02",
+   "name": "Reconquest Day",
+   "type": "Observance"
+  },
+  {
+   "date": "2031-01-06",
+   "name": "Epiphany",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2031-02-14",
+   "name": "Valentine's Day",
+   "type": "Observance"
+  },
+  {
+   "date": "2031-02-24",
+   "name": "Carnival Monday",
+   "type": "Observance"
+  },
+  {
+   "date": "2031-02-25",
+   "name": "Carnival Tuesday",
+   "type": "Observance"
+  },
+  {
+   "date": "2031-02-26",
+   "name": "Ash Wednesday",
+   "type": "Observance"
+  },
+  {
+   "date": "2031-03-19",
+   "name": "Father’s Day",
+   "type": "Observance"
+  },
+  {
+   "date": "2031-03-19",
+   "name": "San Jose",
+   "type": "Observance"
+  },
+  {
+   "date": "2031-03-30",
+   "name": "Daylight Saving Time starts",
+   "type": "Observance"
+  },
+  {
+   "date": "2031-04-06",
+   "name": "Palm Sunday",
+   "type": "Observance"
+  },
+  {
+   "date": "2031-04-10",
+   "name": "Maundy Thursday",
+   "type": "Observance"
+  },
+  {
+   "date": "2031-04-11",
+   "name": "Good Friday",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2031-04-12",
+   "name": "Holy Saturday",
+   "type": "Observance"
+  },
+  {
+   "date": "2031-04-13",
+   "name": "Easter Sunday",
+   "type": "Observance"
+  },
+  {
+   "date": "2031-04-14",
+   "name": "Easter Monday",
+   "type": "Observance"
+  },
+  {
+   "date": "2031-04-23",
+   "name": "St George's Day",
+   "type": "Observance"
+  },
+  {
+   "date": "2031-05-01",
+   "name": "Labor Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2031-05-04",
+   "name": "Mothers' Day",
+   "type": "Observance"
+  },
+  {
+   "date": "2031-06-01",
+   "name": "Whit Sunday/Pentecost",
+   "type": "Observance"
+  },
+  {
+   "date": "2031-06-02",
+   "name": "Whit Monday",
+   "type": "Observance"
+  },
+  {
+   "date": "2031-06-12",
+   "name": "Corpus Christi",
+   "type": "Observance"
+  },
+  {
+   "date": "2031-06-24",
+   "name": "Saint John the Baptist Day",
+   "type": "Observance"
+  },
+  {
+   "date": "2031-07-25",
+   "name": "Feast of Saint James the Apostle",
+   "type": "Observance"
+  },
+  {
+   "date": "2031-08-15",
+   "name": "Assumption of Mary",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2031-10-12",
+   "name": "Hispanic Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2031-10-26",
+   "name": "Daylight Saving Time ends",
+   "type": "Observance"
+  },
+  {
+   "date": "2031-11-01",
+   "name": "All Saints' Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2031-12-06",
+   "name": "Constitution Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2031-12-08",
+   "name": "Immaculate Conception",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2031-12-24",
+   "name": "Christmas Eve",
+   "type": "Observance"
+  },
+  {
+   "date": "2031-12-25",
+   "name": "Christmas Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2031-12-26",
+   "name": "St Stephen's Day",
+   "type": "Observance"
+  },
+  {
+   "date": "2031-12-28",
+   "name": "Feast of the Holy Family",
+   "type": "Observance"
+  },
+  {
+   "date": "2031-12-31",
+   "name": "New Year's Eve",
+   "type": "Observance"
+  }
+ ]
+}

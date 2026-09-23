@@ -1,0 +1,1331 @@
+{
+ "id": "en.is",
+ "name": "Holidays in Iceland",
+ "lang": "en",
+ "from": 2021,
+ "to": 2031,
+ "count": 264,
+ "fetchedAt": "2026-09-23T12:14:40.838Z",
+ "events": [
+  {
+   "date": "2021-01-01",
+   "name": "New Year's Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2021-01-06",
+   "name": "Twelfth Night",
+   "type": "Observance"
+  },
+  {
+   "date": "2021-02-14",
+   "name": "Valentine's Day",
+   "type": "Observance"
+  },
+  {
+   "date": "2021-02-17",
+   "name": "Ash Wednesday",
+   "type": "Observance"
+  },
+  {
+   "date": "2021-04-01",
+   "name": "Maundy Thursday",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2021-04-02",
+   "name": "Good Friday",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2021-04-03",
+   "name": "Holy Saturday",
+   "type": "Observance"
+  },
+  {
+   "date": "2021-04-04",
+   "name": "Easter Sunday",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2021-04-05",
+   "name": "Easter Monday",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2021-04-22",
+   "name": "First Day of Summer",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2021-05-01",
+   "name": "Labour Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2021-05-09",
+   "name": "Mothers' Day",
+   "type": "Observance"
+  },
+  {
+   "date": "2021-05-13",
+   "name": "Ascension Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2021-05-23",
+   "name": "Whit Sunday",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2021-05-24",
+   "name": "Whit Monday",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2021-06-17",
+   "name": "Icelandic Republic Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2021-08-02",
+   "name": "Commerce Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2021-10-31",
+   "name": "Halloween",
+   "type": "Observance"
+  },
+  {
+   "date": "2021-11-14",
+   "name": "Fathers' Day",
+   "type": "Observance"
+  },
+  {
+   "date": "2021-12-01",
+   "name": "Independence Day",
+   "type": "Observance"
+  },
+  {
+   "date": "2021-12-24",
+   "name": "Christmas Eve (half-day)",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2021-12-25",
+   "name": "Christmas Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2021-12-26",
+   "name": "Second Day of Christmas",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2021-12-31",
+   "name": "New Year's Eve (half-day)",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2022-01-01",
+   "name": "New Year's Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2022-01-06",
+   "name": "Twelfth Night",
+   "type": "Observance"
+  },
+  {
+   "date": "2022-02-14",
+   "name": "Valentine's Day",
+   "type": "Observance"
+  },
+  {
+   "date": "2022-03-02",
+   "name": "Ash Wednesday",
+   "type": "Observance"
+  },
+  {
+   "date": "2022-04-14",
+   "name": "Maundy Thursday",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2022-04-15",
+   "name": "Good Friday",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2022-04-16",
+   "name": "Holy Saturday",
+   "type": "Observance"
+  },
+  {
+   "date": "2022-04-17",
+   "name": "Easter Sunday",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2022-04-18",
+   "name": "Easter Monday",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2022-04-21",
+   "name": "First Day of Summer",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2022-05-01",
+   "name": "Labour Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2022-05-08",
+   "name": "Mothers' Day",
+   "type": "Observance"
+  },
+  {
+   "date": "2022-05-26",
+   "name": "Ascension Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2022-06-05",
+   "name": "Whit Sunday",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2022-06-06",
+   "name": "Whit Monday",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2022-06-17",
+   "name": "Icelandic Republic Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2022-08-01",
+   "name": "Commerce Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2022-10-31",
+   "name": "Halloween",
+   "type": "Observance"
+  },
+  {
+   "date": "2022-11-13",
+   "name": "Fathers' Day",
+   "type": "Observance"
+  },
+  {
+   "date": "2022-12-01",
+   "name": "Independence Day",
+   "type": "Observance"
+  },
+  {
+   "date": "2022-12-24",
+   "name": "Christmas Eve (half-day)",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2022-12-25",
+   "name": "Christmas Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2022-12-26",
+   "name": "Second Day of Christmas",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2022-12-31",
+   "name": "New Year's Eve (half-day)",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2023-01-01",
+   "name": "New Year's Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2023-01-06",
+   "name": "Twelfth Night",
+   "type": "Observance"
+  },
+  {
+   "date": "2023-02-14",
+   "name": "Valentine's Day",
+   "type": "Observance"
+  },
+  {
+   "date": "2023-02-22",
+   "name": "Ash Wednesday",
+   "type": "Observance"
+  },
+  {
+   "date": "2023-04-06",
+   "name": "Maundy Thursday",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2023-04-07",
+   "name": "Good Friday",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2023-04-08",
+   "name": "Holy Saturday",
+   "type": "Observance"
+  },
+  {
+   "date": "2023-04-09",
+   "name": "Easter Sunday",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2023-04-10",
+   "name": "Easter Monday",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2023-04-20",
+   "name": "First Day of Summer",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2023-05-01",
+   "name": "Labour Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2023-05-14",
+   "name": "Mothers' Day",
+   "type": "Observance"
+  },
+  {
+   "date": "2023-05-18",
+   "name": "Ascension Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2023-05-28",
+   "name": "Whit Sunday",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2023-05-29",
+   "name": "Whit Monday",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2023-06-17",
+   "name": "Icelandic Republic Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2023-08-07",
+   "name": "Commerce Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2023-10-31",
+   "name": "Halloween",
+   "type": "Observance"
+  },
+  {
+   "date": "2023-11-12",
+   "name": "Fathers' Day",
+   "type": "Observance"
+  },
+  {
+   "date": "2023-12-01",
+   "name": "Independence Day",
+   "type": "Observance"
+  },
+  {
+   "date": "2023-12-24",
+   "name": "Christmas Eve (half-day)",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2023-12-25",
+   "name": "Christmas Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2023-12-26",
+   "name": "Second Day of Christmas",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2023-12-31",
+   "name": "New Year's Eve (half-day)",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2024-01-01",
+   "name": "New Year's Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2024-01-06",
+   "name": "Twelfth Night",
+   "type": "Observance"
+  },
+  {
+   "date": "2024-02-14",
+   "name": "Ash Wednesday",
+   "type": "Observance"
+  },
+  {
+   "date": "2024-02-14",
+   "name": "Valentine's Day",
+   "type": "Observance"
+  },
+  {
+   "date": "2024-03-28",
+   "name": "Maundy Thursday",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2024-03-29",
+   "name": "Good Friday",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2024-03-30",
+   "name": "Holy Saturday",
+   "type": "Observance"
+  },
+  {
+   "date": "2024-03-31",
+   "name": "Easter Sunday",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2024-04-01",
+   "name": "Easter Monday",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2024-04-25",
+   "name": "First Day of Summer",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2024-05-01",
+   "name": "Labour Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2024-05-09",
+   "name": "Ascension Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2024-05-12",
+   "name": "Mothers' Day",
+   "type": "Observance"
+  },
+  {
+   "date": "2024-05-19",
+   "name": "Whit Sunday",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2024-05-20",
+   "name": "Whit Monday",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2024-06-17",
+   "name": "Icelandic Republic Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2024-08-05",
+   "name": "Commerce Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2024-10-31",
+   "name": "Halloween",
+   "type": "Observance"
+  },
+  {
+   "date": "2024-11-10",
+   "name": "Fathers' Day",
+   "type": "Observance"
+  },
+  {
+   "date": "2024-12-01",
+   "name": "Independence Day",
+   "type": "Observance"
+  },
+  {
+   "date": "2024-12-24",
+   "name": "Christmas Eve (half-day)",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2024-12-25",
+   "name": "Christmas Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2024-12-26",
+   "name": "Second Day of Christmas",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2024-12-31",
+   "name": "New Year's Eve (half-day)",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2025-01-01",
+   "name": "New Year's Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2025-01-06",
+   "name": "Twelfth Night",
+   "type": "Observance"
+  },
+  {
+   "date": "2025-02-14",
+   "name": "Valentine's Day",
+   "type": "Observance"
+  },
+  {
+   "date": "2025-03-05",
+   "name": "Ash Wednesday",
+   "type": "Observance"
+  },
+  {
+   "date": "2025-04-17",
+   "name": "Maundy Thursday",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2025-04-18",
+   "name": "Good Friday",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2025-04-19",
+   "name": "Holy Saturday",
+   "type": "Observance"
+  },
+  {
+   "date": "2025-04-20",
+   "name": "Easter Sunday",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2025-04-21",
+   "name": "Easter Monday",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2025-04-24",
+   "name": "First Day of Summer",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2025-05-01",
+   "name": "Labour Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2025-05-11",
+   "name": "Mothers' Day",
+   "type": "Observance"
+  },
+  {
+   "date": "2025-05-29",
+   "name": "Ascension Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2025-06-08",
+   "name": "Whit Sunday",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2025-06-09",
+   "name": "Whit Monday",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2025-06-17",
+   "name": "Icelandic Republic Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2025-08-04",
+   "name": "Commerce Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2025-10-31",
+   "name": "Halloween",
+   "type": "Observance"
+  },
+  {
+   "date": "2025-11-09",
+   "name": "Fathers' Day",
+   "type": "Observance"
+  },
+  {
+   "date": "2025-12-01",
+   "name": "Independence Day",
+   "type": "Observance"
+  },
+  {
+   "date": "2025-12-24",
+   "name": "Christmas Eve (half-day)",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2025-12-25",
+   "name": "Christmas Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2025-12-26",
+   "name": "Second Day of Christmas",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2025-12-31",
+   "name": "New Year's Eve (half-day)",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2026-01-01",
+   "name": "New Year's Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2026-01-06",
+   "name": "Twelfth Night",
+   "type": "Observance"
+  },
+  {
+   "date": "2026-02-14",
+   "name": "Valentine's Day",
+   "type": "Observance"
+  },
+  {
+   "date": "2026-02-18",
+   "name": "Ash Wednesday",
+   "type": "Observance"
+  },
+  {
+   "date": "2026-04-02",
+   "name": "Maundy Thursday",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2026-04-03",
+   "name": "Good Friday",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2026-04-04",
+   "name": "Holy Saturday",
+   "type": "Observance"
+  },
+  {
+   "date": "2026-04-05",
+   "name": "Easter Sunday",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2026-04-06",
+   "name": "Easter Monday",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2026-04-23",
+   "name": "First Day of Summer",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2026-05-01",
+   "name": "Labour Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2026-05-10",
+   "name": "Mothers' Day",
+   "type": "Observance"
+  },
+  {
+   "date": "2026-05-14",
+   "name": "Ascension Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2026-05-24",
+   "name": "Whit Sunday",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2026-05-25",
+   "name": "Whit Monday",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2026-06-17",
+   "name": "Icelandic Republic Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2026-08-03",
+   "name": "Commerce Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2026-10-31",
+   "name": "Halloween",
+   "type": "Observance"
+  },
+  {
+   "date": "2026-11-08",
+   "name": "Fathers' Day",
+   "type": "Observance"
+  },
+  {
+   "date": "2026-12-01",
+   "name": "Independence Day",
+   "type": "Observance"
+  },
+  {
+   "date": "2026-12-24",
+   "name": "Christmas Eve (half-day)",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2026-12-25",
+   "name": "Christmas Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2026-12-26",
+   "name": "Second Day of Christmas",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2026-12-31",
+   "name": "New Year's Eve (half-day)",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2027-01-01",
+   "name": "New Year's Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2027-01-06",
+   "name": "Twelfth Night",
+   "type": "Observance"
+  },
+  {
+   "date": "2027-02-10",
+   "name": "Ash Wednesday",
+   "type": "Observance"
+  },
+  {
+   "date": "2027-02-14",
+   "name": "Valentine's Day",
+   "type": "Observance"
+  },
+  {
+   "date": "2027-03-25",
+   "name": "Maundy Thursday",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2027-03-26",
+   "name": "Good Friday",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2027-03-27",
+   "name": "Holy Saturday",
+   "type": "Observance"
+  },
+  {
+   "date": "2027-03-28",
+   "name": "Easter Sunday",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2027-03-29",
+   "name": "Easter Monday",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2027-04-22",
+   "name": "First Day of Summer",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2027-05-01",
+   "name": "Labour Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2027-05-06",
+   "name": "Ascension Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2027-05-09",
+   "name": "Mothers' Day",
+   "type": "Observance"
+  },
+  {
+   "date": "2027-05-16",
+   "name": "Whit Sunday",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2027-05-17",
+   "name": "Whit Monday",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2027-06-17",
+   "name": "Icelandic Republic Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2027-08-02",
+   "name": "Commerce Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2027-10-31",
+   "name": "Halloween",
+   "type": "Observance"
+  },
+  {
+   "date": "2027-11-14",
+   "name": "Fathers' Day",
+   "type": "Observance"
+  },
+  {
+   "date": "2027-12-01",
+   "name": "Independence Day",
+   "type": "Observance"
+  },
+  {
+   "date": "2027-12-24",
+   "name": "Christmas Eve (half-day)",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2027-12-25",
+   "name": "Christmas Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2027-12-26",
+   "name": "Second Day of Christmas",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2027-12-31",
+   "name": "New Year's Eve (half-day)",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2028-01-01",
+   "name": "New Year's Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2028-01-06",
+   "name": "Twelfth Night",
+   "type": "Observance"
+  },
+  {
+   "date": "2028-02-14",
+   "name": "Valentine's Day",
+   "type": "Observance"
+  },
+  {
+   "date": "2028-03-01",
+   "name": "Ash Wednesday",
+   "type": "Observance"
+  },
+  {
+   "date": "2028-04-13",
+   "name": "Maundy Thursday",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2028-04-14",
+   "name": "Good Friday",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2028-04-15",
+   "name": "Holy Saturday",
+   "type": "Observance"
+  },
+  {
+   "date": "2028-04-16",
+   "name": "Easter Sunday",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2028-04-17",
+   "name": "Easter Monday",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2028-04-20",
+   "name": "First Day of Summer",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2028-05-01",
+   "name": "Labour Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2028-05-14",
+   "name": "Mothers' Day",
+   "type": "Observance"
+  },
+  {
+   "date": "2028-05-25",
+   "name": "Ascension Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2028-06-04",
+   "name": "Whit Sunday",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2028-06-05",
+   "name": "Whit Monday",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2028-06-17",
+   "name": "Icelandic Republic Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2028-08-07",
+   "name": "Commerce Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2028-10-31",
+   "name": "Halloween",
+   "type": "Observance"
+  },
+  {
+   "date": "2028-11-12",
+   "name": "Fathers' Day",
+   "type": "Observance"
+  },
+  {
+   "date": "2028-12-01",
+   "name": "Independence Day",
+   "type": "Observance"
+  },
+  {
+   "date": "2028-12-24",
+   "name": "Christmas Eve (half-day)",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2028-12-25",
+   "name": "Christmas Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2028-12-26",
+   "name": "Second Day of Christmas",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2028-12-31",
+   "name": "New Year's Eve (half-day)",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2029-01-01",
+   "name": "New Year's Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2029-01-06",
+   "name": "Twelfth Night",
+   "type": "Observance"
+  },
+  {
+   "date": "2029-02-14",
+   "name": "Ash Wednesday",
+   "type": "Observance"
+  },
+  {
+   "date": "2029-02-14",
+   "name": "Valentine's Day",
+   "type": "Observance"
+  },
+  {
+   "date": "2029-03-29",
+   "name": "Maundy Thursday",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2029-03-30",
+   "name": "Good Friday",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2029-03-31",
+   "name": "Holy Saturday",
+   "type": "Observance"
+  },
+  {
+   "date": "2029-04-01",
+   "name": "Easter Sunday",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2029-04-02",
+   "name": "Easter Monday",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2029-04-19",
+   "name": "First Day of Summer",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2029-05-01",
+   "name": "Labour Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2029-05-10",
+   "name": "Ascension Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2029-05-13",
+   "name": "Mothers' Day",
+   "type": "Observance"
+  },
+  {
+   "date": "2029-05-20",
+   "name": "Whit Sunday",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2029-05-21",
+   "name": "Whit Monday",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2029-06-17",
+   "name": "Icelandic Republic Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2029-08-06",
+   "name": "Commerce Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2029-10-31",
+   "name": "Halloween",
+   "type": "Observance"
+  },
+  {
+   "date": "2029-11-11",
+   "name": "Fathers' Day",
+   "type": "Observance"
+  },
+  {
+   "date": "2029-12-01",
+   "name": "Independence Day",
+   "type": "Observance"
+  },
+  {
+   "date": "2029-12-24",
+   "name": "Christmas Eve (half-day)",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2029-12-25",
+   "name": "Christmas Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2029-12-26",
+   "name": "Second Day of Christmas",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2029-12-31",
+   "name": "New Year's Eve (half-day)",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2030-01-01",
+   "name": "New Year's Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2030-01-06",
+   "name": "Twelfth Night",
+   "type": "Observance"
+  },
+  {
+   "date": "2030-02-14",
+   "name": "Valentine's Day",
+   "type": "Observance"
+  },
+  {
+   "date": "2030-03-06",
+   "name": "Ash Wednesday",
+   "type": "Observance"
+  },
+  {
+   "date": "2030-04-18",
+   "name": "Maundy Thursday",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2030-04-19",
+   "name": "Good Friday",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2030-04-20",
+   "name": "Holy Saturday",
+   "type": "Observance"
+  },
+  {
+   "date": "2030-04-21",
+   "name": "Easter Sunday",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2030-04-22",
+   "name": "Easter Monday",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2030-04-25",
+   "name": "First Day of Summer",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2030-05-01",
+   "name": "Labour Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2030-05-12",
+   "name": "Mothers' Day",
+   "type": "Observance"
+  },
+  {
+   "date": "2030-05-30",
+   "name": "Ascension Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2030-06-09",
+   "name": "Whit Sunday",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2030-06-10",
+   "name": "Whit Monday",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2030-06-17",
+   "name": "Icelandic Republic Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2030-08-05",
+   "name": "Commerce Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2030-10-31",
+   "name": "Halloween",
+   "type": "Observance"
+  },
+  {
+   "date": "2030-11-10",
+   "name": "Fathers' Day",
+   "type": "Observance"
+  },
+  {
+   "date": "2030-12-01",
+   "name": "Independence Day",
+   "type": "Observance"
+  },
+  {
+   "date": "2030-12-24",
+   "name": "Christmas Eve (half-day)",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2030-12-25",
+   "name": "Christmas Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2030-12-26",
+   "name": "Second Day of Christmas",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2030-12-31",
+   "name": "New Year's Eve (half-day)",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2031-01-01",
+   "name": "New Year's Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2031-01-06",
+   "name": "Twelfth Night",
+   "type": "Observance"
+  },
+  {
+   "date": "2031-02-14",
+   "name": "Valentine's Day",
+   "type": "Observance"
+  },
+  {
+   "date": "2031-02-26",
+   "name": "Ash Wednesday",
+   "type": "Observance"
+  },
+  {
+   "date": "2031-04-10",
+   "name": "Maundy Thursday",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2031-04-11",
+   "name": "Good Friday",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2031-04-12",
+   "name": "Holy Saturday",
+   "type": "Observance"
+  },
+  {
+   "date": "2031-04-13",
+   "name": "Easter Sunday",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2031-04-14",
+   "name": "Easter Monday",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2031-04-24",
+   "name": "First Day of Summer",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2031-05-01",
+   "name": "Labour Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2031-05-11",
+   "name": "Mothers' Day",
+   "type": "Observance"
+  },
+  {
+   "date": "2031-05-22",
+   "name": "Ascension Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2031-06-01",
+   "name": "Whit Sunday",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2031-06-02",
+   "name": "Whit Monday",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2031-06-17",
+   "name": "Icelandic Republic Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2031-08-04",
+   "name": "Commerce Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2031-10-31",
+   "name": "Halloween",
+   "type": "Observance"
+  },
+  {
+   "date": "2031-11-09",
+   "name": "Fathers' Day",
+   "type": "Observance"
+  },
+  {
+   "date": "2031-12-01",
+   "name": "Independence Day",
+   "type": "Observance"
+  },
+  {
+   "date": "2031-12-24",
+   "name": "Christmas Eve (half-day)",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2031-12-25",
+   "name": "Christmas Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2031-12-26",
+   "name": "Second Day of Christmas",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2031-12-31",
+   "name": "New Year's Eve (half-day)",
+   "type": "Public holiday"
+  }
+ ]
+}

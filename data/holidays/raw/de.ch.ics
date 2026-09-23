@@ -1,0 +1,5148 @@
+BEGIN:VCALENDAR
+PRODID:-//Google Inc//Google Calendar 70.9054//EN
+VERSION:2.0
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Feiertage in der Schweiz
+X-WR-TIMEZONE:UTC
+X-WR-CALDESC:Feier- und Gedenktage in der Schweiz
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20240214
+DTEND;VALUE=DATE:20240215
+DTSTAMP:20260923T121438Z
+UID:20240214_ccertk0dkh6u1sadc72rkd5698@google.com
+CLASS:PUBLIC
+CREATED:20240517T153010Z
+DESCRIPTION:Gedenktag\nWenn Sie Gedenktage ausblenden möchten\, rufen Sie d
+ ie Google Kalender-Einstellungen auf > Feiertage in der Schweiz
+LAST-MODIFIED:20240517T153010Z
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Valentinstag
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250330
+DTEND;VALUE=DATE:20250331
+DTSTAMP:20260923T121438Z
+UID:20250330_59ovf2ueaae15oel4p1bffppng@google.com
+CLASS:PUBLIC
+CREATED:20240517T153010Z
+DESCRIPTION:Gedenktag\nWenn Sie Gedenktage ausblenden möchten\, rufen Sie d
+ ie Google Kalender-Einstellungen auf > Feiertage in der Schweiz
+LAST-MODIFIED:20240517T153010Z
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Beginn der Sommerzeit
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260403
+DTEND;VALUE=DATE:20260404
+DTSTAMP:20260923T121438Z
+UID:20260403_hom81jcnmd8pc2f8aumktci8ok@google.com
+CLASS:PUBLIC
+CREATED:20240517T153010Z
+DESCRIPTION:Feiertag in Zürich\, Bern\, Luzern\, Uri\, Schwyz\, Obwalden\, 
+ Nidwalden\, Glarus\, Zug\, Freiburg\, Solothurn\, Basel-Stadt\, Basel-Lands
+ chaft\, Schaffhausen\, Appenzell Ausserrhoden\, Appenzell Innerrhoden\, St.
+  Gallen\, Aargau\, Graubünden\, Thurgau\, Waadt\, Neuenburg\, Genf\, Jura
+LAST-MODIFIED:20240517T153010Z
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Karfreitag (regionaler Feiertag)
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260510
+DTEND;VALUE=DATE:20260511
+DTSTAMP:20260923T121438Z
+UID:20260510_3pfp12vio0bhoq72cn59frr1ok@google.com
+CLASS:PUBLIC
+CREATED:20240517T153010Z
+DESCRIPTION:Gedenktag\nWenn Sie Gedenktage ausblenden möchten\, rufen Sie d
+ ie Google Kalender-Einstellungen auf > Feiertage in der Schweiz
+LAST-MODIFIED:20240517T153010Z
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Muttertag
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20270214
+DTEND;VALUE=DATE:20270215
+DTSTAMP:20260923T121438Z
+UID:20270214_uige8mss7dqj6odtaetg1c6tsk@google.com
+CLASS:PUBLIC
+CREATED:20240517T153010Z
+DESCRIPTION:Gedenktag\nWenn Sie Gedenktage ausblenden möchten\, rufen Sie d
+ ie Google Kalender-Einstellungen auf > Feiertage in der Schweiz
+LAST-MODIFIED:20240517T153010Z
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Valentinstag
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20280911
+DTEND;VALUE=DATE:20280912
+DTSTAMP:20260923T121438Z
+UID:20280911_l45n3tmiemdte11dsnjno4job4@google.com
+CLASS:PUBLIC
+CREATED:20240517T153010Z
+DESCRIPTION:Gedenktag in Zürich\nWenn Sie Gedenktage ausblenden möchten\, r
+ ufen Sie die Google Kalender-Einstellungen auf > Feiertage in der Schweiz
+LAST-MODIFIED:20240517T153010Z
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Knabenschiessen (Zürich)
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20290520
+DTEND;VALUE=DATE:20290521
+DTSTAMP:20260923T121438Z
+UID:20290520_0a7uart3hd4hl8of0v28vk7ghc@google.com
+CLASS:PUBLIC
+CREATED:20240517T153010Z
+DESCRIPTION:Gedenktag in Zürich\, Bern\, Luzern\, Uri\, Schwyz\, Obwalden\,
+  Nidwalden\, Glarus\, Zug\, Freiburg\, Solothurn\, Basel-Stadt\, Basel-Land
+ schaft\, Schaffhausen\, Appenzell Ausserrhoden\, Appenzell Innerrhoden\, St
+ . Gallen\, Aargau\, Graubünden\, Thurgau\, Tessin\, Waadt\, Wallis\, Neuenb
+ urg\, Genf\, Jura\nWenn Sie Gedenktage ausblenden möchten\, rufen Sie die G
+ oogle Kalender-Einstellungen auf > Feiertage in der Schweiz
+LAST-MODIFIED:20240517T153010Z
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Pfingstsonntag (regionaler Feiertag)
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20290910
+DTEND;VALUE=DATE:20290911
+DTSTAMP:20260923T121438Z
+UID:20290910_p9m4am2sjn48q838riit893d44@google.com
+CLASS:PUBLIC
+CREATED:20240517T153010Z
+DESCRIPTION:Gedenktag in Zürich\nWenn Sie Gedenktage ausblenden möchten\, r
+ ufen Sie die Google Kalender-Einstellungen auf > Feiertage in der Schweiz
+LAST-MODIFIED:20240517T153010Z
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Knabenschiessen (Zürich)
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20210523
+DTEND;VALUE=DATE:20210524
+DTSTAMP:20260923T121438Z
+UID:20210523_8apsnbshg5rsn21uub6i5dvaak@google.com
+CLASS:PUBLIC
+CREATED:20240517T153035Z
+DESCRIPTION:Gedenktag in Zürich\, Bern\, Luzern\, Uri\, Schwyz\, Obwalden\,
+  Nidwalden\, Glarus\, Zug\, Freiburg\, Solothurn\, Basel-Stadt\, Basel-Land
+ schaft\, Schaffhausen\, Appenzell Ausserrhoden\, Appenzell Innerrhoden\, St
+ . Gallen\, Aargau\, Graubünden\, Thurgau\, Tessin\, Waadt\, Wallis\, Neuenb
+ urg\, Genf\, Jura\nWenn Sie Gedenktage ausblenden möchten\, rufen Sie die G
+ oogle Kalender-Einstellungen auf > Feiertage in der Schweiz
+LAST-MODIFIED:20240517T153035Z
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Pfingstsonntag (regionaler Feiertag)
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20220910
+DTEND;VALUE=DATE:20220911
+DTSTAMP:20260923T121438Z
+UID:20220910_majshci6btra7dl56p9mtp7cuo@google.com
+CLASS:PUBLIC
+CREATED:20240517T153035Z
+DESCRIPTION:Gedenktag in Zürich\nWenn Sie Gedenktage ausblenden möchten\, r
+ ufen Sie die Google Kalender-Einstellungen auf > Feiertage in der Schweiz
+LAST-MODIFIED:20240517T153035Z
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Knabenschiessen (Zürich)
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20230214
+DTEND;VALUE=DATE:20230215
+DTSTAMP:20260923T121438Z
+UID:20230214_us99ki8ef6iqi8offt359env7g@google.com
+CLASS:PUBLIC
+CREATED:20240517T153035Z
+DESCRIPTION:Gedenktag\nWenn Sie Gedenktage ausblenden möchten\, rufen Sie d
+ ie Google Kalender-Einstellungen auf > Feiertage in der Schweiz
+LAST-MODIFIED:20240517T153035Z
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Valentinstag
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20230407
+DTEND;VALUE=DATE:20230408
+DTSTAMP:20260923T121438Z
+UID:20230407_7gpvb26uodoas5ssk301ijicl8@google.com
+CLASS:PUBLIC
+CREATED:20240517T153035Z
+DESCRIPTION:Feiertag in Zürich\, Bern\, Luzern\, Uri\, Schwyz\, Obwalden\, 
+ Nidwalden\, Glarus\, Zug\, Freiburg\, Solothurn\, Basel-Stadt\, Basel-Lands
+ chaft\, Schaffhausen\, Appenzell Ausserrhoden\, Appenzell Innerrhoden\, St.
+  Gallen\, Aargau\, Graubünden\, Thurgau\, Waadt\, Neuenburg\, Genf\, Jura
+LAST-MODIFIED:20240517T153035Z
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Karfreitag (regionaler Feiertag)
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20240331
+DTEND;VALUE=DATE:20240401
+DTSTAMP:20260923T121438Z
+UID:20240331_1ag0dm3rf7parf68pctqqilhs4@google.com
+CLASS:PUBLIC
+CREATED:20240517T153035Z
+DESCRIPTION:Gedenktag\nWenn Sie Gedenktage ausblenden möchten\, rufen Sie d
+ ie Google Kalender-Einstellungen auf > Feiertage in der Schweiz
+LAST-MODIFIED:20240517T153035Z
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Beginn der Sommerzeit
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250608
+DTEND;VALUE=DATE:20250609
+DTSTAMP:20260923T121438Z
+UID:20250608_10uvhg5r5vjo9k41l8qmof9fkg@google.com
+CLASS:PUBLIC
+CREATED:20240517T153035Z
+DESCRIPTION:Gedenktag in Zürich\, Bern\, Luzern\, Uri\, Schwyz\, Obwalden\,
+  Nidwalden\, Glarus\, Zug\, Freiburg\, Solothurn\, Basel-Stadt\, Basel-Land
+ schaft\, Schaffhausen\, Appenzell Ausserrhoden\, Appenzell Innerrhoden\, St
+ . Gallen\, Aargau\, Graubünden\, Thurgau\, Tessin\, Waadt\, Wallis\, Neuenb
+ urg\, Genf\, Jura\nWenn Sie Gedenktage ausblenden möchten\, rufen Sie die G
+ oogle Kalender-Einstellungen auf > Feiertage in der Schweiz
+LAST-MODIFIED:20240517T153035Z
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Pfingstsonntag (regionaler Feiertag)
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260801
+DTEND;VALUE=DATE:20260802
+DTSTAMP:20260923T121438Z
+UID:20260801_4s8dfvifuf6tkrnqnu0bont5ek@google.com
+CLASS:PUBLIC
+CREATED:20240517T153035Z
+DESCRIPTION:Gesetzlicher Feiertag
+LAST-MODIFIED:20240517T153035Z
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Schweizer Nationalfeiertag
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20261225
+DTEND;VALUE=DATE:20261226
+DTSTAMP:20260923T121438Z
+UID:20261225_jtrkqidch1sirvponccn3mv514@google.com
+CLASS:PUBLIC
+CREATED:20240517T153035Z
+DESCRIPTION:Feiertag in Zürich\, Bern\, Luzern\, Uri\, Schwyz\, Obwalden\, 
+ Nidwalden\, Glarus\, Zug\, Freiburg\, Solothurn\, Basel-Stadt\, Basel-Lands
+ chaft\, Schaffhausen\, Appenzell Ausserrhoden\, Appenzell Innerrhoden\, St.
+  Gallen\, Aargau\, Graubünden\, Thurgau\, Tessin\, Waadt\, Wallis\, Neuenbu
+ rg\, Genf\, Jura
+LAST-MODIFIED:20240517T153035Z
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Weihnachten (regionaler Feiertag)
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20270509
+DTEND;VALUE=DATE:20270510
+DTSTAMP:20260923T121438Z
+UID:20270509_pp6imjgn3cfk67brtoji4rdcho@google.com
+CLASS:PUBLIC
+CREATED:20240517T153035Z
+DESCRIPTION:Gedenktag\nWenn Sie Gedenktage ausblenden möchten\, rufen Sie d
+ ie Google Kalender-Einstellungen auf > Feiertage in der Schweiz
+LAST-MODIFIED:20240517T153035Z
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Muttertag
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20270913
+DTEND;VALUE=DATE:20270914
+DTSTAMP:20260923T121438Z
+UID:20270913_l5ucjg7jhbd0sqhomn29fm4hi4@google.com
+CLASS:PUBLIC
+CREATED:20240517T153035Z
+DESCRIPTION:Gedenktag in Zürich\nWenn Sie Gedenktage ausblenden möchten\, r
+ ufen Sie die Google Kalender-Einstellungen auf > Feiertage in der Schweiz
+LAST-MODIFIED:20240517T153035Z
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Knabenschiessen (Zürich)
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20280514
+DTEND;VALUE=DATE:20280515
+DTSTAMP:20260923T121438Z
+UID:20280514_i52l25jp82odeifbghkpdutnec@google.com
+CLASS:PUBLIC
+CREATED:20240517T153035Z
+DESCRIPTION:Gedenktag\nWenn Sie Gedenktage ausblenden möchten\, rufen Sie d
+ ie Google Kalender-Einstellungen auf > Feiertage in der Schweiz
+LAST-MODIFIED:20240517T153035Z
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Muttertag
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20281029
+DTEND;VALUE=DATE:20281030
+DTSTAMP:20260923T121438Z
+UID:20281029_u5b1jrpdpmsdiik2mvovirjveo@google.com
+CLASS:PUBLIC
+CREATED:20240517T153035Z
+DESCRIPTION:Gedenktag\nWenn Sie Gedenktage ausblenden möchten\, rufen Sie d
+ ie Google Kalender-Einstellungen auf > Feiertage in der Schweiz
+LAST-MODIFIED:20240517T153035Z
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Ende der Sommerzeit
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20290214
+DTEND;VALUE=DATE:20290215
+DTSTAMP:20260923T121438Z
+UID:20290214_ipoq819dp91np03abp434odb18@google.com
+CLASS:PUBLIC
+CREATED:20240517T153035Z
+DESCRIPTION:Gedenktag\nWenn Sie Gedenktage ausblenden möchten\, rufen Sie d
+ ie Google Kalender-Einstellungen auf > Feiertage in der Schweiz
+LAST-MODIFIED:20240517T153035Z
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Valentinstag
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20290325
+DTEND;VALUE=DATE:20290326
+DTSTAMP:20260923T121438Z
+UID:20290325_9v7bkvj6b6leptdt3uthsb8l9g@google.com
+CLASS:PUBLIC
+CREATED:20240517T153035Z
+DESCRIPTION:Gedenktag\nWenn Sie Gedenktage ausblenden möchten\, rufen Sie d
+ ie Google Kalender-Einstellungen auf > Feiertage in der Schweiz
+LAST-MODIFIED:20240517T153035Z
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Beginn der Sommerzeit
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20210106
+DTEND;VALUE=DATE:20210107
+DTSTAMP:20260923T121438Z
+UID:20210106_ngl56joal3f44qn21nvcassoq0@google.com
+CLASS:PUBLIC
+CREATED:20240517T153054Z
+DESCRIPTION:Feiertag in Schwyz\, Tessin\, Uri
+LAST-MODIFIED:20240517T153054Z
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Dreikönigsfest (regionaler Feiertag)
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20210402
+DTEND;VALUE=DATE:20210403
+DTSTAMP:20260923T121438Z
+UID:20210402_8e38k2rqk7hu0rjkptkad3er70@google.com
+CLASS:PUBLIC
+CREATED:20240517T153054Z
+DESCRIPTION:Feiertag in Zürich\, Bern\, Luzern\, Uri\, Schwyz\, Obwalden\, 
+ Nidwalden\, Glarus\, Zug\, Freiburg\, Solothurn\, Basel-Stadt\, Basel-Lands
+ chaft\, Schaffhausen\, Appenzell Ausserrhoden\, Appenzell Innerrhoden\, St.
+  Gallen\, Aargau\, Graubünden\, Thurgau\, Waadt\, Neuenburg\, Genf\, Jura
+LAST-MODIFIED:20240517T153054Z
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Karfreitag (regionaler Feiertag)
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20210404
+DTEND;VALUE=DATE:20210405
+DTSTAMP:20260923T121438Z
+UID:20210404_cvb2l0n7u28fcjius9026v14pc@google.com
+CLASS:PUBLIC
+CREATED:20240517T153054Z
+DESCRIPTION:Gedenktag\nWenn Sie Gedenktage ausblenden möchten\, rufen Sie d
+ ie Google Kalender-Einstellungen auf > Feiertage in der Schweiz
+LAST-MODIFIED:20240517T153054Z
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Ostersonntag
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20210912
+DTEND;VALUE=DATE:20210913
+DTSTAMP:20260923T121438Z
+UID:20210912_rtanf0m2fb939apq4onu4mlnl0@google.com
+CLASS:PUBLIC
+CREATED:20240517T153054Z
+DESCRIPTION:Gedenktag in Zürich\nWenn Sie Gedenktage ausblenden möchten\, r
+ ufen Sie die Google Kalender-Einstellungen auf > Feiertage in der Schweiz
+LAST-MODIFIED:20240517T153054Z
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Knabenschiessen (Zürich)
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20211031
+DTEND;VALUE=DATE:20211101
+DTSTAMP:20260923T121438Z
+UID:20211031_38794q8d6oleapbmck07qtfdu0@google.com
+CLASS:PUBLIC
+CREATED:20240517T153054Z
+DESCRIPTION:Gedenktag\nWenn Sie Gedenktage ausblenden möchten\, rufen Sie d
+ ie Google Kalender-Einstellungen auf > Feiertage in der Schweiz
+LAST-MODIFIED:20240517T153054Z
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Ende der Sommerzeit
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20220327
+DTEND;VALUE=DATE:20220328
+DTSTAMP:20260923T121438Z
+UID:20220327_9gvmel4e3v8b3gsaj58ffqrqjo@google.com
+CLASS:PUBLIC
+CREATED:20240517T153054Z
+DESCRIPTION:Gedenktag\nWenn Sie Gedenktage ausblenden möchten\, rufen Sie d
+ ie Google Kalender-Einstellungen auf > Feiertage in der Schweiz
+LAST-MODIFIED:20240517T153054Z
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Beginn der Sommerzeit
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20240319
+DTEND;VALUE=DATE:20240320
+DTSTAMP:20260923T121438Z
+UID:20240319_7cetl4k8ak6fhu0tq9igum39rk@google.com
+CLASS:PUBLIC
+CREATED:20240517T153054Z
+DESCRIPTION:Feiertag in Luzern\, Nidwalden\, Solothurn\, Schwyz\, Tessin\, 
+ Uri\, Wallis
+LAST-MODIFIED:20240517T153054Z
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Josefstag (regionaler Feiertag)
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20240915
+DTEND;VALUE=DATE:20240916
+DTSTAMP:20260923T121438Z
+UID:20240915_b355hlilafdleobcdo4afk4nn4@google.com
+CLASS:PUBLIC
+CREATED:20240517T153054Z
+DESCRIPTION:Gedenktag in Zürich\, Bern\, Luzern\, Uri\, Schwyz\, Obwalden\,
+  Nidwalden\, Glarus\, Zug\, Freiburg\, Solothurn\, Basel-Stadt\, Basel-Land
+ schaft\, Schaffhausen\, Appenzell Ausserrhoden\, Appenzell Innerrhoden\, St
+ . Gallen\, Aargau\, Graubünden\, Thurgau\, Tessin\, Waadt\, Wallis\, Neuenb
+ urg\, Jura\nWenn Sie Gedenktage ausblenden möchten\, rufen Sie die Google K
+ alender-Einstellungen auf > Feiertage in der Schweiz
+LAST-MODIFIED:20240517T153054Z
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Eidgenössischer Dank-\, Buss- und Bettag (regionaler Feiertag)
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250418
+DTEND;VALUE=DATE:20250419
+DTSTAMP:20260923T121438Z
+UID:20250418_p8k5k330mvfh8ljt8s1vlh9e94@google.com
+CLASS:PUBLIC
+CREATED:20240517T153054Z
+DESCRIPTION:Feiertag in Zürich\, Bern\, Luzern\, Uri\, Schwyz\, Obwalden\, 
+ Nidwalden\, Glarus\, Zug\, Freiburg\, Solothurn\, Basel-Stadt\, Basel-Lands
+ chaft\, Schaffhausen\, Appenzell Ausserrhoden\, Appenzell Innerrhoden\, St.
+  Gallen\, Aargau\, Graubünden\, Thurgau\, Waadt\, Neuenburg\, Genf\, Jura
+LAST-MODIFIED:20240517T153054Z
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Karfreitag (regionaler Feiertag)
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250601
+DTEND;VALUE=DATE:20250602
+DTSTAMP:20260923T121438Z
+UID:20250601_5rgrli23b888fcbs69k737euag@google.com
+CLASS:PUBLIC
+CREATED:20240517T153054Z
+DESCRIPTION:Gedenktag\nWenn Sie Gedenktage ausblenden möchten\, rufen Sie d
+ ie Google Kalender-Einstellungen auf > Feiertage in der Schweiz
+LAST-MODIFIED:20240517T153054Z
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Vatertag
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250915
+DTEND;VALUE=DATE:20250916
+DTSTAMP:20260923T121438Z
+UID:20250915_00dlq0t9h8pqimentpao3ee7mo@google.com
+CLASS:PUBLIC
+CREATED:20240517T153054Z
+DESCRIPTION:Gedenktag in Zürich\nWenn Sie Gedenktage ausblenden möchten\, r
+ ufen Sie die Google Kalender-Einstellungen auf > Feiertage in der Schweiz
+LAST-MODIFIED:20240517T153054Z
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Knabenschiessen (Zürich)
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260319
+DTEND;VALUE=DATE:20260320
+DTSTAMP:20260923T121438Z
+UID:20260319_924t32kt57fggpkvjeutg87pfc@google.com
+CLASS:PUBLIC
+CREATED:20240517T153054Z
+DESCRIPTION:Feiertag in Luzern\, Nidwalden\, Solothurn\, Schwyz\, Tessin\, 
+ Uri\, Wallis
+LAST-MODIFIED:20240517T153054Z
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Josefstag (regionaler Feiertag)
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260524
+DTEND;VALUE=DATE:20260525
+DTSTAMP:20260923T121438Z
+UID:20260524_u4eplmjalge1mo2itrskof5rv8@google.com
+CLASS:PUBLIC
+CREATED:20240517T153054Z
+DESCRIPTION:Gedenktag in Zürich\, Bern\, Luzern\, Uri\, Schwyz\, Obwalden\,
+  Nidwalden\, Glarus\, Zug\, Freiburg\, Solothurn\, Basel-Stadt\, Basel-Land
+ schaft\, Schaffhausen\, Appenzell Ausserrhoden\, Appenzell Innerrhoden\, St
+ . Gallen\, Aargau\, Graubünden\, Thurgau\, Tessin\, Waadt\, Wallis\, Neuenb
+ urg\, Genf\, Jura\nWenn Sie Gedenktage ausblenden möchten\, rufen Sie die G
+ oogle Kalender-Einstellungen auf > Feiertage in der Schweiz
+LAST-MODIFIED:20240517T153054Z
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Pfingstsonntag (regionaler Feiertag)
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20270326
+DTEND;VALUE=DATE:20270327
+DTSTAMP:20260923T121438Z
+UID:20270326_o8t8p0c9bfgk28u6jcsfdibeio@google.com
+CLASS:PUBLIC
+CREATED:20240517T153054Z
+DESCRIPTION:Feiertag in Zürich\, Bern\, Luzern\, Uri\, Schwyz\, Obwalden\, 
+ Nidwalden\, Glarus\, Zug\, Freiburg\, Solothurn\, Basel-Stadt\, Basel-Lands
+ chaft\, Schaffhausen\, Appenzell Ausserrhoden\, Appenzell Innerrhoden\, St.
+  Gallen\, Aargau\, Graubünden\, Thurgau\, Waadt\, Neuenburg\, Genf\, Jura
+LAST-MODIFIED:20240517T153054Z
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Karfreitag (regionaler Feiertag)
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20270516
+DTEND;VALUE=DATE:20270517
+DTSTAMP:20260923T121438Z
+UID:20270516_rkk06f9m863d5smqhn5ti4ls1c@google.com
+CLASS:PUBLIC
+CREATED:20240517T153054Z
+DESCRIPTION:Gedenktag in Zürich\, Bern\, Luzern\, Uri\, Schwyz\, Obwalden\,
+  Nidwalden\, Glarus\, Zug\, Freiburg\, Solothurn\, Basel-Stadt\, Basel-Land
+ schaft\, Schaffhausen\, Appenzell Ausserrhoden\, Appenzell Innerrhoden\, St
+ . Gallen\, Aargau\, Graubünden\, Thurgau\, Tessin\, Waadt\, Wallis\, Neuenb
+ urg\, Genf\, Jura\nWenn Sie Gedenktage ausblenden möchten\, rufen Sie die G
+ oogle Kalender-Einstellungen auf > Feiertage in der Schweiz
+LAST-MODIFIED:20240517T153054Z
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Pfingstsonntag (regionaler Feiertag)
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20280326
+DTEND;VALUE=DATE:20280327
+DTSTAMP:20260923T121438Z
+UID:20280326_gsrpobioepe6rjhdhlg2ilvjnc@google.com
+CLASS:PUBLIC
+CREATED:20240517T153054Z
+DESCRIPTION:Gedenktag\nWenn Sie Gedenktage ausblenden möchten\, rufen Sie d
+ ie Google Kalender-Einstellungen auf > Feiertage in der Schweiz
+LAST-MODIFIED:20240517T153054Z
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Beginn der Sommerzeit
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20280525
+DTEND;VALUE=DATE:20280526
+DTSTAMP:20260923T121438Z
+UID:20280525_0spe7i3ie3eg6bsklnejnnn1b8@google.com
+CLASS:PUBLIC
+CREATED:20240517T153054Z
+DESCRIPTION:Feiertag in Zürich\, Bern\, Luzern\, Uri\, Schwyz\, Obwalden\, 
+ Nidwalden\, Glarus\, Zug\, Freiburg\, Solothurn\, Basel-Stadt\, Basel-Lands
+ chaft\, Schaffhausen\, Appenzell Ausserrhoden\, Appenzell Innerrhoden\, St.
+  Gallen\, Aargau\, Graubünden\, Thurgau\, Tessin\, Waadt\, Wallis\, Neuenbu
+ rg\, Genf\, Jura
+LAST-MODIFIED:20240517T153054Z
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Auffahrt (regionaler Feiertag)
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20290401
+DTEND;VALUE=DATE:20290402
+DTSTAMP:20260923T121438Z
+UID:20290401_j42cdjju6mgjd4ajj96u5q3q5c@google.com
+CLASS:PUBLIC
+CREATED:20240517T153054Z
+DESCRIPTION:Gedenktag\nWenn Sie Gedenktage ausblenden möchten\, rufen Sie d
+ ie Google Kalender-Einstellungen auf > Feiertage in der Schweiz
+LAST-MODIFIED:20240517T153054Z
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Ostersonntag
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20210328
+DTEND;VALUE=DATE:20210329
+DTSTAMP:20260923T121438Z
+UID:20210328_e62vmm0gviepei6r82pda67iuo@google.com
+CLASS:PUBLIC
+CREATED:20240517T153114Z
+DESCRIPTION:Gedenktag\nWenn Sie Gedenktage ausblenden möchten\, rufen Sie d
+ ie Google Kalender-Einstellungen auf > Feiertage in der Schweiz
+LAST-MODIFIED:20240517T153114Z
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Beginn der Sommerzeit
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20210913
+DTEND;VALUE=DATE:20210914
+DTSTAMP:20260923T121438Z
+UID:20210913_nd6nbrqq06chj0u3bueuonqqc0@google.com
+CLASS:PUBLIC
+CREATED:20240517T153114Z
+DESCRIPTION:Gedenktag in Zürich\nWenn Sie Gedenktage ausblenden möchten\, r
+ ufen Sie die Google Kalender-Einstellungen auf > Feiertage in der Schweiz
+LAST-MODIFIED:20240517T153114Z
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Knabenschiessen (Zürich)
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20220319
+DTEND;VALUE=DATE:20220320
+DTSTAMP:20260923T121438Z
+UID:20220319_h12pmnt7ljn6snbe3r5flh02s8@google.com
+CLASS:PUBLIC
+CREATED:20240517T153114Z
+DESCRIPTION:Feiertag in Luzern\, Nidwalden\, Solothurn\, Schwyz\, Tessin\, 
+ Uri\, Wallis
+LAST-MODIFIED:20240517T153114Z
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Josefstag (regionaler Feiertag)
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20220425
+DTEND;VALUE=DATE:20220426
+DTSTAMP:20260923T121438Z
+UID:20220425_ffgmcmsedevp6l1rg93g4kqaqo@google.com
+CLASS:PUBLIC
+CREATED:20240517T153114Z
+DESCRIPTION:Gedenktag in Zürich\nWenn Sie Gedenktage ausblenden möchten\, r
+ ufen Sie die Google Kalender-Einstellungen auf > Feiertage in der Schweiz
+LAST-MODIFIED:20240517T153114Z
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Sechseläuten (Zürich)
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20220912
+DTEND;VALUE=DATE:20220913
+DTSTAMP:20260923T121438Z
+UID:20220912_a12s6gg4rqqmkkge8g0e36t7qc@google.com
+CLASS:PUBLIC
+CREATED:20240517T153114Z
+DESCRIPTION:Gedenktag in Zürich\nWenn Sie Gedenktage ausblenden möchten\, r
+ ufen Sie die Google Kalender-Einstellungen auf > Feiertage in der Schweiz
+LAST-MODIFIED:20240517T153114Z
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Knabenschiessen (Zürich)
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20220918
+DTEND;VALUE=DATE:20220919
+DTSTAMP:20260923T121438Z
+UID:20220918_h48kqmtn7bdvutr8ltvjmk9tf0@google.com
+CLASS:PUBLIC
+CREATED:20240517T153114Z
+DESCRIPTION:Gedenktag in Zürich\, Bern\, Luzern\, Uri\, Schwyz\, Obwalden\,
+  Nidwalden\, Glarus\, Zug\, Freiburg\, Solothurn\, Basel-Stadt\, Basel-Land
+ schaft\, Schaffhausen\, Appenzell Ausserrhoden\, Appenzell Innerrhoden\, St
+ . Gallen\, Aargau\, Graubünden\, Thurgau\, Tessin\, Waadt\, Wallis\, Neuenb
+ urg\, Jura\nWenn Sie Gedenktage ausblenden möchten\, rufen Sie die Google K
+ alender-Einstellungen auf > Feiertage in der Schweiz
+LAST-MODIFIED:20240517T153114Z
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Eidgenössischer Dank-\, Buss- und Bettag (regionaler Feiertag)
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20230528
+DTEND;VALUE=DATE:20230529
+DTSTAMP:20260923T121438Z
+UID:20230528_lde4u9ekh96ihhftnos4lc70b8@google.com
+CLASS:PUBLIC
+CREATED:20240517T153114Z
+DESCRIPTION:Gedenktag in Zürich\, Bern\, Luzern\, Uri\, Schwyz\, Obwalden\,
+  Nidwalden\, Glarus\, Zug\, Freiburg\, Solothurn\, Basel-Stadt\, Basel-Land
+ schaft\, Schaffhausen\, Appenzell Ausserrhoden\, Appenzell Innerrhoden\, St
+ . Gallen\, Aargau\, Graubünden\, Thurgau\, Tessin\, Waadt\, Wallis\, Neuenb
+ urg\, Genf\, Jura\nWenn Sie Gedenktage ausblenden möchten\, rufen Sie die G
+ oogle Kalender-Einstellungen auf > Feiertage in der Schweiz
+LAST-MODIFIED:20240517T153114Z
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Pfingstsonntag (regionaler Feiertag)
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20230604
+DTEND;VALUE=DATE:20230605
+DTSTAMP:20260923T121438Z
+UID:20230604_j71o1khpsd9u218vi1fdrst9fs@google.com
+CLASS:PUBLIC
+CREATED:20240517T153114Z
+DESCRIPTION:Gedenktag\nWenn Sie Gedenktage ausblenden möchten\, rufen Sie d
+ ie Google Kalender-Einstellungen auf > Feiertage in der Schweiz
+LAST-MODIFIED:20240517T153114Z
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Vatertag
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20230910
+DTEND;VALUE=DATE:20230911
+DTSTAMP:20260923T121438Z
+UID:20230910_9l0v4vulqlcuup2ioe6blgimo4@google.com
+CLASS:PUBLIC
+CREATED:20240517T153114Z
+DESCRIPTION:Gedenktag in Zürich\nWenn Sie Gedenktage ausblenden möchten\, r
+ ufen Sie die Google Kalender-Einstellungen auf > Feiertage in der Schweiz
+LAST-MODIFIED:20240517T153114Z
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Knabenschiessen (Zürich)
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20230917
+DTEND;VALUE=DATE:20230918
+DTSTAMP:20260923T121438Z
+UID:20230917_bsh9c0qd9qma61cr9k1bne5s04@google.com
+CLASS:PUBLIC
+CREATED:20240517T153114Z
+DESCRIPTION:Gedenktag in Zürich\, Bern\, Luzern\, Uri\, Schwyz\, Obwalden\,
+  Nidwalden\, Glarus\, Zug\, Freiburg\, Solothurn\, Basel-Stadt\, Basel-Land
+ schaft\, Schaffhausen\, Appenzell Ausserrhoden\, Appenzell Innerrhoden\, St
+ . Gallen\, Aargau\, Graubünden\, Thurgau\, Tessin\, Waadt\, Wallis\, Neuenb
+ urg\, Jura\nWenn Sie Gedenktage ausblenden möchten\, rufen Sie die Google K
+ alender-Einstellungen auf > Feiertage in der Schweiz
+LAST-MODIFIED:20240517T153114Z
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Eidgenössischer Dank-\, Buss- und Bettag (regionaler Feiertag)
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20240519
+DTEND;VALUE=DATE:20240520
+DTSTAMP:20260923T121438Z
+UID:20240519_20lv3f71k1d3kvg5g08ad6vk8o@google.com
+CLASS:PUBLIC
+CREATED:20240517T153114Z
+DESCRIPTION:Gedenktag in Zürich\, Bern\, Luzern\, Uri\, Schwyz\, Obwalden\,
+  Nidwalden\, Glarus\, Zug\, Freiburg\, Solothurn\, Basel-Stadt\, Basel-Land
+ schaft\, Schaffhausen\, Appenzell Ausserrhoden\, Appenzell Innerrhoden\, St
+ . Gallen\, Aargau\, Graubünden\, Thurgau\, Tessin\, Waadt\, Wallis\, Neuenb
+ urg\, Genf\, Jura\nWenn Sie Gedenktage ausblenden möchten\, rufen Sie die G
+ oogle Kalender-Einstellungen auf > Feiertage in der Schweiz
+LAST-MODIFIED:20240517T153114Z
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Pfingstsonntag (regionaler Feiertag)
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20240907
+DTEND;VALUE=DATE:20240908
+DTSTAMP:20260923T121438Z
+UID:20240907_fmk2t4rrdged837nnvjittaqrc@google.com
+CLASS:PUBLIC
+CREATED:20240517T153114Z
+DESCRIPTION:Gedenktag in Zürich\nWenn Sie Gedenktage ausblenden möchten\, r
+ ufen Sie die Google Kalender-Einstellungen auf > Feiertage in der Schweiz
+LAST-MODIFIED:20240517T153114Z
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Knabenschiessen (Zürich)
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20241027
+DTEND;VALUE=DATE:20241028
+DTSTAMP:20260923T121438Z
+UID:20241027_foh00jrkpba75vdbsmvonruji8@google.com
+CLASS:PUBLIC
+CREATED:20240517T153114Z
+DESCRIPTION:Gedenktag\nWenn Sie Gedenktage ausblenden möchten\, rufen Sie d
+ ie Google Kalender-Einstellungen auf > Feiertage in der Schweiz
+LAST-MODIFIED:20240517T153114Z
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Ende der Sommerzeit
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250101
+DTEND;VALUE=DATE:20250102
+DTSTAMP:20260923T121438Z
+UID:20250101_4608pq6p8ghmf6cmglm8a6n2ng@google.com
+CLASS:PUBLIC
+CREATED:20240517T153114Z
+DESCRIPTION:Feiertag in Zürich\, Bern\, Luzern\, Uri\, Schwyz\, Obwalden\, 
+ Nidwalden\, Glarus\, Zug\, Freiburg\, Solothurn\, Basel-Stadt\, Basel-Lands
+ chaft\, Schaffhausen\, Appenzell Ausserrhoden\, Appenzell Innerrhoden\, St.
+  Gallen\, Aargau\, Graubünden\, Thurgau\, Tessin\, Waadt\, Wallis\, Neuenbu
+ rg\, Genf\, Jura
+LAST-MODIFIED:20240517T153114Z
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Neujahr (regionaler Feiertag)
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20251225
+DTEND;VALUE=DATE:20251226
+DTSTAMP:20260923T121438Z
+UID:20251225_5qt3459dq179vjsd4da2gp17ok@google.com
+CLASS:PUBLIC
+CREATED:20240517T153114Z
+DESCRIPTION:Feiertag in Zürich\, Bern\, Luzern\, Uri\, Schwyz\, Obwalden\, 
+ Nidwalden\, Glarus\, Zug\, Freiburg\, Solothurn\, Basel-Stadt\, Basel-Lands
+ chaft\, Schaffhausen\, Appenzell Ausserrhoden\, Appenzell Innerrhoden\, St.
+  Gallen\, Aargau\, Graubünden\, Thurgau\, Tessin\, Waadt\, Wallis\, Neuenbu
+ rg\, Genf\, Jura
+LAST-MODIFIED:20240517T153114Z
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Weihnachten (regionaler Feiertag)
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20261025
+DTEND;VALUE=DATE:20261026
+DTSTAMP:20260923T121438Z
+UID:20261025_9q5d9fjdeqkus0jpssequoik6c@google.com
+CLASS:PUBLIC
+CREATED:20240517T153114Z
+DESCRIPTION:Gedenktag\nWenn Sie Gedenktage ausblenden möchten\, rufen Sie d
+ ie Google Kalender-Einstellungen auf > Feiertage in der Schweiz
+LAST-MODIFIED:20240517T153114Z
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Ende der Sommerzeit
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20270101
+DTEND;VALUE=DATE:20270102
+DTSTAMP:20260923T121438Z
+UID:20270101_7cv6mng0sljs9ok0t2f4si30kg@google.com
+CLASS:PUBLIC
+CREATED:20240517T153114Z
+DESCRIPTION:Feiertag in Zürich\, Bern\, Luzern\, Uri\, Schwyz\, Obwalden\, 
+ Nidwalden\, Glarus\, Zug\, Freiburg\, Solothurn\, Basel-Stadt\, Basel-Lands
+ chaft\, Schaffhausen\, Appenzell Ausserrhoden\, Appenzell Innerrhoden\, St.
+  Gallen\, Aargau\, Graubünden\, Thurgau\, Tessin\, Waadt\, Wallis\, Neuenbu
+ rg\, Genf\, Jura
+LAST-MODIFIED:20240517T153114Z
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Neujahr (regionaler Feiertag)
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20270328
+DTEND;VALUE=DATE:20270329
+DTSTAMP:20260923T121438Z
+UID:20270328_b5dksfdalukbih7o922f3s1eig@google.com
+CLASS:PUBLIC
+CREATED:20240517T153114Z
+DESCRIPTION:Gedenktag\nWenn Sie Gedenktage ausblenden möchten\, rufen Sie d
+ ie Google Kalender-Einstellungen auf > Feiertage in der Schweiz
+LAST-MODIFIED:20240517T153114Z
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Beginn der Sommerzeit
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20271031
+DTEND;VALUE=DATE:20271101
+DTSTAMP:20260923T121438Z
+UID:20271031_bqb3ur32cc4mecdhcismlb9j8c@google.com
+CLASS:PUBLIC
+CREATED:20240517T153114Z
+DESCRIPTION:Gedenktag\nWenn Sie Gedenktage ausblenden möchten\, rufen Sie d
+ ie Google Kalender-Einstellungen auf > Feiertage in der Schweiz
+LAST-MODIFIED:20240517T153114Z
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Ende der Sommerzeit
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20280604
+DTEND;VALUE=DATE:20280605
+DTSTAMP:20260923T121438Z
+UID:20280604_k9vq9sk4ki9pulbe1blftm8v54@google.com
+CLASS:PUBLIC
+CREATED:20240517T153114Z
+DESCRIPTION:Gedenktag\nWenn Sie Gedenktage ausblenden möchten\, rufen Sie d
+ ie Google Kalender-Einstellungen auf > Feiertage in der Schweiz
+LAST-MODIFIED:20240517T153114Z
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Vatertag
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20290319
+DTEND;VALUE=DATE:20290320
+DTSTAMP:20260923T121438Z
+UID:20290319_8luj8g0bsank6shmk605jeqmp0@google.com
+CLASS:PUBLIC
+CREATED:20240517T153114Z
+DESCRIPTION:Feiertag in Luzern\, Nidwalden\, Solothurn\, Schwyz\, Tessin\, 
+ Uri\, Wallis
+LAST-MODIFIED:20240517T153114Z
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Josefstag (regionaler Feiertag)
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20290908
+DTEND;VALUE=DATE:20290909
+DTSTAMP:20260923T121438Z
+UID:20290908_c0qarktmdbv4m5sp797snve3ug@google.com
+CLASS:PUBLIC
+CREATED:20240517T153114Z
+DESCRIPTION:Gedenktag in Zürich\nWenn Sie Gedenktage ausblenden möchten\, r
+ ufen Sie die Google Kalender-Einstellungen auf > Feiertage in der Schweiz
+LAST-MODIFIED:20240517T153114Z
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Knabenschiessen (Zürich)
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20210319
+DTEND;VALUE=DATE:20210320
+DTSTAMP:20260923T121438Z
+UID:20210319_4t57mn8bvo3vh8jgsn61iup4mo@google.com
+CLASS:PUBLIC
+CREATED:20240517T153134Z
+DESCRIPTION:Feiertag in Luzern\, Nidwalden\, Solothurn\, Schwyz\, Tessin\, 
+ Uri\, Wallis
+LAST-MODIFIED:20240517T153134Z
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Josefstag (regionaler Feiertag)
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20210509
+DTEND;VALUE=DATE:20210510
+DTSTAMP:20260923T121438Z
+UID:20210509_mfchkvc4rsn43qlcjs5hd8nkns@google.com
+CLASS:PUBLIC
+CREATED:20240517T153134Z
+DESCRIPTION:Gedenktag\nWenn Sie Gedenktage ausblenden möchten\, rufen Sie d
+ ie Google Kalender-Einstellungen auf > Feiertage in der Schweiz
+LAST-MODIFIED:20240517T153134Z
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Muttertag
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20210629
+DTEND;VALUE=DATE:20210630
+DTSTAMP:20260923T121438Z
+UID:20210629_mdhumurielicgtma2a6p8r2cfs@google.com
+CLASS:PUBLIC
+CREATED:20240517T153134Z
+DESCRIPTION:Gedenktag in Tessin\nWenn Sie Gedenktage ausblenden möchten\, r
+ ufen Sie die Google Kalender-Einstellungen auf > Feiertage in der Schweiz
+LAST-MODIFIED:20240517T153134Z
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Peter und Paul (Tessin)
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20211208
+DTEND;VALUE=DATE:20211209
+DTSTAMP:20260923T121438Z
+UID:20211208_mjgk9fiopef8mt2nkdb23l9c14@google.com
+CLASS:PUBLIC
+CREATED:20240517T153134Z
+DESCRIPTION:Feiertag in Aargau\, Appenzell Innerrhoden\, Freiburg\, Luzern\
+ , Nidwalden\, Obwalden\, Schwyz\, Tessin\, Uri\, Wallis\, Zug
+LAST-MODIFIED:20240517T153134Z
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Mariä Empfängnis (regionaler Feiertag)
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20211225
+DTEND;VALUE=DATE:20211226
+DTSTAMP:20260923T121438Z
+UID:20211225_dr8v9b463bdu15tgd0e9bvetuc@google.com
+CLASS:PUBLIC
+CREATED:20240517T153134Z
+DESCRIPTION:Feiertag in Zürich\, Bern\, Luzern\, Uri\, Schwyz\, Obwalden\, 
+ Nidwalden\, Glarus\, Zug\, Freiburg\, Solothurn\, Basel-Stadt\, Basel-Lands
+ chaft\, Schaffhausen\, Appenzell Ausserrhoden\, Appenzell Innerrhoden\, St.
+  Gallen\, Aargau\, Graubünden\, Thurgau\, Tessin\, Waadt\, Wallis\, Neuenbu
+ rg\, Genf\, Jura
+LAST-MODIFIED:20240517T153134Z
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Weihnachten (regionaler Feiertag)
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20220101
+DTEND;VALUE=DATE:20220102
+DTSTAMP:20260923T121438Z
+UID:20220101_idudsg4g3hafu9rglo2dm8b4ko@google.com
+CLASS:PUBLIC
+CREATED:20240517T153134Z
+DESCRIPTION:Feiertag in Zürich\, Bern\, Luzern\, Uri\, Schwyz\, Obwalden\, 
+ Nidwalden\, Glarus\, Zug\, Freiburg\, Solothurn\, Basel-Stadt\, Basel-Lands
+ chaft\, Schaffhausen\, Appenzell Ausserrhoden\, Appenzell Innerrhoden\, St.
+  Gallen\, Aargau\, Graubünden\, Thurgau\, Tessin\, Waadt\, Wallis\, Neuenbu
+ rg\, Genf\, Jura
+LAST-MODIFIED:20240517T153134Z
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Neujahr (regionaler Feiertag)
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20220214
+DTEND;VALUE=DATE:20220215
+DTSTAMP:20260923T121438Z
+UID:20220214_01bdbfkan6edebr4opfh6rjces@google.com
+CLASS:PUBLIC
+CREATED:20240517T153134Z
+DESCRIPTION:Gedenktag\nWenn Sie Gedenktage ausblenden möchten\, rufen Sie d
+ ie Google Kalender-Einstellungen auf > Feiertage in der Schweiz
+LAST-MODIFIED:20240517T153134Z
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Valentinstag
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20220605
+DTEND;VALUE=DATE:20220606
+DTSTAMP:20260923T121438Z
+UID:20220605_pgdc79vs6dpqkt39peih6e40ro@google.com
+CLASS:PUBLIC
+CREATED:20240517T153134Z
+DESCRIPTION:Gedenktag\nWenn Sie Gedenktage ausblenden möchten\, rufen Sie d
+ ie Google Kalender-Einstellungen auf > Feiertage in der Schweiz
+LAST-MODIFIED:20240517T153134Z
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Vatertag
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20221030
+DTEND;VALUE=DATE:20221031
+DTSTAMP:20260923T121438Z
+UID:20221030_0fngb58otkf926nctbjp17jigo@google.com
+CLASS:PUBLIC
+CREATED:20240517T153134Z
+DESCRIPTION:Gedenktag\nWenn Sie Gedenktage ausblenden möchten\, rufen Sie d
+ ie Google Kalender-Einstellungen auf > Feiertage in der Schweiz
+LAST-MODIFIED:20240517T153134Z
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Ende der Sommerzeit
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20230319
+DTEND;VALUE=DATE:20230320
+DTSTAMP:20260923T121438Z
+UID:20230319_ttfc677m1mv9moaj8fg99en2e0@google.com
+CLASS:PUBLIC
+CREATED:20240517T153134Z
+DESCRIPTION:Feiertag in Luzern\, Nidwalden\, Solothurn\, Schwyz\, Tessin\, 
+ Uri\, Wallis
+LAST-MODIFIED:20240517T153134Z
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Josefstag (regionaler Feiertag)
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20230417
+DTEND;VALUE=DATE:20230418
+DTSTAMP:20260923T121438Z
+UID:20230417_pf1ig6oi2djqujomu5b98oepag@google.com
+CLASS:PUBLIC
+CREATED:20240517T153134Z
+DESCRIPTION:Gedenktag in Zürich\nWenn Sie Gedenktage ausblenden möchten\, r
+ ufen Sie die Google Kalender-Einstellungen auf > Feiertage in der Schweiz
+LAST-MODIFIED:20240517T153134Z
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Sechseläuten (Zürich)
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20240331
+DTEND;VALUE=DATE:20240401
+DTSTAMP:20260923T121438Z
+UID:20240331_3lmfqt8io7ve6skuq36u8oul80@google.com
+CLASS:PUBLIC
+CREATED:20240517T153134Z
+DESCRIPTION:Gedenktag\nWenn Sie Gedenktage ausblenden möchten\, rufen Sie d
+ ie Google Kalender-Einstellungen auf > Feiertage in der Schweiz
+LAST-MODIFIED:20240517T153134Z
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Ostersonntag
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20240512
+DTEND;VALUE=DATE:20240513
+DTSTAMP:20260923T121438Z
+UID:20240512_jj7g9ejt85455apldujpd3hg6o@google.com
+CLASS:PUBLIC
+CREATED:20240517T153134Z
+DESCRIPTION:Gedenktag\nWenn Sie Gedenktage ausblenden möchten\, rufen Sie d
+ ie Google Kalender-Einstellungen auf > Feiertage in der Schweiz
+LAST-MODIFIED:20240517T153134Z
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Muttertag
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20240909
+DTEND;VALUE=DATE:20240910
+DTSTAMP:20260923T121438Z
+UID:20240909_va9elhebnhgte9khadioeu0n1k@google.com
+CLASS:PUBLIC
+CREATED:20240517T153134Z
+DESCRIPTION:Gedenktag in Zürich\nWenn Sie Gedenktage ausblenden möchten\, r
+ ufen Sie die Google Kalender-Einstellungen auf > Feiertage in der Schweiz
+LAST-MODIFIED:20240517T153134Z
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Knabenschiessen (Zürich)
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250214
+DTEND;VALUE=DATE:20250215
+DTSTAMP:20260923T121438Z
+UID:20250214_9dlp1pqa36415n6m2rfeua49e4@google.com
+CLASS:PUBLIC
+CREATED:20240517T153134Z
+DESCRIPTION:Gedenktag\nWenn Sie Gedenktage ausblenden möchten\, rufen Sie d
+ ie Google Kalender-Einstellungen auf > Feiertage in der Schweiz
+LAST-MODIFIED:20240517T153134Z
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Valentinstag
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250319
+DTEND;VALUE=DATE:20250320
+DTSTAMP:20260923T121438Z
+UID:20250319_vvu0d3f9fdvc22q39dj037psqs@google.com
+CLASS:PUBLIC
+CREATED:20240517T153134Z
+DESCRIPTION:Feiertag in Luzern\, Nidwalden\, Solothurn\, Schwyz\, Tessin\, 
+ Uri\, Wallis
+LAST-MODIFIED:20240517T153134Z
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Josefstag (regionaler Feiertag)
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250511
+DTEND;VALUE=DATE:20250512
+DTSTAMP:20260923T121438Z
+UID:20250511_sjr72ndgf89it06gffeafdf9ts@google.com
+CLASS:PUBLIC
+CREATED:20240517T153134Z
+DESCRIPTION:Gedenktag\nWenn Sie Gedenktage ausblenden möchten\, rufen Sie d
+ ie Google Kalender-Einstellungen auf > Feiertage in der Schweiz
+LAST-MODIFIED:20240517T153134Z
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Muttertag
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250529
+DTEND;VALUE=DATE:20250530
+DTSTAMP:20260923T121438Z
+UID:20250529_l165rb73arf3f022m5mrhfjuj0@google.com
+CLASS:PUBLIC
+CREATED:20240517T153134Z
+DESCRIPTION:Feiertag in Zürich\, Bern\, Luzern\, Uri\, Schwyz\, Obwalden\, 
+ Nidwalden\, Glarus\, Zug\, Freiburg\, Solothurn\, Basel-Stadt\, Basel-Lands
+ chaft\, Schaffhausen\, Appenzell Ausserrhoden\, Appenzell Innerrhoden\, St.
+  Gallen\, Aargau\, Graubünden\, Thurgau\, Tessin\, Waadt\, Wallis\, Neuenbu
+ rg\, Genf\, Jura
+LAST-MODIFIED:20240517T153134Z
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Auffahrt (regionaler Feiertag)
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20251026
+DTEND;VALUE=DATE:20251027
+DTSTAMP:20260923T121438Z
+UID:20251026_gsk41ord6l8is3nc6l1rnqk1k0@google.com
+CLASS:PUBLIC
+CREATED:20240517T153134Z
+DESCRIPTION:Gedenktag\nWenn Sie Gedenktage ausblenden möchten\, rufen Sie d
+ ie Google Kalender-Einstellungen auf > Feiertage in der Schweiz
+LAST-MODIFIED:20240517T153134Z
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Ende der Sommerzeit
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260101
+DTEND;VALUE=DATE:20260102
+DTSTAMP:20260923T121438Z
+UID:20260101_1bj0bgdaec9ae0k4iq8na0nij4@google.com
+CLASS:PUBLIC
+CREATED:20240517T153134Z
+DESCRIPTION:Feiertag in Zürich\, Bern\, Luzern\, Uri\, Schwyz\, Obwalden\, 
+ Nidwalden\, Glarus\, Zug\, Freiburg\, Solothurn\, Basel-Stadt\, Basel-Lands
+ chaft\, Schaffhausen\, Appenzell Ausserrhoden\, Appenzell Innerrhoden\, St.
+  Gallen\, Aargau\, Graubünden\, Thurgau\, Tessin\, Waadt\, Wallis\, Neuenbu
+ rg\, Genf\, Jura
+LAST-MODIFIED:20240517T153134Z
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Neujahr (regionaler Feiertag)
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20270328
+DTEND;VALUE=DATE:20270329
+DTSTAMP:20260923T121438Z
+UID:20270328_60bfe7e425g8jruarc63up98dc@google.com
+CLASS:PUBLIC
+CREATED:20240517T153134Z
+DESCRIPTION:Gedenktag\nWenn Sie Gedenktage ausblenden möchten\, rufen Sie d
+ ie Google Kalender-Einstellungen auf > Feiertage in der Schweiz
+LAST-MODIFIED:20240517T153134Z
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Ostersonntag
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20270606
+DTEND;VALUE=DATE:20270607
+DTSTAMP:20260923T121438Z
+UID:20270606_84ehd4nhsae4in2bmtjunhuul4@google.com
+CLASS:PUBLIC
+CREATED:20240517T153134Z
+DESCRIPTION:Gedenktag\nWenn Sie Gedenktage ausblenden möchten\, rufen Sie d
+ ie Google Kalender-Einstellungen auf > Feiertage in der Schweiz
+LAST-MODIFIED:20240517T153134Z
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Vatertag
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20270911
+DTEND;VALUE=DATE:20270912
+DTSTAMP:20260923T121438Z
+UID:20270911_qg9uu0vn4mltnvp7ukmu0juli0@google.com
+CLASS:PUBLIC
+CREATED:20240517T153134Z
+DESCRIPTION:Gedenktag in Zürich\nWenn Sie Gedenktage ausblenden möchten\, r
+ ufen Sie die Google Kalender-Einstellungen auf > Feiertage in der Schweiz
+LAST-MODIFIED:20240517T153134Z
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Knabenschiessen (Zürich)
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20271225
+DTEND;VALUE=DATE:20271226
+DTSTAMP:20260923T121438Z
+UID:20271225_fdjk8asbs9hvmna4bbl4cm3at4@google.com
+CLASS:PUBLIC
+CREATED:20240517T153134Z
+DESCRIPTION:Feiertag in Zürich\, Bern\, Luzern\, Uri\, Schwyz\, Obwalden\, 
+ Nidwalden\, Glarus\, Zug\, Freiburg\, Solothurn\, Basel-Stadt\, Basel-Lands
+ chaft\, Schaffhausen\, Appenzell Ausserrhoden\, Appenzell Innerrhoden\, St.
+  Gallen\, Aargau\, Graubünden\, Thurgau\, Tessin\, Waadt\, Wallis\, Neuenbu
+ rg\, Genf\, Jura
+LAST-MODIFIED:20240517T153134Z
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Weihnachten (regionaler Feiertag)
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20280604
+DTEND;VALUE=DATE:20280605
+DTSTAMP:20260923T121438Z
+UID:20280604_jvshjk5rim452ijuoqmj8oasg0@google.com
+CLASS:PUBLIC
+CREATED:20240517T153134Z
+DESCRIPTION:Gedenktag in Zürich\, Bern\, Luzern\, Uri\, Schwyz\, Obwalden\,
+  Nidwalden\, Glarus\, Zug\, Freiburg\, Solothurn\, Basel-Stadt\, Basel-Land
+ schaft\, Schaffhausen\, Appenzell Ausserrhoden\, Appenzell Innerrhoden\, St
+ . Gallen\, Aargau\, Graubünden\, Thurgau\, Tessin\, Waadt\, Wallis\, Neuenb
+ urg\, Genf\, Jura\nWenn Sie Gedenktage ausblenden möchten\, rufen Sie die G
+ oogle Kalender-Einstellungen auf > Feiertage in der Schweiz
+LAST-MODIFIED:20240517T153134Z
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Pfingstsonntag (regionaler Feiertag)
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20280801
+DTEND;VALUE=DATE:20280802
+DTSTAMP:20260923T121438Z
+UID:20280801_t7vngnaamt56ki4tcplk01s7j0@google.com
+CLASS:PUBLIC
+CREATED:20240517T153134Z
+DESCRIPTION:Gesetzlicher Feiertag
+LAST-MODIFIED:20240517T153134Z
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Schweizer Nationalfeiertag
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20290101
+DTEND;VALUE=DATE:20290102
+DTSTAMP:20260923T121438Z
+UID:20290101_52p3qi72f0hn7tu5jfr3r76qoc@google.com
+CLASS:PUBLIC
+CREATED:20240517T153134Z
+DESCRIPTION:Feiertag in Zürich\, Bern\, Luzern\, Uri\, Schwyz\, Obwalden\, 
+ Nidwalden\, Glarus\, Zug\, Freiburg\, Solothurn\, Basel-Stadt\, Basel-Lands
+ chaft\, Schaffhausen\, Appenzell Ausserrhoden\, Appenzell Innerrhoden\, St.
+  Gallen\, Aargau\, Graubünden\, Thurgau\, Tessin\, Waadt\, Wallis\, Neuenbu
+ rg\, Genf\, Jura
+LAST-MODIFIED:20240517T153134Z
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Neujahr (regionaler Feiertag)
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20290916
+DTEND;VALUE=DATE:20290917
+DTSTAMP:20260923T121438Z
+UID:20290916_vefg4oq3lttiqiq3t982bp5euc@google.com
+CLASS:PUBLIC
+CREATED:20240517T153134Z
+DESCRIPTION:Gedenktag in Zürich\, Bern\, Luzern\, Uri\, Schwyz\, Obwalden\,
+  Nidwalden\, Glarus\, Zug\, Freiburg\, Solothurn\, Basel-Stadt\, Basel-Land
+ schaft\, Schaffhausen\, Appenzell Ausserrhoden\, Appenzell Innerrhoden\, St
+ . Gallen\, Aargau\, Graubünden\, Thurgau\, Tessin\, Waadt\, Wallis\, Neuenb
+ urg\, Jura\nWenn Sie Gedenktage ausblenden möchten\, rufen Sie die Google K
+ alender-Einstellungen auf > Feiertage in der Schweiz
+LAST-MODIFIED:20240517T153134Z
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Eidgenössischer Dank-\, Buss- und Bettag (regionaler Feiertag)
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20210419
+DTEND;VALUE=DATE:20210420
+DTSTAMP:20260923T121438Z
+UID:20210419_mrqhvm2idrgs2ss12gupo4tvog@google.com
+CLASS:PUBLIC
+CREATED:20240517T153154Z
+DESCRIPTION:Gedenktag in Zürich\nWenn Sie Gedenktage ausblenden möchten\, r
+ ufen Sie die Google Kalender-Einstellungen auf > Feiertage in der Schweiz
+LAST-MODIFIED:20240517T153154Z
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Sechseläuten (Zürich)
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20210911
+DTEND;VALUE=DATE:20210912
+DTSTAMP:20260923T121438Z
+UID:20210911_qk96fcbcrkpdlbvesoh22dev6g@google.com
+CLASS:PUBLIC
+CREATED:20240517T153154Z
+DESCRIPTION:Gedenktag in Zürich\nWenn Sie Gedenktage ausblenden möchten\, r
+ ufen Sie die Google Kalender-Einstellungen auf > Feiertage in der Schweiz
+LAST-MODIFIED:20240517T153154Z
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Knabenschiessen (Zürich)
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20210919
+DTEND;VALUE=DATE:20210920
+DTSTAMP:20260923T121438Z
+UID:20210919_6uu2g230k5upea3ikm4us5auas@google.com
+CLASS:PUBLIC
+CREATED:20240517T153154Z
+DESCRIPTION:Gedenktag in Zürich\, Bern\, Luzern\, Uri\, Schwyz\, Obwalden\,
+  Nidwalden\, Glarus\, Zug\, Freiburg\, Solothurn\, Basel-Stadt\, Basel-Land
+ schaft\, Schaffhausen\, Appenzell Ausserrhoden\, Appenzell Innerrhoden\, St
+ . Gallen\, Aargau\, Graubünden\, Thurgau\, Tessin\, Waadt\, Wallis\, Neuenb
+ urg\, Jura\nWenn Sie Gedenktage ausblenden möchten\, rufen Sie die Google K
+ alender-Einstellungen auf > Feiertage in der Schweiz
+LAST-MODIFIED:20240517T153154Z
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Eidgenössischer Dank-\, Buss- und Bettag (regionaler Feiertag)
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20220417
+DTEND;VALUE=DATE:20220418
+DTSTAMP:20260923T121438Z
+UID:20220417_3tn7ba90ruedr7eaoecg4haf34@google.com
+CLASS:PUBLIC
+CREATED:20240517T153154Z
+DESCRIPTION:Gedenktag\nWenn Sie Gedenktage ausblenden möchten\, rufen Sie d
+ ie Google Kalender-Einstellungen auf > Feiertage in der Schweiz
+LAST-MODIFIED:20240517T153154Z
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Ostersonntag
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20220508
+DTEND;VALUE=DATE:20220509
+DTSTAMP:20260923T121438Z
+UID:20220508_4mubins6tuguilk03j3v45kmio@google.com
+CLASS:PUBLIC
+CREATED:20240517T153154Z
+DESCRIPTION:Gedenktag\nWenn Sie Gedenktage ausblenden möchten\, rufen Sie d
+ ie Google Kalender-Einstellungen auf > Feiertage in der Schweiz
+LAST-MODIFIED:20240517T153154Z
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Muttertag
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20220605
+DTEND;VALUE=DATE:20220606
+DTSTAMP:20260923T121438Z
+UID:20220605_ibjek4nvgg66togir73d2298tc@google.com
+CLASS:PUBLIC
+CREATED:20240517T153154Z
+DESCRIPTION:Gedenktag in Zürich\, Bern\, Luzern\, Uri\, Schwyz\, Obwalden\,
+  Nidwalden\, Glarus\, Zug\, Freiburg\, Solothurn\, Basel-Stadt\, Basel-Land
+ schaft\, Schaffhausen\, Appenzell Ausserrhoden\, Appenzell Innerrhoden\, St
+ . Gallen\, Aargau\, Graubünden\, Thurgau\, Tessin\, Waadt\, Wallis\, Neuenb
+ urg\, Genf\, Jura\nWenn Sie Gedenktage ausblenden möchten\, rufen Sie die G
+ oogle Kalender-Einstellungen auf > Feiertage in der Schweiz
+LAST-MODIFIED:20240517T153154Z
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Pfingstsonntag (regionaler Feiertag)
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20230409
+DTEND;VALUE=DATE:20230410
+DTSTAMP:20260923T121438Z
+UID:20230409_9s4fr7qn4sjgk2rl21jrhdhh0c@google.com
+CLASS:PUBLIC
+CREATED:20240517T153154Z
+DESCRIPTION:Gedenktag\nWenn Sie Gedenktage ausblenden möchten\, rufen Sie d
+ ie Google Kalender-Einstellungen auf > Feiertage in der Schweiz
+LAST-MODIFIED:20240517T153154Z
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Ostersonntag
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20231225
+DTEND;VALUE=DATE:20231226
+DTSTAMP:20260923T121438Z
+UID:20231225_dgq2blba9olnatcp2s4rds8dkc@google.com
+CLASS:PUBLIC
+CREATED:20240517T153154Z
+DESCRIPTION:Feiertag in Zürich\, Bern\, Luzern\, Uri\, Schwyz\, Obwalden\, 
+ Nidwalden\, Glarus\, Zug\, Freiburg\, Solothurn\, Basel-Stadt\, Basel-Lands
+ chaft\, Schaffhausen\, Appenzell Ausserrhoden\, Appenzell Innerrhoden\, St.
+  Gallen\, Aargau\, Graubünden\, Thurgau\, Tessin\, Waadt\, Wallis\, Neuenbu
+ rg\, Genf\, Jura
+LAST-MODIFIED:20240517T153154Z
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Weihnachten (regionaler Feiertag)
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20241225
+DTEND;VALUE=DATE:20241226
+DTSTAMP:20260923T121438Z
+UID:20241225_1i8mp95t89hje3muajli7mpbs4@google.com
+CLASS:PUBLIC
+CREATED:20240517T153154Z
+DESCRIPTION:Feiertag in Zürich\, Bern\, Luzern\, Uri\, Schwyz\, Obwalden\, 
+ Nidwalden\, Glarus\, Zug\, Freiburg\, Solothurn\, Basel-Stadt\, Basel-Lands
+ chaft\, Schaffhausen\, Appenzell Ausserrhoden\, Appenzell Innerrhoden\, St.
+  Gallen\, Aargau\, Graubünden\, Thurgau\, Tessin\, Waadt\, Wallis\, Neuenbu
+ rg\, Genf\, Jura
+LAST-MODIFIED:20240517T153154Z
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Weihnachten (regionaler Feiertag)
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250801
+DTEND;VALUE=DATE:20250802
+DTSTAMP:20260923T121438Z
+UID:20250801_vi3b97s98169o7tg97c5ipnp1g@google.com
+CLASS:PUBLIC
+CREATED:20240517T153154Z
+DESCRIPTION:Gesetzlicher Feiertag
+LAST-MODIFIED:20240517T153154Z
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Schweizer Nationalfeiertag
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250914
+DTEND;VALUE=DATE:20250915
+DTSTAMP:20260923T121438Z
+UID:20250914_pffpe894fqtcbenr4f85mar880@google.com
+CLASS:PUBLIC
+CREATED:20240517T153154Z
+DESCRIPTION:Gedenktag in Zürich\nWenn Sie Gedenktage ausblenden möchten\, r
+ ufen Sie die Google Kalender-Einstellungen auf > Feiertage in der Schweiz
+LAST-MODIFIED:20240517T153154Z
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Knabenschiessen (Zürich)
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250921
+DTEND;VALUE=DATE:20250922
+DTSTAMP:20260923T121438Z
+UID:20250921_m6m4jlsumtrtus8iv5115kg0jg@google.com
+CLASS:PUBLIC
+CREATED:20240517T153154Z
+DESCRIPTION:Gedenktag in Zürich\, Bern\, Luzern\, Uri\, Schwyz\, Obwalden\,
+  Nidwalden\, Glarus\, Zug\, Freiburg\, Solothurn\, Basel-Stadt\, Basel-Land
+ schaft\, Schaffhausen\, Appenzell Ausserrhoden\, Appenzell Innerrhoden\, St
+ . Gallen\, Aargau\, Graubünden\, Thurgau\, Tessin\, Waadt\, Wallis\, Neuenb
+ urg\, Jura\nWenn Sie Gedenktage ausblenden möchten\, rufen Sie die Google K
+ alender-Einstellungen auf > Feiertage in der Schweiz
+LAST-MODIFIED:20240517T153154Z
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Eidgenössischer Dank-\, Buss- und Bettag (regionaler Feiertag)
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260914
+DTEND;VALUE=DATE:20260915
+DTSTAMP:20260923T121438Z
+UID:20260914_snk0adboa13dskton2co5536h0@google.com
+CLASS:PUBLIC
+CREATED:20240517T153154Z
+DESCRIPTION:Gedenktag in Zürich\nWenn Sie Gedenktage ausblenden möchten\, r
+ ufen Sie die Google Kalender-Einstellungen auf > Feiertage in der Schweiz
+LAST-MODIFIED:20240517T153154Z
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Knabenschiessen (Zürich)
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20270912
+DTEND;VALUE=DATE:20270913
+DTSTAMP:20260923T121438Z
+UID:20270912_ja1det99tmpcbih9nihmuegips@google.com
+CLASS:PUBLIC
+CREATED:20240517T153154Z
+DESCRIPTION:Gedenktag in Zürich\nWenn Sie Gedenktage ausblenden möchten\, r
+ ufen Sie die Google Kalender-Einstellungen auf > Feiertage in der Schweiz
+LAST-MODIFIED:20240517T153154Z
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Knabenschiessen (Zürich)
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20270919
+DTEND;VALUE=DATE:20270920
+DTSTAMP:20260923T121438Z
+UID:20270919_juuqnsnee72lafpv3cg6b9i2jk@google.com
+CLASS:PUBLIC
+CREATED:20240517T153154Z
+DESCRIPTION:Gedenktag in Zürich\, Bern\, Luzern\, Uri\, Schwyz\, Obwalden\,
+  Nidwalden\, Glarus\, Zug\, Freiburg\, Solothurn\, Basel-Stadt\, Basel-Land
+ schaft\, Schaffhausen\, Appenzell Ausserrhoden\, Appenzell Innerrhoden\, St
+ . Gallen\, Aargau\, Graubünden\, Thurgau\, Tessin\, Waadt\, Wallis\, Neuenb
+ urg\, Jura\nWenn Sie Gedenktage ausblenden möchten\, rufen Sie die Google K
+ alender-Einstellungen auf > Feiertage in der Schweiz
+LAST-MODIFIED:20240517T153154Z
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Eidgenössischer Dank-\, Buss- und Bettag (regionaler Feiertag)
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20280101
+DTEND;VALUE=DATE:20280102
+DTSTAMP:20260923T121438Z
+UID:20280101_0haojb4uu3efvhbuq1c4l4ova8@google.com
+CLASS:PUBLIC
+CREATED:20240517T153154Z
+DESCRIPTION:Feiertag in Zürich\, Bern\, Luzern\, Uri\, Schwyz\, Obwalden\, 
+ Nidwalden\, Glarus\, Zug\, Freiburg\, Solothurn\, Basel-Stadt\, Basel-Lands
+ chaft\, Schaffhausen\, Appenzell Ausserrhoden\, Appenzell Innerrhoden\, St.
+  Gallen\, Aargau\, Graubünden\, Thurgau\, Tessin\, Waadt\, Wallis\, Neuenbu
+ rg\, Genf\, Jura
+LAST-MODIFIED:20240517T153154Z
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Neujahr (regionaler Feiertag)
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20280214
+DTEND;VALUE=DATE:20280215
+DTSTAMP:20260923T121438Z
+UID:20280214_9umq5lkqiagq67alafpu2amveg@google.com
+CLASS:PUBLIC
+CREATED:20240517T153154Z
+DESCRIPTION:Gedenktag\nWenn Sie Gedenktage ausblenden möchten\, rufen Sie d
+ ie Google Kalender-Einstellungen auf > Feiertage in der Schweiz
+LAST-MODIFIED:20240517T153154Z
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Valentinstag
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20280910
+DTEND;VALUE=DATE:20280911
+DTSTAMP:20260923T121438Z
+UID:20280910_u3aj4nct3be1tnkc6aljdn68ks@google.com
+CLASS:PUBLIC
+CREATED:20240517T153154Z
+DESCRIPTION:Gedenktag in Zürich\nWenn Sie Gedenktage ausblenden möchten\, r
+ ufen Sie die Google Kalender-Einstellungen auf > Feiertage in der Schweiz
+LAST-MODIFIED:20240517T153154Z
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Knabenschiessen (Zürich)
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20281225
+DTEND;VALUE=DATE:20281226
+DTSTAMP:20260923T121438Z
+UID:20281225_84ma54e1ft1ok9ng1bord5hi2s@google.com
+CLASS:PUBLIC
+CREATED:20240517T153154Z
+DESCRIPTION:Feiertag in Zürich\, Bern\, Luzern\, Uri\, Schwyz\, Obwalden\, 
+ Nidwalden\, Glarus\, Zug\, Freiburg\, Solothurn\, Basel-Stadt\, Basel-Lands
+ chaft\, Schaffhausen\, Appenzell Ausserrhoden\, Appenzell Innerrhoden\, St.
+  Gallen\, Aargau\, Graubünden\, Thurgau\, Tessin\, Waadt\, Wallis\, Neuenbu
+ rg\, Genf\, Jura
+LAST-MODIFIED:20240517T153154Z
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Weihnachten (regionaler Feiertag)
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20290513
+DTEND;VALUE=DATE:20290514
+DTSTAMP:20260923T121438Z
+UID:20290513_mt1ibcc4ma511g9nfnphhbrb24@google.com
+CLASS:PUBLIC
+CREATED:20240517T153154Z
+DESCRIPTION:Gedenktag\nWenn Sie Gedenktage ausblenden möchten\, rufen Sie d
+ ie Google Kalender-Einstellungen auf > Feiertage in der Schweiz
+LAST-MODIFIED:20240517T153154Z
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Muttertag
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20291028
+DTEND;VALUE=DATE:20291029
+DTSTAMP:20260923T121438Z
+UID:20291028_phrpgk8j5l6ummcj4bbtrtc068@google.com
+CLASS:PUBLIC
+CREATED:20240517T153154Z
+DESCRIPTION:Gedenktag\nWenn Sie Gedenktage ausblenden möchten\, rufen Sie d
+ ie Google Kalender-Einstellungen auf > Feiertage in der Schweiz
+LAST-MODIFIED:20240517T153154Z
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Ende der Sommerzeit
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20291225
+DTEND;VALUE=DATE:20291226
+DTSTAMP:20260923T121438Z
+UID:20291225_69506uuvc4e06suc1k0c4unqmg@google.com
+CLASS:PUBLIC
+CREATED:20240517T153154Z
+DESCRIPTION:Feiertag in Zürich\, Bern\, Luzern\, Uri\, Schwyz\, Obwalden\, 
+ Nidwalden\, Glarus\, Zug\, Freiburg\, Solothurn\, Basel-Stadt\, Basel-Lands
+ chaft\, Schaffhausen\, Appenzell Ausserrhoden\, Appenzell Innerrhoden\, St.
+  Gallen\, Aargau\, Graubünden\, Thurgau\, Tessin\, Waadt\, Wallis\, Neuenbu
+ rg\, Genf\, Jura
+LAST-MODIFIED:20240517T153154Z
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Weihnachten (regionaler Feiertag)
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20210101
+DTEND;VALUE=DATE:20210102
+DTSTAMP:20260923T121438Z
+UID:20210101_405djjrog169rnfi8piblj8c1s@google.com
+CLASS:PUBLIC
+CREATED:20240517T153215Z
+DESCRIPTION:Feiertag in Zürich\, Bern\, Luzern\, Uri\, Schwyz\, Obwalden\, 
+ Nidwalden\, Glarus\, Zug\, Freiburg\, Solothurn\, Basel-Stadt\, Basel-Lands
+ chaft\, Schaffhausen\, Appenzell Ausserrhoden\, Appenzell Innerrhoden\, St.
+  Gallen\, Aargau\, Graubünden\, Thurgau\, Tessin\, Waadt\, Wallis\, Neuenbu
+ rg\, Genf\, Jura
+LAST-MODIFIED:20240517T153215Z
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Neujahr (regionaler Feiertag)
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20210214
+DTEND;VALUE=DATE:20210215
+DTSTAMP:20260923T121438Z
+UID:20210214_i04bpddubur49iu2lvdnocdv7s@google.com
+CLASS:PUBLIC
+CREATED:20240517T153215Z
+DESCRIPTION:Gedenktag\nWenn Sie Gedenktage ausblenden möchten\, rufen Sie d
+ ie Google Kalender-Einstellungen auf > Feiertage in der Schweiz
+LAST-MODIFIED:20240517T153215Z
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Valentinstag
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20220526
+DTEND;VALUE=DATE:20220527
+DTSTAMP:20260923T121438Z
+UID:20220526_in6qke1f194u8kduc3nb5u5h60@google.com
+CLASS:PUBLIC
+CREATED:20240517T153215Z
+DESCRIPTION:Feiertag in Zürich\, Bern\, Luzern\, Uri\, Schwyz\, Obwalden\, 
+ Nidwalden\, Glarus\, Zug\, Freiburg\, Solothurn\, Basel-Stadt\, Basel-Lands
+ chaft\, Schaffhausen\, Appenzell Ausserrhoden\, Appenzell Innerrhoden\, St.
+  Gallen\, Aargau\, Graubünden\, Thurgau\, Tessin\, Waadt\, Wallis\, Neuenbu
+ rg\, Genf\, Jura
+LAST-MODIFIED:20240517T153215Z
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Auffahrt (regionaler Feiertag)
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20220801
+DTEND;VALUE=DATE:20220802
+DTSTAMP:20260923T121438Z
+UID:20220801_qb3dj2akosoa7skfr9kdndaoro@google.com
+CLASS:PUBLIC
+CREATED:20240517T153215Z
+DESCRIPTION:Gesetzlicher Feiertag
+LAST-MODIFIED:20240517T153215Z
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Schweizer Nationalfeiertag
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20220911
+DTEND;VALUE=DATE:20220912
+DTSTAMP:20260923T121438Z
+UID:20220911_558704kr6bm1p05rtqch87cq4o@google.com
+CLASS:PUBLIC
+CREATED:20240517T153215Z
+DESCRIPTION:Gedenktag in Zürich\nWenn Sie Gedenktage ausblenden möchten\, r
+ ufen Sie die Google Kalender-Einstellungen auf > Feiertage in der Schweiz
+LAST-MODIFIED:20240517T153215Z
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Knabenschiessen (Zürich)
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20230801
+DTEND;VALUE=DATE:20230802
+DTSTAMP:20260923T121438Z
+UID:20230801_e336o8ajne92gq2c6cb50jqd68@google.com
+CLASS:PUBLIC
+CREATED:20240517T153215Z
+DESCRIPTION:Gesetzlicher Feiertag
+LAST-MODIFIED:20240517T153215Z
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Schweizer Nationalfeiertag
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20230911
+DTEND;VALUE=DATE:20230912
+DTSTAMP:20260923T121438Z
+UID:20230911_m6928h5li2r0k12t3re4aj61d0@google.com
+CLASS:PUBLIC
+CREATED:20240517T153215Z
+DESCRIPTION:Gedenktag in Zürich\nWenn Sie Gedenktage ausblenden möchten\, r
+ ufen Sie die Google Kalender-Einstellungen auf > Feiertage in der Schweiz
+LAST-MODIFIED:20240517T153215Z
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Knabenschiessen (Zürich)
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20240101
+DTEND;VALUE=DATE:20240102
+DTSTAMP:20260923T121438Z
+UID:20240101_vbc6i1ssv39r1577aqo73vqel8@google.com
+CLASS:PUBLIC
+CREATED:20240517T153215Z
+DESCRIPTION:Feiertag in Zürich\, Bern\, Luzern\, Uri\, Schwyz\, Obwalden\, 
+ Nidwalden\, Glarus\, Zug\, Freiburg\, Solothurn\, Basel-Stadt\, Basel-Lands
+ chaft\, Schaffhausen\, Appenzell Ausserrhoden\, Appenzell Innerrhoden\, St.
+  Gallen\, Aargau\, Graubünden\, Thurgau\, Tessin\, Waadt\, Wallis\, Neuenbu
+ rg\, Genf\, Jura
+LAST-MODIFIED:20240517T153215Z
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Neujahr (regionaler Feiertag)
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20240329
+DTEND;VALUE=DATE:20240330
+DTSTAMP:20260923T121438Z
+UID:20240329_jo9kosdu5cvgqn5earheo5rac8@google.com
+CLASS:PUBLIC
+CREATED:20240517T153215Z
+DESCRIPTION:Feiertag in Zürich\, Bern\, Luzern\, Uri\, Schwyz\, Obwalden\, 
+ Nidwalden\, Glarus\, Zug\, Freiburg\, Solothurn\, Basel-Stadt\, Basel-Lands
+ chaft\, Schaffhausen\, Appenzell Ausserrhoden\, Appenzell Innerrhoden\, St.
+  Gallen\, Aargau\, Graubünden\, Thurgau\, Waadt\, Neuenburg\, Genf\, Jura
+LAST-MODIFIED:20240517T153215Z
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Karfreitag (regionaler Feiertag)
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20240415
+DTEND;VALUE=DATE:20240416
+DTSTAMP:20260923T121438Z
+UID:20240415_gi4f6s3lnaqdqpf5alulhvsn0g@google.com
+CLASS:PUBLIC
+CREATED:20240517T153215Z
+DESCRIPTION:Gedenktag in Zürich\nWenn Sie Gedenktage ausblenden möchten\, r
+ ufen Sie die Google Kalender-Einstellungen auf > Feiertage in der Schweiz
+LAST-MODIFIED:20240517T153215Z
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Sechseläuten (Zürich)
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250428
+DTEND;VALUE=DATE:20250429
+DTSTAMP:20260923T121438Z
+UID:20250428_u1qoo02v695ob3a7bbpc19m7bg@google.com
+CLASS:PUBLIC
+CREATED:20240517T153215Z
+DESCRIPTION:Gedenktag in Zürich\nWenn Sie Gedenktage ausblenden möchten\, r
+ ufen Sie die Google Kalender-Einstellungen auf > Feiertage in der Schweiz
+LAST-MODIFIED:20240517T153215Z
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Sechseläuten (Zürich)
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260329
+DTEND;VALUE=DATE:20260330
+DTSTAMP:20260923T121438Z
+UID:20260329_8eenf6v6mg21h4n7qd4qtd1bss@google.com
+CLASS:PUBLIC
+CREATED:20240517T153215Z
+DESCRIPTION:Gedenktag\nWenn Sie Gedenktage ausblenden möchten\, rufen Sie d
+ ie Google Kalender-Einstellungen auf > Feiertage in der Schweiz
+LAST-MODIFIED:20240517T153215Z
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Beginn der Sommerzeit
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260405
+DTEND;VALUE=DATE:20260406
+DTSTAMP:20260923T121438Z
+UID:20260405_e0usd8p2uh172mru0o0apcb018@google.com
+CLASS:PUBLIC
+CREATED:20240517T153215Z
+DESCRIPTION:Gedenktag\nWenn Sie Gedenktage ausblenden möchten\, rufen Sie d
+ ie Google Kalender-Einstellungen auf > Feiertage in der Schweiz
+LAST-MODIFIED:20240517T153215Z
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Ostersonntag
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260514
+DTEND;VALUE=DATE:20260515
+DTSTAMP:20260923T121438Z
+UID:20260514_9t3s5oe79c5g7kk1a88k8sfrq0@google.com
+CLASS:PUBLIC
+CREATED:20240517T153215Z
+DESCRIPTION:Feiertag in Zürich\, Bern\, Luzern\, Uri\, Schwyz\, Obwalden\, 
+ Nidwalden\, Glarus\, Zug\, Freiburg\, Solothurn\, Basel-Stadt\, Basel-Lands
+ chaft\, Schaffhausen\, Appenzell Ausserrhoden\, Appenzell Innerrhoden\, St.
+  Gallen\, Aargau\, Graubünden\, Thurgau\, Tessin\, Waadt\, Wallis\, Neuenbu
+ rg\, Genf\, Jura
+LAST-MODIFIED:20240517T153215Z
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Auffahrt (regionaler Feiertag)
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260607
+DTEND;VALUE=DATE:20260608
+DTSTAMP:20260923T121438Z
+UID:20260607_v4gtmt0fjktcpee5pqnft539vg@google.com
+CLASS:PUBLIC
+CREATED:20240517T153215Z
+DESCRIPTION:Gedenktag\nWenn Sie Gedenktage ausblenden möchten\, rufen Sie d
+ ie Google Kalender-Einstellungen auf > Feiertage in der Schweiz
+LAST-MODIFIED:20240517T153215Z
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Vatertag
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20270506
+DTEND;VALUE=DATE:20270507
+DTSTAMP:20260923T121438Z
+UID:20270506_na2ui838hg3nd5ioa58mtmk624@google.com
+CLASS:PUBLIC
+CREATED:20240517T153215Z
+DESCRIPTION:Feiertag in Zürich\, Bern\, Luzern\, Uri\, Schwyz\, Obwalden\, 
+ Nidwalden\, Glarus\, Zug\, Freiburg\, Solothurn\, Basel-Stadt\, Basel-Lands
+ chaft\, Schaffhausen\, Appenzell Ausserrhoden\, Appenzell Innerrhoden\, St.
+  Gallen\, Aargau\, Graubünden\, Thurgau\, Tessin\, Waadt\, Wallis\, Neuenbu
+ rg\, Genf\, Jura
+LAST-MODIFIED:20240517T153215Z
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Auffahrt (regionaler Feiertag)
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20280414
+DTEND;VALUE=DATE:20280415
+DTSTAMP:20260923T121438Z
+UID:20280414_61murhdletb83qfq3uo63mmma8@google.com
+CLASS:PUBLIC
+CREATED:20240517T153215Z
+DESCRIPTION:Feiertag in Zürich\, Bern\, Luzern\, Uri\, Schwyz\, Obwalden\, 
+ Nidwalden\, Glarus\, Zug\, Freiburg\, Solothurn\, Basel-Stadt\, Basel-Lands
+ chaft\, Schaffhausen\, Appenzell Ausserrhoden\, Appenzell Innerrhoden\, St.
+  Gallen\, Aargau\, Graubünden\, Thurgau\, Waadt\, Neuenburg\, Genf\, Jura
+LAST-MODIFIED:20240517T153215Z
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Karfreitag (regionaler Feiertag)
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20280909
+DTEND;VALUE=DATE:20280910
+DTSTAMP:20260923T121438Z
+UID:20280909_mdsefn3posq09b24u8kvpfsv9k@google.com
+CLASS:PUBLIC
+CREATED:20240517T153215Z
+DESCRIPTION:Gedenktag in Zürich\nWenn Sie Gedenktage ausblenden möchten\, r
+ ufen Sie die Google Kalender-Einstellungen auf > Feiertage in der Schweiz
+LAST-MODIFIED:20240517T153215Z
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Knabenschiessen (Zürich)
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20210606
+DTEND;VALUE=DATE:20210607
+DTSTAMP:20260923T121438Z
+UID:20210606_bhfgj9tstbjeor0iccg9159er4@google.com
+CLASS:PUBLIC
+CREATED:20240517T153243Z
+DESCRIPTION:Gedenktag\nWenn Sie Gedenktage ausblenden möchten\, rufen Sie d
+ ie Google Kalender-Einstellungen auf > Feiertage in der Schweiz
+LAST-MODIFIED:20240517T153243Z
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Vatertag
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20210801
+DTEND;VALUE=DATE:20210802
+DTSTAMP:20260923T121438Z
+UID:20210801_ttol2c555i9g2cccj97pldnc9g@google.com
+CLASS:PUBLIC
+CREATED:20240517T153243Z
+DESCRIPTION:Gesetzlicher Feiertag
+LAST-MODIFIED:20240517T153243Z
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Schweizer Nationalfeiertag
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20220415
+DTEND;VALUE=DATE:20220416
+DTSTAMP:20260923T121438Z
+UID:20220415_h8hd5mgqp848ugr79m76h807gs@google.com
+CLASS:PUBLIC
+CREATED:20240517T153243Z
+DESCRIPTION:Feiertag in Zürich\, Bern\, Luzern\, Uri\, Schwyz\, Obwalden\, 
+ Nidwalden\, Glarus\, Zug\, Freiburg\, Solothurn\, Basel-Stadt\, Basel-Lands
+ chaft\, Schaffhausen\, Appenzell Ausserrhoden\, Appenzell Innerrhoden\, St.
+  Gallen\, Aargau\, Graubünden\, Thurgau\, Waadt\, Neuenburg\, Genf\, Jura
+LAST-MODIFIED:20240517T153243Z
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Karfreitag (regionaler Feiertag)
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20221225
+DTEND;VALUE=DATE:20221226
+DTSTAMP:20260923T121438Z
+UID:20221225_q13f9bss4n8jbjmkm8vlijspns@google.com
+CLASS:PUBLIC
+CREATED:20240517T153243Z
+DESCRIPTION:Feiertag in Zürich\, Bern\, Luzern\, Uri\, Schwyz\, Obwalden\, 
+ Nidwalden\, Glarus\, Zug\, Freiburg\, Solothurn\, Basel-Stadt\, Basel-Lands
+ chaft\, Schaffhausen\, Appenzell Ausserrhoden\, Appenzell Innerrhoden\, St.
+  Gallen\, Aargau\, Graubünden\, Thurgau\, Tessin\, Waadt\, Wallis\, Neuenbu
+ rg\, Genf\, Jura
+LAST-MODIFIED:20240517T153243Z
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Weihnachten (regionaler Feiertag)
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20230514
+DTEND;VALUE=DATE:20230515
+DTSTAMP:20260923T121438Z
+UID:20230514_5vkbgh8pt91uh9vrvcj0unlq98@google.com
+CLASS:PUBLIC
+CREATED:20240517T153243Z
+DESCRIPTION:Gedenktag\nWenn Sie Gedenktage ausblenden möchten\, rufen Sie d
+ ie Google Kalender-Einstellungen auf > Feiertage in der Schweiz
+LAST-MODIFIED:20240517T153243Z
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Muttertag
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20240602
+DTEND;VALUE=DATE:20240603
+DTSTAMP:20260923T121438Z
+UID:20240602_3c1qf3nqu4ofjguli4ei2t9dd8@google.com
+CLASS:PUBLIC
+CREATED:20240517T153243Z
+DESCRIPTION:Gedenktag\nWenn Sie Gedenktage ausblenden möchten\, rufen Sie d
+ ie Google Kalender-Einstellungen auf > Feiertage in der Schweiz
+LAST-MODIFIED:20240517T153243Z
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Vatertag
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20240801
+DTEND;VALUE=DATE:20240802
+DTSTAMP:20260923T121438Z
+UID:20240801_v5hd58kn6ieff4bb4im9k8fq34@google.com
+CLASS:PUBLIC
+CREATED:20240517T153243Z
+DESCRIPTION:Gesetzlicher Feiertag
+LAST-MODIFIED:20240517T153243Z
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Schweizer Nationalfeiertag
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250420
+DTEND;VALUE=DATE:20250421
+DTSTAMP:20260923T121438Z
+UID:20250420_cbfastsajeaogk8nd17foqen04@google.com
+CLASS:PUBLIC
+CREATED:20240517T153243Z
+DESCRIPTION:Gedenktag\nWenn Sie Gedenktage ausblenden möchten\, rufen Sie d
+ ie Google Kalender-Einstellungen auf > Feiertage in der Schweiz
+LAST-MODIFIED:20240517T153243Z
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Ostersonntag
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250913
+DTEND;VALUE=DATE:20250914
+DTSTAMP:20260923T121438Z
+UID:20250913_6rgm3ta70pfnnb8clc9g010rvo@google.com
+CLASS:PUBLIC
+CREATED:20240517T153243Z
+DESCRIPTION:Gedenktag in Zürich\nWenn Sie Gedenktage ausblenden möchten\, r
+ ufen Sie die Google Kalender-Einstellungen auf > Feiertage in der Schweiz
+LAST-MODIFIED:20240517T153243Z
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Knabenschiessen (Zürich)
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260214
+DTEND;VALUE=DATE:20260215
+DTSTAMP:20260923T121438Z
+UID:20260214_habh1rabkaa7fjn9nk1h82s468@google.com
+CLASS:PUBLIC
+CREATED:20240517T153243Z
+DESCRIPTION:Gedenktag\nWenn Sie Gedenktage ausblenden möchten\, rufen Sie d
+ ie Google Kalender-Einstellungen auf > Feiertage in der Schweiz
+LAST-MODIFIED:20240517T153243Z
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Valentinstag
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260913
+DTEND;VALUE=DATE:20260914
+DTSTAMP:20260923T121438Z
+UID:20260913_pe69tapa195ru5m6r432vjoepg@google.com
+CLASS:PUBLIC
+CREATED:20240517T153243Z
+DESCRIPTION:Gedenktag in Zürich\nWenn Sie Gedenktage ausblenden möchten\, r
+ ufen Sie die Google Kalender-Einstellungen auf > Feiertage in der Schweiz
+LAST-MODIFIED:20240517T153243Z
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Knabenschiessen (Zürich)
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20280416
+DTEND;VALUE=DATE:20280417
+DTSTAMP:20260923T121438Z
+UID:20280416_7brrbgm56cl840dss7923g7vko@google.com
+CLASS:PUBLIC
+CREATED:20240517T153243Z
+DESCRIPTION:Gedenktag\nWenn Sie Gedenktage ausblenden möchten\, rufen Sie d
+ ie Google Kalender-Einstellungen auf > Feiertage in der Schweiz
+LAST-MODIFIED:20240517T153243Z
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Ostersonntag
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20280917
+DTEND;VALUE=DATE:20280918
+DTSTAMP:20260923T121438Z
+UID:20280917_74vvcprpa30fa3prnh9k9jjg88@google.com
+CLASS:PUBLIC
+CREATED:20240517T153243Z
+DESCRIPTION:Gedenktag in Zürich\, Bern\, Luzern\, Uri\, Schwyz\, Obwalden\,
+  Nidwalden\, Glarus\, Zug\, Freiburg\, Solothurn\, Basel-Stadt\, Basel-Land
+ schaft\, Schaffhausen\, Appenzell Ausserrhoden\, Appenzell Innerrhoden\, St
+ . Gallen\, Aargau\, Graubünden\, Thurgau\, Tessin\, Waadt\, Wallis\, Neuenb
+ urg\, Jura\nWenn Sie Gedenktage ausblenden möchten\, rufen Sie die Google K
+ alender-Einstellungen auf > Feiertage in der Schweiz
+LAST-MODIFIED:20240517T153243Z
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Eidgenössischer Dank-\, Buss- und Bettag (regionaler Feiertag)
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20290330
+DTEND;VALUE=DATE:20290331
+DTSTAMP:20260923T121438Z
+UID:20290330_la8bv9gen0m6dof6medl23tk8k@google.com
+CLASS:PUBLIC
+CREATED:20240517T153243Z
+DESCRIPTION:Feiertag in Zürich\, Bern\, Luzern\, Uri\, Schwyz\, Obwalden\, 
+ Nidwalden\, Glarus\, Zug\, Freiburg\, Solothurn\, Basel-Stadt\, Basel-Lands
+ chaft\, Schaffhausen\, Appenzell Ausserrhoden\, Appenzell Innerrhoden\, St.
+  Gallen\, Aargau\, Graubünden\, Thurgau\, Waadt\, Neuenburg\, Genf\, Jura
+LAST-MODIFIED:20240517T153243Z
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Karfreitag (regionaler Feiertag)
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20290801
+DTEND;VALUE=DATE:20290802
+DTSTAMP:20260923T121438Z
+UID:20290801_16t5up3aki9173b26rcs16185o@google.com
+CLASS:PUBLIC
+CREATED:20240517T153243Z
+DESCRIPTION:Gesetzlicher Feiertag
+LAST-MODIFIED:20240517T153243Z
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Schweizer Nationalfeiertag
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20290909
+DTEND;VALUE=DATE:20290910
+DTSTAMP:20260923T121438Z
+UID:20290909_sifj6ce5nah2uqh0315c59ff6c@google.com
+CLASS:PUBLIC
+CREATED:20240517T153243Z
+DESCRIPTION:Gedenktag in Zürich\nWenn Sie Gedenktage ausblenden möchten\, r
+ ufen Sie die Google Kalender-Einstellungen auf > Feiertage in der Schweiz
+LAST-MODIFIED:20240517T153243Z
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Knabenschiessen (Zürich)
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20210513
+DTEND;VALUE=DATE:20210514
+DTSTAMP:20260923T121438Z
+UID:20210513_vjf02clfd8n9197ta7e6g955n4@google.com
+CLASS:PUBLIC
+CREATED:20240517T153311Z
+DESCRIPTION:Feiertag in Zürich\, Bern\, Luzern\, Uri\, Schwyz\, Obwalden\, 
+ Nidwalden\, Glarus\, Zug\, Freiburg\, Solothurn\, Basel-Stadt\, Basel-Lands
+ chaft\, Schaffhausen\, Appenzell Ausserrhoden\, Appenzell Innerrhoden\, St.
+  Gallen\, Aargau\, Graubünden\, Thurgau\, Tessin\, Waadt\, Wallis\, Neuenbu
+ rg\, Genf\, Jura
+LAST-MODIFIED:20240517T153311Z
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Auffahrt (regionaler Feiertag)
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20230101
+DTEND;VALUE=DATE:20230102
+DTSTAMP:20260923T121438Z
+UID:20230101_2lk2bue6hpp51tiu3vrgkslr08@google.com
+CLASS:PUBLIC
+CREATED:20240517T153311Z
+DESCRIPTION:Feiertag in Zürich\, Bern\, Luzern\, Uri\, Schwyz\, Obwalden\, 
+ Nidwalden\, Glarus\, Zug\, Freiburg\, Solothurn\, Basel-Stadt\, Basel-Lands
+ chaft\, Schaffhausen\, Appenzell Ausserrhoden\, Appenzell Innerrhoden\, St.
+  Gallen\, Aargau\, Graubünden\, Thurgau\, Tessin\, Waadt\, Wallis\, Neuenbu
+ rg\, Genf\, Jura
+LAST-MODIFIED:20240517T153311Z
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Neujahr (regionaler Feiertag)
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20230326
+DTEND;VALUE=DATE:20230327
+DTSTAMP:20260923T121438Z
+UID:20230326_cd71a73pg8cg2rnheo6t53bdec@google.com
+CLASS:PUBLIC
+CREATED:20240517T153311Z
+DESCRIPTION:Gedenktag\nWenn Sie Gedenktage ausblenden möchten\, rufen Sie d
+ ie Google Kalender-Einstellungen auf > Feiertage in der Schweiz
+LAST-MODIFIED:20240517T153311Z
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Beginn der Sommerzeit
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20230518
+DTEND;VALUE=DATE:20230519
+DTSTAMP:20260923T121438Z
+UID:20230518_3k3p7fi6c1ltsrt1u9ovl5vvac@google.com
+CLASS:PUBLIC
+CREATED:20240517T153311Z
+DESCRIPTION:Feiertag in Zürich\, Bern\, Luzern\, Uri\, Schwyz\, Obwalden\, 
+ Nidwalden\, Glarus\, Zug\, Freiburg\, Solothurn\, Basel-Stadt\, Basel-Lands
+ chaft\, Schaffhausen\, Appenzell Ausserrhoden\, Appenzell Innerrhoden\, St.
+  Gallen\, Aargau\, Graubünden\, Thurgau\, Tessin\, Waadt\, Wallis\, Neuenbu
+ rg\, Genf\, Jura
+LAST-MODIFIED:20240517T153311Z
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Auffahrt (regionaler Feiertag)
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20230909
+DTEND;VALUE=DATE:20230910
+DTSTAMP:20260923T121438Z
+UID:20230909_gpfse7pt02m04rvd2givhmml9s@google.com
+CLASS:PUBLIC
+CREATED:20240517T153311Z
+DESCRIPTION:Gedenktag in Zürich\nWenn Sie Gedenktage ausblenden möchten\, r
+ ufen Sie die Google Kalender-Einstellungen auf > Feiertage in der Schweiz
+LAST-MODIFIED:20240517T153311Z
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Knabenschiessen (Zürich)
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20231029
+DTEND;VALUE=DATE:20231030
+DTSTAMP:20260923T121438Z
+UID:20231029_305chupui3pgop7t9b3rr8isuo@google.com
+CLASS:PUBLIC
+CREATED:20240517T153311Z
+DESCRIPTION:Gedenktag\nWenn Sie Gedenktage ausblenden möchten\, rufen Sie d
+ ie Google Kalender-Einstellungen auf > Feiertage in der Schweiz
+LAST-MODIFIED:20240517T153311Z
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Ende der Sommerzeit
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20240509
+DTEND;VALUE=DATE:20240510
+DTSTAMP:20260923T121438Z
+UID:20240509_f8ts2khdqjgerl6qusn3jrj6l4@google.com
+CLASS:PUBLIC
+CREATED:20240517T153311Z
+DESCRIPTION:Feiertag in Zürich\, Bern\, Luzern\, Uri\, Schwyz\, Obwalden\, 
+ Nidwalden\, Glarus\, Zug\, Freiburg\, Solothurn\, Basel-Stadt\, Basel-Lands
+ chaft\, Schaffhausen\, Appenzell Ausserrhoden\, Appenzell Innerrhoden\, St.
+  Gallen\, Aargau\, Graubünden\, Thurgau\, Tessin\, Waadt\, Wallis\, Neuenbu
+ rg\, Genf\, Jura
+LAST-MODIFIED:20240517T153311Z
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Auffahrt (regionaler Feiertag)
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20240908
+DTEND;VALUE=DATE:20240909
+DTSTAMP:20260923T121438Z
+UID:20240908_fqsf1ga7scfj09vprfvcefrge0@google.com
+CLASS:PUBLIC
+CREATED:20240517T153311Z
+DESCRIPTION:Gedenktag in Zürich\nWenn Sie Gedenktage ausblenden möchten\, r
+ ufen Sie die Google Kalender-Einstellungen auf > Feiertage in der Schweiz
+LAST-MODIFIED:20240517T153311Z
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Knabenschiessen (Zürich)
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260912
+DTEND;VALUE=DATE:20260913
+DTSTAMP:20260923T121438Z
+UID:20260912_it7kfvm3t2itqspe3a1pt899io@google.com
+CLASS:PUBLIC
+CREATED:20240517T153311Z
+DESCRIPTION:Gedenktag in Zürich\nWenn Sie Gedenktage ausblenden möchten\, r
+ ufen Sie die Google Kalender-Einstellungen auf > Feiertage in der Schweiz
+LAST-MODIFIED:20240517T153311Z
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Knabenschiessen (Zürich)
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260920
+DTEND;VALUE=DATE:20260921
+DTSTAMP:20260923T121438Z
+UID:20260920_5cf3fsu57f53cdm6prb6cfo8d0@google.com
+CLASS:PUBLIC
+CREATED:20240517T153311Z
+DESCRIPTION:Gedenktag in Zürich\, Bern\, Luzern\, Uri\, Schwyz\, Obwalden\,
+  Nidwalden\, Glarus\, Zug\, Freiburg\, Solothurn\, Basel-Stadt\, Basel-Land
+ schaft\, Schaffhausen\, Appenzell Ausserrhoden\, Appenzell Innerrhoden\, St
+ . Gallen\, Aargau\, Graubünden\, Thurgau\, Tessin\, Waadt\, Wallis\, Neuenb
+ urg\, Jura\nWenn Sie Gedenktage ausblenden möchten\, rufen Sie die Google K
+ alender-Einstellungen auf > Feiertage in der Schweiz
+LAST-MODIFIED:20240517T153311Z
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Eidgenössischer Dank-\, Buss- und Bettag (regionaler Feiertag)
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20270319
+DTEND;VALUE=DATE:20270320
+DTSTAMP:20260923T121438Z
+UID:20270319_7c9mpmsme9s538fvudpsokd7pk@google.com
+CLASS:PUBLIC
+CREATED:20240517T153311Z
+DESCRIPTION:Feiertag in Luzern\, Nidwalden\, Solothurn\, Schwyz\, Tessin\, 
+ Uri\, Wallis
+LAST-MODIFIED:20240517T153311Z
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Josefstag (regionaler Feiertag)
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20270801
+DTEND;VALUE=DATE:20270802
+DTSTAMP:20260923T121438Z
+UID:20270801_90sip1pe2j36ghv79fm141rilo@google.com
+CLASS:PUBLIC
+CREATED:20240517T153311Z
+DESCRIPTION:Gesetzlicher Feiertag
+LAST-MODIFIED:20240517T153311Z
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Schweizer Nationalfeiertag
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20280319
+DTEND;VALUE=DATE:20280320
+DTSTAMP:20260923T121438Z
+UID:20280319_0i4ci14pahj6ak81cfl8timuj0@google.com
+CLASS:PUBLIC
+CREATED:20240517T153311Z
+DESCRIPTION:Feiertag in Luzern\, Nidwalden\, Solothurn\, Schwyz\, Tessin\, 
+ Uri\, Wallis
+LAST-MODIFIED:20240517T153311Z
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Josefstag (regionaler Feiertag)
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20290510
+DTEND;VALUE=DATE:20290511
+DTSTAMP:20260923T121438Z
+UID:20290510_am3sgbujdjhddjgmohdo0sk5j4@google.com
+CLASS:PUBLIC
+CREATED:20240517T153311Z
+DESCRIPTION:Feiertag in Zürich\, Bern\, Luzern\, Uri\, Schwyz\, Obwalden\, 
+ Nidwalden\, Glarus\, Zug\, Freiburg\, Solothurn\, Basel-Stadt\, Basel-Lands
+ chaft\, Schaffhausen\, Appenzell Ausserrhoden\, Appenzell Innerrhoden\, St.
+  Gallen\, Aargau\, Graubünden\, Thurgau\, Tessin\, Waadt\, Wallis\, Neuenbu
+ rg\, Genf\, Jura
+LAST-MODIFIED:20240517T153311Z
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Auffahrt (regionaler Feiertag)
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20290603
+DTEND;VALUE=DATE:20290604
+DTSTAMP:20260923T121438Z
+UID:20290603_ame6af7nipl0g6cfg7tmfqu60k@google.com
+CLASS:PUBLIC
+CREATED:20240517T153311Z
+DESCRIPTION:Gedenktag\nWenn Sie Gedenktage ausblenden möchten\, rufen Sie d
+ ie Google Kalender-Einstellungen auf > Feiertage in der Schweiz
+LAST-MODIFIED:20240517T153311Z
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Vatertag
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20210603
+DTEND;VALUE=DATE:20210604
+DTSTAMP:20260923T121438Z
+UID:20210603_a6r12p1cv8u4k35a18h8n78vcs@google.com
+CLASS:PUBLIC
+CREATED:20241001T113525Z
+DESCRIPTION:Feiertag in Aargau\, Appenzell Innerrhoden\, Freiburg\, Jura\, 
+ Luzern\, Nidwalden\, Obwalden\, Solothurn\, Schwyz\, Tessin\, Uri\, Wallis\
+ , Zug
+LAST-MODIFIED:20241001T113525Z
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Fronleichnam (regionaler Feiertag)
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20220616
+DTEND;VALUE=DATE:20220617
+DTSTAMP:20260923T121438Z
+UID:20220616_jrktj6a9co9ad4q84n0nd0m2e8@google.com
+CLASS:PUBLIC
+CREATED:20241001T113525Z
+DESCRIPTION:Feiertag in Aargau\, Appenzell Innerrhoden\, Freiburg\, Jura\, 
+ Luzern\, Nidwalden\, Obwalden\, Solothurn\, Schwyz\, Tessin\, Uri\, Wallis\
+ , Zug
+LAST-MODIFIED:20241001T113525Z
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Fronleichnam (regionaler Feiertag)
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20230608
+DTEND;VALUE=DATE:20230609
+DTSTAMP:20260923T121438Z
+UID:20230608_9dg74143vhhurkicuaacptljkg@google.com
+CLASS:PUBLIC
+CREATED:20241001T113525Z
+DESCRIPTION:Feiertag in Aargau\, Appenzell Innerrhoden\, Freiburg\, Jura\, 
+ Luzern\, Nidwalden\, Obwalden\, Solothurn\, Schwyz\, Tessin\, Uri\, Wallis\
+ , Zug
+LAST-MODIFIED:20241001T113525Z
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Fronleichnam (regionaler Feiertag)
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20240530
+DTEND;VALUE=DATE:20240531
+DTSTAMP:20260923T121438Z
+UID:20240530_0oohptfici06uu8hm50qauimms@google.com
+CLASS:PUBLIC
+CREATED:20241001T113525Z
+DESCRIPTION:Feiertag in Aargau\, Appenzell Innerrhoden\, Freiburg\, Jura\, 
+ Luzern\, Nidwalden\, Obwalden\, Solothurn\, Schwyz\, Tessin\, Uri\, Wallis\
+ , Zug
+LAST-MODIFIED:20241001T113525Z
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Fronleichnam (regionaler Feiertag)
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250619
+DTEND;VALUE=DATE:20250620
+DTSTAMP:20260923T121438Z
+UID:20250619_5avdi650bigdedulsbrrspmobg@google.com
+CLASS:PUBLIC
+CREATED:20241001T113525Z
+DESCRIPTION:Feiertag in Aargau\, Appenzell Innerrhoden\, Freiburg\, Jura\, 
+ Luzern\, Nidwalden\, Obwalden\, Solothurn\, Schwyz\, Tessin\, Uri\, Wallis\
+ , Zug
+LAST-MODIFIED:20241001T113525Z
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Fronleichnam (regionaler Feiertag)
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260604
+DTEND;VALUE=DATE:20260605
+DTSTAMP:20260923T121438Z
+UID:20260604_d7hk1n5d67gav77qhqmrvdk4t0@google.com
+CLASS:PUBLIC
+CREATED:20241001T113525Z
+DESCRIPTION:Feiertag in Aargau\, Appenzell Innerrhoden\, Freiburg\, Jura\, 
+ Luzern\, Nidwalden\, Obwalden\, Solothurn\, Schwyz\, Tessin\, Uri\, Wallis\
+ , Zug
+LAST-MODIFIED:20241001T113525Z
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Fronleichnam (regionaler Feiertag)
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20270527
+DTEND;VALUE=DATE:20270528
+DTSTAMP:20260923T121438Z
+UID:20270527_8s07u90gc6rkr5f934mb63dnms@google.com
+CLASS:PUBLIC
+CREATED:20241001T113525Z
+DESCRIPTION:Feiertag in Aargau\, Appenzell Innerrhoden\, Freiburg\, Jura\, 
+ Luzern\, Nidwalden\, Obwalden\, Solothurn\, Schwyz\, Tessin\, Uri\, Wallis\
+ , Zug
+LAST-MODIFIED:20241001T113525Z
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Fronleichnam (regionaler Feiertag)
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20280615
+DTEND;VALUE=DATE:20280616
+DTSTAMP:20260923T121438Z
+UID:20280615_e0rhftvph8uaopoh114r2em73k@google.com
+CLASS:PUBLIC
+CREATED:20241001T113525Z
+DESCRIPTION:Feiertag in Aargau\, Appenzell Innerrhoden\, Freiburg\, Jura\, 
+ Luzern\, Nidwalden\, Obwalden\, Solothurn\, Schwyz\, Tessin\, Uri\, Wallis\
+ , Zug
+LAST-MODIFIED:20241001T113525Z
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Fronleichnam (regionaler Feiertag)
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20290531
+DTEND;VALUE=DATE:20290601
+DTSTAMP:20260923T121438Z
+UID:20290531_aum3a2sngmlnr8umfg5aqlko04@google.com
+CLASS:PUBLIC
+CREATED:20241001T113525Z
+DESCRIPTION:Feiertag in Aargau\, Appenzell Innerrhoden\, Freiburg\, Jura\, 
+ Luzern\, Nidwalden\, Obwalden\, Solothurn\, Schwyz\, Tessin\, Uri\, Wallis\
+ , Zug
+LAST-MODIFIED:20241001T113525Z
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Fronleichnam (regionaler Feiertag)
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20300101
+DTEND;VALUE=DATE:20300102
+DTSTAMP:20260923T121438Z
+UID:20300101_kerv77ulgf77hvaqhi3kqqaj3s@google.com
+CLASS:PUBLIC
+CREATED:20250101T123708Z
+DESCRIPTION:Feiertag in Zürich\, Bern\, Luzern\, Uri\, Schwyz\, Obwalden\, 
+ Nidwalden\, Glarus\, Zug\, Freiburg\, Solothurn\, Basel-Stadt\, Basel-Lands
+ chaft\, Schaffhausen\, Appenzell Ausserrhoden\, Appenzell Innerrhoden\, St.
+  Gallen\, Aargau\, Graubünden\, Thurgau\, Tessin\, Waadt\, Wallis\, Neuenbu
+ rg\, Genf\, Jura
+LAST-MODIFIED:20250101T123708Z
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Neujahr (regionaler Feiertag)
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20300214
+DTEND;VALUE=DATE:20300215
+DTSTAMP:20260923T121438Z
+UID:20300214_1eipl8bl2n79lmmpteqn7tat18@google.com
+CLASS:PUBLIC
+CREATED:20250101T123708Z
+DESCRIPTION:Gedenktag\nWenn Sie Gedenktage ausblenden möchten\, rufen Sie d
+ ie Google Kalender-Einstellungen auf > Feiertage in der Schweiz
+LAST-MODIFIED:20250101T123708Z
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Valentinstag
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20300319
+DTEND;VALUE=DATE:20300320
+DTSTAMP:20260923T121438Z
+UID:20300319_eticbahplqbtm41epli52ov7ig@google.com
+CLASS:PUBLIC
+CREATED:20250101T123708Z
+DESCRIPTION:Feiertag in Luzern\, Nidwalden\, Solothurn\, Schwyz\, Tessin\, 
+ Uri\, Wallis
+LAST-MODIFIED:20250101T123708Z
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Josefstag (regionaler Feiertag)
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20300331
+DTEND;VALUE=DATE:20300401
+DTSTAMP:20260923T121438Z
+UID:20300331_n94t0dj1nk0juqvggl1gf2dpuc@google.com
+CLASS:PUBLIC
+CREATED:20250101T123708Z
+DESCRIPTION:Gedenktag\nWenn Sie Gedenktage ausblenden möchten\, rufen Sie d
+ ie Google Kalender-Einstellungen auf > Feiertage in der Schweiz
+LAST-MODIFIED:20250101T123708Z
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Beginn der Sommerzeit
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20300419
+DTEND;VALUE=DATE:20300420
+DTSTAMP:20260923T121438Z
+UID:20300419_4tq1phse4fig5rrk3gs2dinop8@google.com
+CLASS:PUBLIC
+CREATED:20250101T123708Z
+DESCRIPTION:Feiertag in Zürich\, Bern\, Luzern\, Uri\, Schwyz\, Obwalden\, 
+ Nidwalden\, Glarus\, Zug\, Freiburg\, Solothurn\, Basel-Stadt\, Basel-Lands
+ chaft\, Schaffhausen\, Appenzell Ausserrhoden\, Appenzell Innerrhoden\, St.
+  Gallen\, Aargau\, Graubünden\, Thurgau\, Waadt\, Neuenburg\, Genf\, Jura
+LAST-MODIFIED:20250101T123708Z
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Karfreitag (regionaler Feiertag)
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20300421
+DTEND;VALUE=DATE:20300422
+DTSTAMP:20260923T121438Z
+UID:20300421_q2beklof91le6k3csdo7e5p6dg@google.com
+CLASS:PUBLIC
+CREATED:20250101T123708Z
+DESCRIPTION:Gedenktag\nWenn Sie Gedenktage ausblenden möchten\, rufen Sie d
+ ie Google Kalender-Einstellungen auf > Feiertage in der Schweiz
+LAST-MODIFIED:20250101T123708Z
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Ostersonntag
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20300512
+DTEND;VALUE=DATE:20300513
+DTSTAMP:20260923T121438Z
+UID:20300512_10tf6emb0cmflo0ic9973l1pjk@google.com
+CLASS:PUBLIC
+CREATED:20250101T123708Z
+DESCRIPTION:Gedenktag\nWenn Sie Gedenktage ausblenden möchten\, rufen Sie d
+ ie Google Kalender-Einstellungen auf > Feiertage in der Schweiz
+LAST-MODIFIED:20250101T123708Z
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Muttertag
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20300530
+DTEND;VALUE=DATE:20300531
+DTSTAMP:20260923T121438Z
+UID:20300530_3fj1urkaqunp05l4tbk8u3emjg@google.com
+CLASS:PUBLIC
+CREATED:20250101T123708Z
+DESCRIPTION:Feiertag in Zürich\, Bern\, Luzern\, Uri\, Schwyz\, Obwalden\, 
+ Nidwalden\, Glarus\, Zug\, Freiburg\, Solothurn\, Basel-Stadt\, Basel-Lands
+ chaft\, Schaffhausen\, Appenzell Ausserrhoden\, Appenzell Innerrhoden\, St.
+  Gallen\, Aargau\, Graubünden\, Thurgau\, Tessin\, Waadt\, Wallis\, Neuenbu
+ rg\, Genf\, Jura
+LAST-MODIFIED:20250101T123708Z
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Auffahrt (regionaler Feiertag)
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20300602
+DTEND;VALUE=DATE:20300603
+DTSTAMP:20260923T121438Z
+UID:20300602_606tn11mfo3uotv3c4kqrf9n80@google.com
+CLASS:PUBLIC
+CREATED:20250101T123708Z
+DESCRIPTION:Gedenktag\nWenn Sie Gedenktage ausblenden möchten\, rufen Sie d
+ ie Google Kalender-Einstellungen auf > Feiertage in der Schweiz
+LAST-MODIFIED:20250101T123708Z
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Vatertag
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20300609
+DTEND;VALUE=DATE:20300610
+DTSTAMP:20260923T121438Z
+UID:20300609_v2196fe9uk195kvftcjvnjrle8@google.com
+CLASS:PUBLIC
+CREATED:20250101T123708Z
+DESCRIPTION:Gedenktag in Zürich\, Bern\, Luzern\, Uri\, Schwyz\, Obwalden\,
+  Nidwalden\, Glarus\, Zug\, Freiburg\, Solothurn\, Basel-Stadt\, Basel-Land
+ schaft\, Schaffhausen\, Appenzell Ausserrhoden\, Appenzell Innerrhoden\, St
+ . Gallen\, Aargau\, Graubünden\, Thurgau\, Tessin\, Waadt\, Wallis\, Neuenb
+ urg\, Genf\, Jura\nWenn Sie Gedenktage ausblenden möchten\, rufen Sie die G
+ oogle Kalender-Einstellungen auf > Feiertage in der Schweiz
+LAST-MODIFIED:20250101T123708Z
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Pfingstsonntag (regionaler Feiertag)
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20300620
+DTEND;VALUE=DATE:20300621
+DTSTAMP:20260923T121438Z
+UID:20300620_20aeoakdd8pg3ueh758rik804s@google.com
+CLASS:PUBLIC
+CREATED:20250101T123708Z
+DESCRIPTION:Feiertag in Aargau\, Appenzell Innerrhoden\, Freiburg\, Jura\, 
+ Luzern\, Nidwalden\, Obwalden\, Solothurn\, Schwyz\, Tessin\, Uri\, Wallis\
+ , Zug
+LAST-MODIFIED:20250101T123708Z
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Fronleichnam (regionaler Feiertag)
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20300801
+DTEND;VALUE=DATE:20300802
+DTSTAMP:20260923T121438Z
+UID:20300801_oualspi3ses4t20clbh6n6d0uo@google.com
+CLASS:PUBLIC
+CREATED:20250101T123708Z
+DESCRIPTION:Gesetzlicher Feiertag
+LAST-MODIFIED:20250101T123708Z
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Schweizer Nationalfeiertag
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20300907
+DTEND;VALUE=DATE:20300908
+DTSTAMP:20260923T121438Z
+UID:20300907_cn60u91jptupdrqqp1b0gg58k0@google.com
+CLASS:PUBLIC
+CREATED:20250101T123708Z
+DESCRIPTION:Gedenktag in Zürich\nWenn Sie Gedenktage ausblenden möchten\, r
+ ufen Sie die Google Kalender-Einstellungen auf > Feiertage in der Schweiz
+LAST-MODIFIED:20250101T123708Z
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Knabenschiessen (Zürich)
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20300908
+DTEND;VALUE=DATE:20300909
+DTSTAMP:20260923T121438Z
+UID:20300908_k06mbcgk4fkea6hg5jnanivos8@google.com
+CLASS:PUBLIC
+CREATED:20250101T123708Z
+DESCRIPTION:Gedenktag in Zürich\nWenn Sie Gedenktage ausblenden möchten\, r
+ ufen Sie die Google Kalender-Einstellungen auf > Feiertage in der Schweiz
+LAST-MODIFIED:20250101T123708Z
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Knabenschiessen (Zürich)
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20300909
+DTEND;VALUE=DATE:20300910
+DTSTAMP:20260923T121438Z
+UID:20300909_pk95aaqfbltnf01h2vbhle0eoo@google.com
+CLASS:PUBLIC
+CREATED:20250101T123708Z
+DESCRIPTION:Gedenktag in Zürich\nWenn Sie Gedenktage ausblenden möchten\, r
+ ufen Sie die Google Kalender-Einstellungen auf > Feiertage in der Schweiz
+LAST-MODIFIED:20250101T123708Z
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Knabenschiessen (Zürich)
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20300915
+DTEND;VALUE=DATE:20300916
+DTSTAMP:20260923T121438Z
+UID:20300915_q177u0k4m89hb14a1pj3c85678@google.com
+CLASS:PUBLIC
+CREATED:20250101T123708Z
+DESCRIPTION:Gedenktag in Zürich\, Bern\, Luzern\, Uri\, Schwyz\, Obwalden\,
+  Nidwalden\, Glarus\, Zug\, Freiburg\, Solothurn\, Basel-Stadt\, Basel-Land
+ schaft\, Schaffhausen\, Appenzell Ausserrhoden\, Appenzell Innerrhoden\, St
+ . Gallen\, Aargau\, Graubünden\, Thurgau\, Tessin\, Waadt\, Wallis\, Neuenb
+ urg\, Jura\nWenn Sie Gedenktage ausblenden möchten\, rufen Sie die Google K
+ alender-Einstellungen auf > Feiertage in der Schweiz
+LAST-MODIFIED:20250101T123708Z
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Eidgenössischer Dank-\, Buss- und Bettag (regionaler Feiertag)
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20301027
+DTEND;VALUE=DATE:20301028
+DTSTAMP:20260923T121438Z
+UID:20301027_m7kmk10ndcljfrl225n0hv9e3o@google.com
+CLASS:PUBLIC
+CREATED:20250101T123708Z
+DESCRIPTION:Gedenktag\nWenn Sie Gedenktage ausblenden möchten\, rufen Sie d
+ ie Google Kalender-Einstellungen auf > Feiertage in der Schweiz
+LAST-MODIFIED:20250101T123708Z
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Ende der Sommerzeit
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20301225
+DTEND;VALUE=DATE:20301226
+DTSTAMP:20260923T121438Z
+UID:20301225_4766d87lahneu8jpu7lobplna4@google.com
+CLASS:PUBLIC
+CREATED:20250101T123708Z
+DESCRIPTION:Feiertag in Zürich\, Bern\, Luzern\, Uri\, Schwyz\, Obwalden\, 
+ Nidwalden\, Glarus\, Zug\, Freiburg\, Solothurn\, Basel-Stadt\, Basel-Lands
+ chaft\, Schaffhausen\, Appenzell Ausserrhoden\, Appenzell Innerrhoden\, St.
+  Gallen\, Aargau\, Graubünden\, Thurgau\, Tessin\, Waadt\, Wallis\, Neuenbu
+ rg\, Genf\, Jura
+LAST-MODIFIED:20250101T123708Z
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Weihnachten (regionaler Feiertag)
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20210102
+DTEND;VALUE=DATE:20210103
+DTSTAMP:20260923T121438Z
+UID:20210102_b1bdjnqjgc8rm0677e87or39qg@google.com
+CLASS:PUBLIC
+CREATED:20250924T143458Z
+DESCRIPTION:Feiertag in Aargau\, Bern\, Freiburg\, Jura\, Thurgau\, Waadt
+LAST-MODIFIED:20250924T143458Z
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Berchtoldstag (regionaler Feiertag)
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20211231
+DTEND;VALUE=DATE:20220101
+DTSTAMP:20260923T121438Z
+UID:20211231_hgj006c6dq6focdce2fcsbkogc@google.com
+CLASS:PUBLIC
+CREATED:20250924T143458Z
+DESCRIPTION:Gedenktag\nWenn Sie Gedenktage ausblenden möchten\, rufen Sie d
+ ie Google Kalender-Einstellungen auf > Feiertage in der Schweiz
+LAST-MODIFIED:20250924T143458Z
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Silvester
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20220106
+DTEND;VALUE=DATE:20220107
+DTSTAMP:20260923T121438Z
+UID:20220106_qmlmboljug1nd0usg5k4lgart4@google.com
+CLASS:PUBLIC
+CREATED:20250924T143458Z
+DESCRIPTION:Feiertag in Schwyz\, Tessin\, Uri
+LAST-MODIFIED:20250924T143458Z
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Dreikönigsfest (regionaler Feiertag)
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20220418
+DTEND;VALUE=DATE:20220419
+DTSTAMP:20260923T121438Z
+UID:20220418_k05861vabptaerb9ahops4d6po@google.com
+CLASS:PUBLIC
+CREATED:20250924T143458Z
+DESCRIPTION:Feiertag in Zürich\, Bern\, Uri\, Schwyz\, Glarus\, Freiburg\, 
+ Basel-Stadt\, Basel-Landschaft\, Schaffhausen\, Appenzell Ausserrhoden\, Ap
+ penzell Innerrhoden\, St. Gallen\, Aargau\, Graubünden\, Thurgau\, Tessin\,
+  Waadt\, Genf\, Jura
+LAST-MODIFIED:20250924T143458Z
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Ostermontag (regionaler Feiertag)
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20220606
+DTEND;VALUE=DATE:20220607
+DTSTAMP:20260923T121438Z
+UID:20220606_jda5dens5fhvde8qct9qj2hiqs@google.com
+CLASS:PUBLIC
+CREATED:20250924T143458Z
+DESCRIPTION:Feiertag in Zürich\, Bern\, Uri\, Schwyz\, Glarus\, Freiburg\, 
+ Basel-Stadt\, Basel-Landschaft\, Schaffhausen\, Appenzell Ausserrhoden\, Ap
+ penzell Innerrhoden\, St. Gallen\, Aargau\, Graubünden\, Thurgau\, Tessin\,
+  Waadt\, Genf\, Jura
+LAST-MODIFIED:20250924T143458Z
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Pfingstmontag (regionaler Feiertag)
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20221226
+DTEND;VALUE=DATE:20221227
+DTSTAMP:20260923T121438Z
+UID:20221226_u75o83uobgccg85488j8ane0jk@google.com
+CLASS:PUBLIC
+CREATED:20250924T143458Z
+DESCRIPTION:Feiertag in Zürich\, Bern\, Luzern\, Uri\, Schwyz\, Glarus\, Ba
+ sel-Stadt\, Basel-Landschaft\, Schaffhausen\, Appenzell Ausserrhoden\, Appe
+ nzell Innerrhoden\, St. Gallen\, Graubünden\, Thurgau\, Tessin
+LAST-MODIFIED:20250924T143458Z
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Stephanstag (regionaler Feiertag)
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20230410
+DTEND;VALUE=DATE:20230411
+DTSTAMP:20260923T121438Z
+UID:20230410_qh0hflgvn6hm0ikvdaijf97tn8@google.com
+CLASS:PUBLIC
+CREATED:20250924T143458Z
+DESCRIPTION:Feiertag in Zürich\, Bern\, Uri\, Schwyz\, Glarus\, Freiburg\, 
+ Basel-Stadt\, Basel-Landschaft\, Schaffhausen\, Appenzell Ausserrhoden\, Ap
+ penzell Innerrhoden\, St. Gallen\, Aargau\, Graubünden\, Thurgau\, Tessin\,
+  Waadt\, Genf\, Jura
+LAST-MODIFIED:20250924T143458Z
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Ostermontag (regionaler Feiertag)
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20230501
+DTEND;VALUE=DATE:20230502
+DTSTAMP:20260923T121438Z
+UID:20230501_i65q9jfjh8h9620kmttgvp96bk@google.com
+CLASS:PUBLIC
+CREATED:20250924T143458Z
+DESCRIPTION:Feiertag in Basel-Landschaft\, Basel-Stadt\, Jura\, Neuenburg\,
+  Schaffhausen\, Zürich\, Thurgau\, Tessin
+LAST-MODIFIED:20250924T143458Z
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Tag der Arbeit (regionaler Feiertag)
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20230529
+DTEND;VALUE=DATE:20230530
+DTSTAMP:20260923T121438Z
+UID:20230529_mprqa368fcdqo4sbkdksosc3so@google.com
+CLASS:PUBLIC
+CREATED:20250924T143458Z
+DESCRIPTION:Feiertag in Zürich\, Bern\, Uri\, Schwyz\, Glarus\, Freiburg\, 
+ Basel-Stadt\, Basel-Landschaft\, Schaffhausen\, Appenzell Ausserrhoden\, Ap
+ penzell Innerrhoden\, St. Gallen\, Aargau\, Graubünden\, Thurgau\, Tessin\,
+  Waadt\, Genf\, Jura
+LAST-MODIFIED:20250924T143458Z
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Pfingstmontag (regionaler Feiertag)
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20230815
+DTEND;VALUE=DATE:20230816
+DTSTAMP:20260923T121438Z
+UID:20230815_4jfnrdd4dbdftkufpl94jt0b7k@google.com
+CLASS:PUBLIC
+CREATED:20250924T143458Z
+DESCRIPTION:Feiertag in Aargau\, Appenzell Innerrhoden\, Freiburg\, Jura\, 
+ Luzern\, Nidwalden\, Obwalden\, Solothurn\, Schwyz\, Tessin\, Uri\, Wallis\
+ , Zug
+LAST-MODIFIED:20250924T143458Z
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Mariä Himmelfahrt (regionaler Feiertag)
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20231208
+DTEND;VALUE=DATE:20231209
+DTSTAMP:20260923T121438Z
+UID:20231208_q4v3kpfij566r39r66tfph63ik@google.com
+CLASS:PUBLIC
+CREATED:20250924T143458Z
+DESCRIPTION:Feiertag in Appenzell Innerrhoden\, Luzern\, Nidwalden\, Obwald
+ en\, Schwyz\, Tessin\, Uri\, Wallis\, Zug
+LAST-MODIFIED:20250924T143458Z
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Mariä Empfängnis (regionaler Feiertag)
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20231224
+DTEND;VALUE=DATE:20231225
+DTSTAMP:20260923T121438Z
+UID:20231224_6vtrkeja7cpjd0rkiumf3l29lc@google.com
+CLASS:PUBLIC
+CREATED:20250924T143458Z
+DESCRIPTION:Gedenktag\nWenn Sie Gedenktage ausblenden möchten\, rufen Sie d
+ ie Google Kalender-Einstellungen auf > Feiertage in der Schweiz
+LAST-MODIFIED:20250924T143458Z
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Heiligabend
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20231226
+DTEND;VALUE=DATE:20231227
+DTSTAMP:20260923T121438Z
+UID:20231226_i1i3d9o145fo20i5mpceome83g@google.com
+CLASS:PUBLIC
+CREATED:20250924T143458Z
+DESCRIPTION:Feiertag in Zürich\, Bern\, Luzern\, Uri\, Schwyz\, Glarus\, Ba
+ sel-Stadt\, Basel-Landschaft\, Schaffhausen\, Appenzell Ausserrhoden\, Appe
+ nzell Innerrhoden\, St. Gallen\, Graubünden\, Thurgau\, Tessin
+LAST-MODIFIED:20250924T143458Z
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Stephanstag (regionaler Feiertag)
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20240401
+DTEND;VALUE=DATE:20240402
+DTSTAMP:20260923T121438Z
+UID:20240401_o74aclur3vktjvj3of4tv5mag4@google.com
+CLASS:PUBLIC
+CREATED:20250924T143458Z
+DESCRIPTION:Feiertag in Zürich\, Bern\, Uri\, Schwyz\, Glarus\, Freiburg\, 
+ Basel-Stadt\, Basel-Landschaft\, Schaffhausen\, Appenzell Ausserrhoden\, Ap
+ penzell Innerrhoden\, St. Gallen\, Aargau\, Graubünden\, Thurgau\, Tessin\,
+  Waadt\, Genf\, Jura
+LAST-MODIFIED:20250924T143458Z
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Ostermontag (regionaler Feiertag)
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20240520
+DTEND;VALUE=DATE:20240521
+DTSTAMP:20260923T121438Z
+UID:20240520_hcdgo32mo6916d8j3b05u4fqc4@google.com
+CLASS:PUBLIC
+CREATED:20250924T143458Z
+DESCRIPTION:Feiertag in Zürich\, Bern\, Uri\, Schwyz\, Glarus\, Freiburg\, 
+ Basel-Stadt\, Basel-Landschaft\, Schaffhausen\, Appenzell Ausserrhoden\, Ap
+ penzell Innerrhoden\, St. Gallen\, Aargau\, Graubünden\, Thurgau\, Tessin\,
+  Waadt\, Genf\, Jura
+LAST-MODIFIED:20250924T143458Z
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Pfingstmontag (regionaler Feiertag)
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20241208
+DTEND;VALUE=DATE:20241209
+DTSTAMP:20260923T121438Z
+UID:20241208_9c1piqukdmg2q9m0co0ra9nrl0@google.com
+CLASS:PUBLIC
+CREATED:20250924T143458Z
+DESCRIPTION:Feiertag in Appenzell Innerrhoden\, Luzern\, Nidwalden\, Obwald
+ en\, Schwyz\, Tessin\, Uri\, Wallis\, Zug
+LAST-MODIFIED:20250924T143458Z
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Mariä Empfängnis (regionaler Feiertag)
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250102
+DTEND;VALUE=DATE:20250103
+DTSTAMP:20260923T121438Z
+UID:20250102_23tkh0l4ou0174k7dhrs0vmneg@google.com
+CLASS:PUBLIC
+CREATED:20250924T143458Z
+DESCRIPTION:Feiertag in Aargau\, Bern\, Freiburg\, Jura\, Thurgau\, Waadt
+LAST-MODIFIED:20250924T143458Z
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Berchtoldstag (regionaler Feiertag)
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250421
+DTEND;VALUE=DATE:20250422
+DTSTAMP:20260923T121438Z
+UID:20250421_eaupokej2trl0lubl1ip82t67o@google.com
+CLASS:PUBLIC
+CREATED:20250924T143458Z
+DESCRIPTION:Feiertag in Zürich\, Bern\, Uri\, Schwyz\, Glarus\, Freiburg\, 
+ Basel-Stadt\, Basel-Landschaft\, Schaffhausen\, Appenzell Ausserrhoden\, Ap
+ penzell Innerrhoden\, St. Gallen\, Aargau\, Graubünden\, Thurgau\, Tessin\,
+  Waadt\, Genf\, Jura
+LAST-MODIFIED:20250924T143458Z
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Ostermontag (regionaler Feiertag)
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250815
+DTEND;VALUE=DATE:20250816
+DTSTAMP:20260923T121438Z
+UID:20250815_qaqrscabsv4p1293i8npjje5l0@google.com
+CLASS:PUBLIC
+CREATED:20250924T143458Z
+DESCRIPTION:Feiertag in Aargau\, Appenzell Innerrhoden\, Freiburg\, Jura\, 
+ Luzern\, Nidwalden\, Obwalden\, Solothurn\, Schwyz\, Tessin\, Uri\, Wallis\
+ , Zug
+LAST-MODIFIED:20250924T143458Z
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Mariä Himmelfahrt (regionaler Feiertag)
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20251208
+DTEND;VALUE=DATE:20251209
+DTSTAMP:20260923T121438Z
+UID:20251208_4jmd73meg63ua82r7cjd4cl15s@google.com
+CLASS:PUBLIC
+CREATED:20250924T143458Z
+DESCRIPTION:Feiertag in Appenzell Innerrhoden\, Luzern\, Nidwalden\, Obwald
+ en\, Schwyz\, Tessin\, Uri\, Wallis\, Zug
+LAST-MODIFIED:20250924T143458Z
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Mariä Empfängnis (regionaler Feiertag)
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20251231
+DTEND;VALUE=DATE:20260101
+DTSTAMP:20260923T121438Z
+UID:20251231_0kp3uatl3uuili7hg4nm39rio8@google.com
+CLASS:PUBLIC
+CREATED:20250924T143458Z
+DESCRIPTION:Gedenktag\nWenn Sie Gedenktage ausblenden möchten\, rufen Sie d
+ ie Google Kalender-Einstellungen auf > Feiertage in der Schweiz
+LAST-MODIFIED:20250924T143458Z
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Silvester
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260102
+DTEND;VALUE=DATE:20260103
+DTSTAMP:20260923T121438Z
+UID:20260102_2iindil3qjtebaj4b83906qpgk@google.com
+CLASS:PUBLIC
+CREATED:20250924T143458Z
+DESCRIPTION:Feiertag in Aargau\, Bern\, Freiburg\, Jura\, Thurgau\, Waadt
+LAST-MODIFIED:20250924T143458Z
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Berchtoldstag (regionaler Feiertag)
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260406
+DTEND;VALUE=DATE:20260407
+DTSTAMP:20260923T121438Z
+UID:20260406_fm1ughhpehi5aumb1p5gl2d4ec@google.com
+CLASS:PUBLIC
+CREATED:20250924T143458Z
+DESCRIPTION:Feiertag in Zürich\, Bern\, Uri\, Schwyz\, Glarus\, Freiburg\, 
+ Basel-Stadt\, Basel-Landschaft\, Schaffhausen\, Appenzell Ausserrhoden\, Ap
+ penzell Innerrhoden\, St. Gallen\, Aargau\, Graubünden\, Thurgau\, Tessin\,
+  Waadt\, Genf\, Jura
+LAST-MODIFIED:20250924T143458Z
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Ostermontag (regionaler Feiertag)
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20270102
+DTEND;VALUE=DATE:20270103
+DTSTAMP:20260923T121438Z
+UID:20270102_s41d0ol7jjp3t1rj5ejfbbhmvs@google.com
+CLASS:PUBLIC
+CREATED:20250924T143458Z
+DESCRIPTION:Feiertag in Aargau\, Bern\, Freiburg\, Jura\, Thurgau\, Waadt
+LAST-MODIFIED:20250924T143458Z
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Berchtoldstag (regionaler Feiertag)
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20270501
+DTEND;VALUE=DATE:20270502
+DTSTAMP:20260923T121438Z
+UID:20270501_mp56cialuvuubn4s7d7b3pkjso@google.com
+CLASS:PUBLIC
+CREATED:20250924T143458Z
+DESCRIPTION:Feiertag in Basel-Landschaft\, Basel-Stadt\, Jura\, Neuenburg\,
+  Schaffhausen\, Zürich\, Thurgau\, Tessin
+LAST-MODIFIED:20250924T143458Z
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Tag der Arbeit (regionaler Feiertag)
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20271231
+DTEND;VALUE=DATE:20280101
+DTSTAMP:20260923T121438Z
+UID:20271231_1diu37kohomnvnlne0r47vsuis@google.com
+CLASS:PUBLIC
+CREATED:20250924T143458Z
+DESCRIPTION:Gedenktag\nWenn Sie Gedenktage ausblenden möchten\, rufen Sie d
+ ie Google Kalender-Einstellungen auf > Feiertage in der Schweiz
+LAST-MODIFIED:20250924T143458Z
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Silvester
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20280605
+DTEND;VALUE=DATE:20280606
+DTSTAMP:20260923T121438Z
+UID:20280605_1mfg3nre2lt8fr39r1f0ni5168@google.com
+CLASS:PUBLIC
+CREATED:20250924T143458Z
+DESCRIPTION:Feiertag in Zürich\, Bern\, Uri\, Schwyz\, Glarus\, Freiburg\, 
+ Basel-Stadt\, Basel-Landschaft\, Schaffhausen\, Appenzell Ausserrhoden\, Ap
+ penzell Innerrhoden\, St. Gallen\, Aargau\, Graubünden\, Thurgau\, Tessin\,
+  Waadt\, Genf\, Jura
+LAST-MODIFIED:20250924T143458Z
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Pfingstmontag (regionaler Feiertag)
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20281226
+DTEND;VALUE=DATE:20281227
+DTSTAMP:20260923T121438Z
+UID:20281226_me4o5skbt1sih514v400nbhm08@google.com
+CLASS:PUBLIC
+CREATED:20250924T143458Z
+DESCRIPTION:Feiertag in Zürich\, Bern\, Luzern\, Uri\, Schwyz\, Glarus\, Ba
+ sel-Stadt\, Basel-Landschaft\, Schaffhausen\, Appenzell Ausserrhoden\, Appe
+ nzell Innerrhoden\, St. Gallen\, Graubünden\, Thurgau\, Tessin
+LAST-MODIFIED:20250924T143458Z
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Stephanstag (regionaler Feiertag)
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20290106
+DTEND;VALUE=DATE:20290107
+DTSTAMP:20260923T121438Z
+UID:20290106_dojg09cl6tbjicebgpq6275q14@google.com
+CLASS:PUBLIC
+CREATED:20250924T143458Z
+DESCRIPTION:Feiertag in Schwyz\, Tessin\, Uri
+LAST-MODIFIED:20250924T143458Z
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Dreikönigsfest (regionaler Feiertag)
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20290521
+DTEND;VALUE=DATE:20290522
+DTSTAMP:20260923T121438Z
+UID:20290521_a7kilmj5tba0ljgqihsl0hbpn8@google.com
+CLASS:PUBLIC
+CREATED:20250924T143458Z
+DESCRIPTION:Feiertag in Zürich\, Bern\, Uri\, Schwyz\, Glarus\, Freiburg\, 
+ Basel-Stadt\, Basel-Landschaft\, Schaffhausen\, Appenzell Ausserrhoden\, Ap
+ penzell Innerrhoden\, St. Gallen\, Aargau\, Graubünden\, Thurgau\, Tessin\,
+  Waadt\, Genf\, Jura
+LAST-MODIFIED:20250924T143458Z
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Pfingstmontag (regionaler Feiertag)
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20291224
+DTEND;VALUE=DATE:20291225
+DTSTAMP:20260923T121438Z
+UID:20291224_8tuj02utmnqe47ojbjg62tf3dg@google.com
+CLASS:PUBLIC
+CREATED:20250924T143458Z
+DESCRIPTION:Gedenktag\nWenn Sie Gedenktage ausblenden möchten\, rufen Sie d
+ ie Google Kalender-Einstellungen auf > Feiertage in der Schweiz
+LAST-MODIFIED:20250924T143458Z
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Heiligabend
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20300501
+DTEND;VALUE=DATE:20300502
+DTSTAMP:20260923T121438Z
+UID:20300501_dr7bc5i0a9urn35shea43n8sso@google.com
+CLASS:PUBLIC
+CREATED:20250924T143458Z
+DESCRIPTION:Feiertag in Basel-Landschaft\, Basel-Stadt\, Jura\, Neuenburg\,
+  Schaffhausen\, Zürich\, Thurgau\, Tessin
+LAST-MODIFIED:20250924T143458Z
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Tag der Arbeit (regionaler Feiertag)
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20301208
+DTEND;VALUE=DATE:20301209
+DTSTAMP:20260923T121438Z
+UID:20301208_gk0ti7u4mmb6i04krsn8jals80@google.com
+CLASS:PUBLIC
+CREATED:20250924T143458Z
+DESCRIPTION:Feiertag in Appenzell Innerrhoden\, Luzern\, Nidwalden\, Obwald
+ en\, Schwyz\, Tessin\, Uri\, Wallis\, Zug
+LAST-MODIFIED:20250924T143458Z
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Mariä Empfängnis (regionaler Feiertag)
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20301224
+DTEND;VALUE=DATE:20301225
+DTSTAMP:20260923T121438Z
+UID:20301224_077dvbi83pjcfb64o9l4itupqo@google.com
+CLASS:PUBLIC
+CREATED:20250924T143458Z
+DESCRIPTION:Gedenktag\nWenn Sie Gedenktage ausblenden möchten\, rufen Sie d
+ ie Google Kalender-Einstellungen auf > Feiertage in der Schweiz
+LAST-MODIFIED:20250924T143458Z
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Heiligabend
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20301231
+DTEND;VALUE=DATE:20310101
+DTSTAMP:20260923T121438Z
+UID:20301231_o9fbh2q27emf3j4b7sfovdt7pk@google.com
+CLASS:PUBLIC
+CREATED:20250924T143458Z
+DESCRIPTION:Gedenktag\nWenn Sie Gedenktage ausblenden möchten\, rufen Sie d
+ ie Google Kalender-Einstellungen auf > Feiertage in der Schweiz
+LAST-MODIFIED:20250924T143458Z
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Silvester
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20210524
+DTEND;VALUE=DATE:20210525
+DTSTAMP:20260923T121438Z
+UID:20210524_str1277ae6t177qfmafh8tu9f8@google.com
+CLASS:PUBLIC
+CREATED:20250924T143616Z
+DESCRIPTION:Feiertag in Zürich\, Bern\, Uri\, Schwyz\, Glarus\, Freiburg\, 
+ Basel-Stadt\, Basel-Landschaft\, Schaffhausen\, Appenzell Ausserrhoden\, Ap
+ penzell Innerrhoden\, St. Gallen\, Aargau\, Graubünden\, Thurgau\, Tessin\,
+  Waadt\, Genf\, Jura
+LAST-MODIFIED:20250924T143616Z
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Pfingstmontag (regionaler Feiertag)
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20210815
+DTEND;VALUE=DATE:20210816
+DTSTAMP:20260923T121438Z
+UID:20210815_0hdcoumtdc8a7ib35fnson8uho@google.com
+CLASS:PUBLIC
+CREATED:20250924T143616Z
+DESCRIPTION:Feiertag in Aargau\, Appenzell Innerrhoden\, Freiburg\, Jura\, 
+ Luzern\, Nidwalden\, Obwalden\, Solothurn\, Schwyz\, Tessin\, Uri\, Wallis\
+ , Zug
+LAST-MODIFIED:20250924T143616Z
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Mariä Himmelfahrt (regionaler Feiertag)
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20211226
+DTEND;VALUE=DATE:20211227
+DTSTAMP:20260923T121438Z
+UID:20211226_m6uet25hudpajiuis6735np2m0@google.com
+CLASS:PUBLIC
+CREATED:20250924T143616Z
+DESCRIPTION:Feiertag in Zürich\, Bern\, Luzern\, Uri\, Schwyz\, Glarus\, Ba
+ sel-Stadt\, Basel-Landschaft\, Schaffhausen\, Appenzell Ausserrhoden\, Appe
+ nzell Innerrhoden\, St. Gallen\, Graubünden\, Thurgau\, Tessin
+LAST-MODIFIED:20250924T143616Z
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Stephanstag (regionaler Feiertag)
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20220102
+DTEND;VALUE=DATE:20220103
+DTSTAMP:20260923T121438Z
+UID:20220102_ing9d6fssnrr76urt0k1i8r1ds@google.com
+CLASS:PUBLIC
+CREATED:20250924T143616Z
+DESCRIPTION:Feiertag in Aargau\, Bern\, Freiburg\, Jura\, Thurgau\, Waadt
+LAST-MODIFIED:20250924T143616Z
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Berchtoldstag (regionaler Feiertag)
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20220815
+DTEND;VALUE=DATE:20220816
+DTSTAMP:20260923T121438Z
+UID:20220815_f7elmc0ulnnn55isbg1jcbcqd0@google.com
+CLASS:PUBLIC
+CREATED:20250924T143616Z
+DESCRIPTION:Feiertag in Aargau\, Appenzell Innerrhoden\, Freiburg\, Jura\, 
+ Luzern\, Nidwalden\, Obwalden\, Solothurn\, Schwyz\, Tessin\, Uri\, Wallis\
+ , Zug
+LAST-MODIFIED:20250924T143616Z
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Mariä Himmelfahrt (regionaler Feiertag)
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20221208
+DTEND;VALUE=DATE:20221209
+DTSTAMP:20260923T121438Z
+UID:20221208_96lekn88vap0neimgkv1hrcg1k@google.com
+CLASS:PUBLIC
+CREATED:20250924T143616Z
+DESCRIPTION:Feiertag in Appenzell Innerrhoden\, Luzern\, Nidwalden\, Obwald
+ en\, Schwyz\, Tessin\, Uri\, Wallis\, Zug
+LAST-MODIFIED:20250924T143616Z
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Mariä Empfängnis (regionaler Feiertag)
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20221224
+DTEND;VALUE=DATE:20221225
+DTSTAMP:20260923T121438Z
+UID:20221224_m4mcp7em1j29n3n8jteub9e014@google.com
+CLASS:PUBLIC
+CREATED:20250924T143616Z
+DESCRIPTION:Gedenktag\nWenn Sie Gedenktage ausblenden möchten\, rufen Sie d
+ ie Google Kalender-Einstellungen auf > Feiertage in der Schweiz
+LAST-MODIFIED:20250924T143616Z
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Heiligabend
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20221231
+DTEND;VALUE=DATE:20230101
+DTSTAMP:20260923T121438Z
+UID:20221231_4svj6ebv87okgi4g3fesubdfj4@google.com
+CLASS:PUBLIC
+CREATED:20250924T143616Z
+DESCRIPTION:Gedenktag\nWenn Sie Gedenktage ausblenden möchten\, rufen Sie d
+ ie Google Kalender-Einstellungen auf > Feiertage in der Schweiz
+LAST-MODIFIED:20250924T143616Z
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Silvester
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20230102
+DTEND;VALUE=DATE:20230103
+DTSTAMP:20260923T121438Z
+UID:20230102_d52dhl6nkrfo7ricnc0n8pdo3k@google.com
+CLASS:PUBLIC
+CREATED:20250924T143616Z
+DESCRIPTION:Feiertag in Aargau\, Bern\, Freiburg\, Jura\, Thurgau\, Waadt
+LAST-MODIFIED:20250924T143616Z
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Berchtoldstag (regionaler Feiertag)
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20230106
+DTEND;VALUE=DATE:20230107
+DTSTAMP:20260923T121438Z
+UID:20230106_1uqevi9rjfbk2m3hgmfsu5urqs@google.com
+CLASS:PUBLIC
+CREATED:20250924T143616Z
+DESCRIPTION:Feiertag in Schwyz\, Tessin\, Uri
+LAST-MODIFIED:20250924T143616Z
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Dreikönigsfest (regionaler Feiertag)
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20240106
+DTEND;VALUE=DATE:20240107
+DTSTAMP:20260923T121438Z
+UID:20240106_j5hsj8djqlvmsvltka3bkv7em0@google.com
+CLASS:PUBLIC
+CREATED:20250924T143616Z
+DESCRIPTION:Feiertag in Schwyz\, Tessin\, Uri
+LAST-MODIFIED:20250924T143616Z
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Dreikönigsfest (regionaler Feiertag)
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20240501
+DTEND;VALUE=DATE:20240502
+DTSTAMP:20260923T121438Z
+UID:20240501_j9q1uq0svg5rgrtuievjn1j748@google.com
+CLASS:PUBLIC
+CREATED:20250924T143616Z
+DESCRIPTION:Feiertag in Basel-Landschaft\, Basel-Stadt\, Jura\, Neuenburg\,
+  Schaffhausen\, Zürich\, Thurgau\, Tessin
+LAST-MODIFIED:20250924T143616Z
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Tag der Arbeit (regionaler Feiertag)
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20240815
+DTEND;VALUE=DATE:20240816
+DTSTAMP:20260923T121438Z
+UID:20240815_e92ukikifese4rr7dq5p6pj7og@google.com
+CLASS:PUBLIC
+CREATED:20250924T143616Z
+DESCRIPTION:Feiertag in Aargau\, Appenzell Innerrhoden\, Freiburg\, Jura\, 
+ Luzern\, Nidwalden\, Obwalden\, Solothurn\, Schwyz\, Tessin\, Uri\, Wallis\
+ , Zug
+LAST-MODIFIED:20250924T143616Z
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Mariä Himmelfahrt (regionaler Feiertag)
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20241224
+DTEND;VALUE=DATE:20241225
+DTSTAMP:20260923T121438Z
+UID:20241224_7r5emndtkonjqbnh18ar1o8ac4@google.com
+CLASS:PUBLIC
+CREATED:20250924T143616Z
+DESCRIPTION:Gedenktag\nWenn Sie Gedenktage ausblenden möchten\, rufen Sie d
+ ie Google Kalender-Einstellungen auf > Feiertage in der Schweiz
+LAST-MODIFIED:20250924T143616Z
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Heiligabend
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20241226
+DTEND;VALUE=DATE:20241227
+DTSTAMP:20260923T121438Z
+UID:20241226_o47hjldgcd00nbs3a1lpmdvorc@google.com
+CLASS:PUBLIC
+CREATED:20250924T143616Z
+DESCRIPTION:Feiertag in Zürich\, Bern\, Luzern\, Uri\, Schwyz\, Glarus\, Ba
+ sel-Stadt\, Basel-Landschaft\, Schaffhausen\, Appenzell Ausserrhoden\, Appe
+ nzell Innerrhoden\, St. Gallen\, Graubünden\, Thurgau\, Tessin
+LAST-MODIFIED:20250924T143616Z
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Stephanstag (regionaler Feiertag)
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20241231
+DTEND;VALUE=DATE:20250101
+DTSTAMP:20260923T121438Z
+UID:20241231_kmfkjiphefso6l2h9dn47bjps0@google.com
+CLASS:PUBLIC
+CREATED:20250924T143616Z
+DESCRIPTION:Gedenktag\nWenn Sie Gedenktage ausblenden möchten\, rufen Sie d
+ ie Google Kalender-Einstellungen auf > Feiertage in der Schweiz
+LAST-MODIFIED:20250924T143616Z
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Silvester
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250106
+DTEND;VALUE=DATE:20250107
+DTSTAMP:20260923T121438Z
+UID:20250106_pffvf6ia6l2b8j9bo68mjrquek@google.com
+CLASS:PUBLIC
+CREATED:20250924T143616Z
+DESCRIPTION:Feiertag in Schwyz\, Tessin\, Uri
+LAST-MODIFIED:20250924T143616Z
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Dreikönigsfest (regionaler Feiertag)
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250501
+DTEND;VALUE=DATE:20250502
+DTSTAMP:20260923T121438Z
+UID:20250501_el27l9snpb6am4oi19kq3o455g@google.com
+CLASS:PUBLIC
+CREATED:20250924T143616Z
+DESCRIPTION:Feiertag in Basel-Landschaft\, Basel-Stadt\, Jura\, Neuenburg\,
+  Schaffhausen\, Zürich\, Thurgau\, Tessin
+LAST-MODIFIED:20250924T143616Z
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Tag der Arbeit (regionaler Feiertag)
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250609
+DTEND;VALUE=DATE:20250610
+DTSTAMP:20260923T121438Z
+UID:20250609_vq8ts0l1lhfhih1b7ds5sbn7f0@google.com
+CLASS:PUBLIC
+CREATED:20250924T143616Z
+DESCRIPTION:Feiertag in Zürich\, Bern\, Uri\, Schwyz\, Glarus\, Freiburg\, 
+ Basel-Stadt\, Basel-Landschaft\, Schaffhausen\, Appenzell Ausserrhoden\, Ap
+ penzell Innerrhoden\, St. Gallen\, Aargau\, Graubünden\, Thurgau\, Tessin\,
+  Waadt\, Genf\, Jura
+LAST-MODIFIED:20250924T143616Z
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Pfingstmontag (regionaler Feiertag)
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20251224
+DTEND;VALUE=DATE:20251225
+DTSTAMP:20260923T121438Z
+UID:20251224_g2t1lgt88dvecgvi18tubp92g0@google.com
+CLASS:PUBLIC
+CREATED:20250924T143616Z
+DESCRIPTION:Gedenktag\nWenn Sie Gedenktage ausblenden möchten\, rufen Sie d
+ ie Google Kalender-Einstellungen auf > Feiertage in der Schweiz
+LAST-MODIFIED:20250924T143616Z
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Heiligabend
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20251226
+DTEND;VALUE=DATE:20251227
+DTSTAMP:20260923T121438Z
+UID:20251226_2lj2md94a3vl9hsnj5u2o9f984@google.com
+CLASS:PUBLIC
+CREATED:20250924T143616Z
+DESCRIPTION:Feiertag in Zürich\, Bern\, Luzern\, Uri\, Schwyz\, Glarus\, Ba
+ sel-Stadt\, Basel-Landschaft\, Schaffhausen\, Appenzell Ausserrhoden\, Appe
+ nzell Innerrhoden\, St. Gallen\, Graubünden\, Thurgau\, Tessin
+LAST-MODIFIED:20250924T143616Z
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Stephanstag (regionaler Feiertag)
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260501
+DTEND;VALUE=DATE:20260502
+DTSTAMP:20260923T121438Z
+UID:20260501_46foebjm1uhilhl47luuf5rss4@google.com
+CLASS:PUBLIC
+CREATED:20250924T143616Z
+DESCRIPTION:Feiertag in Basel-Landschaft\, Basel-Stadt\, Jura\, Neuenburg\,
+  Schaffhausen\, Zürich\, Thurgau\, Tessin
+LAST-MODIFIED:20250924T143616Z
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Tag der Arbeit (regionaler Feiertag)
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20261208
+DTEND;VALUE=DATE:20261209
+DTSTAMP:20260923T121438Z
+UID:20261208_8s7lqss2tkr4hc6uikpjn23pa8@google.com
+CLASS:PUBLIC
+CREATED:20250924T143616Z
+DESCRIPTION:Feiertag in Appenzell Innerrhoden\, Luzern\, Nidwalden\, Obwald
+ en\, Schwyz\, Tessin\, Uri\, Wallis\, Zug
+LAST-MODIFIED:20250924T143616Z
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Mariä Empfängnis (regionaler Feiertag)
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20261224
+DTEND;VALUE=DATE:20261225
+DTSTAMP:20260923T121438Z
+UID:20261224_ugf9c6qo3qi4t3rk784a213uto@google.com
+CLASS:PUBLIC
+CREATED:20250924T143616Z
+DESCRIPTION:Gedenktag\nWenn Sie Gedenktage ausblenden möchten\, rufen Sie d
+ ie Google Kalender-Einstellungen auf > Feiertage in der Schweiz
+LAST-MODIFIED:20250924T143616Z
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Heiligabend
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20261226
+DTEND;VALUE=DATE:20261227
+DTSTAMP:20260923T121438Z
+UID:20261226_fssi5cer1lgj43mvrbpdqu2em4@google.com
+CLASS:PUBLIC
+CREATED:20250924T143616Z
+DESCRIPTION:Feiertag in Zürich\, Bern\, Luzern\, Uri\, Schwyz\, Glarus\, Ba
+ sel-Stadt\, Basel-Landschaft\, Schaffhausen\, Appenzell Ausserrhoden\, Appe
+ nzell Innerrhoden\, St. Gallen\, Graubünden\, Thurgau\, Tessin
+LAST-MODIFIED:20250924T143616Z
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Stephanstag (regionaler Feiertag)
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20270329
+DTEND;VALUE=DATE:20270330
+DTSTAMP:20260923T121438Z
+UID:20270329_t4bjnndd3h19r351r1s1rj24hg@google.com
+CLASS:PUBLIC
+CREATED:20250924T143616Z
+DESCRIPTION:Feiertag in Zürich\, Bern\, Uri\, Schwyz\, Glarus\, Freiburg\, 
+ Basel-Stadt\, Basel-Landschaft\, Schaffhausen\, Appenzell Ausserrhoden\, Ap
+ penzell Innerrhoden\, St. Gallen\, Aargau\, Graubünden\, Thurgau\, Tessin\,
+  Waadt\, Genf\, Jura
+LAST-MODIFIED:20250924T143616Z
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Ostermontag (regionaler Feiertag)
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20270517
+DTEND;VALUE=DATE:20270518
+DTSTAMP:20260923T121438Z
+UID:20270517_2ess90g6uh5dsklkdpcm8lethg@google.com
+CLASS:PUBLIC
+CREATED:20250924T143616Z
+DESCRIPTION:Feiertag in Zürich\, Bern\, Uri\, Schwyz\, Glarus\, Freiburg\, 
+ Basel-Stadt\, Basel-Landschaft\, Schaffhausen\, Appenzell Ausserrhoden\, Ap
+ penzell Innerrhoden\, St. Gallen\, Aargau\, Graubünden\, Thurgau\, Tessin\,
+  Waadt\, Genf\, Jura
+LAST-MODIFIED:20250924T143616Z
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Pfingstmontag (regionaler Feiertag)
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20271224
+DTEND;VALUE=DATE:20271225
+DTSTAMP:20260923T121438Z
+UID:20271224_r82o4gcrcdbbk6iokh2eu4rusk@google.com
+CLASS:PUBLIC
+CREATED:20250924T143616Z
+DESCRIPTION:Gedenktag\nWenn Sie Gedenktage ausblenden möchten\, rufen Sie d
+ ie Google Kalender-Einstellungen auf > Feiertage in der Schweiz
+LAST-MODIFIED:20250924T143616Z
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Heiligabend
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20271226
+DTEND;VALUE=DATE:20271227
+DTSTAMP:20260923T121438Z
+UID:20271226_did2r3qpulttklvigr3jpkb8l8@google.com
+CLASS:PUBLIC
+CREATED:20250924T143616Z
+DESCRIPTION:Feiertag in Zürich\, Bern\, Luzern\, Uri\, Schwyz\, Glarus\, Ba
+ sel-Stadt\, Basel-Landschaft\, Schaffhausen\, Appenzell Ausserrhoden\, Appe
+ nzell Innerrhoden\, St. Gallen\, Graubünden\, Thurgau\, Tessin
+LAST-MODIFIED:20250924T143616Z
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Stephanstag (regionaler Feiertag)
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20280102
+DTEND;VALUE=DATE:20280103
+DTSTAMP:20260923T121438Z
+UID:20280102_49i067fbhlepunensskfcobp3s@google.com
+CLASS:PUBLIC
+CREATED:20250924T143616Z
+DESCRIPTION:Feiertag in Aargau\, Bern\, Freiburg\, Jura\, Thurgau\, Waadt
+LAST-MODIFIED:20250924T143616Z
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Berchtoldstag (regionaler Feiertag)
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20280106
+DTEND;VALUE=DATE:20280107
+DTSTAMP:20260923T121438Z
+UID:20280106_fv3ad2lvs3i1rahn96ro5nl20s@google.com
+CLASS:PUBLIC
+CREATED:20250924T143616Z
+DESCRIPTION:Feiertag in Schwyz\, Tessin\, Uri
+LAST-MODIFIED:20250924T143616Z
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Dreikönigsfest (regionaler Feiertag)
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20280417
+DTEND;VALUE=DATE:20280418
+DTSTAMP:20260923T121438Z
+UID:20280417_bpviqa8nbbha13mlpav3f9bgq4@google.com
+CLASS:PUBLIC
+CREATED:20250924T143616Z
+DESCRIPTION:Feiertag in Zürich\, Bern\, Uri\, Schwyz\, Glarus\, Freiburg\, 
+ Basel-Stadt\, Basel-Landschaft\, Schaffhausen\, Appenzell Ausserrhoden\, Ap
+ penzell Innerrhoden\, St. Gallen\, Aargau\, Graubünden\, Thurgau\, Tessin\,
+  Waadt\, Genf\, Jura
+LAST-MODIFIED:20250924T143616Z
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Ostermontag (regionaler Feiertag)
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20280501
+DTEND;VALUE=DATE:20280502
+DTSTAMP:20260923T121438Z
+UID:20280501_odhnlmo7rkfaaerb2mm9k4pi1g@google.com
+CLASS:PUBLIC
+CREATED:20250924T143616Z
+DESCRIPTION:Feiertag in Basel-Landschaft\, Basel-Stadt\, Jura\, Neuenburg\,
+  Schaffhausen\, Zürich\, Thurgau\, Tessin
+LAST-MODIFIED:20250924T143616Z
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Tag der Arbeit (regionaler Feiertag)
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20280815
+DTEND;VALUE=DATE:20280816
+DTSTAMP:20260923T121438Z
+UID:20280815_cg81ug1sv35dgk59q1sijfrfoo@google.com
+CLASS:PUBLIC
+CREATED:20250924T143616Z
+DESCRIPTION:Feiertag in Aargau\, Appenzell Innerrhoden\, Freiburg\, Jura\, 
+ Luzern\, Nidwalden\, Obwalden\, Solothurn\, Schwyz\, Tessin\, Uri\, Wallis\
+ , Zug
+LAST-MODIFIED:20250924T143616Z
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Mariä Himmelfahrt (regionaler Feiertag)
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20281208
+DTEND;VALUE=DATE:20281209
+DTSTAMP:20260923T121438Z
+UID:20281208_jvju3gj64mmvlcp1vptm4jl9c4@google.com
+CLASS:PUBLIC
+CREATED:20250924T143616Z
+DESCRIPTION:Feiertag in Appenzell Innerrhoden\, Luzern\, Nidwalden\, Obwald
+ en\, Schwyz\, Tessin\, Uri\, Wallis\, Zug
+LAST-MODIFIED:20250924T143616Z
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Mariä Empfängnis (regionaler Feiertag)
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20290402
+DTEND;VALUE=DATE:20290403
+DTSTAMP:20260923T121438Z
+UID:20290402_6r42ovo136rj2mqs4aealk8s7g@google.com
+CLASS:PUBLIC
+CREATED:20250924T143616Z
+DESCRIPTION:Feiertag in Zürich\, Bern\, Uri\, Schwyz\, Glarus\, Freiburg\, 
+ Basel-Stadt\, Basel-Landschaft\, Schaffhausen\, Appenzell Ausserrhoden\, Ap
+ penzell Innerrhoden\, St. Gallen\, Aargau\, Graubünden\, Thurgau\, Tessin\,
+  Waadt\, Genf\, Jura
+LAST-MODIFIED:20250924T143616Z
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Ostermontag (regionaler Feiertag)
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20290501
+DTEND;VALUE=DATE:20290502
+DTSTAMP:20260923T121438Z
+UID:20290501_moe4h3ejsqni8acm7aevhl8vts@google.com
+CLASS:PUBLIC
+CREATED:20250924T143616Z
+DESCRIPTION:Feiertag in Basel-Landschaft\, Basel-Stadt\, Jura\, Neuenburg\,
+  Schaffhausen\, Zürich\, Thurgau\, Tessin
+LAST-MODIFIED:20250924T143616Z
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Tag der Arbeit (regionaler Feiertag)
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20291208
+DTEND;VALUE=DATE:20291209
+DTSTAMP:20260923T121438Z
+UID:20291208_qroe1s0im88iiuvur3jnlrvvt8@google.com
+CLASS:PUBLIC
+CREATED:20250924T143616Z
+DESCRIPTION:Feiertag in Appenzell Innerrhoden\, Luzern\, Nidwalden\, Obwald
+ en\, Schwyz\, Tessin\, Uri\, Wallis\, Zug
+LAST-MODIFIED:20250924T143616Z
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Mariä Empfängnis (regionaler Feiertag)
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20291226
+DTEND;VALUE=DATE:20291227
+DTSTAMP:20260923T121438Z
+UID:20291226_3n6jeb9frmcefd7fnkal1e6fkc@google.com
+CLASS:PUBLIC
+CREATED:20250924T143616Z
+DESCRIPTION:Feiertag in Zürich\, Bern\, Luzern\, Uri\, Schwyz\, Glarus\, Ba
+ sel-Stadt\, Basel-Landschaft\, Schaffhausen\, Appenzell Ausserrhoden\, Appe
+ nzell Innerrhoden\, St. Gallen\, Graubünden\, Thurgau\, Tessin
+LAST-MODIFIED:20250924T143616Z
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Stephanstag (regionaler Feiertag)
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20291231
+DTEND;VALUE=DATE:20300101
+DTSTAMP:20260923T121438Z
+UID:20291231_nncdeg5teldgbsa3vcb2390nis@google.com
+CLASS:PUBLIC
+CREATED:20250924T143616Z
+DESCRIPTION:Gedenktag\nWenn Sie Gedenktage ausblenden möchten\, rufen Sie d
+ ie Google Kalender-Einstellungen auf > Feiertage in der Schweiz
+LAST-MODIFIED:20250924T143616Z
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Silvester
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20300102
+DTEND;VALUE=DATE:20300103
+DTSTAMP:20260923T121438Z
+UID:20300102_l26n673br4joeeclqlo5u5leuk@google.com
+CLASS:PUBLIC
+CREATED:20250924T143616Z
+DESCRIPTION:Feiertag in Aargau\, Bern\, Freiburg\, Jura\, Thurgau\, Waadt
+LAST-MODIFIED:20250924T143616Z
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Berchtoldstag (regionaler Feiertag)
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20300106
+DTEND;VALUE=DATE:20300107
+DTSTAMP:20260923T121438Z
+UID:20300106_848o2da7k5snhfqbv61jilb3j4@google.com
+CLASS:PUBLIC
+CREATED:20250924T143616Z
+DESCRIPTION:Feiertag in Schwyz\, Tessin\, Uri
+LAST-MODIFIED:20250924T143616Z
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Dreikönigsfest (regionaler Feiertag)
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20300422
+DTEND;VALUE=DATE:20300423
+DTSTAMP:20260923T121438Z
+UID:20300422_9mg7epsnd2lq560mm4q605j28g@google.com
+CLASS:PUBLIC
+CREATED:20250924T143616Z
+DESCRIPTION:Feiertag in Zürich\, Bern\, Uri\, Schwyz\, Glarus\, Freiburg\, 
+ Basel-Stadt\, Basel-Landschaft\, Schaffhausen\, Appenzell Ausserrhoden\, Ap
+ penzell Innerrhoden\, St. Gallen\, Aargau\, Graubünden\, Thurgau\, Tessin\,
+  Waadt\, Genf\, Jura
+LAST-MODIFIED:20250924T143616Z
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Ostermontag (regionaler Feiertag)
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20300610
+DTEND;VALUE=DATE:20300611
+DTSTAMP:20260923T121438Z
+UID:20300610_cneuc8drh166tmr5vq8ihk9crs@google.com
+CLASS:PUBLIC
+CREATED:20250924T143616Z
+DESCRIPTION:Feiertag in Zürich\, Bern\, Uri\, Schwyz\, Glarus\, Freiburg\, 
+ Basel-Stadt\, Basel-Landschaft\, Schaffhausen\, Appenzell Ausserrhoden\, Ap
+ penzell Innerrhoden\, St. Gallen\, Aargau\, Graubünden\, Thurgau\, Tessin\,
+  Waadt\, Genf\, Jura
+LAST-MODIFIED:20250924T143616Z
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Pfingstmontag (regionaler Feiertag)
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20300815
+DTEND;VALUE=DATE:20300816
+DTSTAMP:20260923T121438Z
+UID:20300815_mqtbu1h2l0vh6hsrj11ein85fc@google.com
+CLASS:PUBLIC
+CREATED:20250924T143616Z
+DESCRIPTION:Feiertag in Aargau\, Appenzell Innerrhoden\, Freiburg\, Jura\, 
+ Luzern\, Nidwalden\, Obwalden\, Solothurn\, Schwyz\, Tessin\, Uri\, Wallis\
+ , Zug
+LAST-MODIFIED:20250924T143616Z
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Mariä Himmelfahrt (regionaler Feiertag)
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20301226
+DTEND;VALUE=DATE:20301227
+DTSTAMP:20260923T121438Z
+UID:20301226_cjgpgua68c7h2mu0f1q3035mtk@google.com
+CLASS:PUBLIC
+CREATED:20250924T143616Z
+DESCRIPTION:Feiertag in Zürich\, Bern\, Luzern\, Uri\, Schwyz\, Glarus\, Ba
+ sel-Stadt\, Basel-Landschaft\, Schaffhausen\, Appenzell Ausserrhoden\, Appe
+ nzell Innerrhoden\, St. Gallen\, Graubünden\, Thurgau\, Tessin
+LAST-MODIFIED:20250924T143616Z
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Stephanstag (regionaler Feiertag)
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20210405
+DTEND;VALUE=DATE:20210406
+DTSTAMP:20260923T121438Z
+UID:20210405_pvop6uoq30mll474e80lptpeac@google.com
+CLASS:PUBLIC
+CREATED:20250924T143713Z
+DESCRIPTION:Feiertag in Zürich\, Bern\, Uri\, Schwyz\, Glarus\, Freiburg\, 
+ Basel-Stadt\, Basel-Landschaft\, Schaffhausen\, Appenzell Ausserrhoden\, Ap
+ penzell Innerrhoden\, St. Gallen\, Aargau\, Graubünden\, Thurgau\, Tessin\,
+  Waadt\, Genf\, Jura
+LAST-MODIFIED:20250924T143713Z
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Ostermontag (regionaler Feiertag)
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20210501
+DTEND;VALUE=DATE:20210502
+DTSTAMP:20260923T121438Z
+UID:20210501_7d2qei9tonfk4bmq42eigu7204@google.com
+CLASS:PUBLIC
+CREATED:20250924T143713Z
+DESCRIPTION:Feiertag in Zürich\, Basel-Stadt\, Basel-Landschaft\, Schaffhau
+ sen\, Thurgau\, Tessin\, Neuenburg\, Jura
+LAST-MODIFIED:20250924T143713Z
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Tag der Arbeit (regionaler Feiertag)
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20211224
+DTEND;VALUE=DATE:20211225
+DTSTAMP:20260923T121438Z
+UID:20211224_173ec2d010jpe958lc9t5mvisk@google.com
+CLASS:PUBLIC
+CREATED:20250924T143713Z
+DESCRIPTION:Gedenktag\nWenn Sie Gedenktage ausblenden möchten\, rufen Sie d
+ ie Google Kalender-Einstellungen auf > Feiertage in der Schweiz
+LAST-MODIFIED:20250924T143713Z
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Heiligabend
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20220501
+DTEND;VALUE=DATE:20220502
+DTSTAMP:20260923T121438Z
+UID:20220501_pvrnglkp1ca2f84g3ieh9j0osc@google.com
+CLASS:PUBLIC
+CREATED:20250924T143713Z
+DESCRIPTION:Feiertag in Basel-Landschaft\, Basel-Stadt\, Jura\, Neuenburg\,
+  Schaffhausen\, Zürich\, Thurgau\, Tessin
+LAST-MODIFIED:20250924T143713Z
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Tag der Arbeit (regionaler Feiertag)
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20231231
+DTEND;VALUE=DATE:20240101
+DTSTAMP:20260923T121438Z
+UID:20231231_7hc4e88r1omkqesmtiblg6lql8@google.com
+CLASS:PUBLIC
+CREATED:20250924T143713Z
+DESCRIPTION:Gedenktag\nWenn Sie Gedenktage ausblenden möchten\, rufen Sie d
+ ie Google Kalender-Einstellungen auf > Feiertage in der Schweiz
+LAST-MODIFIED:20250924T143713Z
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Silvester
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20240102
+DTEND;VALUE=DATE:20240103
+DTSTAMP:20260923T121438Z
+UID:20240102_o8vkk0jipcpccch7934clqnf7s@google.com
+CLASS:PUBLIC
+CREATED:20250924T143713Z
+DESCRIPTION:Feiertag in Aargau\, Bern\, Freiburg\, Jura\, Thurgau\, Waadt
+LAST-MODIFIED:20250924T143713Z
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Berchtoldstag (regionaler Feiertag)
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260106
+DTEND;VALUE=DATE:20260107
+DTSTAMP:20260923T121438Z
+UID:20260106_9928c22munkb0a74lhh8hlf2p0@google.com
+CLASS:PUBLIC
+CREATED:20250924T143713Z
+DESCRIPTION:Feiertag in Schwyz\, Tessin\, Uri
+LAST-MODIFIED:20250924T143713Z
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Dreikönigsfest (regionaler Feiertag)
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260525
+DTEND;VALUE=DATE:20260526
+DTSTAMP:20260923T121438Z
+UID:20260525_366uhhspdqb3ki6nlur70dabck@google.com
+CLASS:PUBLIC
+CREATED:20250924T143713Z
+DESCRIPTION:Feiertag in Zürich\, Bern\, Uri\, Schwyz\, Glarus\, Freiburg\, 
+ Basel-Stadt\, Basel-Landschaft\, Schaffhausen\, Appenzell Ausserrhoden\, Ap
+ penzell Innerrhoden\, St. Gallen\, Aargau\, Graubünden\, Thurgau\, Tessin\,
+  Waadt\, Genf\, Jura
+LAST-MODIFIED:20250924T143713Z
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Pfingstmontag (regionaler Feiertag)
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260815
+DTEND;VALUE=DATE:20260816
+DTSTAMP:20260923T121438Z
+UID:20260815_o806q2uvmt5savq62rhi9ug444@google.com
+CLASS:PUBLIC
+CREATED:20250924T143713Z
+DESCRIPTION:Feiertag in Aargau\, Appenzell Innerrhoden\, Freiburg\, Jura\, 
+ Luzern\, Nidwalden\, Obwalden\, Solothurn\, Schwyz\, Tessin\, Uri\, Wallis\
+ , Zug
+LAST-MODIFIED:20250924T143713Z
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Mariä Himmelfahrt (regionaler Feiertag)
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20261231
+DTEND;VALUE=DATE:20270101
+DTSTAMP:20260923T121438Z
+UID:20261231_54jggqgtth17r2afjv31cnsr5k@google.com
+CLASS:PUBLIC
+CREATED:20250924T143713Z
+DESCRIPTION:Gedenktag\nWenn Sie Gedenktage ausblenden möchten\, rufen Sie d
+ ie Google Kalender-Einstellungen auf > Feiertage in der Schweiz
+LAST-MODIFIED:20250924T143713Z
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Silvester
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20270106
+DTEND;VALUE=DATE:20270107
+DTSTAMP:20260923T121438Z
+UID:20270106_8iq54vm7905npogsu5urluo4es@google.com
+CLASS:PUBLIC
+CREATED:20250924T143713Z
+DESCRIPTION:Feiertag in Schwyz\, Tessin\, Uri
+LAST-MODIFIED:20250924T143713Z
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Dreikönigsfest (regionaler Feiertag)
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20270815
+DTEND;VALUE=DATE:20270816
+DTSTAMP:20260923T121438Z
+UID:20270815_go1n25esd9nnboj3ua3qph6o3o@google.com
+CLASS:PUBLIC
+CREATED:20250924T143713Z
+DESCRIPTION:Feiertag in Aargau\, Appenzell Innerrhoden\, Freiburg\, Jura\, 
+ Luzern\, Nidwalden\, Obwalden\, Solothurn\, Schwyz\, Tessin\, Uri\, Wallis\
+ , Zug
+LAST-MODIFIED:20250924T143713Z
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Mariä Himmelfahrt (regionaler Feiertag)
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20271208
+DTEND;VALUE=DATE:20271209
+DTSTAMP:20260923T121438Z
+UID:20271208_5k51nj7n8hamed5mp56a54gkuk@google.com
+CLASS:PUBLIC
+CREATED:20250924T143713Z
+DESCRIPTION:Feiertag in Appenzell Innerrhoden\, Luzern\, Nidwalden\, Obwald
+ en\, Schwyz\, Tessin\, Uri\, Wallis\, Zug
+LAST-MODIFIED:20250924T143713Z
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Mariä Empfängnis (regionaler Feiertag)
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20281224
+DTEND;VALUE=DATE:20281225
+DTSTAMP:20260923T121438Z
+UID:20281224_kc0fl3g69m31p94lrb44blteg4@google.com
+CLASS:PUBLIC
+CREATED:20250924T143713Z
+DESCRIPTION:Gedenktag\nWenn Sie Gedenktage ausblenden möchten\, rufen Sie d
+ ie Google Kalender-Einstellungen auf > Feiertage in der Schweiz
+LAST-MODIFIED:20250924T143713Z
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Heiligabend
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20281231
+DTEND;VALUE=DATE:20290101
+DTSTAMP:20260923T121438Z
+UID:20281231_rop5pachr2ieceaf048jrhn1eg@google.com
+CLASS:PUBLIC
+CREATED:20250924T143713Z
+DESCRIPTION:Gedenktag\nWenn Sie Gedenktage ausblenden möchten\, rufen Sie d
+ ie Google Kalender-Einstellungen auf > Feiertage in der Schweiz
+LAST-MODIFIED:20250924T143713Z
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Silvester
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20290102
+DTEND;VALUE=DATE:20290103
+DTSTAMP:20260923T121438Z
+UID:20290102_fcraj763gr34l161n6ljhhj98g@google.com
+CLASS:PUBLIC
+CREATED:20250924T143713Z
+DESCRIPTION:Feiertag in Aargau\, Bern\, Freiburg\, Jura\, Thurgau\, Waadt
+LAST-MODIFIED:20250924T143713Z
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Berchtoldstag (regionaler Feiertag)
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20290815
+DTEND;VALUE=DATE:20290816
+DTSTAMP:20260923T121438Z
+UID:20290815_uuq0osvcsu71gtvm64cgkhudm8@google.com
+CLASS:PUBLIC
+CREATED:20250924T143713Z
+DESCRIPTION:Feiertag in Aargau\, Appenzell Innerrhoden\, Freiburg\, Jura\, 
+ Luzern\, Nidwalden\, Obwalden\, Solothurn\, Schwyz\, Tessin\, Uri\, Wallis\
+ , Zug
+LAST-MODIFIED:20250924T143713Z
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Mariä Himmelfahrt (regionaler Feiertag)
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20310101
+DTEND;VALUE=DATE:20310102
+DTSTAMP:20260923T121438Z
+UID:20310101_97bme8hl5aqv5cb9oec090pdbs@google.com
+CLASS:PUBLIC
+CREATED:20260102T074931Z
+DESCRIPTION:Feiertag in Zürich\, Bern\, Luzern\, Uri\, Schwyz\, Obwalden\, 
+ Nidwalden\, Glarus\, Zug\, Freiburg\, Solothurn\, Basel-Stadt\, Basel-Lands
+ chaft\, Schaffhausen\, Appenzell Ausserrhoden\, Appenzell Innerrhoden\, St.
+  Gallen\, Aargau\, Graubünden\, Thurgau\, Tessin\, Waadt\, Wallis\, Neuenbu
+ rg\, Genf\, Jura
+LAST-MODIFIED:20260102T074931Z
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Neujahr (regionaler Feiertag)
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20310102
+DTEND;VALUE=DATE:20310103
+DTSTAMP:20260923T121438Z
+UID:20310102_chr4e3dgqjjod0oeu7pfn4j3pc@google.com
+CLASS:PUBLIC
+CREATED:20260102T074931Z
+DESCRIPTION:Feiertag in Aargau\, Bern\, Freiburg\, Jura\, Thurgau\, Waadt
+LAST-MODIFIED:20260102T074931Z
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Berchtoldstag (regionaler Feiertag)
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20310106
+DTEND;VALUE=DATE:20310107
+DTSTAMP:20260923T121438Z
+UID:20310106_i87ftvp69rfr7qea6u5nfooobk@google.com
+CLASS:PUBLIC
+CREATED:20260102T074931Z
+DESCRIPTION:Feiertag in Schwyz\, Tessin\, Uri
+LAST-MODIFIED:20260102T074931Z
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Dreikönigsfest (regionaler Feiertag)
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20310214
+DTEND;VALUE=DATE:20310215
+DTSTAMP:20260923T121438Z
+UID:20310214_ah5bg8sb17egqjv2t2p3tpuqok@google.com
+CLASS:PUBLIC
+CREATED:20260102T074931Z
+DESCRIPTION:Gedenktag\nWenn Sie Gedenktage ausblenden möchten\, rufen Sie d
+ ie Google Kalender-Einstellungen auf > Feiertage in der Schweiz
+LAST-MODIFIED:20260102T074931Z
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Valentinstag
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20310319
+DTEND;VALUE=DATE:20310320
+DTSTAMP:20260923T121438Z
+UID:20310319_rcpj00ckv0ira077iauls0k7ko@google.com
+CLASS:PUBLIC
+CREATED:20260102T074931Z
+DESCRIPTION:Feiertag in Luzern\, Nidwalden\, Solothurn\, Schwyz\, Tessin\, 
+ Uri\, Wallis
+LAST-MODIFIED:20260102T074931Z
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Josefstag (regionaler Feiertag)
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20310330
+DTEND;VALUE=DATE:20310331
+DTSTAMP:20260923T121438Z
+UID:20310330_pdfvtoc8dj9u70mdij6s3mf5a4@google.com
+CLASS:PUBLIC
+CREATED:20260102T074931Z
+DESCRIPTION:Gedenktag\nWenn Sie Gedenktage ausblenden möchten\, rufen Sie d
+ ie Google Kalender-Einstellungen auf > Feiertage in der Schweiz
+LAST-MODIFIED:20260102T074931Z
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Beginn der Sommerzeit
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20310411
+DTEND;VALUE=DATE:20310412
+DTSTAMP:20260923T121438Z
+UID:20310411_h9bt97nq6d5ducfvlnb4go6sc4@google.com
+CLASS:PUBLIC
+CREATED:20260102T074931Z
+DESCRIPTION:Feiertag in Zürich\, Bern\, Luzern\, Uri\, Schwyz\, Obwalden\, 
+ Nidwalden\, Glarus\, Zug\, Freiburg\, Solothurn\, Basel-Stadt\, Basel-Lands
+ chaft\, Schaffhausen\, Appenzell Ausserrhoden\, Appenzell Innerrhoden\, St.
+  Gallen\, Aargau\, Graubünden\, Thurgau\, Waadt\, Neuenburg\, Genf\, Jura
+LAST-MODIFIED:20260102T074931Z
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Karfreitag (regionaler Feiertag)
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20310413
+DTEND;VALUE=DATE:20310414
+DTSTAMP:20260923T121438Z
+UID:20310413_048s47t832doaiqrk8fuboddrg@google.com
+CLASS:PUBLIC
+CREATED:20260102T074931Z
+DESCRIPTION:Gedenktag\nWenn Sie Gedenktage ausblenden möchten\, rufen Sie d
+ ie Google Kalender-Einstellungen auf > Feiertage in der Schweiz
+LAST-MODIFIED:20260102T074931Z
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Ostersonntag
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20310414
+DTEND;VALUE=DATE:20310415
+DTSTAMP:20260923T121438Z
+UID:20310414_g4br3u30sshjlaq3dl3kukj4o8@google.com
+CLASS:PUBLIC
+CREATED:20260102T074931Z
+DESCRIPTION:Feiertag in Zürich\, Bern\, Uri\, Schwyz\, Glarus\, Freiburg\, 
+ Basel-Stadt\, Basel-Landschaft\, Schaffhausen\, Appenzell Ausserrhoden\, Ap
+ penzell Innerrhoden\, St. Gallen\, Aargau\, Graubünden\, Thurgau\, Tessin\,
+  Waadt\, Genf\, Jura
+LAST-MODIFIED:20260102T074931Z
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Ostermontag (regionaler Feiertag)
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20310501
+DTEND;VALUE=DATE:20310502
+DTSTAMP:20260923T121438Z
+UID:20310501_o6culjaqus61bf0egbecu39dbo@google.com
+CLASS:PUBLIC
+CREATED:20260102T074931Z
+DESCRIPTION:Feiertag in Basel-Landschaft\, Basel-Stadt\, Jura\, Neuenburg\,
+  Schaffhausen\, Zürich\, Thurgau\, Tessin
+LAST-MODIFIED:20260102T074931Z
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Tag der Arbeit (regionaler Feiertag)
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20310511
+DTEND;VALUE=DATE:20310512
+DTSTAMP:20260923T121438Z
+UID:20310511_jp3m4mm455qkbnv6ago5nv02ro@google.com
+CLASS:PUBLIC
+CREATED:20260102T074931Z
+DESCRIPTION:Gedenktag\nWenn Sie Gedenktage ausblenden möchten\, rufen Sie d
+ ie Google Kalender-Einstellungen auf > Feiertage in der Schweiz
+LAST-MODIFIED:20260102T074931Z
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Muttertag
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20310522
+DTEND;VALUE=DATE:20310523
+DTSTAMP:20260923T121438Z
+UID:20310522_1305ngn6iq9r66cq0kjb57ed2s@google.com
+CLASS:PUBLIC
+CREATED:20260102T074931Z
+DESCRIPTION:Feiertag in Zürich\, Bern\, Luzern\, Uri\, Schwyz\, Obwalden\, 
+ Nidwalden\, Glarus\, Zug\, Freiburg\, Solothurn\, Basel-Stadt\, Basel-Lands
+ chaft\, Schaffhausen\, Appenzell Ausserrhoden\, Appenzell Innerrhoden\, St.
+  Gallen\, Aargau\, Graubünden\, Thurgau\, Tessin\, Waadt\, Wallis\, Neuenbu
+ rg\, Genf\, Jura
+LAST-MODIFIED:20260102T074931Z
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Auffahrt (regionaler Feiertag)
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20310601
+DTEND;VALUE=DATE:20310602
+DTSTAMP:20260923T121438Z
+UID:20310601_b6n19rb6lhcecvtk6vccc2hko8@google.com
+CLASS:PUBLIC
+CREATED:20260102T074931Z
+DESCRIPTION:Gedenktag in Zürich\, Bern\, Luzern\, Uri\, Schwyz\, Obwalden\,
+  Nidwalden\, Glarus\, Zug\, Freiburg\, Solothurn\, Basel-Stadt\, Basel-Land
+ schaft\, Schaffhausen\, Appenzell Ausserrhoden\, Appenzell Innerrhoden\, St
+ . Gallen\, Aargau\, Graubünden\, Thurgau\, Tessin\, Waadt\, Wallis\, Neuenb
+ urg\, Genf\, Jura\nWenn Sie Gedenktage ausblenden möchten\, rufen Sie die G
+ oogle Kalender-Einstellungen auf > Feiertage in der Schweiz
+LAST-MODIFIED:20260102T074931Z
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Pfingstsonntag (regionaler Feiertag)
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20310601
+DTEND;VALUE=DATE:20310602
+DTSTAMP:20260923T121438Z
+UID:20310601_edae93uasd9acne2ttsp4f48t4@google.com
+CLASS:PUBLIC
+CREATED:20260102T074931Z
+DESCRIPTION:Gedenktag\nWenn Sie Gedenktage ausblenden möchten\, rufen Sie d
+ ie Google Kalender-Einstellungen auf > Feiertage in der Schweiz
+LAST-MODIFIED:20260102T074931Z
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Vatertag
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20310602
+DTEND;VALUE=DATE:20310603
+DTSTAMP:20260923T121438Z
+UID:20310602_bc2pkfn8tccdgcu8cnc8h559ns@google.com
+CLASS:PUBLIC
+CREATED:20260102T074931Z
+DESCRIPTION:Feiertag in Zürich\, Bern\, Uri\, Schwyz\, Glarus\, Freiburg\, 
+ Basel-Stadt\, Basel-Landschaft\, Schaffhausen\, Appenzell Ausserrhoden\, Ap
+ penzell Innerrhoden\, St. Gallen\, Aargau\, Graubünden\, Thurgau\, Tessin\,
+  Waadt\, Genf\, Jura
+LAST-MODIFIED:20260102T074931Z
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Pfingstmontag (regionaler Feiertag)
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20310612
+DTEND;VALUE=DATE:20310613
+DTSTAMP:20260923T121438Z
+UID:20310612_fj6c3tjouicmiofjnk798omr2o@google.com
+CLASS:PUBLIC
+CREATED:20260102T074931Z
+DESCRIPTION:Feiertag in Aargau\, Appenzell Innerrhoden\, Freiburg\, Jura\, 
+ Luzern\, Nidwalden\, Obwalden\, Solothurn\, Schwyz\, Tessin\, Uri\, Wallis\
+ , Zug
+LAST-MODIFIED:20260102T074931Z
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Fronleichnam (regionaler Feiertag)
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20310801
+DTEND;VALUE=DATE:20310802
+DTSTAMP:20260923T121438Z
+UID:20310801_qm7n417b783f8k7gpohv4jfejk@google.com
+CLASS:PUBLIC
+CREATED:20260102T074931Z
+DESCRIPTION:Gesetzlicher Feiertag
+LAST-MODIFIED:20260102T074931Z
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Schweizer Nationalfeiertag
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20310815
+DTEND;VALUE=DATE:20310816
+DTSTAMP:20260923T121438Z
+UID:20310815_q94runhpq9607stpf2rirg4dak@google.com
+CLASS:PUBLIC
+CREATED:20260102T074931Z
+DESCRIPTION:Feiertag in Aargau\, Appenzell Innerrhoden\, Freiburg\, Jura\, 
+ Luzern\, Nidwalden\, Obwalden\, Solothurn\, Schwyz\, Tessin\, Uri\, Wallis\
+ , Zug
+LAST-MODIFIED:20260102T074931Z
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Mariä Himmelfahrt (regionaler Feiertag)
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20310913
+DTEND;VALUE=DATE:20310914
+DTSTAMP:20260923T121438Z
+UID:20310913_omp6mmatv0lgh457kol3ot7cok@google.com
+CLASS:PUBLIC
+CREATED:20260102T074931Z
+DESCRIPTION:Gedenktag in Zürich\nWenn Sie Gedenktage ausblenden möchten\, r
+ ufen Sie die Google Kalender-Einstellungen auf > Feiertage in der Schweiz
+LAST-MODIFIED:20260102T074931Z
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Knabenschiessen (Zürich)
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20310914
+DTEND;VALUE=DATE:20310915
+DTSTAMP:20260923T121438Z
+UID:20310914_cqgt1cts0fnqrievnumvim7k7c@google.com
+CLASS:PUBLIC
+CREATED:20260102T074931Z
+DESCRIPTION:Gedenktag in Zürich\nWenn Sie Gedenktage ausblenden möchten\, r
+ ufen Sie die Google Kalender-Einstellungen auf > Feiertage in der Schweiz
+LAST-MODIFIED:20260102T074931Z
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Knabenschiessen (Zürich)
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20310915
+DTEND;VALUE=DATE:20310916
+DTSTAMP:20260923T121438Z
+UID:20310915_ev8rhu4agieh8r3i9lebsdpokk@google.com
+CLASS:PUBLIC
+CREATED:20260102T074931Z
+DESCRIPTION:Gedenktag in Zürich\nWenn Sie Gedenktage ausblenden möchten\, r
+ ufen Sie die Google Kalender-Einstellungen auf > Feiertage in der Schweiz
+LAST-MODIFIED:20260102T074931Z
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Knabenschiessen (Zürich)
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20310921
+DTEND;VALUE=DATE:20310922
+DTSTAMP:20260923T121438Z
+UID:20310921_culslq9toflss4r1hfp5nu33eg@google.com
+CLASS:PUBLIC
+CREATED:20260102T074931Z
+DESCRIPTION:Gedenktag in Zürich\, Bern\, Luzern\, Uri\, Schwyz\, Obwalden\,
+  Nidwalden\, Glarus\, Zug\, Freiburg\, Solothurn\, Basel-Stadt\, Basel-Land
+ schaft\, Schaffhausen\, Appenzell Ausserrhoden\, Appenzell Innerrhoden\, St
+ . Gallen\, Aargau\, Graubünden\, Thurgau\, Tessin\, Waadt\, Wallis\, Neuenb
+ urg\, Jura\nWenn Sie Gedenktage ausblenden möchten\, rufen Sie die Google K
+ alender-Einstellungen auf > Feiertage in der Schweiz
+LAST-MODIFIED:20260102T074931Z
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Eidgenössischer Dank-\, Buss- und Bettag (regionaler Feiertag)
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20311026
+DTEND;VALUE=DATE:20311027
+DTSTAMP:20260923T121438Z
+UID:20311026_04227jvs2irpio5idc9p0kidf8@google.com
+CLASS:PUBLIC
+CREATED:20260102T074931Z
+DESCRIPTION:Gedenktag\nWenn Sie Gedenktage ausblenden möchten\, rufen Sie d
+ ie Google Kalender-Einstellungen auf > Feiertage in der Schweiz
+LAST-MODIFIED:20260102T074931Z
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Ende der Sommerzeit
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20311208
+DTEND;VALUE=DATE:20311209
+DTSTAMP:20260923T121438Z
+UID:20311208_7d9e7v29maiq20rm74bs0a5d6g@google.com
+CLASS:PUBLIC
+CREATED:20260102T074931Z
+DESCRIPTION:Feiertag in Appenzell Innerrhoden\, Luzern\, Nidwalden\, Obwald
+ en\, Schwyz\, Tessin\, Uri\, Wallis\, Zug
+LAST-MODIFIED:20260102T074931Z
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Mariä Empfängnis (regionaler Feiertag)
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20311224
+DTEND;VALUE=DATE:20311225
+DTSTAMP:20260923T121438Z
+UID:20311224_a8nndlje4uvc9mac1omnnsbmhg@google.com
+CLASS:PUBLIC
+CREATED:20260102T074931Z
+DESCRIPTION:Gedenktag\nWenn Sie Gedenktage ausblenden möchten\, rufen Sie d
+ ie Google Kalender-Einstellungen auf > Feiertage in der Schweiz
+LAST-MODIFIED:20260102T074931Z
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Heiligabend
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20311225
+DTEND;VALUE=DATE:20311226
+DTSTAMP:20260923T121438Z
+UID:20311225_uu8oe3buc2cmig3g00ala2024o@google.com
+CLASS:PUBLIC
+CREATED:20260102T074931Z
+DESCRIPTION:Feiertag in Zürich\, Bern\, Luzern\, Uri\, Schwyz\, Obwalden\, 
+ Nidwalden\, Glarus\, Zug\, Freiburg\, Solothurn\, Basel-Stadt\, Basel-Lands
+ chaft\, Schaffhausen\, Appenzell Ausserrhoden\, Appenzell Innerrhoden\, St.
+  Gallen\, Aargau\, Graubünden\, Thurgau\, Tessin\, Waadt\, Wallis\, Neuenbu
+ rg\, Genf\, Jura
+LAST-MODIFIED:20260102T074931Z
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Weihnachten (regionaler Feiertag)
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20311226
+DTEND;VALUE=DATE:20311227
+DTSTAMP:20260923T121438Z
+UID:20311226_fuiso4ql7nhmadu2naua5geihk@google.com
+CLASS:PUBLIC
+CREATED:20260102T074931Z
+DESCRIPTION:Feiertag in Zürich\, Bern\, Luzern\, Uri\, Schwyz\, Glarus\, Ba
+ sel-Stadt\, Basel-Landschaft\, Schaffhausen\, Appenzell Ausserrhoden\, Appe
+ nzell Innerrhoden\, St. Gallen\, Graubünden\, Thurgau\, Tessin
+LAST-MODIFIED:20260102T074931Z
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Stephanstag (regionaler Feiertag)
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20311231
+DTEND;VALUE=DATE:20320101
+DTSTAMP:20260923T121438Z
+UID:20311231_j6mfj073rn4bhaotoj0boch310@google.com
+CLASS:PUBLIC
+CREATED:20260102T074931Z
+DESCRIPTION:Gedenktag\nWenn Sie Gedenktage ausblenden möchten\, rufen Sie d
+ ie Google Kalender-Einstellungen auf > Feiertage in der Schweiz
+LAST-MODIFIED:20260102T074931Z
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Silvester
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20211101
+DTEND;VALUE=DATE:20211102
+DTSTAMP:20260923T121438Z
+UID:20211101_1qjvk9lu3s35kgflrpotuoak1c@google.com
+CLASS:PUBLIC
+CREATED:20260618T094224Z
+DESCRIPTION:Feiertag in Aargau\, Appenzell Innerrhoden\, Freiburg\, Glarus\
+ , Jura\, Luzern\, Nidwalden\, Obwalden\, St. Gallen\, Schwyz\, Tessin\, Uri
+ \, Wallis\, Zug
+LAST-MODIFIED:20260618T094224Z
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Allerheiligen (regionaler Feiertag)
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20221101
+DTEND;VALUE=DATE:20221102
+DTSTAMP:20260923T121438Z
+UID:20221101_ldhannf0aqjtjc5r16a5jdnjt0@google.com
+CLASS:PUBLIC
+CREATED:20260618T094224Z
+DESCRIPTION:Feiertag in Aargau\, Appenzell Innerrhoden\, Freiburg\, Glarus\
+ , Jura\, Luzern\, Nidwalden\, Obwalden\, St. Gallen\, Schwyz\, Tessin\, Uri
+ \, Wallis\, Zug
+LAST-MODIFIED:20260618T094224Z
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Allerheiligen (regionaler Feiertag)
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20231101
+DTEND;VALUE=DATE:20231102
+DTSTAMP:20260923T121438Z
+UID:20231101_m4ignvds8jukmo1raahldcp4ho@google.com
+CLASS:PUBLIC
+CREATED:20260618T094224Z
+DESCRIPTION:Feiertag in Aargau\, Appenzell Innerrhoden\, Freiburg\, Glarus\
+ , Jura\, Luzern\, Nidwalden\, Obwalden\, St. Gallen\, Schwyz\, Tessin\, Uri
+ \, Wallis\, Zug
+LAST-MODIFIED:20260618T094224Z
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Allerheiligen (regionaler Feiertag)
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20241101
+DTEND;VALUE=DATE:20241102
+DTSTAMP:20260923T121438Z
+UID:20241101_ionmrm1ssasi5aq3dlr5ujlrl8@google.com
+CLASS:PUBLIC
+CREATED:20260618T094224Z
+DESCRIPTION:Feiertag in Aargau\, Appenzell Innerrhoden\, Freiburg\, Glarus\
+ , Jura\, Luzern\, Nidwalden\, Obwalden\, St. Gallen\, Schwyz\, Tessin\, Uri
+ \, Wallis\, Zug
+LAST-MODIFIED:20260618T094224Z
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Allerheiligen (regionaler Feiertag)
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20251101
+DTEND;VALUE=DATE:20251102
+DTSTAMP:20260923T121438Z
+UID:20251101_e9uolu1973nj4qur72j0ud4tts@google.com
+CLASS:PUBLIC
+CREATED:20260618T094224Z
+DESCRIPTION:Feiertag in Aargau\, Appenzell Innerrhoden\, Freiburg\, Glarus\
+ , Jura\, Luzern\, Nidwalden\, Obwalden\, St. Gallen\, Schwyz\, Tessin\, Uri
+ \, Wallis\, Zug
+LAST-MODIFIED:20260618T094224Z
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Allerheiligen (regionaler Feiertag)
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20261101
+DTEND;VALUE=DATE:20261102
+DTSTAMP:20260923T121438Z
+UID:20261101_10t5742t50atro3vk793nn176s@google.com
+CLASS:PUBLIC
+CREATED:20260618T094224Z
+DESCRIPTION:Feiertag in Aargau\, Appenzell Innerrhoden\, Freiburg\, Glarus\
+ , Jura\, Luzern\, Nidwalden\, Obwalden\, St. Gallen\, Schwyz\, Tessin\, Uri
+ \, Wallis\, Zug
+LAST-MODIFIED:20260618T094224Z
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Allerheiligen (regionaler Feiertag)
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20271101
+DTEND;VALUE=DATE:20271102
+DTSTAMP:20260923T121438Z
+UID:20271101_2g4v5bqubdvft1t2lsbqvlssio@google.com
+CLASS:PUBLIC
+CREATED:20260618T094224Z
+DESCRIPTION:Feiertag in Aargau\, Appenzell Innerrhoden\, Freiburg\, Glarus\
+ , Jura\, Luzern\, Nidwalden\, Obwalden\, St. Gallen\, Schwyz\, Tessin\, Uri
+ \, Wallis\, Zug
+LAST-MODIFIED:20260618T094224Z
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Allerheiligen (regionaler Feiertag)
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20281101
+DTEND;VALUE=DATE:20281102
+DTSTAMP:20260923T121438Z
+UID:20281101_4iv8grpusjvs42s3hft10fi914@google.com
+CLASS:PUBLIC
+CREATED:20260618T094224Z
+DESCRIPTION:Feiertag in Aargau\, Appenzell Innerrhoden\, Freiburg\, Glarus\
+ , Jura\, Luzern\, Nidwalden\, Obwalden\, St. Gallen\, Schwyz\, Tessin\, Uri
+ \, Wallis\, Zug
+LAST-MODIFIED:20260618T094224Z
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Allerheiligen (regionaler Feiertag)
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20291101
+DTEND;VALUE=DATE:20291102
+DTSTAMP:20260923T121438Z
+UID:20291101_4429k18l0jp6lhlmtclru0eb80@google.com
+CLASS:PUBLIC
+CREATED:20260618T094224Z
+DESCRIPTION:Feiertag in Aargau\, Appenzell Innerrhoden\, Freiburg\, Glarus\
+ , Jura\, Luzern\, Nidwalden\, Obwalden\, St. Gallen\, Schwyz\, Tessin\, Uri
+ \, Wallis\, Zug
+LAST-MODIFIED:20260618T094224Z
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Allerheiligen (regionaler Feiertag)
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20301101
+DTEND;VALUE=DATE:20301102
+DTSTAMP:20260923T121438Z
+UID:20301101_0akjfemnporri96heva15qrn94@google.com
+CLASS:PUBLIC
+CREATED:20260618T094224Z
+DESCRIPTION:Feiertag in Aargau\, Appenzell Innerrhoden\, Freiburg\, Glarus\
+ , Jura\, Luzern\, Nidwalden\, Obwalden\, St. Gallen\, Schwyz\, Tessin\, Uri
+ \, Wallis\, Zug
+LAST-MODIFIED:20260618T094224Z
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Allerheiligen (regionaler Feiertag)
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20311101
+DTEND;VALUE=DATE:20311102
+DTSTAMP:20260923T121438Z
+UID:20311101_7bdrojv9n0bqk6bnkiq92i8ptc@google.com
+CLASS:PUBLIC
+CREATED:20260618T094224Z
+DESCRIPTION:Feiertag in Aargau\, Appenzell Innerrhoden\, Freiburg\, Glarus\
+ , Jura\, Luzern\, Nidwalden\, Obwalden\, St. Gallen\, Schwyz\, Tessin\, Uri
+ \, Wallis\, Zug
+LAST-MODIFIED:20260618T094224Z
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Allerheiligen (regionaler Feiertag)
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR

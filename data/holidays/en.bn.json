@@ -1,0 +1,1036 @@
+{
+ "id": "en.bn",
+ "name": "Holidays in Brunei",
+ "lang": "en",
+ "from": 2021,
+ "to": 2031,
+ "count": 205,
+ "fetchedAt": "2026-09-23T12:14:40.690Z",
+ "events": [
+  {
+   "date": "2021-01-01",
+   "name": "New Year's Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2021-01-02",
+   "name": "Day off for New Year's Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2021-02-12",
+   "name": "Chinese New Year",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2021-02-13",
+   "name": "Day off for Chinese New Year",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2021-02-23",
+   "name": "National Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2021-03-11",
+   "name": "Isra and Mi'raj",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2021-04-14",
+   "name": "Ramadan begins",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2021-04-30",
+   "name": "Nuzul Al-Qur'an",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2021-05-01",
+   "name": "Nuzul Al-Qur'an observed",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2021-05-14",
+   "name": "Eid al-Fitr",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2021-05-15",
+   "name": "Eid al-Fitr Holiday",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2021-05-17",
+   "name": "Eid al-Fitr Holiday",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2021-05-31",
+   "name": "Royal Brunei Armed Forces Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2021-07-15",
+   "name": "Sultan's Birthday",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2021-07-21",
+   "name": "Eid al-Adha",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2021-08-10",
+   "name": "Muharram (Muslim New Year)",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2021-10-19",
+   "name": "Maulidur Rasul",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2021-12-25",
+   "name": "Christmas Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2022-01-01",
+   "name": "New Year's Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2022-02-01",
+   "name": "Chinese New Year",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2022-02-23",
+   "name": "National Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2022-02-28",
+   "name": "Isra and Mi'raj",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2022-04-03",
+   "name": "Ramadan begins",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2022-04-04",
+   "name": "Ramadan begins observed",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2022-04-19",
+   "name": "Nuzul Al-Qur'an",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2022-05-02",
+   "name": "Eid al-Fitr",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2022-05-03",
+   "name": "Eid al-Fitr Holiday",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2022-05-04",
+   "name": "Eid al-Fitr Holiday",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2022-05-31",
+   "name": "Royal Brunei Armed Forces Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2022-07-10",
+   "name": "Eid al-Adha",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2022-07-11",
+   "name": "Day off for Eid al-Adha",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2022-07-15",
+   "name": "Sultan's Birthday",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2022-07-16",
+   "name": "Sultan's Birthday observed",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2022-07-30",
+   "name": "Muharram (Muslim New Year)",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2022-10-08",
+   "name": "Maulidur Rasul",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2022-12-25",
+   "name": "Christmas Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2022-12-26",
+   "name": "Christmas Day observed",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2023-01-01",
+   "name": "New Year's Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2023-01-02",
+   "name": "Day off for New Year's Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2023-01-22",
+   "name": "Chinese New Year",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2023-01-23",
+   "name": "Day off for Chinese New Year",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2023-02-18",
+   "name": "Isra and Mi'raj",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2023-02-23",
+   "name": "National Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2023-03-23",
+   "name": "Ramadan begins",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2023-04-08",
+   "name": "Nuzul Al-Qur'an",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2023-04-22",
+   "name": "Eid al-Fitr",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2023-04-23",
+   "name": "Eid al-Fitr Holiday",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2023-04-24",
+   "name": "Eid al-Fitr Holiday",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2023-04-25",
+   "name": "Eid al-Fitr Holiday",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2023-05-31",
+   "name": "Royal Brunei Armed Forces Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2023-06-29",
+   "name": "Eid al-Adha",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2023-07-15",
+   "name": "Sultan's Birthday",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2023-07-18",
+   "name": "Muharram (Muslim New Year)",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2023-09-28",
+   "name": "Maulidur Rasul",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2023-12-25",
+   "name": "Christmas Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2024-01-01",
+   "name": "New Year's Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2024-02-08",
+   "name": "Isra and Mi'raj",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2024-02-10",
+   "name": "Chinese New Year",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2024-02-23",
+   "name": "National Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2024-02-24",
+   "name": "Day off for National Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2024-03-12",
+   "name": "Ramadan begins",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2024-03-28",
+   "name": "Nuzul Al-Qur'an",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2024-04-10",
+   "name": "Eid al-Fitr",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2024-04-11",
+   "name": "Eid al-Fitr Holiday",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2024-04-12",
+   "name": "Eid al-Fitr Holiday",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2024-04-13",
+   "name": "Eid al-Fitr Holiday observed",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2024-05-31",
+   "name": "Royal Brunei Armed Forces Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2024-06-01",
+   "name": "Day off for Royal Brunei Armed Forces Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2024-06-17",
+   "name": "Eid al-Adha",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2024-07-07",
+   "name": "Muharram (Muslim New Year)",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2024-07-08",
+   "name": "Day off for Muharram (Muslim New Year)",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2024-07-15",
+   "name": "Sultan's Birthday",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2024-09-16",
+   "name": "Maulidur Rasul",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2024-12-25",
+   "name": "Christmas Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2025-01-01",
+   "name": "New Year's Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2025-01-27",
+   "name": "Isra and Mi'raj",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2025-01-29",
+   "name": "Chinese New Year",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2025-02-23",
+   "name": "National Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2025-02-24",
+   "name": "Day off for National Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2025-03-02",
+   "name": "Ramadan begins",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2025-03-03",
+   "name": "Ramadan begins observed",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2025-03-18",
+   "name": "Nuzul Al-Qur'an",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2025-03-31",
+   "name": "Eid al-Fitr",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2025-04-01",
+   "name": "Eid al-Fitr Holiday",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2025-04-02",
+   "name": "Eid al-Fitr Holiday",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2025-05-31",
+   "name": "Royal Brunei Armed Forces Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2025-06-07",
+   "name": "Eid al-Adha",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2025-06-27",
+   "name": "Muharram (Muslim New Year)",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2025-07-15",
+   "name": "Sultan's Birthday",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2025-09-05",
+   "name": "Maulidur Rasul",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2025-09-06",
+   "name": "Maulidur Rasul observed",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2025-12-25",
+   "name": "Christmas Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2026-01-01",
+   "name": "New Year's Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2026-01-17",
+   "name": "Isra and Mi'raj",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2026-02-17",
+   "name": "Chinese New Year",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2026-02-19",
+   "name": "Ramadan begins",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2026-02-23",
+   "name": "National Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2026-03-07",
+   "name": "Nuzul Al-Qur'an",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2026-03-21",
+   "name": "Eid al-Fitr",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2026-03-22",
+   "name": "Eid al-Fitr Holiday",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2026-03-23",
+   "name": "Eid al-Fitr Holiday",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2026-03-24",
+   "name": "Eid al-Fitr Holiday",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2026-05-28",
+   "name": "Eid al-Adha",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2026-05-31",
+   "name": "Royal Brunei Armed Forces Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2026-06-01",
+   "name": "Day off for Royal Brunei Armed Forces Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2026-06-16",
+   "name": "Muharram (Muslim New Year)",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2026-07-15",
+   "name": "Sultan's Birthday",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2026-08-25",
+   "name": "Maulidur Rasul",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2026-12-25",
+   "name": "Christmas Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2026-12-26",
+   "name": "Christmas Day observed",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2027-01-01",
+   "name": "New Year's Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2027-01-06",
+   "name": "Isra and Mi'raj (tentative)",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2027-02-06",
+   "name": "Chinese New Year",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2027-02-08",
+   "name": "Ramadan begins (tentative)",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2027-02-23",
+   "name": "National Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2027-02-24",
+   "name": "Nuzul Al-Qur'an (tentative)",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2027-03-10",
+   "name": "Eid al-Fitr (tentative)",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2027-03-11",
+   "name": "Eid al-Fitr Holiday (tentative)",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2027-03-12",
+   "name": "Eid al-Fitr Holiday (tentative)",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2027-03-13",
+   "name": "Eid al-Fitr Holiday observed (tentative)",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2027-05-17",
+   "name": "Eid al-Adha (tentative)",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2027-05-31",
+   "name": "Royal Brunei Armed Forces Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2027-06-06",
+   "name": "Muharram (Muslim New Year) (tentative)",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2027-06-07",
+   "name": "Day off for Muharram (Muslim New Year) (tentative)",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2027-07-15",
+   "name": "Sultan's Birthday",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2027-08-15",
+   "name": "Maulidur Rasul (tentative)",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2027-08-16",
+   "name": "Maulidur Rasul observed (tentative)",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2027-12-25",
+   "name": "Christmas Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2027-12-26",
+   "name": "Isra and Mi'raj (tentative)",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2027-12-27",
+   "name": "Isra and Mi'raj observed (tentative)",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2028-01-01",
+   "name": "New Year's Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2028-01-26",
+   "name": "Chinese New Year",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2028-01-28",
+   "name": "Ramadan begins (tentative)",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2028-01-29",
+   "name": "Ramadan begins observed (tentative)",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2028-02-13",
+   "name": "Nuzul Al-Qur'an (tentative)",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2028-02-14",
+   "name": "Nuzul Al-Qur'an observed (tentative)",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2028-02-23",
+   "name": "National Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2028-02-27",
+   "name": "Eid al-Fitr (tentative)",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2028-02-28",
+   "name": "Eid al-Fitr Holiday (tentative)",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2028-02-28",
+   "name": "Eid al-Fitr observed (tentative)",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2028-02-29",
+   "name": "Eid al-Fitr Holiday (tentative)",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2028-05-05",
+   "name": "Eid al-Adha (tentative)",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2028-05-06",
+   "name": "Eid al-Adha observed (tentative)",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2028-05-25",
+   "name": "Muharram (Muslim New Year) (tentative)",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2028-05-31",
+   "name": "Royal Brunei Armed Forces Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2028-07-15",
+   "name": "Sultan's Birthday",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2028-08-03",
+   "name": "Maulidur Rasul (tentative)",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2028-12-14",
+   "name": "Isra and Mi'raj (tentative)",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2028-12-25",
+   "name": "Christmas Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2029-01-01",
+   "name": "New Year's Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2029-01-16",
+   "name": "Ramadan begins (tentative)",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2029-02-01",
+   "name": "Nuzul Al-Qur'an (tentative)",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2029-02-13",
+   "name": "Chinese New Year",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2029-02-15",
+   "name": "Eid al-Fitr (tentative)",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2029-02-16",
+   "name": "Eid al-Fitr Holiday (tentative)",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2029-02-17",
+   "name": "Day off for Eid al-Fitr Holiday (tentative)",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2029-02-17",
+   "name": "Eid al-Fitr Holiday (tentative)",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2029-02-23",
+   "name": "National Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2029-02-24",
+   "name": "Day off for National Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2029-04-24",
+   "name": "Eid al-Adha (tentative)",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2029-05-15",
+   "name": "Muharram (Muslim New Year) (tentative)",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2029-05-31",
+   "name": "Royal Brunei Armed Forces Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2029-07-15",
+   "name": "Sultan's Birthday",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2029-07-16",
+   "name": "Sultan's Birthday observed",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2029-07-24",
+   "name": "Maulidur Rasul (tentative)",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2029-12-04",
+   "name": "Isra and Mi'raj (tentative)",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2029-12-25",
+   "name": "Christmas Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2030-01-01",
+   "name": "New Year's Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2030-01-06",
+   "name": "Ramadan begins (tentative)",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2030-01-07",
+   "name": "Ramadan begins observed (tentative)",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2030-01-22",
+   "name": "Nuzul Al-Qur'an (tentative)",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2030-02-03",
+   "name": "Chinese New Year",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2030-02-04",
+   "name": "Day off for Chinese New Year",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2030-02-05",
+   "name": "Eid al-Fitr (tentative)",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2030-02-06",
+   "name": "Eid al-Fitr Holiday (tentative)",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2030-02-07",
+   "name": "Eid al-Fitr Holiday (tentative)",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2030-02-23",
+   "name": "National Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2030-04-14",
+   "name": "Eid al-Adha (tentative)",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2030-04-15",
+   "name": "Eid al-Adha observed (tentative)",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2030-05-04",
+   "name": "Muharram (Muslim New Year) (tentative)",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2030-05-31",
+   "name": "Royal Brunei Armed Forces Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2030-06-01",
+   "name": "Day off for Royal Brunei Armed Forces Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2030-07-13",
+   "name": "Maulidur Rasul (tentative)",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2030-07-15",
+   "name": "Sultan's Birthday",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2030-11-23",
+   "name": "Isra and Mi'raj (tentative)",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2030-12-25",
+   "name": "Christmas Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2030-12-26",
+   "name": "Ramadan begins (tentative)",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2031-01-01",
+   "name": "New Year's Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2031-01-11",
+   "name": "Nuzul Al-Qur'an (tentative)",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2031-01-23",
+   "name": "Chinese New Year",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2031-01-25",
+   "name": "Eid al-Fitr (tentative)",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2031-01-26",
+   "name": "Eid al-Fitr Holiday (tentative)",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2031-01-27",
+   "name": "Day off for Eid al-Fitr Holiday (tentative)",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2031-01-27",
+   "name": "Eid al-Fitr Holiday (tentative)",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2031-02-23",
+   "name": "National Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2031-02-24",
+   "name": "Day off for National Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2031-04-03",
+   "name": "Eid al-Adha (tentative)",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2031-04-23",
+   "name": "Muharram (Muslim New Year) (tentative)",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2031-05-31",
+   "name": "Royal Brunei Armed Forces Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2031-07-02",
+   "name": "Maulidur Rasul (tentative)",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2031-07-15",
+   "name": "Sultan's Birthday",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2031-11-12",
+   "name": "Isra and Mi'raj (tentative)",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2031-12-15",
+   "name": "Ramadan begins (tentative)",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2031-12-25",
+   "name": "Christmas Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2031-12-31",
+   "name": "Nuzul Al-Qur'an (tentative)",
+   "type": "Public holiday"
+  }
+ ]
+}

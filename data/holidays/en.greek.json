@@ -1,0 +1,1236 @@
+{
+ "id": "en.greek",
+ "name": "Holidays in Greece",
+ "lang": "en",
+ "from": 2021,
+ "to": 2031,
+ "count": 245,
+ "fetchedAt": "2026-09-23T12:14:40.808Z",
+ "events": [
+  {
+   "date": "2021-01-01",
+   "name": "New Year Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2021-01-06",
+   "name": "Epiphany",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2021-01-30",
+   "name": "The Three Holy Hierarchs",
+   "type": "Observance"
+  },
+  {
+   "date": "2021-02-14",
+   "name": "Valentine's Day",
+   "type": "Observance"
+  },
+  {
+   "date": "2021-03-15",
+   "name": "Clean Monday",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2021-03-25",
+   "name": "Annunciation of the Virgin Mary",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2021-03-25",
+   "name": "Greek Independence Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2021-04-30",
+   "name": "Orthodox Good Friday",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2021-05-01",
+   "name": "Labor Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2021-05-02",
+   "name": "Orthodox Easter Sunday",
+   "type": "Observance"
+  },
+  {
+   "date": "2021-05-03",
+   "name": "Orthodox Easter Monday",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2021-05-04",
+   "name": "Day off for Labor Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2021-05-09",
+   "name": "Mother’s Day",
+   "type": "Observance"
+  },
+  {
+   "date": "2021-06-20",
+   "name": "Father's Day",
+   "type": "Observance"
+  },
+  {
+   "date": "2021-06-20",
+   "name": "Orthodox Holy Spirit Sunday",
+   "type": "Observance"
+  },
+  {
+   "date": "2021-06-21",
+   "name": "Orthodox Holy Spirit Monday",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2021-07-24",
+   "name": "The Restoration of Democracy",
+   "type": "Observance"
+  },
+  {
+   "date": "2021-08-15",
+   "name": "Dormition of the Holy Virgin",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2021-10-28",
+   "name": "The Ochi day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2021-11-17",
+   "name": "Polytechneio",
+   "type": "Observance"
+  },
+  {
+   "date": "2021-11-21",
+   "name": "Armed Forces Day",
+   "type": "Observance"
+  },
+  {
+   "date": "2021-12-25",
+   "name": "Christmas Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2021-12-26",
+   "name": "Synaxis of the Mother of God",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2022-01-01",
+   "name": "New Year Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2022-01-06",
+   "name": "Epiphany",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2022-01-30",
+   "name": "The Three Holy Hierarchs",
+   "type": "Observance"
+  },
+  {
+   "date": "2022-02-14",
+   "name": "Valentine's Day",
+   "type": "Observance"
+  },
+  {
+   "date": "2022-03-07",
+   "name": "Clean Monday",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2022-03-25",
+   "name": "Annunciation of the Virgin Mary",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2022-03-25",
+   "name": "Greek Independence Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2022-04-22",
+   "name": "Orthodox Good Friday",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2022-04-24",
+   "name": "Orthodox Easter Sunday",
+   "type": "Observance"
+  },
+  {
+   "date": "2022-04-25",
+   "name": "Orthodox Easter Monday",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2022-05-01",
+   "name": "Labor Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2022-05-02",
+   "name": "Day off for Labor Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2022-05-08",
+   "name": "Mother’s Day",
+   "type": "Observance"
+  },
+  {
+   "date": "2022-06-12",
+   "name": "Orthodox Holy Spirit Sunday",
+   "type": "Observance"
+  },
+  {
+   "date": "2022-06-13",
+   "name": "Orthodox Holy Spirit Monday",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2022-06-19",
+   "name": "Father's Day",
+   "type": "Observance"
+  },
+  {
+   "date": "2022-07-24",
+   "name": "The Restoration of Democracy",
+   "type": "Observance"
+  },
+  {
+   "date": "2022-08-15",
+   "name": "Dormition of the Holy Virgin",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2022-10-28",
+   "name": "The Ochi day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2022-11-17",
+   "name": "Polytechneio",
+   "type": "Observance"
+  },
+  {
+   "date": "2022-11-21",
+   "name": "Armed Forces Day",
+   "type": "Observance"
+  },
+  {
+   "date": "2022-12-25",
+   "name": "Christmas Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2022-12-26",
+   "name": "Synaxis of the Mother of God",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2023-01-01",
+   "name": "New Year Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2023-01-06",
+   "name": "Epiphany",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2023-01-30",
+   "name": "The Three Holy Hierarchs",
+   "type": "Observance"
+  },
+  {
+   "date": "2023-02-14",
+   "name": "Valentine's Day",
+   "type": "Observance"
+  },
+  {
+   "date": "2023-02-27",
+   "name": "Clean Monday",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2023-03-25",
+   "name": "Annunciation of the Virgin Mary",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2023-03-25",
+   "name": "Greek Independence Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2023-04-14",
+   "name": "Orthodox Good Friday",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2023-04-16",
+   "name": "Orthodox Easter Sunday",
+   "type": "Observance"
+  },
+  {
+   "date": "2023-04-17",
+   "name": "Orthodox Easter Monday",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2023-05-01",
+   "name": "Labor Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2023-05-14",
+   "name": "Mother’s Day",
+   "type": "Observance"
+  },
+  {
+   "date": "2023-06-04",
+   "name": "Orthodox Holy Spirit Sunday",
+   "type": "Observance"
+  },
+  {
+   "date": "2023-06-05",
+   "name": "Orthodox Holy Spirit Monday",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2023-06-18",
+   "name": "Father's Day",
+   "type": "Observance"
+  },
+  {
+   "date": "2023-07-24",
+   "name": "The Restoration of Democracy",
+   "type": "Observance"
+  },
+  {
+   "date": "2023-08-15",
+   "name": "Dormition of the Holy Virgin",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2023-10-28",
+   "name": "The Ochi day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2023-11-17",
+   "name": "Polytechneio",
+   "type": "Observance"
+  },
+  {
+   "date": "2023-11-21",
+   "name": "Armed Forces Day",
+   "type": "Observance"
+  },
+  {
+   "date": "2023-12-25",
+   "name": "Christmas Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2023-12-26",
+   "name": "Synaxis of the Mother of God",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2024-01-01",
+   "name": "New Year Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2024-01-06",
+   "name": "Epiphany",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2024-01-30",
+   "name": "The Three Holy Hierarchs",
+   "type": "Observance"
+  },
+  {
+   "date": "2024-02-14",
+   "name": "Valentine's Day",
+   "type": "Observance"
+  },
+  {
+   "date": "2024-03-18",
+   "name": "Clean Monday",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2024-03-25",
+   "name": "Annunciation of the Virgin Mary",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2024-03-25",
+   "name": "Greek Independence Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2024-05-01",
+   "name": "Labor Day",
+   "type": "Observance"
+  },
+  {
+   "date": "2024-05-03",
+   "name": "Orthodox Good Friday",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2024-05-05",
+   "name": "Orthodox Easter Sunday",
+   "type": "Observance"
+  },
+  {
+   "date": "2024-05-06",
+   "name": "Orthodox Easter Monday",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2024-05-07",
+   "name": "Labor Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2024-05-12",
+   "name": "Mother’s Day",
+   "type": "Observance"
+  },
+  {
+   "date": "2024-06-16",
+   "name": "Father's Day",
+   "type": "Observance"
+  },
+  {
+   "date": "2024-06-23",
+   "name": "Orthodox Holy Spirit Sunday",
+   "type": "Observance"
+  },
+  {
+   "date": "2024-06-24",
+   "name": "Orthodox Holy Spirit Monday",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2024-07-24",
+   "name": "The Restoration of Democracy",
+   "type": "Observance"
+  },
+  {
+   "date": "2024-08-15",
+   "name": "Dormition of the Holy Virgin",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2024-10-28",
+   "name": "The Ochi day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2024-11-17",
+   "name": "Polytechneio",
+   "type": "Observance"
+  },
+  {
+   "date": "2024-11-21",
+   "name": "Armed Forces Day",
+   "type": "Observance"
+  },
+  {
+   "date": "2024-12-25",
+   "name": "Christmas Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2024-12-26",
+   "name": "Synaxis of the Mother of God",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2025-01-01",
+   "name": "New Year Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2025-01-06",
+   "name": "Epiphany",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2025-01-30",
+   "name": "The Three Holy Hierarchs",
+   "type": "Observance"
+  },
+  {
+   "date": "2025-02-14",
+   "name": "Valentine's Day",
+   "type": "Observance"
+  },
+  {
+   "date": "2025-03-03",
+   "name": "Clean Monday",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2025-03-25",
+   "name": "Annunciation of the Virgin Mary",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2025-03-25",
+   "name": "Greek Independence Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2025-04-18",
+   "name": "Orthodox Good Friday",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2025-04-20",
+   "name": "Orthodox Easter Sunday",
+   "type": "Observance"
+  },
+  {
+   "date": "2025-04-21",
+   "name": "Orthodox Easter Monday",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2025-05-01",
+   "name": "Labor Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2025-05-11",
+   "name": "Mother’s Day",
+   "type": "Observance"
+  },
+  {
+   "date": "2025-06-08",
+   "name": "Orthodox Holy Spirit Sunday",
+   "type": "Observance"
+  },
+  {
+   "date": "2025-06-09",
+   "name": "Orthodox Holy Spirit Monday",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2025-06-15",
+   "name": "Father's Day",
+   "type": "Observance"
+  },
+  {
+   "date": "2025-07-24",
+   "name": "The Restoration of Democracy",
+   "type": "Observance"
+  },
+  {
+   "date": "2025-08-15",
+   "name": "Dormition of the Holy Virgin",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2025-10-28",
+   "name": "The Ochi day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2025-11-17",
+   "name": "Polytechneio",
+   "type": "Observance"
+  },
+  {
+   "date": "2025-11-21",
+   "name": "Armed Forces Day",
+   "type": "Observance"
+  },
+  {
+   "date": "2025-12-25",
+   "name": "Christmas Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2025-12-26",
+   "name": "Synaxis of the Mother of God",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2026-01-01",
+   "name": "New Year Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2026-01-06",
+   "name": "Epiphany",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2026-01-30",
+   "name": "The Three Holy Hierarchs",
+   "type": "Observance"
+  },
+  {
+   "date": "2026-02-14",
+   "name": "Valentine's Day",
+   "type": "Observance"
+  },
+  {
+   "date": "2026-02-23",
+   "name": "Clean Monday",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2026-03-25",
+   "name": "Annunciation of the Virgin Mary",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2026-03-25",
+   "name": "Greek Independence Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2026-04-10",
+   "name": "Orthodox Good Friday",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2026-04-12",
+   "name": "Orthodox Easter Sunday",
+   "type": "Observance"
+  },
+  {
+   "date": "2026-04-13",
+   "name": "Orthodox Easter Monday",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2026-05-01",
+   "name": "Labor Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2026-05-10",
+   "name": "Mother’s Day",
+   "type": "Observance"
+  },
+  {
+   "date": "2026-05-31",
+   "name": "Orthodox Holy Spirit Sunday",
+   "type": "Observance"
+  },
+  {
+   "date": "2026-06-01",
+   "name": "Orthodox Holy Spirit Monday",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2026-06-21",
+   "name": "Father's Day",
+   "type": "Observance"
+  },
+  {
+   "date": "2026-07-24",
+   "name": "The Restoration of Democracy",
+   "type": "Observance"
+  },
+  {
+   "date": "2026-08-15",
+   "name": "Dormition of the Holy Virgin",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2026-10-28",
+   "name": "The Ochi day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2026-11-17",
+   "name": "Polytechneio",
+   "type": "Observance"
+  },
+  {
+   "date": "2026-11-21",
+   "name": "Armed Forces Day",
+   "type": "Observance"
+  },
+  {
+   "date": "2026-12-25",
+   "name": "Christmas Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2026-12-26",
+   "name": "Synaxis of the Mother of God",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2027-01-01",
+   "name": "New Year Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2027-01-06",
+   "name": "Epiphany",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2027-01-30",
+   "name": "The Three Holy Hierarchs",
+   "type": "Observance"
+  },
+  {
+   "date": "2027-02-14",
+   "name": "Valentine's Day",
+   "type": "Observance"
+  },
+  {
+   "date": "2027-03-15",
+   "name": "Clean Monday",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2027-03-25",
+   "name": "Annunciation of the Virgin Mary",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2027-03-25",
+   "name": "Greek Independence Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2027-04-30",
+   "name": "Orthodox Good Friday",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2027-05-01",
+   "name": "Labor Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2027-05-02",
+   "name": "Orthodox Easter Sunday",
+   "type": "Observance"
+  },
+  {
+   "date": "2027-05-03",
+   "name": "Orthodox Easter Monday",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2027-05-09",
+   "name": "Mother’s Day",
+   "type": "Observance"
+  },
+  {
+   "date": "2027-06-20",
+   "name": "Father's Day",
+   "type": "Observance"
+  },
+  {
+   "date": "2027-06-20",
+   "name": "Orthodox Holy Spirit Sunday",
+   "type": "Observance"
+  },
+  {
+   "date": "2027-06-21",
+   "name": "Orthodox Holy Spirit Monday",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2027-07-24",
+   "name": "The Restoration of Democracy",
+   "type": "Observance"
+  },
+  {
+   "date": "2027-08-15",
+   "name": "Dormition of the Holy Virgin",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2027-10-28",
+   "name": "The Ochi day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2027-11-17",
+   "name": "Polytechneio",
+   "type": "Observance"
+  },
+  {
+   "date": "2027-11-21",
+   "name": "Armed Forces Day",
+   "type": "Observance"
+  },
+  {
+   "date": "2027-12-25",
+   "name": "Christmas Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2027-12-26",
+   "name": "Synaxis of the Mother of God",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2028-01-01",
+   "name": "New Year Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2028-01-06",
+   "name": "Epiphany",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2028-01-30",
+   "name": "The Three Holy Hierarchs",
+   "type": "Observance"
+  },
+  {
+   "date": "2028-02-14",
+   "name": "Valentine's Day",
+   "type": "Observance"
+  },
+  {
+   "date": "2028-02-28",
+   "name": "Clean Monday",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2028-03-25",
+   "name": "Annunciation of the Virgin Mary",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2028-03-25",
+   "name": "Greek Independence Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2028-04-14",
+   "name": "Orthodox Good Friday",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2028-04-16",
+   "name": "Orthodox Easter Sunday",
+   "type": "Observance"
+  },
+  {
+   "date": "2028-04-17",
+   "name": "Orthodox Easter Monday",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2028-05-01",
+   "name": "Labor Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2028-05-14",
+   "name": "Mother’s Day",
+   "type": "Observance"
+  },
+  {
+   "date": "2028-06-04",
+   "name": "Orthodox Holy Spirit Sunday",
+   "type": "Observance"
+  },
+  {
+   "date": "2028-06-05",
+   "name": "Orthodox Holy Spirit Monday",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2028-06-18",
+   "name": "Father's Day",
+   "type": "Observance"
+  },
+  {
+   "date": "2028-07-24",
+   "name": "The Restoration of Democracy",
+   "type": "Observance"
+  },
+  {
+   "date": "2028-08-15",
+   "name": "Dormition of the Holy Virgin",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2028-10-28",
+   "name": "The Ochi day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2028-11-17",
+   "name": "Polytechneio",
+   "type": "Observance"
+  },
+  {
+   "date": "2028-11-21",
+   "name": "Armed Forces Day",
+   "type": "Observance"
+  },
+  {
+   "date": "2028-12-25",
+   "name": "Christmas Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2028-12-26",
+   "name": "Synaxis of the Mother of God",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2029-01-01",
+   "name": "New Year Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2029-01-06",
+   "name": "Epiphany",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2029-01-30",
+   "name": "The Three Holy Hierarchs",
+   "type": "Observance"
+  },
+  {
+   "date": "2029-02-14",
+   "name": "Valentine's Day",
+   "type": "Observance"
+  },
+  {
+   "date": "2029-02-19",
+   "name": "Clean Monday",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2029-03-25",
+   "name": "Annunciation of the Virgin Mary",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2029-03-25",
+   "name": "Greek Independence Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2029-04-06",
+   "name": "Orthodox Good Friday",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2029-04-08",
+   "name": "Orthodox Easter Sunday",
+   "type": "Observance"
+  },
+  {
+   "date": "2029-04-09",
+   "name": "Orthodox Easter Monday",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2029-05-01",
+   "name": "Labor Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2029-05-13",
+   "name": "Mother’s Day",
+   "type": "Observance"
+  },
+  {
+   "date": "2029-05-27",
+   "name": "Orthodox Holy Spirit Sunday",
+   "type": "Observance"
+  },
+  {
+   "date": "2029-05-28",
+   "name": "Orthodox Holy Spirit Monday",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2029-06-17",
+   "name": "Father's Day",
+   "type": "Observance"
+  },
+  {
+   "date": "2029-07-24",
+   "name": "The Restoration of Democracy",
+   "type": "Observance"
+  },
+  {
+   "date": "2029-08-15",
+   "name": "Dormition of the Holy Virgin",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2029-10-28",
+   "name": "The Ochi day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2029-11-17",
+   "name": "Polytechneio",
+   "type": "Observance"
+  },
+  {
+   "date": "2029-11-21",
+   "name": "Armed Forces Day",
+   "type": "Observance"
+  },
+  {
+   "date": "2029-12-25",
+   "name": "Christmas Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2029-12-26",
+   "name": "Synaxis of the Mother of God",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2030-01-01",
+   "name": "New Year Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2030-01-06",
+   "name": "Epiphany",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2030-01-30",
+   "name": "The Three Holy Hierarchs",
+   "type": "Observance"
+  },
+  {
+   "date": "2030-02-14",
+   "name": "Valentine's Day",
+   "type": "Observance"
+  },
+  {
+   "date": "2030-03-11",
+   "name": "Clean Monday",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2030-03-25",
+   "name": "Annunciation of the Virgin Mary",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2030-03-25",
+   "name": "Greek Independence Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2030-04-26",
+   "name": "Orthodox Good Friday",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2030-04-28",
+   "name": "Orthodox Easter Sunday",
+   "type": "Observance"
+  },
+  {
+   "date": "2030-04-29",
+   "name": "Orthodox Easter Monday",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2030-05-01",
+   "name": "Labor Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2030-05-12",
+   "name": "Mother’s Day",
+   "type": "Observance"
+  },
+  {
+   "date": "2030-06-16",
+   "name": "Father's Day",
+   "type": "Observance"
+  },
+  {
+   "date": "2030-06-16",
+   "name": "Orthodox Holy Spirit Sunday",
+   "type": "Observance"
+  },
+  {
+   "date": "2030-06-17",
+   "name": "Orthodox Holy Spirit Monday",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2030-07-24",
+   "name": "The Restoration of Democracy",
+   "type": "Observance"
+  },
+  {
+   "date": "2030-08-15",
+   "name": "Dormition of the Holy Virgin",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2030-10-28",
+   "name": "The Ochi day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2030-11-17",
+   "name": "Polytechneio",
+   "type": "Observance"
+  },
+  {
+   "date": "2030-11-21",
+   "name": "Armed Forces Day",
+   "type": "Observance"
+  },
+  {
+   "date": "2030-12-25",
+   "name": "Christmas Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2030-12-26",
+   "name": "Synaxis of the Mother of God",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2031-01-01",
+   "name": "New Year Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2031-01-06",
+   "name": "Epiphany",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2031-01-30",
+   "name": "The Three Holy Hierarchs",
+   "type": "Observance"
+  },
+  {
+   "date": "2031-02-14",
+   "name": "Valentine's Day",
+   "type": "Observance"
+  },
+  {
+   "date": "2031-02-24",
+   "name": "Clean Monday",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2031-03-25",
+   "name": "Annunciation of the Virgin Mary",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2031-03-25",
+   "name": "Greek Independence Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2031-04-11",
+   "name": "Orthodox Good Friday",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2031-04-13",
+   "name": "Orthodox Easter Sunday",
+   "type": "Observance"
+  },
+  {
+   "date": "2031-04-14",
+   "name": "Orthodox Easter Monday",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2031-05-01",
+   "name": "Labor Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2031-05-11",
+   "name": "Mother’s Day",
+   "type": "Observance"
+  },
+  {
+   "date": "2031-06-01",
+   "name": "Orthodox Holy Spirit Sunday",
+   "type": "Observance"
+  },
+  {
+   "date": "2031-06-02",
+   "name": "Orthodox Holy Spirit Monday",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2031-06-15",
+   "name": "Father's Day",
+   "type": "Observance"
+  },
+  {
+   "date": "2031-07-24",
+   "name": "The Restoration of Democracy",
+   "type": "Observance"
+  },
+  {
+   "date": "2031-08-15",
+   "name": "Dormition of the Holy Virgin",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2031-10-28",
+   "name": "The Ochi day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2031-11-17",
+   "name": "Polytechneio",
+   "type": "Observance"
+  },
+  {
+   "date": "2031-11-21",
+   "name": "Armed Forces Day",
+   "type": "Observance"
+  },
+  {
+   "date": "2031-12-25",
+   "name": "Christmas Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2031-12-26",
+   "name": "Synaxis of the Mother of God",
+   "type": "Public holiday"
+  }
+ ]
+}

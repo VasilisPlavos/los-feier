@@ -1,0 +1,1756 @@
+{
+ "id": "en.rs",
+ "name": "Holidays in Serbia",
+ "lang": "en",
+ "from": 2021,
+ "to": 2031,
+ "count": 349,
+ "fetchedAt": "2026-09-23T12:14:40.998Z",
+ "events": [
+  {
+   "date": "2021-01-01",
+   "name": "Western New Year's Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2021-01-02",
+   "name": "Second Day of Western New Year's Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2021-01-03",
+   "name": "Father’s Day",
+   "type": "Observance"
+  },
+  {
+   "date": "2021-01-06",
+   "name": "First Day of Baptism",
+   "type": "Observance"
+  },
+  {
+   "date": "2021-01-07",
+   "name": "Christmas Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2021-01-14",
+   "name": "New Year",
+   "type": "Observance"
+  },
+  {
+   "date": "2021-01-27",
+   "name": "Spirituality Day/St Sava's Day",
+   "type": "Observance"
+  },
+  {
+   "date": "2021-02-15",
+   "name": "Statehood Day of the Republic of Serbia",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2021-02-16",
+   "name": "Statehood Day of the Republic of Serbia (Day 2)",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2021-03-08",
+   "name": "Mother’s Day",
+   "type": "Observance"
+  },
+  {
+   "date": "2021-04-02",
+   "name": "Western Good Friday",
+   "type": "Observance"
+  },
+  {
+   "date": "2021-04-03",
+   "name": "Western Easter Saturday",
+   "type": "Observance"
+  },
+  {
+   "date": "2021-04-04",
+   "name": "Western Easter Sunday",
+   "type": "Observance"
+  },
+  {
+   "date": "2021-04-05",
+   "name": "Western Easter Monday",
+   "type": "Observance"
+  },
+  {
+   "date": "2021-04-22",
+   "name": "Holocaust Remembrance Day",
+   "type": "Observance"
+  },
+  {
+   "date": "2021-04-30",
+   "name": "Good Friday",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2021-05-01",
+   "name": "Holy Saturday",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2021-05-01",
+   "name": "Labor holiday",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2021-05-02",
+   "name": "Easter Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2021-05-03",
+   "name": "Easter Monday",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2021-05-03",
+   "name": "Labor Day Holiday",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2021-05-04",
+   "name": "Day off for Labor holiday",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2021-05-09",
+   "name": "Victory Day",
+   "type": "Observance"
+  },
+  {
+   "date": "2021-05-13",
+   "name": "Eid al-Fitr",
+   "type": "Observance"
+  },
+  {
+   "date": "2021-06-28",
+   "name": "St Vitus' Day",
+   "type": "Observance"
+  },
+  {
+   "date": "2021-07-20",
+   "name": "First Day of Eid al-Adha",
+   "type": "Observance"
+  },
+  {
+   "date": "2021-09-16",
+   "name": "Yom Kippur",
+   "type": "Observance"
+  },
+  {
+   "date": "2021-10-21",
+   "name": "World War II Victims Remembrance Day",
+   "type": "Observance"
+  },
+  {
+   "date": "2021-11-11",
+   "name": "Armistice Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2021-12-25",
+   "name": "First Day of Western Christmas",
+   "type": "Observance"
+  },
+  {
+   "date": "2021-12-31",
+   "name": "Western New Year's Eve",
+   "type": "Observance"
+  },
+  {
+   "date": "2022-01-01",
+   "name": "Western New Year's Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2022-01-02",
+   "name": "Father’s Day",
+   "type": "Observance"
+  },
+  {
+   "date": "2022-01-02",
+   "name": "Second Day of Western New Year's Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2022-01-03",
+   "name": "Day off for Second Day of Western New Year's Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2022-01-06",
+   "name": "First Day of Baptism",
+   "type": "Observance"
+  },
+  {
+   "date": "2022-01-07",
+   "name": "Christmas Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2022-01-14",
+   "name": "New Year",
+   "type": "Observance"
+  },
+  {
+   "date": "2022-01-27",
+   "name": "Spirituality Day/St Sava's Day",
+   "type": "Observance"
+  },
+  {
+   "date": "2022-02-15",
+   "name": "Statehood Day of the Republic of Serbia",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2022-02-16",
+   "name": "Statehood Day of the Republic of Serbia (Day 2)",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2022-03-08",
+   "name": "Mother’s Day",
+   "type": "Observance"
+  },
+  {
+   "date": "2022-04-15",
+   "name": "Western Good Friday",
+   "type": "Observance"
+  },
+  {
+   "date": "2022-04-16",
+   "name": "Western Easter Saturday",
+   "type": "Observance"
+  },
+  {
+   "date": "2022-04-17",
+   "name": "Western Easter Sunday",
+   "type": "Observance"
+  },
+  {
+   "date": "2022-04-18",
+   "name": "Western Easter Monday",
+   "type": "Observance"
+  },
+  {
+   "date": "2022-04-22",
+   "name": "Good Friday",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2022-04-22",
+   "name": "Holocaust Remembrance Day",
+   "type": "Observance"
+  },
+  {
+   "date": "2022-04-23",
+   "name": "Holy Saturday",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2022-04-24",
+   "name": "Easter Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2022-04-25",
+   "name": "Easter Monday",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2022-05-01",
+   "name": "Labor holiday",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2022-05-02",
+   "name": "Day off for Labor holiday",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2022-05-02",
+   "name": "Eid al-Fitr",
+   "type": "Observance"
+  },
+  {
+   "date": "2022-05-03",
+   "name": "Labor Day Holiday",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2022-05-09",
+   "name": "Victory Day",
+   "type": "Observance"
+  },
+  {
+   "date": "2022-06-28",
+   "name": "St Vitus' Day",
+   "type": "Observance"
+  },
+  {
+   "date": "2022-07-09",
+   "name": "First Day of Eid al-Adha",
+   "type": "Observance"
+  },
+  {
+   "date": "2022-10-05",
+   "name": "Yom Kippur",
+   "type": "Observance"
+  },
+  {
+   "date": "2022-10-21",
+   "name": "World War II Victims Remembrance Day",
+   "type": "Observance"
+  },
+  {
+   "date": "2022-11-11",
+   "name": "Armistice Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2022-12-25",
+   "name": "First Day of Western Christmas",
+   "type": "Observance"
+  },
+  {
+   "date": "2022-12-31",
+   "name": "Western New Year's Eve",
+   "type": "Observance"
+  },
+  {
+   "date": "2023-01-01",
+   "name": "Father’s Day",
+   "type": "Observance"
+  },
+  {
+   "date": "2023-01-01",
+   "name": "Western New Year's Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2023-01-02",
+   "name": "Second Day of Western New Year's Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2023-01-03",
+   "name": "Day off for Western New Year's Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2023-01-06",
+   "name": "First Day of Baptism",
+   "type": "Observance"
+  },
+  {
+   "date": "2023-01-07",
+   "name": "Christmas Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2023-01-14",
+   "name": "New Year",
+   "type": "Observance"
+  },
+  {
+   "date": "2023-01-27",
+   "name": "Spirituality Day/St Sava's Day",
+   "type": "Observance"
+  },
+  {
+   "date": "2023-02-15",
+   "name": "Statehood Day of the Republic of Serbia",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2023-02-16",
+   "name": "Statehood Day of the Republic of Serbia (Day 2)",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2023-03-08",
+   "name": "Mother’s Day",
+   "type": "Observance"
+  },
+  {
+   "date": "2023-03-23",
+   "name": "Ramadan Start",
+   "type": "Observance"
+  },
+  {
+   "date": "2023-04-07",
+   "name": "Western Good Friday",
+   "type": "Observance"
+  },
+  {
+   "date": "2023-04-08",
+   "name": "Western Easter Saturday",
+   "type": "Observance"
+  },
+  {
+   "date": "2023-04-09",
+   "name": "Western Easter Sunday",
+   "type": "Observance"
+  },
+  {
+   "date": "2023-04-10",
+   "name": "Western Easter Monday",
+   "type": "Observance"
+  },
+  {
+   "date": "2023-04-14",
+   "name": "Good Friday",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2023-04-15",
+   "name": "Holy Saturday",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2023-04-16",
+   "name": "Easter Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2023-04-17",
+   "name": "Easter Monday",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2023-04-21",
+   "name": "Eid al-Fitr",
+   "type": "Observance"
+  },
+  {
+   "date": "2023-04-22",
+   "name": "Holocaust Remembrance Day",
+   "type": "Observance"
+  },
+  {
+   "date": "2023-05-01",
+   "name": "Labor holiday",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2023-05-02",
+   "name": "Labor Day Holiday",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2023-05-09",
+   "name": "Victory Day",
+   "type": "Observance"
+  },
+  {
+   "date": "2023-06-28",
+   "name": "St Vitus' Day",
+   "type": "Observance"
+  },
+  {
+   "date": "2023-06-29",
+   "name": "First Day of Eid al-Adha",
+   "type": "Observance"
+  },
+  {
+   "date": "2023-09-25",
+   "name": "Yom Kippur",
+   "type": "Observance"
+  },
+  {
+   "date": "2023-10-21",
+   "name": "World War II Victims Remembrance Day",
+   "type": "Observance"
+  },
+  {
+   "date": "2023-11-11",
+   "name": "Armistice Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2023-12-25",
+   "name": "First Day of Western Christmas",
+   "type": "Observance"
+  },
+  {
+   "date": "2023-12-31",
+   "name": "Father’s Day",
+   "type": "Observance"
+  },
+  {
+   "date": "2023-12-31",
+   "name": "Western New Year's Eve",
+   "type": "Observance"
+  },
+  {
+   "date": "2024-01-01",
+   "name": "Western New Year's Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2024-01-02",
+   "name": "Second Day of Western New Year's Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2024-01-06",
+   "name": "First Day of Baptism",
+   "type": "Observance"
+  },
+  {
+   "date": "2024-01-07",
+   "name": "Christmas Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2024-01-14",
+   "name": "New Year",
+   "type": "Observance"
+  },
+  {
+   "date": "2024-01-27",
+   "name": "Spirituality Day/St Sava's Day",
+   "type": "Observance"
+  },
+  {
+   "date": "2024-02-15",
+   "name": "Statehood Day of the Republic of Serbia",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2024-02-16",
+   "name": "Statehood Day of the Republic of Serbia (Day 2)",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2024-03-08",
+   "name": "Mother’s Day",
+   "type": "Observance"
+  },
+  {
+   "date": "2024-03-11",
+   "name": "Ramadan Start",
+   "type": "Observance"
+  },
+  {
+   "date": "2024-03-29",
+   "name": "Western Good Friday",
+   "type": "Observance"
+  },
+  {
+   "date": "2024-03-30",
+   "name": "Western Easter Saturday",
+   "type": "Observance"
+  },
+  {
+   "date": "2024-03-31",
+   "name": "Western Easter Sunday",
+   "type": "Observance"
+  },
+  {
+   "date": "2024-04-01",
+   "name": "Western Easter Monday",
+   "type": "Observance"
+  },
+  {
+   "date": "2024-04-10",
+   "name": "Eid al-Fitr",
+   "type": "Observance"
+  },
+  {
+   "date": "2024-04-22",
+   "name": "Holocaust Remembrance Day",
+   "type": "Observance"
+  },
+  {
+   "date": "2024-05-01",
+   "name": "Labor holiday",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2024-05-02",
+   "name": "Labor Day Holiday",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2024-05-03",
+   "name": "Good Friday",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2024-05-04",
+   "name": "Holy Saturday",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2024-05-05",
+   "name": "Easter Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2024-05-06",
+   "name": "Easter Monday",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2024-05-09",
+   "name": "Victory Day",
+   "type": "Observance"
+  },
+  {
+   "date": "2024-06-16",
+   "name": "First Day of Eid al-Adha",
+   "type": "Observance"
+  },
+  {
+   "date": "2024-06-28",
+   "name": "St Vitus' Day",
+   "type": "Observance"
+  },
+  {
+   "date": "2024-10-12",
+   "name": "Yom Kippur",
+   "type": "Observance"
+  },
+  {
+   "date": "2024-10-21",
+   "name": "World War II Victims Remembrance Day",
+   "type": "Observance"
+  },
+  {
+   "date": "2024-11-11",
+   "name": "Armistice Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2024-12-25",
+   "name": "First Day of Western Christmas",
+   "type": "Observance"
+  },
+  {
+   "date": "2024-12-31",
+   "name": "Western New Year's Eve",
+   "type": "Observance"
+  },
+  {
+   "date": "2025-01-01",
+   "name": "Western New Year's Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2025-01-02",
+   "name": "Second Day of Western New Year's Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2025-01-05",
+   "name": "Father’s Day",
+   "type": "Observance"
+  },
+  {
+   "date": "2025-01-06",
+   "name": "First Day of Baptism",
+   "type": "Observance"
+  },
+  {
+   "date": "2025-01-07",
+   "name": "Christmas Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2025-01-14",
+   "name": "New Year",
+   "type": "Observance"
+  },
+  {
+   "date": "2025-01-27",
+   "name": "Spirituality Day/St Sava's Day",
+   "type": "Observance"
+  },
+  {
+   "date": "2025-02-15",
+   "name": "Statehood Day of the Republic of Serbia",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2025-02-17",
+   "name": "Statehood Day of the Republic of Serbia (Day 2)",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2025-03-01",
+   "name": "Ramadan Start",
+   "type": "Observance"
+  },
+  {
+   "date": "2025-03-08",
+   "name": "Mother’s Day",
+   "type": "Observance"
+  },
+  {
+   "date": "2025-03-30",
+   "name": "Eid al-Fitr",
+   "type": "Observance"
+  },
+  {
+   "date": "2025-04-18",
+   "name": "Good Friday",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2025-04-18",
+   "name": "Western Good Friday",
+   "type": "Observance"
+  },
+  {
+   "date": "2025-04-19",
+   "name": "Holy Saturday",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2025-04-19",
+   "name": "Western Easter Saturday",
+   "type": "Observance"
+  },
+  {
+   "date": "2025-04-20",
+   "name": "Easter Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2025-04-20",
+   "name": "Western Easter Sunday",
+   "type": "Observance"
+  },
+  {
+   "date": "2025-04-21",
+   "name": "Easter Monday",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2025-04-21",
+   "name": "Western Easter Monday",
+   "type": "Observance"
+  },
+  {
+   "date": "2025-04-22",
+   "name": "Holocaust Remembrance Day",
+   "type": "Observance"
+  },
+  {
+   "date": "2025-05-01",
+   "name": "Labor holiday",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2025-05-02",
+   "name": "Labor Day Holiday",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2025-05-09",
+   "name": "Victory Day",
+   "type": "Observance"
+  },
+  {
+   "date": "2025-06-06",
+   "name": "First Day of Eid al-Adha",
+   "type": "Observance"
+  },
+  {
+   "date": "2025-06-28",
+   "name": "St Vitus' Day",
+   "type": "Observance"
+  },
+  {
+   "date": "2025-10-02",
+   "name": "Yom Kippur",
+   "type": "Observance"
+  },
+  {
+   "date": "2025-10-21",
+   "name": "World War II Victims Remembrance Day",
+   "type": "Observance"
+  },
+  {
+   "date": "2025-11-11",
+   "name": "Armistice Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2025-12-25",
+   "name": "First Day of Western Christmas",
+   "type": "Observance"
+  },
+  {
+   "date": "2025-12-31",
+   "name": "Western New Year's Eve",
+   "type": "Observance"
+  },
+  {
+   "date": "2026-01-01",
+   "name": "Western New Year's Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2026-01-02",
+   "name": "Second Day of Western New Year's Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2026-01-04",
+   "name": "Father’s Day",
+   "type": "Observance"
+  },
+  {
+   "date": "2026-01-06",
+   "name": "First Day of Baptism",
+   "type": "Observance"
+  },
+  {
+   "date": "2026-01-07",
+   "name": "Christmas Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2026-01-14",
+   "name": "New Year",
+   "type": "Observance"
+  },
+  {
+   "date": "2026-01-27",
+   "name": "Spirituality Day/St Sava's Day",
+   "type": "Observance"
+  },
+  {
+   "date": "2026-02-15",
+   "name": "Statehood Day of the Republic of Serbia",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2026-02-16",
+   "name": "Statehood Day of the Republic of Serbia observed",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2026-02-17",
+   "name": "Statehood Day of the Republic of Serbia (Day 2)",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2026-02-19",
+   "name": "Ramadan Start",
+   "type": "Observance"
+  },
+  {
+   "date": "2026-03-08",
+   "name": "Mother’s Day",
+   "type": "Observance"
+  },
+  {
+   "date": "2026-03-20",
+   "name": "Eid al-Fitr",
+   "type": "Observance"
+  },
+  {
+   "date": "2026-04-03",
+   "name": "Western Good Friday",
+   "type": "Observance"
+  },
+  {
+   "date": "2026-04-04",
+   "name": "Western Easter Saturday",
+   "type": "Observance"
+  },
+  {
+   "date": "2026-04-05",
+   "name": "Western Easter Sunday",
+   "type": "Observance"
+  },
+  {
+   "date": "2026-04-06",
+   "name": "Western Easter Monday",
+   "type": "Observance"
+  },
+  {
+   "date": "2026-04-10",
+   "name": "Good Friday",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2026-04-11",
+   "name": "Holy Saturday",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2026-04-12",
+   "name": "Easter Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2026-04-13",
+   "name": "Easter Monday",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2026-04-22",
+   "name": "Holocaust Remembrance Day",
+   "type": "Observance"
+  },
+  {
+   "date": "2026-05-01",
+   "name": "Labor holiday",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2026-05-02",
+   "name": "Labor Day Holiday",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2026-05-09",
+   "name": "Victory Day",
+   "type": "Observance"
+  },
+  {
+   "date": "2026-05-27",
+   "name": "First Day of Eid al-Adha",
+   "type": "Observance"
+  },
+  {
+   "date": "2026-05-28",
+   "name": "Eid al-Adha Holiday",
+   "type": "Observance"
+  },
+  {
+   "date": "2026-05-29",
+   "name": "Eid al-Adha Holiday",
+   "type": "Observance"
+  },
+  {
+   "date": "2026-06-28",
+   "name": "St Vitus' Day",
+   "type": "Observance"
+  },
+  {
+   "date": "2026-09-21",
+   "name": "Yom Kippur",
+   "type": "Observance"
+  },
+  {
+   "date": "2026-10-21",
+   "name": "World War II Victims Remembrance Day",
+   "type": "Observance"
+  },
+  {
+   "date": "2026-11-11",
+   "name": "Armistice Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2026-12-25",
+   "name": "First Day of Western Christmas",
+   "type": "Observance"
+  },
+  {
+   "date": "2026-12-31",
+   "name": "Western New Year's Eve",
+   "type": "Observance"
+  },
+  {
+   "date": "2027-01-01",
+   "name": "Western New Year's Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2027-01-02",
+   "name": "Second Day of Western New Year's Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2027-01-03",
+   "name": "Father’s Day",
+   "type": "Observance"
+  },
+  {
+   "date": "2027-01-06",
+   "name": "First Day of Baptism",
+   "type": "Observance"
+  },
+  {
+   "date": "2027-01-07",
+   "name": "Christmas Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2027-01-14",
+   "name": "New Year",
+   "type": "Observance"
+  },
+  {
+   "date": "2027-01-27",
+   "name": "Spirituality Day/St Sava's Day",
+   "type": "Observance"
+  },
+  {
+   "date": "2027-02-08",
+   "name": "Ramadan Start (tentative)",
+   "type": "Observance"
+  },
+  {
+   "date": "2027-02-15",
+   "name": "Statehood Day of the Republic of Serbia",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2027-02-16",
+   "name": "Statehood Day of the Republic of Serbia (Day 2)",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2027-03-08",
+   "name": "Mother’s Day",
+   "type": "Observance"
+  },
+  {
+   "date": "2027-03-10",
+   "name": "Eid al-Fitr (tentative)",
+   "type": "Observance"
+  },
+  {
+   "date": "2027-03-26",
+   "name": "Western Good Friday",
+   "type": "Observance"
+  },
+  {
+   "date": "2027-03-27",
+   "name": "Western Easter Saturday",
+   "type": "Observance"
+  },
+  {
+   "date": "2027-03-28",
+   "name": "Western Easter Sunday",
+   "type": "Observance"
+  },
+  {
+   "date": "2027-03-29",
+   "name": "Western Easter Monday",
+   "type": "Observance"
+  },
+  {
+   "date": "2027-04-22",
+   "name": "Holocaust Remembrance Day",
+   "type": "Observance"
+  },
+  {
+   "date": "2027-04-30",
+   "name": "Good Friday",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2027-05-01",
+   "name": "Holy Saturday",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2027-05-01",
+   "name": "Labor holiday",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2027-05-02",
+   "name": "Easter Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2027-05-03",
+   "name": "Easter Monday",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2027-05-03",
+   "name": "Labor Day Holiday",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2027-05-09",
+   "name": "Victory Day",
+   "type": "Observance"
+  },
+  {
+   "date": "2027-05-17",
+   "name": "First Day of Eid al-Adha (tentative)",
+   "type": "Observance"
+  },
+  {
+   "date": "2027-06-28",
+   "name": "St Vitus' Day",
+   "type": "Observance"
+  },
+  {
+   "date": "2027-10-11",
+   "name": "Yom Kippur",
+   "type": "Observance"
+  },
+  {
+   "date": "2027-10-21",
+   "name": "World War II Victims Remembrance Day",
+   "type": "Observance"
+  },
+  {
+   "date": "2027-11-11",
+   "name": "Armistice Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2027-12-25",
+   "name": "First Day of Western Christmas",
+   "type": "Observance"
+  },
+  {
+   "date": "2027-12-31",
+   "name": "Western New Year's Eve",
+   "type": "Observance"
+  },
+  {
+   "date": "2028-01-01",
+   "name": "Western New Year's Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2028-01-02",
+   "name": "Father’s Day",
+   "type": "Observance"
+  },
+  {
+   "date": "2028-01-02",
+   "name": "Second Day of Western New Year's Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2028-01-03",
+   "name": "Day off for Second Day of Western New Year's Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2028-01-06",
+   "name": "First Day of Baptism",
+   "type": "Observance"
+  },
+  {
+   "date": "2028-01-07",
+   "name": "Christmas Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2028-01-14",
+   "name": "New Year",
+   "type": "Observance"
+  },
+  {
+   "date": "2028-01-27",
+   "name": "Spirituality Day/St Sava's Day",
+   "type": "Observance"
+  },
+  {
+   "date": "2028-01-28",
+   "name": "Ramadan Start (tentative)",
+   "type": "Observance"
+  },
+  {
+   "date": "2028-02-15",
+   "name": "Statehood Day of the Republic of Serbia",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2028-02-16",
+   "name": "Statehood Day of the Republic of Serbia (Day 2)",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2028-02-27",
+   "name": "Eid al-Fitr (tentative)",
+   "type": "Observance"
+  },
+  {
+   "date": "2028-03-08",
+   "name": "Mother’s Day",
+   "type": "Observance"
+  },
+  {
+   "date": "2028-04-14",
+   "name": "Good Friday",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2028-04-14",
+   "name": "Western Good Friday",
+   "type": "Observance"
+  },
+  {
+   "date": "2028-04-15",
+   "name": "Holy Saturday",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2028-04-15",
+   "name": "Western Easter Saturday",
+   "type": "Observance"
+  },
+  {
+   "date": "2028-04-16",
+   "name": "Easter Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2028-04-16",
+   "name": "Western Easter Sunday",
+   "type": "Observance"
+  },
+  {
+   "date": "2028-04-17",
+   "name": "Easter Monday",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2028-04-17",
+   "name": "Western Easter Monday",
+   "type": "Observance"
+  },
+  {
+   "date": "2028-04-22",
+   "name": "Holocaust Remembrance Day",
+   "type": "Observance"
+  },
+  {
+   "date": "2028-05-01",
+   "name": "Labor holiday",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2028-05-02",
+   "name": "Labor Day Holiday",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2028-05-05",
+   "name": "First Day of Eid al-Adha (tentative)",
+   "type": "Observance"
+  },
+  {
+   "date": "2028-05-09",
+   "name": "Victory Day",
+   "type": "Observance"
+  },
+  {
+   "date": "2028-06-28",
+   "name": "St Vitus' Day",
+   "type": "Observance"
+  },
+  {
+   "date": "2028-09-30",
+   "name": "Yom Kippur",
+   "type": "Observance"
+  },
+  {
+   "date": "2028-10-21",
+   "name": "World War II Victims Remembrance Day",
+   "type": "Observance"
+  },
+  {
+   "date": "2028-11-11",
+   "name": "Armistice Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2028-12-25",
+   "name": "First Day of Western Christmas",
+   "type": "Observance"
+  },
+  {
+   "date": "2028-12-31",
+   "name": "Father’s Day",
+   "type": "Observance"
+  },
+  {
+   "date": "2028-12-31",
+   "name": "Western New Year's Eve",
+   "type": "Observance"
+  },
+  {
+   "date": "2029-01-01",
+   "name": "Western New Year's Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2029-01-02",
+   "name": "Second Day of Western New Year's Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2029-01-06",
+   "name": "First Day of Baptism",
+   "type": "Observance"
+  },
+  {
+   "date": "2029-01-07",
+   "name": "Christmas Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2029-01-14",
+   "name": "New Year",
+   "type": "Observance"
+  },
+  {
+   "date": "2029-01-16",
+   "name": "Ramadan Start (tentative)",
+   "type": "Observance"
+  },
+  {
+   "date": "2029-01-27",
+   "name": "Spirituality Day/St Sava's Day",
+   "type": "Observance"
+  },
+  {
+   "date": "2029-02-15",
+   "name": "Eid al-Fitr (tentative)",
+   "type": "Observance"
+  },
+  {
+   "date": "2029-02-15",
+   "name": "Statehood Day of the Republic of Serbia",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2029-02-16",
+   "name": "Statehood Day of the Republic of Serbia (Day 2)",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2029-03-08",
+   "name": "Mother’s Day",
+   "type": "Observance"
+  },
+  {
+   "date": "2029-03-30",
+   "name": "Western Good Friday",
+   "type": "Observance"
+  },
+  {
+   "date": "2029-03-31",
+   "name": "Western Easter Saturday",
+   "type": "Observance"
+  },
+  {
+   "date": "2029-04-01",
+   "name": "Western Easter Sunday",
+   "type": "Observance"
+  },
+  {
+   "date": "2029-04-02",
+   "name": "Western Easter Monday",
+   "type": "Observance"
+  },
+  {
+   "date": "2029-04-06",
+   "name": "Good Friday",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2029-04-07",
+   "name": "Holy Saturday",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2029-04-08",
+   "name": "Easter Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2029-04-09",
+   "name": "Easter Monday",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2029-04-22",
+   "name": "Holocaust Remembrance Day",
+   "type": "Observance"
+  },
+  {
+   "date": "2029-04-24",
+   "name": "First Day of Eid al-Adha (tentative)",
+   "type": "Observance"
+  },
+  {
+   "date": "2029-05-01",
+   "name": "Labor holiday",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2029-05-02",
+   "name": "Labor Day Holiday",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2029-05-09",
+   "name": "Victory Day",
+   "type": "Observance"
+  },
+  {
+   "date": "2029-06-28",
+   "name": "St Vitus' Day",
+   "type": "Observance"
+  },
+  {
+   "date": "2029-09-19",
+   "name": "Yom Kippur",
+   "type": "Observance"
+  },
+  {
+   "date": "2029-10-21",
+   "name": "World War II Victims Remembrance Day",
+   "type": "Observance"
+  },
+  {
+   "date": "2029-11-11",
+   "name": "Armistice Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2029-11-12",
+   "name": "Armistice Day observed",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2029-12-25",
+   "name": "First Day of Western Christmas",
+   "type": "Observance"
+  },
+  {
+   "date": "2029-12-30",
+   "name": "Father’s Day",
+   "type": "Observance"
+  },
+  {
+   "date": "2029-12-31",
+   "name": "Western New Year's Eve",
+   "type": "Observance"
+  },
+  {
+   "date": "2030-01-01",
+   "name": "Western New Year's Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2030-01-02",
+   "name": "Second Day of Western New Year's Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2030-01-06",
+   "name": "First Day of Baptism",
+   "type": "Observance"
+  },
+  {
+   "date": "2030-01-06",
+   "name": "Ramadan Start (tentative)",
+   "type": "Observance"
+  },
+  {
+   "date": "2030-01-07",
+   "name": "Christmas Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2030-01-14",
+   "name": "New Year",
+   "type": "Observance"
+  },
+  {
+   "date": "2030-01-27",
+   "name": "Spirituality Day/St Sava's Day",
+   "type": "Observance"
+  },
+  {
+   "date": "2030-02-05",
+   "name": "Eid al-Fitr (tentative)",
+   "type": "Observance"
+  },
+  {
+   "date": "2030-02-15",
+   "name": "Statehood Day of the Republic of Serbia",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2030-02-16",
+   "name": "Statehood Day of the Republic of Serbia (Day 2)",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2030-03-08",
+   "name": "Mother’s Day",
+   "type": "Observance"
+  },
+  {
+   "date": "2030-04-14",
+   "name": "First Day of Eid al-Adha (tentative)",
+   "type": "Observance"
+  },
+  {
+   "date": "2030-04-19",
+   "name": "Western Good Friday",
+   "type": "Observance"
+  },
+  {
+   "date": "2030-04-20",
+   "name": "Western Easter Saturday",
+   "type": "Observance"
+  },
+  {
+   "date": "2030-04-21",
+   "name": "Western Easter Sunday",
+   "type": "Observance"
+  },
+  {
+   "date": "2030-04-22",
+   "name": "Holocaust Remembrance Day",
+   "type": "Observance"
+  },
+  {
+   "date": "2030-04-22",
+   "name": "Western Easter Monday",
+   "type": "Observance"
+  },
+  {
+   "date": "2030-04-26",
+   "name": "Good Friday",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2030-04-27",
+   "name": "Holy Saturday",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2030-04-28",
+   "name": "Easter Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2030-04-29",
+   "name": "Easter Monday",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2030-05-01",
+   "name": "Labor holiday",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2030-05-02",
+   "name": "Labor Day Holiday",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2030-05-09",
+   "name": "Victory Day",
+   "type": "Observance"
+  },
+  {
+   "date": "2030-06-28",
+   "name": "St Vitus' Day",
+   "type": "Observance"
+  },
+  {
+   "date": "2030-10-07",
+   "name": "Yom Kippur",
+   "type": "Observance"
+  },
+  {
+   "date": "2030-10-21",
+   "name": "World War II Victims Remembrance Day",
+   "type": "Observance"
+  },
+  {
+   "date": "2030-11-11",
+   "name": "Armistice Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2030-12-25",
+   "name": "First Day of Western Christmas",
+   "type": "Observance"
+  },
+  {
+   "date": "2030-12-26",
+   "name": "Ramadan Start (tentative)",
+   "type": "Observance"
+  },
+  {
+   "date": "2030-12-31",
+   "name": "Western New Year's Eve",
+   "type": "Observance"
+  },
+  {
+   "date": "2031-01-01",
+   "name": "Western New Year's Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2031-01-02",
+   "name": "Second Day of Western New Year's Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2031-01-05",
+   "name": "Father’s Day",
+   "type": "Observance"
+  },
+  {
+   "date": "2031-01-06",
+   "name": "First Day of Baptism",
+   "type": "Observance"
+  },
+  {
+   "date": "2031-01-07",
+   "name": "Christmas Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2031-01-14",
+   "name": "New Year",
+   "type": "Observance"
+  },
+  {
+   "date": "2031-01-25",
+   "name": "Eid al-Fitr (tentative)",
+   "type": "Observance"
+  },
+  {
+   "date": "2031-01-27",
+   "name": "Spirituality Day/St Sava's Day",
+   "type": "Observance"
+  },
+  {
+   "date": "2031-02-15",
+   "name": "Statehood Day of the Republic of Serbia",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2031-02-17",
+   "name": "Statehood Day of the Republic of Serbia (Day 2)",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2031-03-08",
+   "name": "Mother’s Day",
+   "type": "Observance"
+  },
+  {
+   "date": "2031-04-03",
+   "name": "First Day of Eid al-Adha (tentative)",
+   "type": "Observance"
+  },
+  {
+   "date": "2031-04-11",
+   "name": "Good Friday",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2031-04-11",
+   "name": "Western Good Friday",
+   "type": "Observance"
+  },
+  {
+   "date": "2031-04-12",
+   "name": "Holy Saturday",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2031-04-12",
+   "name": "Western Easter Saturday",
+   "type": "Observance"
+  },
+  {
+   "date": "2031-04-13",
+   "name": "Easter Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2031-04-13",
+   "name": "Western Easter Sunday",
+   "type": "Observance"
+  },
+  {
+   "date": "2031-04-14",
+   "name": "Easter Monday",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2031-04-14",
+   "name": "Western Easter Monday",
+   "type": "Observance"
+  },
+  {
+   "date": "2031-04-22",
+   "name": "Holocaust Remembrance Day",
+   "type": "Observance"
+  },
+  {
+   "date": "2031-05-01",
+   "name": "Labor holiday",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2031-05-02",
+   "name": "Labor Day Holiday",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2031-05-09",
+   "name": "Victory Day",
+   "type": "Observance"
+  },
+  {
+   "date": "2031-06-28",
+   "name": "St Vitus' Day",
+   "type": "Observance"
+  },
+  {
+   "date": "2031-09-27",
+   "name": "Yom Kippur",
+   "type": "Observance"
+  },
+  {
+   "date": "2031-10-21",
+   "name": "World War II Victims Remembrance Day",
+   "type": "Observance"
+  },
+  {
+   "date": "2031-11-11",
+   "name": "Armistice Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2031-12-15",
+   "name": "Ramadan Start (tentative)",
+   "type": "Observance"
+  },
+  {
+   "date": "2031-12-25",
+   "name": "First Day of Western Christmas",
+   "type": "Observance"
+  },
+  {
+   "date": "2031-12-31",
+   "name": "Western New Year's Eve",
+   "type": "Observance"
+  }
+ ]
+}

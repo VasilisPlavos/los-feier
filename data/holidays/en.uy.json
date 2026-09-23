@@ -1,0 +1,1046 @@
+{
+ "id": "en.uy",
+ "name": "Holidays in Uruguay",
+ "lang": "en",
+ "from": 2021,
+ "to": 2031,
+ "count": 207,
+ "fetchedAt": "2026-09-23T12:14:41.080Z",
+ "events": [
+  {
+   "date": "2021-01-01",
+   "name": "New Year's Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2021-01-06",
+   "name": "Children's Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2021-02-15",
+   "name": "Carnival / Shrove Monday",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2021-02-16",
+   "name": "Carnival / Shrove Tuesday / Pancake Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2021-04-01",
+   "name": "Maundy Thursday",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2021-04-02",
+   "name": "Good Friday",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2021-04-04",
+   "name": "Easter Sunday",
+   "type": "Observance"
+  },
+  {
+   "date": "2021-04-19",
+   "name": "Landing of the 33 orientals",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2021-05-01",
+   "name": "Labor Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2021-05-18",
+   "name": "Battle of Las Piedras",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2021-06-19",
+   "name": "José Artigas' Birthday Memorial",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2021-07-18",
+   "name": "Constitution Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2021-08-25",
+   "name": "Independence Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2021-10-12",
+   "name": "Day of cultural diversity",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2021-11-02",
+   "name": "All Saints' Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2021-12-24",
+   "name": "Christmas Eve",
+   "type": "Observance"
+  },
+  {
+   "date": "2021-12-25",
+   "name": "Family Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2021-12-31",
+   "name": "New Year's Eve",
+   "type": "Observance"
+  },
+  {
+   "date": "2022-01-01",
+   "name": "New Year's Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2022-01-06",
+   "name": "Children's Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2022-02-28",
+   "name": "Carnival / Shrove Monday",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2022-03-01",
+   "name": "Carnival / Shrove Tuesday / Pancake Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2022-04-14",
+   "name": "Maundy Thursday",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2022-04-15",
+   "name": "Good Friday",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2022-04-17",
+   "name": "Easter Sunday",
+   "type": "Observance"
+  },
+  {
+   "date": "2022-04-18",
+   "name": "Landing of the 33 orientals observed",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2022-04-19",
+   "name": "Landing of the 33 orientals",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2022-05-01",
+   "name": "Labor Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2022-05-18",
+   "name": "Battle of Las Piedras",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2022-06-19",
+   "name": "José Artigas' Birthday Memorial",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2022-07-18",
+   "name": "Constitution Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2022-08-25",
+   "name": "Independence Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2022-10-12",
+   "name": "Day of cultural diversity",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2022-11-02",
+   "name": "All Saints' Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2022-12-24",
+   "name": "Christmas Eve",
+   "type": "Observance"
+  },
+  {
+   "date": "2022-12-25",
+   "name": "Family Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2022-12-31",
+   "name": "New Year's Eve",
+   "type": "Observance"
+  },
+  {
+   "date": "2023-01-01",
+   "name": "New Year's Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2023-01-06",
+   "name": "Children's Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2023-02-20",
+   "name": "Carnival / Shrove Monday",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2023-02-21",
+   "name": "Carnival / Shrove Tuesday / Pancake Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2023-04-06",
+   "name": "Maundy Thursday",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2023-04-07",
+   "name": "Good Friday",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2023-04-09",
+   "name": "Easter Sunday",
+   "type": "Observance"
+  },
+  {
+   "date": "2023-04-17",
+   "name": "Landing of the 33 orientals observed",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2023-04-19",
+   "name": "Landing of the 33 orientals",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2023-05-01",
+   "name": "Labor Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2023-05-18",
+   "name": "Battle of Las Piedras",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2023-05-22",
+   "name": "Battle of Las Piedras observed",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2023-06-19",
+   "name": "José Artigas' Birthday Memorial",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2023-07-18",
+   "name": "Constitution Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2023-08-25",
+   "name": "Independence Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2023-10-12",
+   "name": "Day of cultural diversity",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2023-10-16",
+   "name": "Day of cultural diversity observed",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2023-11-02",
+   "name": "All Saints' Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2023-12-24",
+   "name": "Christmas Eve",
+   "type": "Observance"
+  },
+  {
+   "date": "2023-12-25",
+   "name": "Family Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2023-12-31",
+   "name": "New Year's Eve",
+   "type": "Observance"
+  },
+  {
+   "date": "2024-01-01",
+   "name": "New Year's Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2024-01-06",
+   "name": "Children's Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2024-02-12",
+   "name": "Carnival / Shrove Monday",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2024-02-13",
+   "name": "Carnival / Shrove Tuesday / Pancake Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2024-03-28",
+   "name": "Maundy Thursday",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2024-03-29",
+   "name": "Good Friday",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2024-03-31",
+   "name": "Easter Sunday",
+   "type": "Observance"
+  },
+  {
+   "date": "2024-04-19",
+   "name": "Landing of the 33 orientals",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2024-04-22",
+   "name": "Landing of the 33 orientals observed",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2024-05-01",
+   "name": "Labor Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2024-05-18",
+   "name": "Battle of Las Piedras",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2024-06-19",
+   "name": "José Artigas' Birthday Memorial",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2024-07-18",
+   "name": "Constitution Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2024-08-25",
+   "name": "Independence Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2024-10-12",
+   "name": "Day of cultural diversity",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2024-11-02",
+   "name": "All Saints' Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2024-12-24",
+   "name": "Christmas Eve",
+   "type": "Observance"
+  },
+  {
+   "date": "2024-12-25",
+   "name": "Family Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2024-12-31",
+   "name": "New Year's Eve",
+   "type": "Observance"
+  },
+  {
+   "date": "2025-01-01",
+   "name": "New Year's Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2025-01-06",
+   "name": "Children's Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2025-03-01",
+   "name": "Presidential Inauguration Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2025-03-03",
+   "name": "Carnival / Shrove Monday",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2025-03-04",
+   "name": "Carnival / Shrove Tuesday / Pancake Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2025-04-17",
+   "name": "Maundy Thursday",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2025-04-18",
+   "name": "Good Friday",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2025-04-19",
+   "name": "Landing of the 33 orientals",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2025-04-20",
+   "name": "Easter Sunday",
+   "type": "Observance"
+  },
+  {
+   "date": "2025-05-01",
+   "name": "Labor Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2025-05-18",
+   "name": "Battle of Las Piedras",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2025-06-19",
+   "name": "José Artigas' Birthday Memorial",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2025-07-18",
+   "name": "Constitution Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2025-08-25",
+   "name": "Independence Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2025-10-12",
+   "name": "Day of cultural diversity",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2025-11-02",
+   "name": "All Saints' Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2025-12-24",
+   "name": "Christmas Eve",
+   "type": "Observance"
+  },
+  {
+   "date": "2025-12-25",
+   "name": "Family Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2025-12-31",
+   "name": "New Year's Eve",
+   "type": "Observance"
+  },
+  {
+   "date": "2026-01-01",
+   "name": "New Year's Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2026-01-06",
+   "name": "Children's Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2026-02-16",
+   "name": "Carnival / Shrove Monday",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2026-02-17",
+   "name": "Carnival / Shrove Tuesday / Pancake Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2026-04-02",
+   "name": "Maundy Thursday",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2026-04-03",
+   "name": "Good Friday",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2026-04-05",
+   "name": "Easter Sunday",
+   "type": "Observance"
+  },
+  {
+   "date": "2026-04-19",
+   "name": "Landing of the 33 orientals",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2026-05-01",
+   "name": "Labor Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2026-05-18",
+   "name": "Battle of Las Piedras",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2026-06-19",
+   "name": "José Artigas' Birthday Memorial",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2026-07-18",
+   "name": "Constitution Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2026-08-25",
+   "name": "Independence Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2026-10-12",
+   "name": "Day of cultural diversity",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2026-11-02",
+   "name": "All Saints' Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2026-12-24",
+   "name": "Christmas Eve",
+   "type": "Observance"
+  },
+  {
+   "date": "2026-12-25",
+   "name": "Family Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2026-12-31",
+   "name": "New Year's Eve",
+   "type": "Observance"
+  },
+  {
+   "date": "2027-01-01",
+   "name": "New Year's Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2027-01-06",
+   "name": "Children's Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2027-02-08",
+   "name": "Carnival / Shrove Monday",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2027-02-09",
+   "name": "Carnival / Shrove Tuesday / Pancake Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2027-03-25",
+   "name": "Maundy Thursday",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2027-03-26",
+   "name": "Good Friday",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2027-03-28",
+   "name": "Easter Sunday",
+   "type": "Observance"
+  },
+  {
+   "date": "2027-04-19",
+   "name": "Landing of the 33 orientals",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2027-05-01",
+   "name": "Labor Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2027-05-18",
+   "name": "Battle of Las Piedras",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2027-06-19",
+   "name": "José Artigas' Birthday Memorial",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2027-07-18",
+   "name": "Constitution Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2027-08-25",
+   "name": "Independence Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2027-10-12",
+   "name": "Day of cultural diversity",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2027-11-02",
+   "name": "All Saints' Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2027-12-24",
+   "name": "Christmas Eve",
+   "type": "Observance"
+  },
+  {
+   "date": "2027-12-25",
+   "name": "Family Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2027-12-31",
+   "name": "New Year's Eve",
+   "type": "Observance"
+  },
+  {
+   "date": "2028-01-01",
+   "name": "New Year's Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2028-01-06",
+   "name": "Children's Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2028-02-28",
+   "name": "Carnival / Shrove Monday",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2028-02-29",
+   "name": "Carnival / Shrove Tuesday / Pancake Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2028-04-13",
+   "name": "Maundy Thursday",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2028-04-14",
+   "name": "Good Friday",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2028-04-16",
+   "name": "Easter Sunday",
+   "type": "Observance"
+  },
+  {
+   "date": "2028-04-17",
+   "name": "Landing of the 33 orientals observed",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2028-04-19",
+   "name": "Landing of the 33 orientals",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2028-05-01",
+   "name": "Labor Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2028-05-18",
+   "name": "Battle of Las Piedras",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2028-06-19",
+   "name": "José Artigas' Birthday Memorial",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2028-07-18",
+   "name": "Constitution Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2028-08-25",
+   "name": "Independence Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2028-10-12",
+   "name": "Day of cultural diversity",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2028-11-02",
+   "name": "All Saints' Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2028-12-24",
+   "name": "Christmas Eve",
+   "type": "Observance"
+  },
+  {
+   "date": "2028-12-25",
+   "name": "Family Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2028-12-31",
+   "name": "New Year's Eve",
+   "type": "Observance"
+  },
+  {
+   "date": "2029-01-01",
+   "name": "New Year's Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2029-01-06",
+   "name": "Children's Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2029-02-12",
+   "name": "Carnival / Shrove Monday",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2029-02-13",
+   "name": "Carnival / Shrove Tuesday / Pancake Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2029-03-29",
+   "name": "Maundy Thursday",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2029-03-30",
+   "name": "Good Friday",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2029-04-01",
+   "name": "Easter Sunday",
+   "type": "Observance"
+  },
+  {
+   "date": "2029-04-19",
+   "name": "Landing of the 33 orientals",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2029-04-23",
+   "name": "Landing of the 33 orientals observed",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2029-05-01",
+   "name": "Labor Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2029-05-18",
+   "name": "Battle of Las Piedras",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2029-06-19",
+   "name": "José Artigas' Birthday Memorial",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2029-07-18",
+   "name": "Constitution Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2029-08-25",
+   "name": "Independence Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2029-10-12",
+   "name": "Day of cultural diversity",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2029-11-02",
+   "name": "All Saints' Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2029-12-24",
+   "name": "Christmas Eve",
+   "type": "Observance"
+  },
+  {
+   "date": "2029-12-25",
+   "name": "Family Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2029-12-31",
+   "name": "New Year's Eve",
+   "type": "Observance"
+  },
+  {
+   "date": "2030-01-01",
+   "name": "New Year's Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2030-01-06",
+   "name": "Children's Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2030-03-04",
+   "name": "Carnival / Shrove Monday",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2030-03-05",
+   "name": "Carnival / Shrove Tuesday / Pancake Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2030-04-18",
+   "name": "Maundy Thursday",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2030-04-19",
+   "name": "Good Friday",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2030-04-19",
+   "name": "Landing of the 33 orientals",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2030-04-21",
+   "name": "Easter Sunday",
+   "type": "Observance"
+  },
+  {
+   "date": "2030-04-22",
+   "name": "Landing of the 33 orientals observed",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2030-05-01",
+   "name": "Labor Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2030-05-18",
+   "name": "Battle of Las Piedras",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2030-06-19",
+   "name": "José Artigas' Birthday Memorial",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2030-07-18",
+   "name": "Constitution Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2030-08-25",
+   "name": "Independence Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2030-10-12",
+   "name": "Day of cultural diversity",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2030-11-02",
+   "name": "All Saints' Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2030-12-24",
+   "name": "Christmas Eve",
+   "type": "Observance"
+  },
+  {
+   "date": "2030-12-25",
+   "name": "Family Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2030-12-31",
+   "name": "New Year's Eve",
+   "type": "Observance"
+  },
+  {
+   "date": "2031-01-01",
+   "name": "New Year's Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2031-01-06",
+   "name": "Children's Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2031-02-24",
+   "name": "Carnival / Shrove Monday",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2031-02-25",
+   "name": "Carnival / Shrove Tuesday / Pancake Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2031-04-10",
+   "name": "Maundy Thursday",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2031-04-11",
+   "name": "Good Friday",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2031-04-13",
+   "name": "Easter Sunday",
+   "type": "Observance"
+  },
+  {
+   "date": "2031-04-19",
+   "name": "Landing of the 33 orientals",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2031-05-01",
+   "name": "Labor Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2031-05-18",
+   "name": "Battle of Las Piedras",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2031-06-19",
+   "name": "José Artigas' Birthday Memorial",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2031-07-18",
+   "name": "Constitution Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2031-08-25",
+   "name": "Independence Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2031-10-12",
+   "name": "Day of cultural diversity",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2031-11-02",
+   "name": "All Saints' Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2031-12-24",
+   "name": "Christmas Eve",
+   "type": "Observance"
+  },
+  {
+   "date": "2031-12-25",
+   "name": "Family Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2031-12-31",
+   "name": "New Year's Eve",
+   "type": "Observance"
+  }
+ ]
+}

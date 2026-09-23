@@ -1,0 +1,781 @@
+{
+ "id": "en.km",
+ "name": "Holidays in Comoros",
+ "lang": "en",
+ "from": 2021,
+ "to": 2031,
+ "count": 154,
+ "fetchedAt": "2026-09-23T12:14:40.868Z",
+ "events": [
+  {
+   "date": "2021-01-01",
+   "name": "New Year",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2021-03-11",
+   "name": "Isra and Mi'raj",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2021-03-18",
+   "name": "Cheikh Al Maarouf Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2021-05-01",
+   "name": "Labour Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2021-05-13",
+   "name": "Eid al-Fitr",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2021-05-14",
+   "name": "Eid al-Fitr Holiday",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2021-05-15",
+   "name": "Eid al-Fitr Holiday",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2021-07-06",
+   "name": "National Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2021-07-21",
+   "name": "Eid al-Adha",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2021-08-10",
+   "name": "Muharram",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2021-10-19",
+   "name": "The Prophet's Birthday",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2021-11-12",
+   "name": "Maore Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2022-01-01",
+   "name": "New Year",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2022-02-28",
+   "name": "Isra and Mi'raj",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2022-03-18",
+   "name": "Cheikh Al Maarouf Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2022-05-01",
+   "name": "Labour Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2022-05-03",
+   "name": "Eid al-Fitr",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2022-05-04",
+   "name": "Eid al-Fitr Holiday",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2022-05-05",
+   "name": "Eid al-Fitr Holiday",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2022-07-06",
+   "name": "National Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2022-07-09",
+   "name": "Eid al-Adha",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2022-07-10",
+   "name": "Eid al-Adha Holiday",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2022-07-30",
+   "name": "Muharram",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2022-10-08",
+   "name": "The Prophet's Birthday",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2022-11-12",
+   "name": "Maore Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2023-01-01",
+   "name": "New Year",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2023-02-19",
+   "name": "Isra and Mi'raj",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2023-03-18",
+   "name": "Cheikh Al Maarouf Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2023-03-24",
+   "name": "Ramadan Start",
+   "type": "Observance"
+  },
+  {
+   "date": "2023-04-21",
+   "name": "Eid al-Fitr",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2023-04-22",
+   "name": "Eid al-Fitr Holiday",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2023-04-23",
+   "name": "Eid al-Fitr Holiday",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2023-05-01",
+   "name": "Labour Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2023-06-29",
+   "name": "Eid al-Adha",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2023-06-30",
+   "name": "Eid al-Adha Holiday",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2023-07-06",
+   "name": "National Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2023-07-19",
+   "name": "Muharram",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2023-09-27",
+   "name": "The Prophet's Birthday",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2023-11-12",
+   "name": "Maore Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2024-01-01",
+   "name": "New Year",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2024-02-07",
+   "name": "Isra and Mi'raj",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2024-03-11",
+   "name": "Ramadan Start",
+   "type": "Observance"
+  },
+  {
+   "date": "2024-03-18",
+   "name": "Cheikh Al Maarouf Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2024-04-09",
+   "name": "Eid al-Fitr Holiday",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2024-04-10",
+   "name": "Eid al-Fitr Holiday",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2024-04-11",
+   "name": "Eid al-Fitr",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2024-05-01",
+   "name": "Labour Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2024-06-17",
+   "name": "Eid al-Adha",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2024-06-18",
+   "name": "Eid al-Adha Holiday",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2024-07-06",
+   "name": "National Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2024-07-08",
+   "name": "Muharram",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2024-09-16",
+   "name": "The Prophet's Birthday",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2024-11-12",
+   "name": "Maore Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2025-01-01",
+   "name": "New Year",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2025-01-28",
+   "name": "Isra and Mi'raj",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2025-01-30",
+   "name": "Election Holiday",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2025-03-02",
+   "name": "Ramadan Start",
+   "type": "Observance"
+  },
+  {
+   "date": "2025-03-18",
+   "name": "Cheikh Al Maarouf Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2025-03-29",
+   "name": "Eid al-Fitr Holiday",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2025-03-30",
+   "name": "Eid al-Fitr Holiday",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2025-03-31",
+   "name": "Eid al-Fitr",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2025-05-01",
+   "name": "Labour Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2025-06-07",
+   "name": "Eid al-Adha",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2025-06-08",
+   "name": "Eid al-Adha Holiday",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2025-06-27",
+   "name": "Muharram",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2025-07-06",
+   "name": "National Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2025-09-05",
+   "name": "The Prophet's Birthday",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2025-11-12",
+   "name": "Maore Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2026-01-01",
+   "name": "New Year",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2026-01-17",
+   "name": "Isra and Mi'raj",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2026-02-19",
+   "name": "Ramadan Start",
+   "type": "Observance"
+  },
+  {
+   "date": "2026-03-18",
+   "name": "Cheikh Al Maarouf Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2026-03-19",
+   "name": "Eid al-Fitr Holiday",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2026-03-20",
+   "name": "Eid al-Fitr Holiday",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2026-03-21",
+   "name": "Eid al-Fitr",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2026-05-01",
+   "name": "Labour Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2026-05-28",
+   "name": "Eid al-Adha",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2026-05-29",
+   "name": "Eid al-Adha Holiday",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2026-06-17",
+   "name": "Muharram",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2026-07-06",
+   "name": "National Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2026-08-26",
+   "name": "The Prophet's Birthday",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2026-11-12",
+   "name": "Maore Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2027-01-01",
+   "name": "New Year",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2027-01-06",
+   "name": "Isra and Mi'raj (tentative)",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2027-02-08",
+   "name": "Ramadan Start (tentative)",
+   "type": "Observance"
+  },
+  {
+   "date": "2027-03-08",
+   "name": "Eid al-Fitr Holiday (tentative)",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2027-03-09",
+   "name": "Eid al-Fitr Holiday (tentative)",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2027-03-10",
+   "name": "Eid al-Fitr (tentative)",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2027-03-18",
+   "name": "Cheikh Al Maarouf Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2027-05-01",
+   "name": "Labour Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2027-05-17",
+   "name": "Eid al-Adha (tentative)",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2027-05-18",
+   "name": "Eid al-Adha Holiday (tentative)",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2027-06-06",
+   "name": "Muharram (tentative)",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2027-07-06",
+   "name": "National Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2027-08-15",
+   "name": "The Prophet's Birthday (tentative)",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2027-11-12",
+   "name": "Maore Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2027-12-26",
+   "name": "Isra and Mi'raj (tentative)",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2028-01-01",
+   "name": "New Year",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2028-01-28",
+   "name": "Ramadan Start (tentative)",
+   "type": "Observance"
+  },
+  {
+   "date": "2028-02-25",
+   "name": "Eid al-Fitr Holiday (tentative)",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2028-02-26",
+   "name": "Eid al-Fitr Holiday (tentative)",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2028-02-27",
+   "name": "Eid al-Fitr (tentative)",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2028-03-18",
+   "name": "Cheikh Al Maarouf Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2028-05-01",
+   "name": "Labour Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2028-05-05",
+   "name": "Eid al-Adha (tentative)",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2028-05-06",
+   "name": "Eid al-Adha Holiday (tentative)",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2028-05-25",
+   "name": "Muharram (tentative)",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2028-07-06",
+   "name": "National Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2028-08-03",
+   "name": "The Prophet's Birthday (tentative)",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2028-11-12",
+   "name": "Maore Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2028-12-14",
+   "name": "Isra and Mi'raj (tentative)",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2029-01-01",
+   "name": "New Year",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2029-01-16",
+   "name": "Ramadan Start (tentative)",
+   "type": "Observance"
+  },
+  {
+   "date": "2029-02-13",
+   "name": "Eid al-Fitr Holiday (tentative)",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2029-02-14",
+   "name": "Eid al-Fitr Holiday (tentative)",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2029-02-15",
+   "name": "Eid al-Fitr (tentative)",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2029-03-18",
+   "name": "Cheikh Al Maarouf Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2029-04-24",
+   "name": "Eid al-Adha (tentative)",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2029-04-25",
+   "name": "Eid al-Adha Holiday (tentative)",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2029-05-01",
+   "name": "Labour Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2029-05-15",
+   "name": "Muharram (tentative)",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2029-07-06",
+   "name": "National Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2029-07-24",
+   "name": "The Prophet's Birthday (tentative)",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2029-11-12",
+   "name": "Maore Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2029-12-04",
+   "name": "Isra and Mi'raj (tentative)",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2030-01-01",
+   "name": "New Year",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2030-01-06",
+   "name": "Ramadan Start (tentative)",
+   "type": "Observance"
+  },
+  {
+   "date": "2030-02-03",
+   "name": "Eid al-Fitr Holiday (tentative)",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2030-02-04",
+   "name": "Eid al-Fitr Holiday (tentative)",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2030-02-05",
+   "name": "Eid al-Fitr (tentative)",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2030-03-18",
+   "name": "Cheikh Al Maarouf Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2030-04-14",
+   "name": "Eid al-Adha (tentative)",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2030-04-15",
+   "name": "Eid al-Adha Holiday (tentative)",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2030-05-01",
+   "name": "Labour Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2030-05-04",
+   "name": "Muharram (tentative)",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2030-07-06",
+   "name": "National Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2030-07-13",
+   "name": "The Prophet's Birthday (tentative)",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2030-11-12",
+   "name": "Maore Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2030-11-23",
+   "name": "Isra and Mi'raj (tentative)",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2030-12-26",
+   "name": "Ramadan Start (tentative)",
+   "type": "Observance"
+  },
+  {
+   "date": "2031-01-01",
+   "name": "New Year",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2031-01-23",
+   "name": "Eid al-Fitr Holiday (tentative)",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2031-01-24",
+   "name": "Eid al-Fitr Holiday (tentative)",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2031-01-25",
+   "name": "Eid al-Fitr (tentative)",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2031-03-18",
+   "name": "Cheikh Al Maarouf Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2031-04-03",
+   "name": "Eid al-Adha (tentative)",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2031-04-04",
+   "name": "Eid al-Adha Holiday (tentative)",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2031-04-23",
+   "name": "Muharram (tentative)",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2031-05-01",
+   "name": "Labour Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2031-07-02",
+   "name": "The Prophet's Birthday (tentative)",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2031-07-06",
+   "name": "National Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2031-11-12",
+   "name": "Isra and Mi'raj (tentative)",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2031-11-12",
+   "name": "Maore Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2031-12-15",
+   "name": "Ramadan Start (tentative)",
+   "type": "Observance"
+  }
+ ]
+}

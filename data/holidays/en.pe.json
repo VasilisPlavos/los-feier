@@ -1,0 +1,1626 @@
+{
+ "id": "en.pe",
+ "name": "Holidays in Peru",
+ "lang": "en",
+ "from": 2021,
+ "to": 2031,
+ "count": 323,
+ "fetchedAt": "2026-09-23T12:14:40.971Z",
+ "events": [
+  {
+   "date": "2021-01-01",
+   "name": "New Year's Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2021-01-06",
+   "name": "The Three Wise Men Day",
+   "type": "Observance"
+  },
+  {
+   "date": "2021-04-01",
+   "name": "Maundy Thursday",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2021-04-02",
+   "name": "Good Friday",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2021-04-04",
+   "name": "Easter Sunday",
+   "type": "Observance"
+  },
+  {
+   "date": "2021-05-01",
+   "name": "Labor Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2021-05-09",
+   "name": "Mother’s Day",
+   "type": "Observance"
+  },
+  {
+   "date": "2021-06-07",
+   "name": "Flag Day",
+   "type": "Observance"
+  },
+  {
+   "date": "2021-06-20",
+   "name": "Father’s Day",
+   "type": "Observance"
+  },
+  {
+   "date": "2021-06-24",
+   "name": "Farmer Day",
+   "type": "Observance"
+  },
+  {
+   "date": "2021-06-24",
+   "name": "Inti Raymi Day",
+   "type": "Observance"
+  },
+  {
+   "date": "2021-06-29",
+   "name": "St Peter and St Paul",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2021-07-28",
+   "name": "Independence Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2021-07-29",
+   "name": "Independence Day (day 2)",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2021-08-06",
+   "name": "Battle of Junín",
+   "type": "Observance"
+  },
+  {
+   "date": "2021-08-30",
+   "name": "Santa Rosa De Lima",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2021-09-24",
+   "name": "Armed Forces Day",
+   "type": "Observance"
+  },
+  {
+   "date": "2021-10-08",
+   "name": "Battle of Angamos",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2021-10-11",
+   "name": "Public Sector Holiday",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2021-11-01",
+   "name": "All Saints' Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2021-11-02",
+   "name": "All Souls' Day",
+   "type": "Observance"
+  },
+  {
+   "date": "2021-11-02",
+   "name": "Public Sector Holiday",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2021-12-08",
+   "name": "Feast of the Immaculate Conception",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2021-12-24",
+   "name": "Christmas Eve",
+   "type": "Observance"
+  },
+  {
+   "date": "2021-12-24",
+   "name": "Public Sector Holiday",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2021-12-25",
+   "name": "Christmas Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2021-12-27",
+   "name": "Public Sector Holiday",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2021-12-31",
+   "name": "New Year's Eve",
+   "type": "Observance"
+  },
+  {
+   "date": "2021-12-31",
+   "name": "Public Sector Holiday",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2022-01-01",
+   "name": "New Year's Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2022-01-03",
+   "name": "Public Sector Holiday",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2022-01-06",
+   "name": "The Three Wise Men Day",
+   "type": "Observance"
+  },
+  {
+   "date": "2022-04-14",
+   "name": "Maundy Thursday",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2022-04-15",
+   "name": "Good Friday",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2022-04-17",
+   "name": "Easter Sunday",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2022-05-01",
+   "name": "Labor Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2022-05-02",
+   "name": "Public Sector Holiday",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2022-05-08",
+   "name": "Mother’s Day",
+   "type": "Observance"
+  },
+  {
+   "date": "2022-06-07",
+   "name": "Flag Day",
+   "type": "Observance"
+  },
+  {
+   "date": "2022-06-13",
+   "name": "Public Sector Holiday",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2022-06-19",
+   "name": "Father’s Day",
+   "type": "Observance"
+  },
+  {
+   "date": "2022-06-24",
+   "name": "Farmer Day",
+   "type": "Observance"
+  },
+  {
+   "date": "2022-06-24",
+   "name": "Inti Raymi Day",
+   "type": "Observance"
+  },
+  {
+   "date": "2022-06-24",
+   "name": "Public Sector Holiday",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2022-06-29",
+   "name": "St Peter and St Paul",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2022-07-28",
+   "name": "Independence Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2022-07-29",
+   "name": "Independence Day (day 2)",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2022-08-06",
+   "name": "Battle of Junín",
+   "type": "Observance"
+  },
+  {
+   "date": "2022-08-29",
+   "name": "Public Sector Holiday",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2022-08-30",
+   "name": "Santa Rosa De Lima",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2022-09-24",
+   "name": "Armed Forces Day",
+   "type": "Observance"
+  },
+  {
+   "date": "2022-10-07",
+   "name": "Public Sector Holiday",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2022-10-08",
+   "name": "Battle of Angamos",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2022-10-31",
+   "name": "Public Sector Holiday",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2022-11-01",
+   "name": "All Saints' Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2022-11-02",
+   "name": "All Souls' Day",
+   "type": "Observance"
+  },
+  {
+   "date": "2022-12-08",
+   "name": "Feast of the Immaculate Conception",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2022-12-09",
+   "name": "Battle of Ayacucho",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2022-12-24",
+   "name": "Christmas Eve",
+   "type": "Observance"
+  },
+  {
+   "date": "2022-12-25",
+   "name": "Christmas Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2022-12-26",
+   "name": "Public Sector Holiday",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2022-12-30",
+   "name": "Public Sector Holiday",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2022-12-31",
+   "name": "New Year's Eve",
+   "type": "Observance"
+  },
+  {
+   "date": "2023-01-01",
+   "name": "New Year's Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2023-01-02",
+   "name": "Public Sector Holiday",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2023-01-06",
+   "name": "The Three Wise Men Day",
+   "type": "Observance"
+  },
+  {
+   "date": "2023-04-06",
+   "name": "Maundy Thursday",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2023-04-07",
+   "name": "Good Friday",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2023-04-09",
+   "name": "Easter Sunday",
+   "type": "Observance"
+  },
+  {
+   "date": "2023-04-28",
+   "name": "Public Sector Holiday",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2023-05-01",
+   "name": "Labor Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2023-05-14",
+   "name": "Mother’s Day",
+   "type": "Observance"
+  },
+  {
+   "date": "2023-06-07",
+   "name": "Flag Day",
+   "type": "Observance"
+  },
+  {
+   "date": "2023-06-18",
+   "name": "Father’s Day",
+   "type": "Observance"
+  },
+  {
+   "date": "2023-06-24",
+   "name": "Farmer Day",
+   "type": "Observance"
+  },
+  {
+   "date": "2023-06-24",
+   "name": "Inti Raymi Day",
+   "type": "Observance"
+  },
+  {
+   "date": "2023-06-29",
+   "name": "St Peter and St Paul",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2023-06-30",
+   "name": "Public Sector Holiday",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2023-07-23",
+   "name": "Peruvian Air Force Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2023-07-27",
+   "name": "Public Sector Holiday",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2023-07-28",
+   "name": "Independence Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2023-07-29",
+   "name": "Independence Day (day 2)",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2023-08-06",
+   "name": "Battle of Junín",
+   "type": "Observance"
+  },
+  {
+   "date": "2023-08-30",
+   "name": "Santa Rosa De Lima",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2023-09-24",
+   "name": "Armed Forces Day",
+   "type": "Observance"
+  },
+  {
+   "date": "2023-10-08",
+   "name": "Battle of Angamos",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2023-10-09",
+   "name": "Public Sector Holiday",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2023-11-01",
+   "name": "All Saints' Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2023-11-02",
+   "name": "All Souls' Day",
+   "type": "Observance"
+  },
+  {
+   "date": "2023-12-07",
+   "name": "Public Sector Holiday",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2023-12-08",
+   "name": "Feast of the Immaculate Conception",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2023-12-09",
+   "name": "Battle of Ayacucho",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2023-12-24",
+   "name": "Christmas Eve",
+   "type": "Observance"
+  },
+  {
+   "date": "2023-12-25",
+   "name": "Christmas Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2023-12-26",
+   "name": "Public Sector Holiday",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2023-12-31",
+   "name": "New Year's Eve",
+   "type": "Observance"
+  },
+  {
+   "date": "2024-01-01",
+   "name": "New Year's Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2024-01-06",
+   "name": "The Three Wise Men Day",
+   "type": "Observance"
+  },
+  {
+   "date": "2024-03-28",
+   "name": "Maundy Thursday",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2024-03-29",
+   "name": "Good Friday",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2024-03-31",
+   "name": "Easter Sunday",
+   "type": "Observance"
+  },
+  {
+   "date": "2024-05-01",
+   "name": "Labor Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2024-05-12",
+   "name": "Mother’s Day",
+   "type": "Observance"
+  },
+  {
+   "date": "2024-06-07",
+   "name": "Battle of Arica",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2024-06-07",
+   "name": "Flag Day",
+   "type": "Observance"
+  },
+  {
+   "date": "2024-06-16",
+   "name": "Father’s Day",
+   "type": "Observance"
+  },
+  {
+   "date": "2024-06-24",
+   "name": "Farmer Day",
+   "type": "Observance"
+  },
+  {
+   "date": "2024-06-24",
+   "name": "Inti Raymi Day",
+   "type": "Observance"
+  },
+  {
+   "date": "2024-06-29",
+   "name": "St Peter and St Paul",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2024-07-23",
+   "name": "Peruvian Air Force Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2024-07-26",
+   "name": "Public Sector Holiday",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2024-07-28",
+   "name": "Independence Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2024-07-29",
+   "name": "Independence Day (day 2)",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2024-08-06",
+   "name": "Battle of Junín",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2024-08-30",
+   "name": "Santa Rosa De Lima",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2024-09-24",
+   "name": "Armed Forces Day",
+   "type": "Observance"
+  },
+  {
+   "date": "2024-10-07",
+   "name": "Public Sector Holiday",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2024-10-08",
+   "name": "Battle of Angamos",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2024-11-01",
+   "name": "All Saints' Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2024-11-02",
+   "name": "All Souls' Day",
+   "type": "Observance"
+  },
+  {
+   "date": "2024-12-06",
+   "name": "Public Sector Holiday",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2024-12-09",
+   "name": "Battle of Ayacucho",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2024-12-09",
+   "name": "Feast of the Immaculate Conception",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2024-12-23",
+   "name": "Public Sector Holiday",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2024-12-24",
+   "name": "Christmas Eve",
+   "type": "Observance"
+  },
+  {
+   "date": "2024-12-24",
+   "name": "Public Sector Holiday",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2024-12-25",
+   "name": "Christmas Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2024-12-30",
+   "name": "Public Sector Holiday",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2024-12-31",
+   "name": "New Year's Eve",
+   "type": "Observance"
+  },
+  {
+   "date": "2024-12-31",
+   "name": "Public Sector Holiday",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2025-01-01",
+   "name": "New Year's Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2025-01-06",
+   "name": "The Three Wise Men Day",
+   "type": "Observance"
+  },
+  {
+   "date": "2025-04-17",
+   "name": "Maundy Thursday",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2025-04-18",
+   "name": "Good Friday",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2025-04-20",
+   "name": "Easter Sunday",
+   "type": "Observance"
+  },
+  {
+   "date": "2025-05-01",
+   "name": "Labor Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2025-05-02",
+   "name": "Public Sector Holiday",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2025-05-11",
+   "name": "Mother’s Day",
+   "type": "Observance"
+  },
+  {
+   "date": "2025-06-07",
+   "name": "Battle of Arica",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2025-06-07",
+   "name": "Flag Day",
+   "type": "Observance"
+  },
+  {
+   "date": "2025-06-15",
+   "name": "Father’s Day",
+   "type": "Observance"
+  },
+  {
+   "date": "2025-06-24",
+   "name": "Farmer Day",
+   "type": "Observance"
+  },
+  {
+   "date": "2025-06-24",
+   "name": "Inti Raymi Day",
+   "type": "Observance"
+  },
+  {
+   "date": "2025-06-29",
+   "name": "St Peter and St Paul",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2025-07-23",
+   "name": "Peruvian Air Force Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2025-07-28",
+   "name": "Independence Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2025-07-29",
+   "name": "Independence Day (day 2)",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2025-08-06",
+   "name": "Battle of Junín",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2025-08-30",
+   "name": "Santa Rosa De Lima",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2025-09-24",
+   "name": "Armed Forces Day",
+   "type": "Observance"
+  },
+  {
+   "date": "2025-10-08",
+   "name": "Battle of Angamos",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2025-11-01",
+   "name": "All Saints' Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2025-11-02",
+   "name": "All Souls' Day",
+   "type": "Observance"
+  },
+  {
+   "date": "2025-12-08",
+   "name": "Feast of the Immaculate Conception",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2025-12-09",
+   "name": "Battle of Ayacucho",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2025-12-24",
+   "name": "Christmas Eve",
+   "type": "Observance"
+  },
+  {
+   "date": "2025-12-25",
+   "name": "Christmas Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2025-12-26",
+   "name": "Public Sector Holiday",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2025-12-31",
+   "name": "New Year's Eve",
+   "type": "Observance"
+  },
+  {
+   "date": "2026-01-01",
+   "name": "New Year's Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2026-01-02",
+   "name": "Public Sector Holiday",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2026-01-06",
+   "name": "The Three Wise Men Day",
+   "type": "Observance"
+  },
+  {
+   "date": "2026-04-02",
+   "name": "Maundy Thursday",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2026-04-03",
+   "name": "Good Friday",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2026-04-05",
+   "name": "Easter Sunday",
+   "type": "Observance"
+  },
+  {
+   "date": "2026-05-01",
+   "name": "Labor Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2026-05-10",
+   "name": "Mother’s Day",
+   "type": "Observance"
+  },
+  {
+   "date": "2026-06-07",
+   "name": "Battle of Arica",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2026-06-07",
+   "name": "Flag Day",
+   "type": "Observance"
+  },
+  {
+   "date": "2026-06-21",
+   "name": "Father’s Day",
+   "type": "Observance"
+  },
+  {
+   "date": "2026-06-24",
+   "name": "Farmer Day",
+   "type": "Observance"
+  },
+  {
+   "date": "2026-06-24",
+   "name": "Inti Raymi Day",
+   "type": "Observance"
+  },
+  {
+   "date": "2026-06-29",
+   "name": "St Peter and St Paul",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2026-07-23",
+   "name": "Peruvian Air Force Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2026-07-27",
+   "name": "Public Sector Holiday",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2026-07-28",
+   "name": "Independence Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2026-07-29",
+   "name": "Independence Day (day 2)",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2026-08-06",
+   "name": "Battle of Junín",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2026-08-30",
+   "name": "Santa Rosa De Lima",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2026-09-24",
+   "name": "Armed Forces Day",
+   "type": "Observance"
+  },
+  {
+   "date": "2026-10-08",
+   "name": "Battle of Angamos",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2026-11-01",
+   "name": "All Saints' Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2026-11-02",
+   "name": "All Souls' Day",
+   "type": "Observance"
+  },
+  {
+   "date": "2026-12-08",
+   "name": "Feast of the Immaculate Conception",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2026-12-09",
+   "name": "Battle of Ayacucho",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2026-12-24",
+   "name": "Christmas Eve",
+   "type": "Observance"
+  },
+  {
+   "date": "2026-12-25",
+   "name": "Christmas Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2026-12-31",
+   "name": "New Year's Eve",
+   "type": "Observance"
+  },
+  {
+   "date": "2027-01-01",
+   "name": "New Year's Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2027-01-06",
+   "name": "The Three Wise Men Day",
+   "type": "Observance"
+  },
+  {
+   "date": "2027-03-25",
+   "name": "Maundy Thursday",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2027-03-26",
+   "name": "Good Friday",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2027-03-28",
+   "name": "Easter Sunday",
+   "type": "Observance"
+  },
+  {
+   "date": "2027-05-01",
+   "name": "Labor Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2027-05-09",
+   "name": "Mother’s Day",
+   "type": "Observance"
+  },
+  {
+   "date": "2027-06-07",
+   "name": "Battle of Arica",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2027-06-07",
+   "name": "Flag Day",
+   "type": "Observance"
+  },
+  {
+   "date": "2027-06-20",
+   "name": "Father’s Day",
+   "type": "Observance"
+  },
+  {
+   "date": "2027-06-24",
+   "name": "Farmer Day",
+   "type": "Observance"
+  },
+  {
+   "date": "2027-06-24",
+   "name": "Inti Raymi Day",
+   "type": "Observance"
+  },
+  {
+   "date": "2027-06-29",
+   "name": "St Peter and St Paul",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2027-07-23",
+   "name": "Peruvian Air Force Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2027-07-28",
+   "name": "Independence Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2027-07-29",
+   "name": "Independence Day (day 2)",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2027-08-06",
+   "name": "Battle of Junín",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2027-08-30",
+   "name": "Santa Rosa De Lima",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2027-09-24",
+   "name": "Armed Forces Day",
+   "type": "Observance"
+  },
+  {
+   "date": "2027-10-08",
+   "name": "Battle of Angamos",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2027-11-01",
+   "name": "All Saints' Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2027-11-02",
+   "name": "All Souls' Day",
+   "type": "Observance"
+  },
+  {
+   "date": "2027-12-08",
+   "name": "Feast of the Immaculate Conception",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2027-12-09",
+   "name": "Battle of Ayacucho",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2027-12-24",
+   "name": "Christmas Eve",
+   "type": "Observance"
+  },
+  {
+   "date": "2027-12-25",
+   "name": "Christmas Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2027-12-31",
+   "name": "New Year's Eve",
+   "type": "Observance"
+  },
+  {
+   "date": "2028-01-01",
+   "name": "New Year's Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2028-01-06",
+   "name": "The Three Wise Men Day",
+   "type": "Observance"
+  },
+  {
+   "date": "2028-04-13",
+   "name": "Maundy Thursday",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2028-04-14",
+   "name": "Good Friday",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2028-04-16",
+   "name": "Easter Sunday",
+   "type": "Observance"
+  },
+  {
+   "date": "2028-05-01",
+   "name": "Labor Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2028-05-14",
+   "name": "Mother’s Day",
+   "type": "Observance"
+  },
+  {
+   "date": "2028-06-07",
+   "name": "Battle of Arica",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2028-06-07",
+   "name": "Flag Day",
+   "type": "Observance"
+  },
+  {
+   "date": "2028-06-18",
+   "name": "Father’s Day",
+   "type": "Observance"
+  },
+  {
+   "date": "2028-06-24",
+   "name": "Farmer Day",
+   "type": "Observance"
+  },
+  {
+   "date": "2028-06-24",
+   "name": "Inti Raymi Day",
+   "type": "Observance"
+  },
+  {
+   "date": "2028-06-29",
+   "name": "St Peter and St Paul",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2028-07-23",
+   "name": "Peruvian Air Force Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2028-07-28",
+   "name": "Independence Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2028-07-29",
+   "name": "Independence Day (day 2)",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2028-08-06",
+   "name": "Battle of Junín",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2028-08-30",
+   "name": "Santa Rosa De Lima",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2028-09-24",
+   "name": "Armed Forces Day",
+   "type": "Observance"
+  },
+  {
+   "date": "2028-10-08",
+   "name": "Battle of Angamos",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2028-11-01",
+   "name": "All Saints' Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2028-11-02",
+   "name": "All Souls' Day",
+   "type": "Observance"
+  },
+  {
+   "date": "2028-12-08",
+   "name": "Feast of the Immaculate Conception",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2028-12-09",
+   "name": "Battle of Ayacucho",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2028-12-24",
+   "name": "Christmas Eve",
+   "type": "Observance"
+  },
+  {
+   "date": "2028-12-25",
+   "name": "Christmas Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2028-12-31",
+   "name": "New Year's Eve",
+   "type": "Observance"
+  },
+  {
+   "date": "2029-01-01",
+   "name": "New Year's Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2029-01-06",
+   "name": "The Three Wise Men Day",
+   "type": "Observance"
+  },
+  {
+   "date": "2029-03-29",
+   "name": "Maundy Thursday",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2029-03-30",
+   "name": "Good Friday",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2029-04-01",
+   "name": "Easter Sunday",
+   "type": "Observance"
+  },
+  {
+   "date": "2029-05-01",
+   "name": "Labor Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2029-05-13",
+   "name": "Mother’s Day",
+   "type": "Observance"
+  },
+  {
+   "date": "2029-06-07",
+   "name": "Battle of Arica",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2029-06-07",
+   "name": "Flag Day",
+   "type": "Observance"
+  },
+  {
+   "date": "2029-06-17",
+   "name": "Father’s Day",
+   "type": "Observance"
+  },
+  {
+   "date": "2029-06-24",
+   "name": "Farmer Day",
+   "type": "Observance"
+  },
+  {
+   "date": "2029-06-24",
+   "name": "Inti Raymi Day",
+   "type": "Observance"
+  },
+  {
+   "date": "2029-06-29",
+   "name": "St Peter and St Paul",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2029-07-23",
+   "name": "Peruvian Air Force Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2029-07-28",
+   "name": "Independence Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2029-07-29",
+   "name": "Independence Day (day 2)",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2029-08-06",
+   "name": "Battle of Junín",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2029-08-30",
+   "name": "Santa Rosa De Lima",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2029-09-24",
+   "name": "Armed Forces Day",
+   "type": "Observance"
+  },
+  {
+   "date": "2029-10-08",
+   "name": "Battle of Angamos",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2029-11-01",
+   "name": "All Saints' Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2029-11-02",
+   "name": "All Souls' Day",
+   "type": "Observance"
+  },
+  {
+   "date": "2029-12-08",
+   "name": "Feast of the Immaculate Conception",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2029-12-09",
+   "name": "Battle of Ayacucho",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2029-12-24",
+   "name": "Christmas Eve",
+   "type": "Observance"
+  },
+  {
+   "date": "2029-12-25",
+   "name": "Christmas Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2029-12-31",
+   "name": "New Year's Eve",
+   "type": "Observance"
+  },
+  {
+   "date": "2030-01-01",
+   "name": "New Year's Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2030-01-06",
+   "name": "The Three Wise Men Day",
+   "type": "Observance"
+  },
+  {
+   "date": "2030-04-18",
+   "name": "Maundy Thursday",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2030-04-19",
+   "name": "Good Friday",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2030-04-21",
+   "name": "Easter Sunday",
+   "type": "Observance"
+  },
+  {
+   "date": "2030-05-01",
+   "name": "Labor Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2030-05-12",
+   "name": "Mother’s Day",
+   "type": "Observance"
+  },
+  {
+   "date": "2030-06-07",
+   "name": "Battle of Arica",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2030-06-07",
+   "name": "Flag Day",
+   "type": "Observance"
+  },
+  {
+   "date": "2030-06-16",
+   "name": "Father’s Day",
+   "type": "Observance"
+  },
+  {
+   "date": "2030-06-24",
+   "name": "Farmer Day",
+   "type": "Observance"
+  },
+  {
+   "date": "2030-06-24",
+   "name": "Inti Raymi Day",
+   "type": "Observance"
+  },
+  {
+   "date": "2030-06-29",
+   "name": "St Peter and St Paul",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2030-07-23",
+   "name": "Peruvian Air Force Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2030-07-28",
+   "name": "Independence Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2030-07-29",
+   "name": "Independence Day (day 2)",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2030-08-06",
+   "name": "Battle of Junín",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2030-08-30",
+   "name": "Santa Rosa De Lima",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2030-09-24",
+   "name": "Armed Forces Day",
+   "type": "Observance"
+  },
+  {
+   "date": "2030-10-08",
+   "name": "Battle of Angamos",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2030-11-01",
+   "name": "All Saints' Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2030-11-02",
+   "name": "All Souls' Day",
+   "type": "Observance"
+  },
+  {
+   "date": "2030-12-09",
+   "name": "Battle of Ayacucho",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2030-12-09",
+   "name": "Feast of the Immaculate Conception",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2030-12-24",
+   "name": "Christmas Eve",
+   "type": "Observance"
+  },
+  {
+   "date": "2030-12-25",
+   "name": "Christmas Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2030-12-31",
+   "name": "New Year's Eve",
+   "type": "Observance"
+  },
+  {
+   "date": "2031-01-01",
+   "name": "New Year's Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2031-01-06",
+   "name": "The Three Wise Men Day",
+   "type": "Observance"
+  },
+  {
+   "date": "2031-04-10",
+   "name": "Maundy Thursday",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2031-04-11",
+   "name": "Good Friday",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2031-04-13",
+   "name": "Easter Sunday",
+   "type": "Observance"
+  },
+  {
+   "date": "2031-05-01",
+   "name": "Labor Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2031-05-11",
+   "name": "Mother’s Day",
+   "type": "Observance"
+  },
+  {
+   "date": "2031-06-07",
+   "name": "Battle of Arica",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2031-06-07",
+   "name": "Flag Day",
+   "type": "Observance"
+  },
+  {
+   "date": "2031-06-15",
+   "name": "Father’s Day",
+   "type": "Observance"
+  },
+  {
+   "date": "2031-06-24",
+   "name": "Farmer Day",
+   "type": "Observance"
+  },
+  {
+   "date": "2031-06-24",
+   "name": "Inti Raymi Day",
+   "type": "Observance"
+  },
+  {
+   "date": "2031-06-29",
+   "name": "St Peter and St Paul",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2031-07-23",
+   "name": "Peruvian Air Force Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2031-07-28",
+   "name": "Independence Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2031-07-29",
+   "name": "Independence Day (day 2)",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2031-08-06",
+   "name": "Battle of Junín",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2031-08-30",
+   "name": "Santa Rosa De Lima",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2031-09-24",
+   "name": "Armed Forces Day",
+   "type": "Observance"
+  },
+  {
+   "date": "2031-10-08",
+   "name": "Battle of Angamos",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2031-11-01",
+   "name": "All Saints' Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2031-11-02",
+   "name": "All Souls' Day",
+   "type": "Observance"
+  },
+  {
+   "date": "2031-12-08",
+   "name": "Feast of the Immaculate Conception",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2031-12-09",
+   "name": "Battle of Ayacucho",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2031-12-24",
+   "name": "Christmas Eve",
+   "type": "Observance"
+  },
+  {
+   "date": "2031-12-25",
+   "name": "Christmas Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2031-12-31",
+   "name": "New Year's Eve",
+   "type": "Observance"
+  }
+ ]
+}

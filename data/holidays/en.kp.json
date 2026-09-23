@@ -1,0 +1,881 @@
+{
+ "id": "en.kp",
+ "name": "Holidays in North Korea",
+ "lang": "en",
+ "from": 2021,
+ "to": 2031,
+ "count": 174,
+ "fetchedAt": "2026-09-23T12:14:40.872Z",
+ "events": [
+  {
+   "date": "2021-01-01",
+   "name": "New Year",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2021-02-08",
+   "name": "Chosun People's Army Foundation Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2021-02-12",
+   "name": "Seollal",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2021-02-16",
+   "name": "Birth date of Kim Jong Il",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2021-02-26",
+   "name": "Cheongwoldaeboreum",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2021-03-08",
+   "name": "International Women's Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2021-04-15",
+   "name": "Birth Date of Kim Il Sung",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2021-05-01",
+   "name": "May Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2021-06-06",
+   "name": "Chosun Children's Union Foundation Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2021-07-27",
+   "name": "Day of Victory in the Fatherland Liberation War",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2021-08-15",
+   "name": "Liberation Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2021-08-25",
+   "name": "Day of Songun",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2021-09-09",
+   "name": "National Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2021-09-21",
+   "name": "Chuseok Harvest Festival",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2021-10-10",
+   "name": "Party Foundation Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2021-11-16",
+   "name": "Mother's Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2021-12-27",
+   "name": "Constitution Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2022-01-01",
+   "name": "New Year",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2022-02-01",
+   "name": "Seollal",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2022-02-08",
+   "name": "Chosun People's Army Foundation Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2022-02-15",
+   "name": "Cheongwoldaeboreum",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2022-02-16",
+   "name": "Birth date of Kim Jong Il",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2022-03-08",
+   "name": "International Women's Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2022-04-15",
+   "name": "Birth Date of Kim Il Sung",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2022-05-01",
+   "name": "May Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2022-06-06",
+   "name": "Chosun Children's Union Foundation Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2022-07-27",
+   "name": "Day of Victory in the Fatherland Liberation War",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2022-08-15",
+   "name": "Liberation Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2022-08-25",
+   "name": "Day of Songun",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2022-09-09",
+   "name": "National Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2022-09-10",
+   "name": "Chuseok Harvest Festival",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2022-10-10",
+   "name": "Party Foundation Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2022-11-16",
+   "name": "Mother's Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2022-12-27",
+   "name": "Constitution Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2023-01-01",
+   "name": "New Year",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2023-01-23",
+   "name": "Seollal",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2023-02-08",
+   "name": "Chosun People's Army Foundation Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2023-02-16",
+   "name": "Birth date of Kim Jong Il",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2023-03-08",
+   "name": "International Women's Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2023-04-15",
+   "name": "Birth Date of Kim Il Sung",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2023-05-01",
+   "name": "May Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2023-06-06",
+   "name": "Chosun Children's Union Foundation Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2023-07-27",
+   "name": "Day of Victory in the Fatherland Liberation War",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2023-08-15",
+   "name": "Liberation Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2023-08-25",
+   "name": "Day of Songun",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2023-09-09",
+   "name": "National Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2023-09-29",
+   "name": "Chuseok Harvest Festival",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2023-10-10",
+   "name": "Party Foundation Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2023-11-16",
+   "name": "Mother's Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2023-12-27",
+   "name": "Constitution Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2024-01-01",
+   "name": "New Year",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2024-02-08",
+   "name": "Chosun People's Army Foundation Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2024-02-10",
+   "name": "Seollal",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2024-02-16",
+   "name": "Birth date of Kim Jong Il",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2024-03-08",
+   "name": "International Women's Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2024-04-15",
+   "name": "Birth Date of Kim Il Sung",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2024-05-01",
+   "name": "May Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2024-06-06",
+   "name": "Chosun Children's Union Foundation Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2024-07-27",
+   "name": "Day of Victory in the Fatherland Liberation War",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2024-08-15",
+   "name": "Liberation Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2024-08-25",
+   "name": "Day of Songun",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2024-09-09",
+   "name": "National Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2024-09-17",
+   "name": "Chuseok Harvest Festival",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2024-10-10",
+   "name": "Party Foundation Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2024-11-16",
+   "name": "Mother's Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2024-12-27",
+   "name": "Constitution Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2025-01-01",
+   "name": "New Year",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2025-01-29",
+   "name": "Seollal",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2025-02-08",
+   "name": "Chosun People's Army Foundation Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2025-02-16",
+   "name": "Birth date of Kim Jong Il",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2025-03-08",
+   "name": "International Women's Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2025-04-15",
+   "name": "Birth Date of Kim Il Sung",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2025-05-01",
+   "name": "May Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2025-06-06",
+   "name": "Chosun Children's Union Foundation Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2025-07-27",
+   "name": "Day of Victory in the Fatherland Liberation War",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2025-08-15",
+   "name": "Liberation Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2025-08-25",
+   "name": "Day of Songun",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2025-09-09",
+   "name": "National Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2025-10-06",
+   "name": "Chuseok Harvest Festival",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2025-10-10",
+   "name": "Party Foundation Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2025-11-16",
+   "name": "Mother's Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2025-12-27",
+   "name": "Constitution Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2026-01-01",
+   "name": "New Year",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2026-02-08",
+   "name": "Chosun People's Army Foundation Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2026-02-16",
+   "name": "Birth date of Kim Jong Il",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2026-02-17",
+   "name": "Seollal",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2026-03-03",
+   "name": "Cheongwoldaeboreum",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2026-03-08",
+   "name": "International Women's Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2026-04-15",
+   "name": "Birth Date of Kim Il Sung",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2026-05-01",
+   "name": "May Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2026-06-06",
+   "name": "Chosun Children's Union Foundation Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2026-07-27",
+   "name": "Day of Victory in the Fatherland Liberation War",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2026-08-15",
+   "name": "Liberation Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2026-08-25",
+   "name": "Day of Songun",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2026-09-09",
+   "name": "National Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2026-09-25",
+   "name": "Chuseok Harvest Festival",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2026-10-10",
+   "name": "Party Foundation Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2026-11-16",
+   "name": "Mother's Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2026-12-27",
+   "name": "Constitution Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2027-01-01",
+   "name": "New Year",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2027-02-06",
+   "name": "Seollal",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2027-02-08",
+   "name": "Chosun People's Army Foundation Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2027-02-16",
+   "name": "Birth date of Kim Jong Il",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2027-03-08",
+   "name": "International Women's Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2027-04-15",
+   "name": "Birth Date of Kim Il Sung",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2027-05-01",
+   "name": "May Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2027-06-06",
+   "name": "Chosun Children's Union Foundation Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2027-07-27",
+   "name": "Day of Victory in the Fatherland Liberation War",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2027-08-15",
+   "name": "Liberation Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2027-08-25",
+   "name": "Day of Songun",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2027-09-09",
+   "name": "National Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2027-10-10",
+   "name": "Party Foundation Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2027-11-16",
+   "name": "Mother's Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2027-12-27",
+   "name": "Constitution Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2028-01-01",
+   "name": "New Year",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2028-01-26",
+   "name": "Seollal",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2028-02-08",
+   "name": "Chosun People's Army Foundation Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2028-02-16",
+   "name": "Birth date of Kim Jong Il",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2028-03-08",
+   "name": "International Women's Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2028-04-15",
+   "name": "Birth Date of Kim Il Sung",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2028-05-01",
+   "name": "May Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2028-06-06",
+   "name": "Chosun Children's Union Foundation Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2028-07-27",
+   "name": "Day of Victory in the Fatherland Liberation War",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2028-08-15",
+   "name": "Liberation Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2028-08-25",
+   "name": "Day of Songun",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2028-09-09",
+   "name": "National Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2028-10-10",
+   "name": "Party Foundation Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2028-11-16",
+   "name": "Mother's Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2028-12-27",
+   "name": "Constitution Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2029-01-01",
+   "name": "New Year",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2029-02-08",
+   "name": "Chosun People's Army Foundation Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2029-02-13",
+   "name": "Seollal",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2029-02-16",
+   "name": "Birth date of Kim Jong Il",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2029-03-08",
+   "name": "International Women's Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2029-04-15",
+   "name": "Birth Date of Kim Il Sung",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2029-05-01",
+   "name": "May Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2029-06-06",
+   "name": "Chosun Children's Union Foundation Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2029-07-27",
+   "name": "Day of Victory in the Fatherland Liberation War",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2029-08-15",
+   "name": "Liberation Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2029-08-25",
+   "name": "Day of Songun",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2029-09-09",
+   "name": "National Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2029-10-10",
+   "name": "Party Foundation Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2029-11-16",
+   "name": "Mother's Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2029-12-27",
+   "name": "Constitution Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2030-01-01",
+   "name": "New Year",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2030-02-04",
+   "name": "Seollal",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2030-02-08",
+   "name": "Chosun People's Army Foundation Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2030-02-16",
+   "name": "Birth date of Kim Jong Il",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2030-03-08",
+   "name": "International Women's Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2030-04-15",
+   "name": "Birth Date of Kim Il Sung",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2030-05-01",
+   "name": "May Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2030-06-06",
+   "name": "Chosun Children's Union Foundation Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2030-07-27",
+   "name": "Day of Victory in the Fatherland Liberation War",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2030-08-15",
+   "name": "Liberation Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2030-08-25",
+   "name": "Day of Songun",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2030-09-09",
+   "name": "National Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2030-10-10",
+   "name": "Party Foundation Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2030-11-16",
+   "name": "Mother's Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2030-12-27",
+   "name": "Constitution Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2031-01-01",
+   "name": "New Year",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2031-01-23",
+   "name": "Seollal",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2031-02-08",
+   "name": "Chosun People's Army Foundation Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2031-02-16",
+   "name": "Birth date of Kim Jong Il",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2031-03-08",
+   "name": "International Women's Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2031-04-15",
+   "name": "Birth Date of Kim Il Sung",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2031-05-01",
+   "name": "May Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2031-06-06",
+   "name": "Chosun Children's Union Foundation Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2031-07-27",
+   "name": "Day of Victory in the Fatherland Liberation War",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2031-08-15",
+   "name": "Liberation Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2031-08-25",
+   "name": "Day of Songun",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2031-09-09",
+   "name": "National Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2031-10-10",
+   "name": "Party Foundation Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2031-11-16",
+   "name": "Mother's Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2031-12-27",
+   "name": "Constitution Day",
+   "type": "Public holiday"
+  }
+ ]
+}

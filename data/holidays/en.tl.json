@@ -1,0 +1,1221 @@
+{
+ "id": "en.tl",
+ "name": "Holidays in Timor-Leste",
+ "lang": "en",
+ "from": 2021,
+ "to": 2031,
+ "count": 242,
+ "fetchedAt": "2026-09-23T12:14:41.059Z",
+ "events": [
+  {
+   "date": "2021-01-01",
+   "name": "New Year's Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2021-02-12",
+   "name": "Chinese New Year",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2021-02-17",
+   "name": "Ash Wednesday",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2021-03-03",
+   "name": "Veterans' Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2021-04-02",
+   "name": "Good Friday",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2021-04-13",
+   "name": "Ramadan Start",
+   "type": "Observance"
+  },
+  {
+   "date": "2021-05-01",
+   "name": "Labor Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2021-05-13",
+   "name": "Eid ul Fitr",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2021-05-20",
+   "name": "Restoration of Independence Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2021-06-03",
+   "name": "Corpus Christi",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2021-07-20",
+   "name": "Idul Adha",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2021-08-20",
+   "name": "Anniversary of FALINTIL",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2021-08-30",
+   "name": "Popular Consultation Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2021-11-01",
+   "name": "All Saints' Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2021-11-02",
+   "name": "All Souls' Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2021-11-12",
+   "name": "National Youth Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2021-11-28",
+   "name": "Proclamation of Independence Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2021-12-07",
+   "name": "Memorial Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2021-12-08",
+   "name": "Day of Our Lady of Immaculate Conception",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2021-12-25",
+   "name": "Christmas Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2021-12-31",
+   "name": "National Heroes Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2022-01-01",
+   "name": "New Year's Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2022-02-01",
+   "name": "Chinese New Year",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2022-03-02",
+   "name": "Ash Wednesday",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2022-03-03",
+   "name": "Veterans' Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2022-03-18",
+   "name": "Public Sector Election Holiday",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2022-04-03",
+   "name": "Ramadan Start",
+   "type": "Observance"
+  },
+  {
+   "date": "2022-04-14",
+   "name": "Public Sector Election Holiday (Half Day)",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2022-04-15",
+   "name": "Good Friday",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2022-04-18",
+   "name": "Public Sector Election Holiday",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2022-04-19",
+   "name": "Public Sector Election Holiday",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2022-04-20",
+   "name": "Public Sector Election Holiday (Half Day)",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2022-05-01",
+   "name": "Labor Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2022-05-02",
+   "name": "Eid ul Fitr",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2022-05-20",
+   "name": "Restoration of Independence Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2022-06-16",
+   "name": "Corpus Christi",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2022-07-10",
+   "name": "Idul Adha",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2022-08-30",
+   "name": "Popular Consultation Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2022-11-01",
+   "name": "All Saints' Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2022-11-02",
+   "name": "All Souls' Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2022-11-12",
+   "name": "National Youth Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2022-11-28",
+   "name": "Proclamation of Independence Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2022-12-07",
+   "name": "Memorial Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2022-12-08",
+   "name": "Day of Our Lady of Immaculate Conception",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2022-12-25",
+   "name": "Christmas Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2022-12-31",
+   "name": "National Heroes Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2023-01-01",
+   "name": "New Year's Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2023-01-22",
+   "name": "Chinese New Year",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2023-02-22",
+   "name": "Ash Wednesday",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2023-03-03",
+   "name": "Veterans' Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2023-03-23",
+   "name": "Ramadan Start",
+   "type": "Observance"
+  },
+  {
+   "date": "2023-04-07",
+   "name": "Good Friday",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2023-04-20",
+   "name": "Total Eclipse Holiday",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2023-04-21",
+   "name": "Eid ul Fitr",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2023-05-01",
+   "name": "Labor Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2023-05-20",
+   "name": "Restoration of Independence Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2023-06-08",
+   "name": "Corpus Christi",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2023-06-29",
+   "name": "Idul Adha",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2023-08-30",
+   "name": "Popular Consultation Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2023-11-01",
+   "name": "All Saints' Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2023-11-02",
+   "name": "All Souls' Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2023-11-12",
+   "name": "National Youth Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2023-11-13",
+   "name": "Public Sector Election Holiday",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2023-11-28",
+   "name": "Proclamation of Independence Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2023-12-07",
+   "name": "Memorial Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2023-12-08",
+   "name": "Day of Our Lady of Immaculate Conception",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2023-12-25",
+   "name": "Christmas Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2023-12-26",
+   "name": "Christmas Holiday",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2023-12-31",
+   "name": "National Heroes Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2024-01-01",
+   "name": "New Year's Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2024-01-02",
+   "name": "New Year Holiday",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2024-02-10",
+   "name": "Chinese New Year",
+   "type": "Observance"
+  },
+  {
+   "date": "2024-02-14",
+   "name": "Ash Wednesday",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2024-03-03",
+   "name": "Veterans' Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2024-03-11",
+   "name": "Ramadan Start",
+   "type": "Observance"
+  },
+  {
+   "date": "2024-03-29",
+   "name": "Good Friday",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2024-04-10",
+   "name": "Eid ul Fitr",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2024-04-25",
+   "name": "50th Anniversary of the Revolution of April 25",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2024-05-01",
+   "name": "Labor Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2024-05-20",
+   "name": "Restoration of Independence Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2024-05-30",
+   "name": "Corpus Christi",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2024-06-17",
+   "name": "Idul Adha",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2024-08-30",
+   "name": "Popular Consultation Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2024-10-31",
+   "name": "All Saints Day Holiday",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2024-11-01",
+   "name": "All Saints' Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2024-11-02",
+   "name": "All Souls' Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2024-11-03",
+   "name": "National Women's Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2024-11-12",
+   "name": "National Youth Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2024-11-28",
+   "name": "Proclamation of Independence Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2024-11-29",
+   "name": "Proclamation of Independence Holiday",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2024-12-07",
+   "name": "Memorial Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2024-12-08",
+   "name": "Day of Our Lady of Immaculate Conception",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2024-12-25",
+   "name": "Christmas Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2024-12-31",
+   "name": "National Heroes Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2025-01-01",
+   "name": "New Year's Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2025-01-29",
+   "name": "Chinese New Year",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2025-03-01",
+   "name": "Ramadan Start",
+   "type": "Observance"
+  },
+  {
+   "date": "2025-03-03",
+   "name": "Veterans' Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2025-03-05",
+   "name": "Ash Wednesday",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2025-03-31",
+   "name": "Eid ul Fitr",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2025-04-18",
+   "name": "Good Friday",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2025-05-01",
+   "name": "Labor Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2025-05-20",
+   "name": "Restoration of Independence Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2025-06-06",
+   "name": "Idul Adha",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2025-06-19",
+   "name": "Corpus Christi",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2025-08-30",
+   "name": "Popular Consultation Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2025-11-01",
+   "name": "All Saints' Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2025-11-02",
+   "name": "All Souls' Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2025-11-03",
+   "name": "National Women's Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2025-11-12",
+   "name": "National Youth Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2025-11-28",
+   "name": "Proclamation of Independence Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2025-12-07",
+   "name": "Memorial Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2025-12-08",
+   "name": "Day of Our Lady of Immaculate Conception",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2025-12-25",
+   "name": "Christmas Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2025-12-31",
+   "name": "National Heroes Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2026-01-01",
+   "name": "New Year's Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2026-02-17",
+   "name": "Chinese New Year",
+   "type": "Observance"
+  },
+  {
+   "date": "2026-02-18",
+   "name": "Ash Wednesday",
+   "type": "Observance"
+  },
+  {
+   "date": "2026-02-19",
+   "name": "Ramadan Start",
+   "type": "Observance"
+  },
+  {
+   "date": "2026-03-03",
+   "name": "Veterans' Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2026-03-20",
+   "name": "Eid ul Fitr",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2026-04-03",
+   "name": "Good Friday",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2026-05-01",
+   "name": "Labor Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2026-05-20",
+   "name": "Restoration of Independence Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2026-05-27",
+   "name": "Idul Adha",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2026-06-04",
+   "name": "Corpus Christi",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2026-08-30",
+   "name": "Popular Consultation Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2026-11-01",
+   "name": "All Saints' Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2026-11-02",
+   "name": "All Souls' Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2026-11-03",
+   "name": "National Women's Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2026-11-12",
+   "name": "National Youth Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2026-11-28",
+   "name": "Proclamation of Independence Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2026-12-07",
+   "name": "Memorial Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2026-12-08",
+   "name": "Day of Our Lady of Immaculate Conception",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2026-12-25",
+   "name": "Christmas Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2026-12-31",
+   "name": "National Heroes Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2027-01-01",
+   "name": "New Year's Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2027-02-06",
+   "name": "Chinese New Year",
+   "type": "Observance"
+  },
+  {
+   "date": "2027-02-08",
+   "name": "Ramadan Start (tentative)",
+   "type": "Observance"
+  },
+  {
+   "date": "2027-02-10",
+   "name": "Ash Wednesday",
+   "type": "Observance"
+  },
+  {
+   "date": "2027-03-03",
+   "name": "Veterans' Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2027-03-10",
+   "name": "Eid ul Fitr (tentative)",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2027-03-26",
+   "name": "Good Friday",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2027-05-01",
+   "name": "Labor Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2027-05-17",
+   "name": "Idul Adha (tentative)",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2027-05-20",
+   "name": "Restoration of Independence Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2027-05-27",
+   "name": "Corpus Christi",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2027-08-30",
+   "name": "Popular Consultation Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2027-11-01",
+   "name": "All Saints' Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2027-11-02",
+   "name": "All Souls' Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2027-11-03",
+   "name": "National Women's Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2027-11-12",
+   "name": "National Youth Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2027-11-28",
+   "name": "Proclamation of Independence Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2027-12-07",
+   "name": "Memorial Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2027-12-08",
+   "name": "Day of Our Lady of Immaculate Conception",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2027-12-25",
+   "name": "Christmas Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2027-12-31",
+   "name": "National Heroes Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2028-01-01",
+   "name": "New Year's Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2028-01-26",
+   "name": "Chinese New Year",
+   "type": "Observance"
+  },
+  {
+   "date": "2028-01-28",
+   "name": "Ramadan Start (tentative)",
+   "type": "Observance"
+  },
+  {
+   "date": "2028-02-27",
+   "name": "Eid ul Fitr (tentative)",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2028-03-01",
+   "name": "Ash Wednesday",
+   "type": "Observance"
+  },
+  {
+   "date": "2028-03-03",
+   "name": "Veterans' Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2028-04-14",
+   "name": "Good Friday",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2028-05-01",
+   "name": "Labor Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2028-05-05",
+   "name": "Idul Adha (tentative)",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2028-05-20",
+   "name": "Restoration of Independence Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2028-06-15",
+   "name": "Corpus Christi",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2028-08-30",
+   "name": "Popular Consultation Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2028-11-01",
+   "name": "All Saints' Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2028-11-02",
+   "name": "All Souls' Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2028-11-03",
+   "name": "National Women's Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2028-11-12",
+   "name": "National Youth Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2028-11-28",
+   "name": "Proclamation of Independence Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2028-12-07",
+   "name": "Memorial Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2028-12-08",
+   "name": "Day of Our Lady of Immaculate Conception",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2028-12-25",
+   "name": "Christmas Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2028-12-31",
+   "name": "National Heroes Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2029-01-01",
+   "name": "New Year's Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2029-01-16",
+   "name": "Ramadan Start (tentative)",
+   "type": "Observance"
+  },
+  {
+   "date": "2029-02-13",
+   "name": "Chinese New Year",
+   "type": "Observance"
+  },
+  {
+   "date": "2029-02-14",
+   "name": "Ash Wednesday",
+   "type": "Observance"
+  },
+  {
+   "date": "2029-02-15",
+   "name": "Eid ul Fitr (tentative)",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2029-03-03",
+   "name": "Veterans' Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2029-03-30",
+   "name": "Good Friday",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2029-04-24",
+   "name": "Idul Adha (tentative)",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2029-05-01",
+   "name": "Labor Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2029-05-20",
+   "name": "Restoration of Independence Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2029-05-31",
+   "name": "Corpus Christi",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2029-08-30",
+   "name": "Popular Consultation Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2029-11-01",
+   "name": "All Saints' Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2029-11-02",
+   "name": "All Souls' Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2029-11-03",
+   "name": "National Women's Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2029-11-12",
+   "name": "National Youth Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2029-11-28",
+   "name": "Proclamation of Independence Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2029-12-07",
+   "name": "Memorial Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2029-12-08",
+   "name": "Day of Our Lady of Immaculate Conception",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2029-12-25",
+   "name": "Christmas Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2029-12-31",
+   "name": "National Heroes Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2030-01-01",
+   "name": "New Year's Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2030-01-06",
+   "name": "Ramadan Start (tentative)",
+   "type": "Observance"
+  },
+  {
+   "date": "2030-02-03",
+   "name": "Chinese New Year",
+   "type": "Observance"
+  },
+  {
+   "date": "2030-02-05",
+   "name": "Eid ul Fitr (tentative)",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2030-03-03",
+   "name": "Veterans' Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2030-03-06",
+   "name": "Ash Wednesday",
+   "type": "Observance"
+  },
+  {
+   "date": "2030-04-14",
+   "name": "Idul Adha (tentative)",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2030-04-19",
+   "name": "Good Friday",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2030-05-01",
+   "name": "Labor Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2030-05-20",
+   "name": "Restoration of Independence Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2030-06-20",
+   "name": "Corpus Christi",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2030-08-30",
+   "name": "Popular Consultation Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2030-11-01",
+   "name": "All Saints' Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2030-11-02",
+   "name": "All Souls' Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2030-11-03",
+   "name": "National Women's Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2030-11-12",
+   "name": "National Youth Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2030-11-28",
+   "name": "Proclamation of Independence Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2030-12-07",
+   "name": "Memorial Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2030-12-08",
+   "name": "Day of Our Lady of Immaculate Conception",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2030-12-25",
+   "name": "Christmas Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2030-12-26",
+   "name": "Ramadan Start (tentative)",
+   "type": "Observance"
+  },
+  {
+   "date": "2030-12-31",
+   "name": "National Heroes Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2031-01-01",
+   "name": "New Year's Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2031-01-23",
+   "name": "Chinese New Year",
+   "type": "Observance"
+  },
+  {
+   "date": "2031-01-25",
+   "name": "Eid ul Fitr (tentative)",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2031-02-26",
+   "name": "Ash Wednesday",
+   "type": "Observance"
+  },
+  {
+   "date": "2031-03-03",
+   "name": "Veterans' Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2031-04-03",
+   "name": "Idul Adha (tentative)",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2031-04-11",
+   "name": "Good Friday",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2031-05-01",
+   "name": "Labor Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2031-05-20",
+   "name": "Restoration of Independence Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2031-06-12",
+   "name": "Corpus Christi",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2031-08-30",
+   "name": "Popular Consultation Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2031-11-01",
+   "name": "All Saints' Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2031-11-02",
+   "name": "All Souls' Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2031-11-03",
+   "name": "National Women's Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2031-11-12",
+   "name": "National Youth Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2031-11-28",
+   "name": "Proclamation of Independence Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2031-12-07",
+   "name": "Memorial Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2031-12-08",
+   "name": "Day of Our Lady of Immaculate Conception",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2031-12-15",
+   "name": "Ramadan Start (tentative)",
+   "type": "Observance"
+  },
+  {
+   "date": "2031-12-25",
+   "name": "Christmas Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2031-12-31",
+   "name": "National Heroes Day",
+   "type": "Public holiday"
+  }
+ ]
+}

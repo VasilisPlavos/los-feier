@@ -1,0 +1,601 @@
+{
+ "id": "en.sh",
+ "name": "Holidays in St. Helena",
+ "lang": "en",
+ "from": 2021,
+ "to": 2031,
+ "count": 118,
+ "fetchedAt": "2026-09-23T12:14:41.010Z",
+ "events": [
+  {
+   "date": "2021-01-01",
+   "name": "New Year",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2021-04-02",
+   "name": "Good Friday",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2021-04-04",
+   "name": "Easter Sunday",
+   "type": "Observance"
+  },
+  {
+   "date": "2021-04-05",
+   "name": "Easter Monday",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2021-05-21",
+   "name": "Saint Helena Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2021-05-24",
+   "name": "Whit Monday",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2021-06-14",
+   "name": "Queen Elizabeth II's Birthday",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2021-08-30",
+   "name": "August Bank Holiday",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2021-12-25",
+   "name": "Christmas Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2021-12-26",
+   "name": "Boxing Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2021-12-27",
+   "name": "Day off for Boxing Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2021-12-28",
+   "name": "Day off for Christmas Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2022-01-01",
+   "name": "New Year",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2022-04-15",
+   "name": "Good Friday",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2022-04-17",
+   "name": "Easter Sunday",
+   "type": "Observance"
+  },
+  {
+   "date": "2022-04-18",
+   "name": "Easter Monday",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2022-05-20",
+   "name": "Day off for Saint Helena Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2022-05-21",
+   "name": "Saint Helena Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2022-06-03",
+   "name": "Queen Elizabeth II's Platinum Jubilee",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2022-06-06",
+   "name": "Whit Monday",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2022-06-13",
+   "name": "Queen Elizabeth II's Birthday",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2022-08-29",
+   "name": "August Bank Holiday",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2022-12-25",
+   "name": "Christmas Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2022-12-26",
+   "name": "Boxing Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2022-12-27",
+   "name": "Day off for Christmas Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2023-01-01",
+   "name": "New Year",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2023-01-02",
+   "name": "Day off for New Year",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2023-04-07",
+   "name": "Good Friday",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2023-04-09",
+   "name": "Easter Sunday",
+   "type": "Observance"
+  },
+  {
+   "date": "2023-04-10",
+   "name": "Easter Monday",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2023-05-06",
+   "name": "Holiday for the Coronation of His Majesty King Charles III",
+   "type": "Observance"
+  },
+  {
+   "date": "2023-05-08",
+   "name": "Holiday for the Coronation of His Majesty King Charles III",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2023-05-21",
+   "name": "Saint Helena Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2023-05-22",
+   "name": "Day off for Saint Helena Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2023-05-29",
+   "name": "Whit Monday",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2023-06-19",
+   "name": "King Charles III's Birthday",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2023-08-28",
+   "name": "August Bank Holiday",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2023-12-25",
+   "name": "Christmas Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2023-12-26",
+   "name": "Boxing Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2024-01-01",
+   "name": "New Year",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2024-01-24",
+   "name": "The Duke of Edinburgh Visit",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2024-03-29",
+   "name": "Good Friday",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2024-03-31",
+   "name": "Easter Sunday",
+   "type": "Observance"
+  },
+  {
+   "date": "2024-04-01",
+   "name": "Easter Monday",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2024-05-20",
+   "name": "Whit Monday",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2024-05-21",
+   "name": "Saint Helena Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2024-08-26",
+   "name": "August Bank Holiday",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2024-11-15",
+   "name": "King Charles III's Birthday",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2024-12-25",
+   "name": "Christmas Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2024-12-26",
+   "name": "Boxing Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2025-01-01",
+   "name": "New Year",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2025-04-18",
+   "name": "Good Friday",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2025-04-20",
+   "name": "Easter Sunday",
+   "type": "Observance"
+  },
+  {
+   "date": "2025-04-21",
+   "name": "Easter Monday",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2025-05-21",
+   "name": "Saint Helena Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2025-06-09",
+   "name": "Whit Monday",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2025-08-25",
+   "name": "August Bank Holiday",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2025-11-14",
+   "name": "King Charles III's Birthday",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2025-12-25",
+   "name": "Christmas Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2025-12-26",
+   "name": "Boxing Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2026-01-01",
+   "name": "New Year",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2026-04-03",
+   "name": "Good Friday",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2026-04-05",
+   "name": "Easter Sunday",
+   "type": "Observance"
+  },
+  {
+   "date": "2026-04-06",
+   "name": "Easter Monday",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2026-05-21",
+   "name": "Saint Helena Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2026-05-25",
+   "name": "Whit Monday",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2026-08-31",
+   "name": "August Bank Holiday",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2026-11-13",
+   "name": "King Charles III's Birthday (tentative)",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2026-12-25",
+   "name": "Christmas Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2026-12-26",
+   "name": "Boxing Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2026-12-28",
+   "name": "Day off for Boxing Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2027-01-01",
+   "name": "New Year",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2027-03-26",
+   "name": "Good Friday",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2027-03-28",
+   "name": "Easter Sunday",
+   "type": "Observance"
+  },
+  {
+   "date": "2027-03-29",
+   "name": "Easter Monday",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2027-05-17",
+   "name": "Whit Monday",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2027-05-21",
+   "name": "Saint Helena Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2027-08-30",
+   "name": "August Bank Holiday",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2027-12-25",
+   "name": "Christmas Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2027-12-26",
+   "name": "Boxing Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2027-12-27",
+   "name": "Day off for Boxing Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2027-12-28",
+   "name": "Day off for Christmas Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2028-01-01",
+   "name": "New Year",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2028-04-14",
+   "name": "Good Friday",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2028-04-16",
+   "name": "Easter Sunday",
+   "type": "Observance"
+  },
+  {
+   "date": "2028-04-17",
+   "name": "Easter Monday",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2028-05-21",
+   "name": "Saint Helena Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2028-06-05",
+   "name": "Whit Monday",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2028-08-28",
+   "name": "August Bank Holiday",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2028-12-25",
+   "name": "Christmas Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2028-12-26",
+   "name": "Boxing Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2029-01-01",
+   "name": "New Year",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2029-03-30",
+   "name": "Good Friday",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2029-04-01",
+   "name": "Easter Sunday",
+   "type": "Observance"
+  },
+  {
+   "date": "2029-04-02",
+   "name": "Easter Monday",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2029-05-21",
+   "name": "Saint Helena Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2029-05-21",
+   "name": "Whit Monday",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2029-08-27",
+   "name": "August Bank Holiday",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2029-12-25",
+   "name": "Christmas Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2029-12-26",
+   "name": "Boxing Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2030-01-01",
+   "name": "New Year",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2030-04-19",
+   "name": "Good Friday",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2030-04-21",
+   "name": "Easter Sunday",
+   "type": "Observance"
+  },
+  {
+   "date": "2030-04-22",
+   "name": "Easter Monday",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2030-05-21",
+   "name": "Saint Helena Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2030-06-10",
+   "name": "Whit Monday",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2030-08-26",
+   "name": "August Bank Holiday",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2030-12-25",
+   "name": "Christmas Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2030-12-26",
+   "name": "Boxing Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2031-01-01",
+   "name": "New Year",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2031-04-11",
+   "name": "Good Friday",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2031-04-13",
+   "name": "Easter Sunday",
+   "type": "Observance"
+  },
+  {
+   "date": "2031-04-14",
+   "name": "Easter Monday",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2031-05-21",
+   "name": "Saint Helena Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2031-06-02",
+   "name": "Whit Monday",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2031-08-25",
+   "name": "August Bank Holiday",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2031-12-25",
+   "name": "Christmas Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2031-12-26",
+   "name": "Boxing Day",
+   "type": "Public holiday"
+  }
+ ]
+}

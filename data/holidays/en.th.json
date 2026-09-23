@@ -1,0 +1,1596 @@
+{
+ "id": "en.th",
+ "name": "Holidays in Thailand",
+ "lang": "en",
+ "from": 2021,
+ "to": 2031,
+ "count": 317,
+ "fetchedAt": "2026-09-23T12:14:41.055Z",
+ "events": [
+  {
+   "date": "2021-01-01",
+   "name": "New Year's Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2021-02-12",
+   "name": "Chinese New Year's Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2021-02-13",
+   "name": "Second Day of Chinese New Year",
+   "type": "Observance"
+  },
+  {
+   "date": "2021-02-14",
+   "name": "Third Day of Chinese New Year",
+   "type": "Observance"
+  },
+  {
+   "date": "2021-02-14",
+   "name": "Valentine's Day",
+   "type": "Observance"
+  },
+  {
+   "date": "2021-02-26",
+   "name": "Makha Bucha",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2021-04-06",
+   "name": "Chakri Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2021-04-12",
+   "name": "Songkran Holiday",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2021-04-13",
+   "name": "Songkran",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2021-04-14",
+   "name": "Songkran Holiday",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2021-04-15",
+   "name": "Songkran Holiday",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2021-05-01",
+   "name": "Labor Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2021-05-03",
+   "name": "Labor Day observed",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2021-05-04",
+   "name": "Coronation Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2021-05-10",
+   "name": "Royal Ploughing Ceremony Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2021-05-26",
+   "name": "Visakha Bucha",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2021-06-03",
+   "name": "Queen Suthida's Birthday",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2021-07-24",
+   "name": "Asalha Bucha",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2021-07-25",
+   "name": "Buddhist Lent Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2021-07-26",
+   "name": "Asalha Bucha observed",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2021-07-28",
+   "name": "King Vajiralongkorn's Birthday",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2021-08-12",
+   "name": "The Queen Mother's Birthday",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2021-09-24",
+   "name": "Mahidol Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2021-10-13",
+   "name": "Anniversary of the Death of King Bhumibol",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2021-10-22",
+   "name": "Day off for Chulalongkorn Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2021-10-23",
+   "name": "Chulalongkorn Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2021-12-05",
+   "name": "King Bhumibol's Birthday",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2021-12-06",
+   "name": "King Bhumibol's Birthday observed",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2021-12-10",
+   "name": "Constitution Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2021-12-24",
+   "name": "Christmas Eve",
+   "type": "Observance"
+  },
+  {
+   "date": "2021-12-25",
+   "name": "Christmas Day",
+   "type": "Observance"
+  },
+  {
+   "date": "2021-12-31",
+   "name": "New Year's Eve",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2022-01-01",
+   "name": "New Year's Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2022-01-03",
+   "name": "Day off for New Year's Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2022-02-01",
+   "name": "Chinese New Year's Day",
+   "type": "Observance"
+  },
+  {
+   "date": "2022-02-02",
+   "name": "Second Day of Chinese New Year",
+   "type": "Observance"
+  },
+  {
+   "date": "2022-02-03",
+   "name": "Third Day of Chinese New Year",
+   "type": "Observance"
+  },
+  {
+   "date": "2022-02-14",
+   "name": "Valentine's Day",
+   "type": "Observance"
+  },
+  {
+   "date": "2022-02-16",
+   "name": "Makha Bucha",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2022-04-06",
+   "name": "Chakri Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2022-04-13",
+   "name": "Songkran",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2022-04-14",
+   "name": "Songkran Holiday",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2022-04-15",
+   "name": "Songkran Holiday",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2022-05-01",
+   "name": "Labor Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2022-05-02",
+   "name": "Labor Day observed",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2022-05-04",
+   "name": "Coronation Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2022-05-13",
+   "name": "Royal Ploughing Ceremony Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2022-05-15",
+   "name": "Visakha Bucha",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2022-05-16",
+   "name": "Day off for Visakha Bucha",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2022-06-03",
+   "name": "Queen Suthida's Birthday",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2022-07-13",
+   "name": "Asalha Bucha",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2022-07-14",
+   "name": "Buddhist Lent Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2022-07-15",
+   "name": "Bridge Public Holiday",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2022-07-28",
+   "name": "King Vajiralongkorn's Birthday",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2022-07-29",
+   "name": "Extra holiday",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2022-08-12",
+   "name": "The Queen Mother's Birthday",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2022-10-13",
+   "name": "Anniversary of the Death of King Bhumibol",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2022-10-14",
+   "name": "Bridge Public holiday",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2022-10-23",
+   "name": "Chulalongkorn Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2022-10-24",
+   "name": "Day off for Chulalongkorn Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2022-12-05",
+   "name": "King Bhumibol's Birthday",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2022-12-10",
+   "name": "Constitution Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2022-12-12",
+   "name": "Substitute Holiday for Constitution Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2022-12-24",
+   "name": "Christmas Eve",
+   "type": "Observance"
+  },
+  {
+   "date": "2022-12-25",
+   "name": "Christmas Day",
+   "type": "Observance"
+  },
+  {
+   "date": "2022-12-30",
+   "name": "New Year Special Holiday",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2022-12-31",
+   "name": "New Year's Eve",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2023-01-01",
+   "name": "New Year's Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2023-01-02",
+   "name": "Day off for New Year's Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2023-01-22",
+   "name": "Chinese New Year's Day",
+   "type": "Observance"
+  },
+  {
+   "date": "2023-01-23",
+   "name": "Second Day of Chinese New Year",
+   "type": "Observance"
+  },
+  {
+   "date": "2023-01-24",
+   "name": "Third Day of Chinese New Year",
+   "type": "Observance"
+  },
+  {
+   "date": "2023-02-14",
+   "name": "Valentine's Day",
+   "type": "Observance"
+  },
+  {
+   "date": "2023-03-06",
+   "name": "Makha Bucha",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2023-04-06",
+   "name": "Chakri Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2023-04-13",
+   "name": "Songkran",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2023-04-14",
+   "name": "Songkran Holiday",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2023-05-01",
+   "name": "Labor Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2023-05-04",
+   "name": "Coronation Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2023-05-05",
+   "name": "Coronation Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2023-05-17",
+   "name": "Royal Ploughing Ceremony Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2023-06-03",
+   "name": "Queen Suthida's Birthday",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2023-06-03",
+   "name": "Visakha Bucha",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2023-06-05",
+   "name": "Day off for Queen Suthida's Birthday",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2023-06-05",
+   "name": "Day off for Visakha Bucha",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2023-07-28",
+   "name": "King Vajiralongkorn's Birthday",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2023-07-31",
+   "name": "Bridge Public Holiday",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2023-08-01",
+   "name": "Asalha Bucha",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2023-08-12",
+   "name": "The Queen Mother's Birthday",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2023-08-14",
+   "name": "Day off for The Queen Mother's Birthday",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2023-10-13",
+   "name": "Anniversary of the Death of King Bhumibol",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2023-10-23",
+   "name": "Chulalongkorn Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2023-12-05",
+   "name": "King Bhumibol's Birthday",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2023-12-10",
+   "name": "Constitution Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2023-12-11",
+   "name": "Substitute Holiday for Constitution Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2023-12-24",
+   "name": "Christmas Eve",
+   "type": "Observance"
+  },
+  {
+   "date": "2023-12-25",
+   "name": "Christmas Day",
+   "type": "Observance"
+  },
+  {
+   "date": "2023-12-29",
+   "name": "New Year Special Holiday",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2023-12-31",
+   "name": "New Year's Eve",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2024-01-01",
+   "name": "New Year's Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2024-02-10",
+   "name": "Chinese New Year's Day",
+   "type": "Observance"
+  },
+  {
+   "date": "2024-02-11",
+   "name": "Second Day of Chinese New Year",
+   "type": "Observance"
+  },
+  {
+   "date": "2024-02-12",
+   "name": "Third Day of Chinese New Year",
+   "type": "Observance"
+  },
+  {
+   "date": "2024-02-14",
+   "name": "Valentine's Day",
+   "type": "Observance"
+  },
+  {
+   "date": "2024-02-24",
+   "name": "Makha Bucha",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2024-02-26",
+   "name": "Day off for Makha Bucha",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2024-04-06",
+   "name": "Chakri Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2024-04-08",
+   "name": "Day off for Chakri Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2024-04-12",
+   "name": "Songkran Holiday",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2024-04-13",
+   "name": "Songkran",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2024-04-14",
+   "name": "Songkran Holiday",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2024-04-15",
+   "name": "Songkran Holiday",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2024-04-16",
+   "name": "Songkran Observed",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2024-05-01",
+   "name": "Labor Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2024-05-04",
+   "name": "Coronation Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2024-05-06",
+   "name": "Day off for Coronation Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2024-05-10",
+   "name": "Royal Ploughing Ceremony Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2024-05-22",
+   "name": "Visakha Bucha",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2024-06-03",
+   "name": "Queen Suthida's Birthday",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2024-07-20",
+   "name": "Asalha Bucha",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2024-07-22",
+   "name": "Day off for Asalha Bucha",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2024-07-28",
+   "name": "King Vajiralongkorn's Birthday",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2024-07-29",
+   "name": "Day off for King Vajiralongkorn's Birthday",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2024-08-12",
+   "name": "The Queen Mother's Birthday",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2024-10-13",
+   "name": "Anniversary of the Death of King Bhumibol",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2024-10-14",
+   "name": "Day off for Anniversary of the Death of King Bhumibol",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2024-10-23",
+   "name": "Chulalongkorn Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2024-12-05",
+   "name": "King Bhumibol's Birthday",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2024-12-10",
+   "name": "Constitution Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2024-12-24",
+   "name": "Christmas Eve",
+   "type": "Observance"
+  },
+  {
+   "date": "2024-12-25",
+   "name": "Christmas Day",
+   "type": "Observance"
+  },
+  {
+   "date": "2024-12-30",
+   "name": "New Year Special Holiday",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2024-12-31",
+   "name": "New Year's Eve",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2025-01-01",
+   "name": "New Year's Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2025-01-29",
+   "name": "Chinese New Year's Day",
+   "type": "Observance"
+  },
+  {
+   "date": "2025-01-30",
+   "name": "Second Day of Chinese New Year",
+   "type": "Observance"
+  },
+  {
+   "date": "2025-01-31",
+   "name": "Third Day of Chinese New Year",
+   "type": "Observance"
+  },
+  {
+   "date": "2025-02-12",
+   "name": "Makha Bucha",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2025-02-14",
+   "name": "Valentine's Day",
+   "type": "Observance"
+  },
+  {
+   "date": "2025-04-06",
+   "name": "Chakri Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2025-04-07",
+   "name": "Day off for Chakri Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2025-04-13",
+   "name": "Songkran",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2025-04-14",
+   "name": "Songkran Holiday",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2025-04-15",
+   "name": "Songkran Holiday",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2025-04-16",
+   "name": "Songkran Observed",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2025-05-01",
+   "name": "Labor Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2025-05-04",
+   "name": "Coronation Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2025-05-05",
+   "name": "Day off for Coronation Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2025-05-09",
+   "name": "Royal Ploughing Ceremony Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2025-05-11",
+   "name": "Visakha Bucha",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2025-05-12",
+   "name": "Day off for Visakha Bucha",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2025-06-02",
+   "name": "Bridge Public Holiday",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2025-06-03",
+   "name": "Queen Suthida's Birthday",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2025-07-10",
+   "name": "Asalha Bucha",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2025-07-28",
+   "name": "King Vajiralongkorn's Birthday",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2025-08-11",
+   "name": "Bridge Public Holiday",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2025-08-12",
+   "name": "The Queen Mother's Birthday",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2025-10-13",
+   "name": "Anniversary of the Death of King Bhumibol",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2025-10-23",
+   "name": "Chulalongkorn Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2025-12-05",
+   "name": "King Bhumibol's Birthday",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2025-12-10",
+   "name": "Constitution Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2025-12-24",
+   "name": "Christmas Eve",
+   "type": "Observance"
+  },
+  {
+   "date": "2025-12-25",
+   "name": "Christmas Day",
+   "type": "Observance"
+  },
+  {
+   "date": "2025-12-31",
+   "name": "New Year's Eve",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2026-01-01",
+   "name": "New Year's Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2026-01-02",
+   "name": "New Year Special Holiday",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2026-02-14",
+   "name": "Valentine's Day",
+   "type": "Observance"
+  },
+  {
+   "date": "2026-02-17",
+   "name": "Chinese New Year's Day",
+   "type": "Observance"
+  },
+  {
+   "date": "2026-02-18",
+   "name": "Second Day of Chinese New Year",
+   "type": "Observance"
+  },
+  {
+   "date": "2026-02-19",
+   "name": "Third Day of Chinese New Year",
+   "type": "Observance"
+  },
+  {
+   "date": "2026-03-03",
+   "name": "Makha Bucha",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2026-04-06",
+   "name": "Chakri Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2026-04-13",
+   "name": "Songkran",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2026-04-14",
+   "name": "Songkran Holiday",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2026-04-15",
+   "name": "Songkran Holiday",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2026-05-01",
+   "name": "Labor Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2026-05-04",
+   "name": "Coronation Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2026-05-13",
+   "name": "Royal Ploughing Ceremony Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2026-05-31",
+   "name": "Visakha Bucha",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2026-06-01",
+   "name": "Day off for Visakha Bucha",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2026-06-03",
+   "name": "Queen Suthida's Birthday",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2026-07-28",
+   "name": "King Vajiralongkorn's Birthday",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2026-07-29",
+   "name": "Asalha Bucha",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2026-08-12",
+   "name": "The Queen Mother's Birthday",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2026-10-13",
+   "name": "Anniversary of the Death of King Bhumibol",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2026-10-23",
+   "name": "Chulalongkorn Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2026-12-05",
+   "name": "King Bhumibol's Birthday",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2026-12-07",
+   "name": "King Bhumibol's Birthday observed",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2026-12-10",
+   "name": "Constitution Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2026-12-24",
+   "name": "Christmas Eve",
+   "type": "Observance"
+  },
+  {
+   "date": "2026-12-25",
+   "name": "Christmas Day",
+   "type": "Observance"
+  },
+  {
+   "date": "2026-12-31",
+   "name": "New Year's Eve",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2027-01-01",
+   "name": "New Year's Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2027-02-06",
+   "name": "Chinese New Year's Day",
+   "type": "Observance"
+  },
+  {
+   "date": "2027-02-07",
+   "name": "Second Day of Chinese New Year",
+   "type": "Observance"
+  },
+  {
+   "date": "2027-02-08",
+   "name": "Third Day of Chinese New Year",
+   "type": "Observance"
+  },
+  {
+   "date": "2027-02-14",
+   "name": "Valentine's Day",
+   "type": "Observance"
+  },
+  {
+   "date": "2027-04-06",
+   "name": "Chakri Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2027-04-13",
+   "name": "Songkran",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2027-04-14",
+   "name": "Songkran Holiday",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2027-04-15",
+   "name": "Songkran Holiday",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2027-05-01",
+   "name": "Labor Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2027-05-03",
+   "name": "Labor Day observed",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2027-05-04",
+   "name": "Coronation Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2027-06-03",
+   "name": "Queen Suthida's Birthday",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2027-07-28",
+   "name": "King Vajiralongkorn's Birthday",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2027-08-12",
+   "name": "The Queen Mother's Birthday",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2027-10-13",
+   "name": "Anniversary of the Death of King Bhumibol",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2027-10-23",
+   "name": "Chulalongkorn Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2027-10-25",
+   "name": "Day off for Chulalongkorn Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2027-12-05",
+   "name": "King Bhumibol's Birthday",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2027-12-06",
+   "name": "King Bhumibol's Birthday observed",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2027-12-10",
+   "name": "Constitution Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2027-12-24",
+   "name": "Christmas Eve",
+   "type": "Observance"
+  },
+  {
+   "date": "2027-12-25",
+   "name": "Christmas Day",
+   "type": "Observance"
+  },
+  {
+   "date": "2027-12-31",
+   "name": "New Year's Eve",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2028-01-01",
+   "name": "New Year's Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2028-01-03",
+   "name": "Day off for New Year's Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2028-01-26",
+   "name": "Chinese New Year's Day",
+   "type": "Observance"
+  },
+  {
+   "date": "2028-01-27",
+   "name": "Second Day of Chinese New Year",
+   "type": "Observance"
+  },
+  {
+   "date": "2028-01-28",
+   "name": "Third Day of Chinese New Year",
+   "type": "Observance"
+  },
+  {
+   "date": "2028-02-14",
+   "name": "Valentine's Day",
+   "type": "Observance"
+  },
+  {
+   "date": "2028-04-06",
+   "name": "Chakri Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2028-04-13",
+   "name": "Songkran",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2028-04-14",
+   "name": "Songkran Holiday",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2028-04-15",
+   "name": "Songkran Holiday",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2028-05-01",
+   "name": "Labor Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2028-05-04",
+   "name": "Coronation Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2028-06-03",
+   "name": "Queen Suthida's Birthday",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2028-06-05",
+   "name": "Day off for Queen Suthida's Birthday",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2028-07-28",
+   "name": "King Vajiralongkorn's Birthday",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2028-08-11",
+   "name": "Day off for The Queen Mother's Birthday",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2028-08-12",
+   "name": "The Queen Mother's Birthday",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2028-10-13",
+   "name": "Anniversary of the Death of King Bhumibol",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2028-10-23",
+   "name": "Chulalongkorn Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2028-12-05",
+   "name": "King Bhumibol's Birthday",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2028-12-10",
+   "name": "Constitution Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2028-12-11",
+   "name": "Substitute Holiday for Constitution Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2028-12-24",
+   "name": "Christmas Eve",
+   "type": "Observance"
+  },
+  {
+   "date": "2028-12-25",
+   "name": "Christmas Day",
+   "type": "Observance"
+  },
+  {
+   "date": "2028-12-31",
+   "name": "New Year's Eve",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2029-01-01",
+   "name": "New Year's Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2029-02-13",
+   "name": "Chinese New Year's Day",
+   "type": "Observance"
+  },
+  {
+   "date": "2029-02-14",
+   "name": "Second Day of Chinese New Year",
+   "type": "Observance"
+  },
+  {
+   "date": "2029-02-14",
+   "name": "Valentine's Day",
+   "type": "Observance"
+  },
+  {
+   "date": "2029-02-15",
+   "name": "Third Day of Chinese New Year",
+   "type": "Observance"
+  },
+  {
+   "date": "2029-04-06",
+   "name": "Chakri Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2029-04-13",
+   "name": "Songkran",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2029-04-14",
+   "name": "Songkran Holiday",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2029-04-15",
+   "name": "Songkran Holiday",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2029-04-16",
+   "name": "Songkran Observed",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2029-05-01",
+   "name": "Labor Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2029-05-04",
+   "name": "Coronation Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2029-06-03",
+   "name": "Queen Suthida's Birthday",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2029-06-04",
+   "name": "Day off for Queen Suthida's Birthday",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2029-07-28",
+   "name": "King Vajiralongkorn's Birthday",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2029-07-30",
+   "name": "Day off for King Vajiralongkorn's Birthday",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2029-08-12",
+   "name": "The Queen Mother's Birthday",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2029-08-13",
+   "name": "Day off for The Queen Mother's Birthday",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2029-10-13",
+   "name": "Anniversary of the Death of King Bhumibol",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2029-10-15",
+   "name": "Day off for Anniversary of the Death of King Bhumibol",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2029-10-23",
+   "name": "Chulalongkorn Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2029-12-05",
+   "name": "King Bhumibol's Birthday",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2029-12-10",
+   "name": "Constitution Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2029-12-24",
+   "name": "Christmas Eve",
+   "type": "Observance"
+  },
+  {
+   "date": "2029-12-25",
+   "name": "Christmas Day",
+   "type": "Observance"
+  },
+  {
+   "date": "2029-12-31",
+   "name": "New Year's Eve",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2030-01-01",
+   "name": "New Year's Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2030-02-03",
+   "name": "Chinese New Year's Day",
+   "type": "Observance"
+  },
+  {
+   "date": "2030-02-04",
+   "name": "Second Day of Chinese New Year",
+   "type": "Observance"
+  },
+  {
+   "date": "2030-02-05",
+   "name": "Third Day of Chinese New Year",
+   "type": "Observance"
+  },
+  {
+   "date": "2030-02-14",
+   "name": "Valentine's Day",
+   "type": "Observance"
+  },
+  {
+   "date": "2030-04-06",
+   "name": "Chakri Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2030-04-08",
+   "name": "Day off for Chakri Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2030-04-13",
+   "name": "Songkran",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2030-04-14",
+   "name": "Songkran Holiday",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2030-04-15",
+   "name": "Songkran Holiday",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2030-04-16",
+   "name": "Songkran Observed",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2030-05-01",
+   "name": "Labor Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2030-05-04",
+   "name": "Coronation Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2030-05-06",
+   "name": "Day off for Coronation Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2030-06-03",
+   "name": "Queen Suthida's Birthday",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2030-07-28",
+   "name": "King Vajiralongkorn's Birthday",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2030-07-29",
+   "name": "Day off for King Vajiralongkorn's Birthday",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2030-08-12",
+   "name": "The Queen Mother's Birthday",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2030-10-13",
+   "name": "Anniversary of the Death of King Bhumibol",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2030-10-14",
+   "name": "Day off for Anniversary of the Death of King Bhumibol",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2030-10-23",
+   "name": "Chulalongkorn Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2030-12-05",
+   "name": "King Bhumibol's Birthday",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2030-12-10",
+   "name": "Constitution Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2030-12-24",
+   "name": "Christmas Eve",
+   "type": "Observance"
+  },
+  {
+   "date": "2030-12-25",
+   "name": "Christmas Day",
+   "type": "Observance"
+  },
+  {
+   "date": "2030-12-31",
+   "name": "New Year's Eve",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2031-01-01",
+   "name": "New Year's Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2031-01-23",
+   "name": "Chinese New Year's Day",
+   "type": "Observance"
+  },
+  {
+   "date": "2031-01-24",
+   "name": "Second Day of Chinese New Year",
+   "type": "Observance"
+  },
+  {
+   "date": "2031-01-25",
+   "name": "Third Day of Chinese New Year",
+   "type": "Observance"
+  },
+  {
+   "date": "2031-02-14",
+   "name": "Valentine's Day",
+   "type": "Observance"
+  },
+  {
+   "date": "2031-04-06",
+   "name": "Chakri Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2031-04-07",
+   "name": "Day off for Chakri Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2031-04-13",
+   "name": "Songkran",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2031-04-14",
+   "name": "Songkran Holiday",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2031-04-15",
+   "name": "Songkran Holiday",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2031-04-16",
+   "name": "Songkran Observed",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2031-05-01",
+   "name": "Labor Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2031-05-04",
+   "name": "Coronation Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2031-05-05",
+   "name": "Day off for Coronation Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2031-06-03",
+   "name": "Queen Suthida's Birthday",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2031-07-28",
+   "name": "King Vajiralongkorn's Birthday",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2031-08-12",
+   "name": "The Queen Mother's Birthday",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2031-10-13",
+   "name": "Anniversary of the Death of King Bhumibol",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2031-10-23",
+   "name": "Chulalongkorn Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2031-12-05",
+   "name": "King Bhumibol's Birthday",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2031-12-10",
+   "name": "Constitution Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2031-12-24",
+   "name": "Christmas Eve",
+   "type": "Observance"
+  },
+  {
+   "date": "2031-12-25",
+   "name": "Christmas Day",
+   "type": "Observance"
+  },
+  {
+   "date": "2031-12-31",
+   "name": "New Year's Eve",
+   "type": "Public holiday"
+  }
+ ]
+}

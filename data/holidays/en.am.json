@@ -1,0 +1,2136 @@
+{
+ "id": "en.am",
+ "name": "Holidays in Armenia",
+ "lang": "en",
+ "from": 2021,
+ "to": 2031,
+ "count": 425,
+ "fetchedAt": "2026-09-23T12:14:40.648Z",
+ "events": [
+  {
+   "date": "2021-01-01",
+   "name": "New Year's Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2021-01-02",
+   "name": "New Year's Day (Day 2)",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2021-01-03",
+   "name": "New Year's Day (Day 3)",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2021-01-04",
+   "name": "New Year's Day (Day 4)",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2021-01-05",
+   "name": "Christmas Eve",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2021-01-06",
+   "name": "Christmas Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2021-01-07",
+   "name": "Christmas Remembrance Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2021-01-28",
+   "name": "Army Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2021-02-11",
+   "name": "Feast of Saint Vartan",
+   "type": "Observance"
+  },
+  {
+   "date": "2021-02-21",
+   "name": "Mother Language Day",
+   "type": "Observance"
+  },
+  {
+   "date": "2021-03-08",
+   "name": "International Women's Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2021-04-02",
+   "name": "Good Friday",
+   "type": "Observance"
+  },
+  {
+   "date": "2021-04-03",
+   "name": "Holy Saturday",
+   "type": "Observance"
+  },
+  {
+   "date": "2021-04-04",
+   "name": "Easter Sunday",
+   "type": "Observance"
+  },
+  {
+   "date": "2021-04-05",
+   "name": "Easter Monday",
+   "type": "Observance"
+  },
+  {
+   "date": "2021-04-07",
+   "name": "Motherhood and Beauty Day",
+   "type": "Observance"
+  },
+  {
+   "date": "2021-04-16",
+   "name": "Armenian Cinema Day",
+   "type": "Observance"
+  },
+  {
+   "date": "2021-04-19",
+   "name": "Taxpayers' Day",
+   "type": "Observance"
+  },
+  {
+   "date": "2021-04-24",
+   "name": "Genocide Remembrance Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2021-04-25",
+   "name": "Citizens' Day",
+   "type": "Observance"
+  },
+  {
+   "date": "2021-05-01",
+   "name": "Labor Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2021-05-08",
+   "name": "Yerkrapah Day",
+   "type": "Observance"
+  },
+  {
+   "date": "2021-05-09",
+   "name": "Victory and Peace Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2021-05-15",
+   "name": "Family Day",
+   "type": "Observance"
+  },
+  {
+   "date": "2021-05-16",
+   "name": "Day of Students and Youth",
+   "type": "Observance"
+  },
+  {
+   "date": "2021-05-28",
+   "name": "Republic Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2021-06-01",
+   "name": "Children's Day",
+   "type": "Observance"
+  },
+  {
+   "date": "2021-06-06",
+   "name": "The Feast of Holy Etchmiadzin",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2021-06-14",
+   "name": "Remembrance Day of the Oppressed",
+   "type": "Observance"
+  },
+  {
+   "date": "2021-07-05",
+   "name": "Constitution Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2021-07-05",
+   "name": "Day of State Symbols",
+   "type": "Observance"
+  },
+  {
+   "date": "2021-09-01",
+   "name": "Knowledge and Literature Day",
+   "type": "Observance"
+  },
+  {
+   "date": "2021-09-21",
+   "name": "Independence Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2021-10-03",
+   "name": "Day of National Minorities of the Republic of Armenia",
+   "type": "Observance"
+  },
+  {
+   "date": "2021-10-05",
+   "name": "Teachers' Day",
+   "type": "Observance"
+  },
+  {
+   "date": "2021-10-09",
+   "name": "Translators' Day",
+   "type": "Observance"
+  },
+  {
+   "date": "2021-11-10",
+   "name": "Local Self-Government Day",
+   "type": "Observance"
+  },
+  {
+   "date": "2021-12-07",
+   "name": "Spitak Remembrance Day",
+   "type": "Observance"
+  },
+  {
+   "date": "2021-12-09",
+   "name": "Genocide Condemnation and Prevention Day",
+   "type": "Observance"
+  },
+  {
+   "date": "2021-12-31",
+   "name": "New Year's Eve",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2022-01-01",
+   "name": "New Year's Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2022-01-02",
+   "name": "New Year's Day (Day 2)",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2022-01-05",
+   "name": "Christmas Eve",
+   "type": "Observance"
+  },
+  {
+   "date": "2022-01-06",
+   "name": "Christmas Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2022-01-07",
+   "name": "Christmas Remembrance Day",
+   "type": "Observance"
+  },
+  {
+   "date": "2022-01-28",
+   "name": "Army Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2022-02-21",
+   "name": "Mother Language Day",
+   "type": "Observance"
+  },
+  {
+   "date": "2022-02-24",
+   "name": "Feast of Saint Vartan",
+   "type": "Observance"
+  },
+  {
+   "date": "2022-03-08",
+   "name": "International Women's Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2022-04-07",
+   "name": "Motherhood and Beauty Day",
+   "type": "Observance"
+  },
+  {
+   "date": "2022-04-15",
+   "name": "Good Friday",
+   "type": "Observance"
+  },
+  {
+   "date": "2022-04-16",
+   "name": "Armenian Cinema Day",
+   "type": "Observance"
+  },
+  {
+   "date": "2022-04-16",
+   "name": "Holy Saturday",
+   "type": "Observance"
+  },
+  {
+   "date": "2022-04-17",
+   "name": "Easter Sunday",
+   "type": "Observance"
+  },
+  {
+   "date": "2022-04-18",
+   "name": "Easter Monday",
+   "type": "Observance"
+  },
+  {
+   "date": "2022-04-19",
+   "name": "Taxpayers' Day",
+   "type": "Observance"
+  },
+  {
+   "date": "2022-04-24",
+   "name": "Genocide Remembrance Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2022-04-30",
+   "name": "Citizens' Day",
+   "type": "Observance"
+  },
+  {
+   "date": "2022-05-01",
+   "name": "Labor Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2022-05-08",
+   "name": "Yerkrapah Day",
+   "type": "Observance"
+  },
+  {
+   "date": "2022-05-09",
+   "name": "Victory and Peace Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2022-05-15",
+   "name": "Family Day",
+   "type": "Observance"
+  },
+  {
+   "date": "2022-05-16",
+   "name": "Day of Students and Youth",
+   "type": "Observance"
+  },
+  {
+   "date": "2022-05-28",
+   "name": "Republic Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2022-06-01",
+   "name": "Children's Day",
+   "type": "Observance"
+  },
+  {
+   "date": "2022-06-14",
+   "name": "Remembrance Day of the Oppressed",
+   "type": "Observance"
+  },
+  {
+   "date": "2022-06-19",
+   "name": "The Feast of Holy Etchmiadzin",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2022-07-05",
+   "name": "Constitution Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2022-07-05",
+   "name": "Day of State Symbols",
+   "type": "Observance"
+  },
+  {
+   "date": "2022-09-01",
+   "name": "Knowledge and Literature Day",
+   "type": "Observance"
+  },
+  {
+   "date": "2022-09-21",
+   "name": "Independence Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2022-10-02",
+   "name": "Day of National Minorities of the Republic of Armenia",
+   "type": "Observance"
+  },
+  {
+   "date": "2022-10-05",
+   "name": "Teachers' Day",
+   "type": "Observance"
+  },
+  {
+   "date": "2022-10-08",
+   "name": "Translators' Day",
+   "type": "Observance"
+  },
+  {
+   "date": "2022-11-10",
+   "name": "Local Self-Government Day",
+   "type": "Observance"
+  },
+  {
+   "date": "2022-12-07",
+   "name": "Spitak Remembrance Day",
+   "type": "Observance"
+  },
+  {
+   "date": "2022-12-09",
+   "name": "Genocide Condemnation and Prevention Day",
+   "type": "Observance"
+  },
+  {
+   "date": "2022-12-31",
+   "name": "New Year's Eve",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2023-01-01",
+   "name": "New Year's Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2023-01-02",
+   "name": "New Year's Day (Day 2)",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2023-01-05",
+   "name": "Christmas Eve",
+   "type": "Observance"
+  },
+  {
+   "date": "2023-01-06",
+   "name": "Christmas Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2023-01-07",
+   "name": "Christmas Remembrance Day",
+   "type": "Observance"
+  },
+  {
+   "date": "2023-01-28",
+   "name": "Army Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2023-02-16",
+   "name": "Feast of Saint Vartan",
+   "type": "Observance"
+  },
+  {
+   "date": "2023-02-21",
+   "name": "Mother Language Day",
+   "type": "Observance"
+  },
+  {
+   "date": "2023-03-08",
+   "name": "International Women's Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2023-04-07",
+   "name": "Good Friday",
+   "type": "Observance"
+  },
+  {
+   "date": "2023-04-07",
+   "name": "Motherhood and Beauty Day",
+   "type": "Observance"
+  },
+  {
+   "date": "2023-04-08",
+   "name": "Holy Saturday",
+   "type": "Observance"
+  },
+  {
+   "date": "2023-04-09",
+   "name": "Easter Sunday",
+   "type": "Observance"
+  },
+  {
+   "date": "2023-04-10",
+   "name": "Easter Monday",
+   "type": "Observance"
+  },
+  {
+   "date": "2023-04-16",
+   "name": "Armenian Cinema Day",
+   "type": "Observance"
+  },
+  {
+   "date": "2023-04-19",
+   "name": "Taxpayers' Day",
+   "type": "Observance"
+  },
+  {
+   "date": "2023-04-24",
+   "name": "Genocide Remembrance Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2023-04-29",
+   "name": "Citizens' Day",
+   "type": "Observance"
+  },
+  {
+   "date": "2023-05-01",
+   "name": "Labor Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2023-05-08",
+   "name": "Yerkrapah Day",
+   "type": "Observance"
+  },
+  {
+   "date": "2023-05-09",
+   "name": "Victory and Peace Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2023-05-15",
+   "name": "Family Day",
+   "type": "Observance"
+  },
+  {
+   "date": "2023-05-16",
+   "name": "Day of Students and Youth",
+   "type": "Observance"
+  },
+  {
+   "date": "2023-05-28",
+   "name": "Republic Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2023-06-01",
+   "name": "Children's Day",
+   "type": "Observance"
+  },
+  {
+   "date": "2023-06-11",
+   "name": "The Feast of Holy Etchmiadzin",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2023-06-14",
+   "name": "Remembrance Day of the Oppressed",
+   "type": "Observance"
+  },
+  {
+   "date": "2023-07-05",
+   "name": "Constitution Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2023-07-05",
+   "name": "Day of State Symbols",
+   "type": "Observance"
+  },
+  {
+   "date": "2023-09-01",
+   "name": "Knowledge and Literature Day",
+   "type": "Observance"
+  },
+  {
+   "date": "2023-09-21",
+   "name": "Independence Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2023-10-01",
+   "name": "Day of National Minorities of the Republic of Armenia",
+   "type": "Observance"
+  },
+  {
+   "date": "2023-10-05",
+   "name": "Teachers' Day",
+   "type": "Observance"
+  },
+  {
+   "date": "2023-10-14",
+   "name": "Translators' Day",
+   "type": "Observance"
+  },
+  {
+   "date": "2023-11-10",
+   "name": "Local Self-Government Day",
+   "type": "Observance"
+  },
+  {
+   "date": "2023-12-07",
+   "name": "Spitak Remembrance Day",
+   "type": "Observance"
+  },
+  {
+   "date": "2023-12-09",
+   "name": "Genocide Condemnation and Prevention Day",
+   "type": "Observance"
+  },
+  {
+   "date": "2023-12-31",
+   "name": "New Year's Eve",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2024-01-01",
+   "name": "New Year's Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2024-01-02",
+   "name": "New Year's Day (Day 2)",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2024-01-05",
+   "name": "Christmas Eve",
+   "type": "Observance"
+  },
+  {
+   "date": "2024-01-06",
+   "name": "Christmas Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2024-01-07",
+   "name": "Christmas Remembrance Day",
+   "type": "Observance"
+  },
+  {
+   "date": "2024-01-28",
+   "name": "Army Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2024-02-08",
+   "name": "Feast of Saint Vartan",
+   "type": "Observance"
+  },
+  {
+   "date": "2024-02-21",
+   "name": "Mother Language Day",
+   "type": "Observance"
+  },
+  {
+   "date": "2024-03-08",
+   "name": "International Women's Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2024-03-29",
+   "name": "Good Friday",
+   "type": "Observance"
+  },
+  {
+   "date": "2024-03-30",
+   "name": "Holy Saturday",
+   "type": "Observance"
+  },
+  {
+   "date": "2024-03-31",
+   "name": "Easter Sunday",
+   "type": "Observance"
+  },
+  {
+   "date": "2024-04-01",
+   "name": "Easter Monday",
+   "type": "Observance"
+  },
+  {
+   "date": "2024-04-07",
+   "name": "Motherhood and Beauty Day",
+   "type": "Observance"
+  },
+  {
+   "date": "2024-04-16",
+   "name": "Armenian Cinema Day",
+   "type": "Observance"
+  },
+  {
+   "date": "2024-04-19",
+   "name": "Taxpayers' Day",
+   "type": "Observance"
+  },
+  {
+   "date": "2024-04-24",
+   "name": "Genocide Remembrance Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2024-04-27",
+   "name": "Citizens' Day",
+   "type": "Observance"
+  },
+  {
+   "date": "2024-05-01",
+   "name": "Labor Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2024-05-08",
+   "name": "Yerkrapah Day",
+   "type": "Observance"
+  },
+  {
+   "date": "2024-05-09",
+   "name": "Victory and Peace Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2024-05-15",
+   "name": "Family Day",
+   "type": "Observance"
+  },
+  {
+   "date": "2024-05-16",
+   "name": "Day of Students and Youth",
+   "type": "Observance"
+  },
+  {
+   "date": "2024-05-28",
+   "name": "Republic Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2024-06-01",
+   "name": "Children's Day",
+   "type": "Observance"
+  },
+  {
+   "date": "2024-06-02",
+   "name": "The Feast of Holy Etchmiadzin",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2024-06-14",
+   "name": "Remembrance Day of the Oppressed",
+   "type": "Observance"
+  },
+  {
+   "date": "2024-07-05",
+   "name": "Constitution Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2024-07-05",
+   "name": "Day of State Symbols",
+   "type": "Observance"
+  },
+  {
+   "date": "2024-09-01",
+   "name": "Knowledge and Literature Day",
+   "type": "Observance"
+  },
+  {
+   "date": "2024-09-21",
+   "name": "Independence Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2024-10-05",
+   "name": "Teachers' Day",
+   "type": "Observance"
+  },
+  {
+   "date": "2024-10-06",
+   "name": "Day of National Minorities of the Republic of Armenia",
+   "type": "Observance"
+  },
+  {
+   "date": "2024-10-12",
+   "name": "Translators' Day",
+   "type": "Observance"
+  },
+  {
+   "date": "2024-11-10",
+   "name": "Local Self-Government Day",
+   "type": "Observance"
+  },
+  {
+   "date": "2024-12-07",
+   "name": "Spitak Remembrance Day",
+   "type": "Observance"
+  },
+  {
+   "date": "2024-12-09",
+   "name": "Genocide Condemnation and Prevention Day",
+   "type": "Observance"
+  },
+  {
+   "date": "2024-12-31",
+   "name": "New Year's Eve",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2025-01-01",
+   "name": "New Year's Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2025-01-02",
+   "name": "New Year's Day (Day 2)",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2025-01-05",
+   "name": "Christmas Eve",
+   "type": "Observance"
+  },
+  {
+   "date": "2025-01-06",
+   "name": "Christmas Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2025-01-07",
+   "name": "Christmas Remembrance Day",
+   "type": "Observance"
+  },
+  {
+   "date": "2025-01-28",
+   "name": "Army Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2025-02-21",
+   "name": "Mother Language Day",
+   "type": "Observance"
+  },
+  {
+   "date": "2025-02-27",
+   "name": "Feast of Saint Vartan",
+   "type": "Observance"
+  },
+  {
+   "date": "2025-03-08",
+   "name": "International Women's Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2025-04-07",
+   "name": "Motherhood and Beauty Day",
+   "type": "Observance"
+  },
+  {
+   "date": "2025-04-16",
+   "name": "Armenian Cinema Day",
+   "type": "Observance"
+  },
+  {
+   "date": "2025-04-18",
+   "name": "Good Friday",
+   "type": "Observance"
+  },
+  {
+   "date": "2025-04-19",
+   "name": "Holy Saturday",
+   "type": "Observance"
+  },
+  {
+   "date": "2025-04-19",
+   "name": "Taxpayers' Day",
+   "type": "Observance"
+  },
+  {
+   "date": "2025-04-20",
+   "name": "Easter Sunday",
+   "type": "Observance"
+  },
+  {
+   "date": "2025-04-21",
+   "name": "Easter Monday",
+   "type": "Observance"
+  },
+  {
+   "date": "2025-04-24",
+   "name": "Genocide Remembrance Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2025-04-26",
+   "name": "Citizens' Day",
+   "type": "Observance"
+  },
+  {
+   "date": "2025-05-01",
+   "name": "Labor Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2025-05-08",
+   "name": "Yerkrapah Day",
+   "type": "Observance"
+  },
+  {
+   "date": "2025-05-09",
+   "name": "Victory and Peace Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2025-05-15",
+   "name": "Family Day",
+   "type": "Observance"
+  },
+  {
+   "date": "2025-05-16",
+   "name": "Day of Students and Youth",
+   "type": "Observance"
+  },
+  {
+   "date": "2025-05-28",
+   "name": "Republic Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2025-06-01",
+   "name": "Children's Day",
+   "type": "Observance"
+  },
+  {
+   "date": "2025-06-14",
+   "name": "Remembrance Day of the Oppressed",
+   "type": "Observance"
+  },
+  {
+   "date": "2025-06-22",
+   "name": "The Feast of Holy Etchmiadzin",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2025-07-05",
+   "name": "Constitution Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2025-07-05",
+   "name": "Day of State Symbols",
+   "type": "Observance"
+  },
+  {
+   "date": "2025-09-01",
+   "name": "Knowledge and Literature Day",
+   "type": "Observance"
+  },
+  {
+   "date": "2025-09-21",
+   "name": "Independence Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2025-10-05",
+   "name": "Day of National Minorities of the Republic of Armenia",
+   "type": "Observance"
+  },
+  {
+   "date": "2025-10-05",
+   "name": "Teachers' Day",
+   "type": "Observance"
+  },
+  {
+   "date": "2025-10-11",
+   "name": "Translators' Day",
+   "type": "Observance"
+  },
+  {
+   "date": "2025-11-10",
+   "name": "Local Self-Government Day",
+   "type": "Observance"
+  },
+  {
+   "date": "2025-12-07",
+   "name": "Spitak Remembrance Day",
+   "type": "Observance"
+  },
+  {
+   "date": "2025-12-09",
+   "name": "Genocide Condemnation and Prevention Day",
+   "type": "Observance"
+  },
+  {
+   "date": "2025-12-31",
+   "name": "New Year's Eve",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2026-01-01",
+   "name": "New Year's Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2026-01-02",
+   "name": "New Year's Day (Day 2)",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2026-01-05",
+   "name": "Christmas Eve",
+   "type": "Observance"
+  },
+  {
+   "date": "2026-01-06",
+   "name": "Christmas Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2026-01-07",
+   "name": "Christmas Remembrance Day",
+   "type": "Observance"
+  },
+  {
+   "date": "2026-01-27",
+   "name": "Remembrance Day for Fallen Defenders",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2026-01-28",
+   "name": "Army Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2026-02-12",
+   "name": "Feast of Saint Vartan",
+   "type": "Observance"
+  },
+  {
+   "date": "2026-02-21",
+   "name": "Mother Language Day",
+   "type": "Observance"
+  },
+  {
+   "date": "2026-03-08",
+   "name": "International Women's Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2026-04-03",
+   "name": "Good Friday",
+   "type": "Observance"
+  },
+  {
+   "date": "2026-04-04",
+   "name": "Holy Saturday",
+   "type": "Observance"
+  },
+  {
+   "date": "2026-04-05",
+   "name": "Easter Sunday",
+   "type": "Observance"
+  },
+  {
+   "date": "2026-04-06",
+   "name": "Easter Monday",
+   "type": "Observance"
+  },
+  {
+   "date": "2026-04-07",
+   "name": "Motherhood and Beauty Day",
+   "type": "Observance"
+  },
+  {
+   "date": "2026-04-16",
+   "name": "Armenian Cinema Day",
+   "type": "Observance"
+  },
+  {
+   "date": "2026-04-19",
+   "name": "Taxpayers' Day",
+   "type": "Observance"
+  },
+  {
+   "date": "2026-04-24",
+   "name": "Genocide Remembrance Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2026-04-25",
+   "name": "Citizens' Day",
+   "type": "Observance"
+  },
+  {
+   "date": "2026-05-01",
+   "name": "Labor Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2026-05-08",
+   "name": "Yerkrapah Day",
+   "type": "Observance"
+  },
+  {
+   "date": "2026-05-09",
+   "name": "Victory and Peace Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2026-05-15",
+   "name": "Family Day",
+   "type": "Observance"
+  },
+  {
+   "date": "2026-05-16",
+   "name": "Day of Students and Youth",
+   "type": "Observance"
+  },
+  {
+   "date": "2026-05-28",
+   "name": "Republic Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2026-06-01",
+   "name": "Children's Day",
+   "type": "Observance"
+  },
+  {
+   "date": "2026-06-07",
+   "name": "The Feast of Holy Etchmiadzin",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2026-06-14",
+   "name": "Remembrance Day of the Oppressed",
+   "type": "Observance"
+  },
+  {
+   "date": "2026-07-05",
+   "name": "Constitution Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2026-07-05",
+   "name": "Day of State Symbols",
+   "type": "Observance"
+  },
+  {
+   "date": "2026-09-01",
+   "name": "Knowledge and Literature Day",
+   "type": "Observance"
+  },
+  {
+   "date": "2026-09-21",
+   "name": "Independence Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2026-10-04",
+   "name": "Day of National Minorities of the Republic of Armenia",
+   "type": "Observance"
+  },
+  {
+   "date": "2026-10-05",
+   "name": "Teachers' Day",
+   "type": "Observance"
+  },
+  {
+   "date": "2026-10-10",
+   "name": "Translators' Day",
+   "type": "Observance"
+  },
+  {
+   "date": "2026-11-10",
+   "name": "Local Self-Government Day",
+   "type": "Observance"
+  },
+  {
+   "date": "2026-12-07",
+   "name": "Spitak Remembrance Day",
+   "type": "Observance"
+  },
+  {
+   "date": "2026-12-09",
+   "name": "Genocide Condemnation and Prevention Day",
+   "type": "Observance"
+  },
+  {
+   "date": "2026-12-31",
+   "name": "New Year's Eve",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2027-01-01",
+   "name": "New Year's Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2027-01-02",
+   "name": "New Year's Day (Day 2)",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2027-01-05",
+   "name": "Christmas Eve",
+   "type": "Observance"
+  },
+  {
+   "date": "2027-01-06",
+   "name": "Christmas Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2027-01-07",
+   "name": "Christmas Remembrance Day",
+   "type": "Observance"
+  },
+  {
+   "date": "2027-01-27",
+   "name": "Remembrance Day for Fallen Defenders",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2027-01-28",
+   "name": "Army Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2027-02-04",
+   "name": "Feast of Saint Vartan",
+   "type": "Observance"
+  },
+  {
+   "date": "2027-02-21",
+   "name": "Mother Language Day",
+   "type": "Observance"
+  },
+  {
+   "date": "2027-03-08",
+   "name": "International Women's Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2027-03-26",
+   "name": "Good Friday",
+   "type": "Observance"
+  },
+  {
+   "date": "2027-03-27",
+   "name": "Holy Saturday",
+   "type": "Observance"
+  },
+  {
+   "date": "2027-03-28",
+   "name": "Easter Sunday",
+   "type": "Observance"
+  },
+  {
+   "date": "2027-03-29",
+   "name": "Easter Monday",
+   "type": "Observance"
+  },
+  {
+   "date": "2027-04-07",
+   "name": "Motherhood and Beauty Day",
+   "type": "Observance"
+  },
+  {
+   "date": "2027-04-16",
+   "name": "Armenian Cinema Day",
+   "type": "Observance"
+  },
+  {
+   "date": "2027-04-19",
+   "name": "Taxpayers' Day",
+   "type": "Observance"
+  },
+  {
+   "date": "2027-04-24",
+   "name": "Genocide Remembrance Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2027-04-25",
+   "name": "Citizens' Day",
+   "type": "Observance"
+  },
+  {
+   "date": "2027-05-01",
+   "name": "Labor Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2027-05-08",
+   "name": "Yerkrapah Day",
+   "type": "Observance"
+  },
+  {
+   "date": "2027-05-09",
+   "name": "Victory and Peace Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2027-05-15",
+   "name": "Family Day",
+   "type": "Observance"
+  },
+  {
+   "date": "2027-05-16",
+   "name": "Day of Students and Youth",
+   "type": "Observance"
+  },
+  {
+   "date": "2027-05-28",
+   "name": "Republic Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2027-05-30",
+   "name": "The Feast of Holy Etchmiadzin",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2027-06-01",
+   "name": "Children's Day",
+   "type": "Observance"
+  },
+  {
+   "date": "2027-06-14",
+   "name": "Remembrance Day of the Oppressed",
+   "type": "Observance"
+  },
+  {
+   "date": "2027-07-05",
+   "name": "Constitution Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2027-07-05",
+   "name": "Day of State Symbols",
+   "type": "Observance"
+  },
+  {
+   "date": "2027-09-01",
+   "name": "Knowledge and Literature Day",
+   "type": "Observance"
+  },
+  {
+   "date": "2027-09-21",
+   "name": "Independence Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2027-10-03",
+   "name": "Day of National Minorities of the Republic of Armenia",
+   "type": "Observance"
+  },
+  {
+   "date": "2027-10-05",
+   "name": "Teachers' Day",
+   "type": "Observance"
+  },
+  {
+   "date": "2027-10-09",
+   "name": "Translators' Day",
+   "type": "Observance"
+  },
+  {
+   "date": "2027-11-10",
+   "name": "Local Self-Government Day",
+   "type": "Observance"
+  },
+  {
+   "date": "2027-12-07",
+   "name": "Spitak Remembrance Day",
+   "type": "Observance"
+  },
+  {
+   "date": "2027-12-09",
+   "name": "Genocide Condemnation and Prevention Day",
+   "type": "Observance"
+  },
+  {
+   "date": "2027-12-31",
+   "name": "New Year's Eve",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2028-01-01",
+   "name": "New Year's Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2028-01-02",
+   "name": "New Year's Day (Day 2)",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2028-01-05",
+   "name": "Christmas Eve",
+   "type": "Observance"
+  },
+  {
+   "date": "2028-01-06",
+   "name": "Christmas Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2028-01-07",
+   "name": "Christmas Remembrance Day",
+   "type": "Observance"
+  },
+  {
+   "date": "2028-01-27",
+   "name": "Remembrance Day for Fallen Defenders",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2028-01-28",
+   "name": "Army Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2028-02-21",
+   "name": "Mother Language Day",
+   "type": "Observance"
+  },
+  {
+   "date": "2028-02-24",
+   "name": "Feast of Saint Vartan",
+   "type": "Observance"
+  },
+  {
+   "date": "2028-03-08",
+   "name": "International Women's Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2028-04-07",
+   "name": "Motherhood and Beauty Day",
+   "type": "Observance"
+  },
+  {
+   "date": "2028-04-14",
+   "name": "Good Friday",
+   "type": "Observance"
+  },
+  {
+   "date": "2028-04-15",
+   "name": "Holy Saturday",
+   "type": "Observance"
+  },
+  {
+   "date": "2028-04-16",
+   "name": "Armenian Cinema Day",
+   "type": "Observance"
+  },
+  {
+   "date": "2028-04-16",
+   "name": "Easter Sunday",
+   "type": "Observance"
+  },
+  {
+   "date": "2028-04-17",
+   "name": "Easter Monday",
+   "type": "Observance"
+  },
+  {
+   "date": "2028-04-19",
+   "name": "Taxpayers' Day",
+   "type": "Observance"
+  },
+  {
+   "date": "2028-04-24",
+   "name": "Genocide Remembrance Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2028-04-29",
+   "name": "Citizens' Day",
+   "type": "Observance"
+  },
+  {
+   "date": "2028-05-01",
+   "name": "Labor Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2028-05-08",
+   "name": "Yerkrapah Day",
+   "type": "Observance"
+  },
+  {
+   "date": "2028-05-09",
+   "name": "Victory and Peace Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2028-05-15",
+   "name": "Family Day",
+   "type": "Observance"
+  },
+  {
+   "date": "2028-05-16",
+   "name": "Day of Students and Youth",
+   "type": "Observance"
+  },
+  {
+   "date": "2028-05-28",
+   "name": "Republic Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2028-06-01",
+   "name": "Children's Day",
+   "type": "Observance"
+  },
+  {
+   "date": "2028-06-14",
+   "name": "Remembrance Day of the Oppressed",
+   "type": "Observance"
+  },
+  {
+   "date": "2028-06-18",
+   "name": "The Feast of Holy Etchmiadzin",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2028-07-05",
+   "name": "Constitution Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2028-07-05",
+   "name": "Day of State Symbols",
+   "type": "Observance"
+  },
+  {
+   "date": "2028-09-01",
+   "name": "Knowledge and Literature Day",
+   "type": "Observance"
+  },
+  {
+   "date": "2028-09-21",
+   "name": "Independence Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2028-10-01",
+   "name": "Day of National Minorities of the Republic of Armenia",
+   "type": "Observance"
+  },
+  {
+   "date": "2028-10-05",
+   "name": "Teachers' Day",
+   "type": "Observance"
+  },
+  {
+   "date": "2028-10-14",
+   "name": "Translators' Day",
+   "type": "Observance"
+  },
+  {
+   "date": "2028-11-10",
+   "name": "Local Self-Government Day",
+   "type": "Observance"
+  },
+  {
+   "date": "2028-12-07",
+   "name": "Spitak Remembrance Day",
+   "type": "Observance"
+  },
+  {
+   "date": "2028-12-09",
+   "name": "Genocide Condemnation and Prevention Day",
+   "type": "Observance"
+  },
+  {
+   "date": "2028-12-31",
+   "name": "New Year's Eve",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2029-01-01",
+   "name": "New Year's Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2029-01-02",
+   "name": "New Year's Day (Day 2)",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2029-01-05",
+   "name": "Christmas Eve",
+   "type": "Observance"
+  },
+  {
+   "date": "2029-01-06",
+   "name": "Christmas Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2029-01-07",
+   "name": "Christmas Remembrance Day",
+   "type": "Observance"
+  },
+  {
+   "date": "2029-01-27",
+   "name": "Remembrance Day for Fallen Defenders",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2029-01-28",
+   "name": "Army Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2029-02-08",
+   "name": "Feast of Saint Vartan",
+   "type": "Observance"
+  },
+  {
+   "date": "2029-02-21",
+   "name": "Mother Language Day",
+   "type": "Observance"
+  },
+  {
+   "date": "2029-03-08",
+   "name": "International Women's Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2029-03-30",
+   "name": "Good Friday",
+   "type": "Observance"
+  },
+  {
+   "date": "2029-03-31",
+   "name": "Holy Saturday",
+   "type": "Observance"
+  },
+  {
+   "date": "2029-04-01",
+   "name": "Easter Sunday",
+   "type": "Observance"
+  },
+  {
+   "date": "2029-04-02",
+   "name": "Easter Monday",
+   "type": "Observance"
+  },
+  {
+   "date": "2029-04-07",
+   "name": "Motherhood and Beauty Day",
+   "type": "Observance"
+  },
+  {
+   "date": "2029-04-16",
+   "name": "Armenian Cinema Day",
+   "type": "Observance"
+  },
+  {
+   "date": "2029-04-19",
+   "name": "Taxpayers' Day",
+   "type": "Observance"
+  },
+  {
+   "date": "2029-04-24",
+   "name": "Genocide Remembrance Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2029-04-28",
+   "name": "Citizens' Day",
+   "type": "Observance"
+  },
+  {
+   "date": "2029-05-01",
+   "name": "Labor Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2029-05-08",
+   "name": "Yerkrapah Day",
+   "type": "Observance"
+  },
+  {
+   "date": "2029-05-09",
+   "name": "Victory and Peace Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2029-05-15",
+   "name": "Family Day",
+   "type": "Observance"
+  },
+  {
+   "date": "2029-05-16",
+   "name": "Day of Students and Youth",
+   "type": "Observance"
+  },
+  {
+   "date": "2029-05-28",
+   "name": "Republic Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2029-06-01",
+   "name": "Children's Day",
+   "type": "Observance"
+  },
+  {
+   "date": "2029-06-03",
+   "name": "The Feast of Holy Etchmiadzin",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2029-06-14",
+   "name": "Remembrance Day of the Oppressed",
+   "type": "Observance"
+  },
+  {
+   "date": "2029-07-05",
+   "name": "Constitution Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2029-07-05",
+   "name": "Day of State Symbols",
+   "type": "Observance"
+  },
+  {
+   "date": "2029-09-01",
+   "name": "Knowledge and Literature Day",
+   "type": "Observance"
+  },
+  {
+   "date": "2029-09-21",
+   "name": "Independence Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2029-10-05",
+   "name": "Teachers' Day",
+   "type": "Observance"
+  },
+  {
+   "date": "2029-10-07",
+   "name": "Day of National Minorities of the Republic of Armenia",
+   "type": "Observance"
+  },
+  {
+   "date": "2029-10-13",
+   "name": "Translators' Day",
+   "type": "Observance"
+  },
+  {
+   "date": "2029-11-10",
+   "name": "Local Self-Government Day",
+   "type": "Observance"
+  },
+  {
+   "date": "2029-12-07",
+   "name": "Spitak Remembrance Day",
+   "type": "Observance"
+  },
+  {
+   "date": "2029-12-09",
+   "name": "Genocide Condemnation and Prevention Day",
+   "type": "Observance"
+  },
+  {
+   "date": "2029-12-31",
+   "name": "New Year's Eve",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2030-01-01",
+   "name": "New Year's Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2030-01-02",
+   "name": "New Year's Day (Day 2)",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2030-01-05",
+   "name": "Christmas Eve",
+   "type": "Observance"
+  },
+  {
+   "date": "2030-01-06",
+   "name": "Christmas Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2030-01-07",
+   "name": "Christmas Remembrance Day",
+   "type": "Observance"
+  },
+  {
+   "date": "2030-01-27",
+   "name": "Remembrance Day for Fallen Defenders",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2030-01-28",
+   "name": "Army Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2030-02-21",
+   "name": "Mother Language Day",
+   "type": "Observance"
+  },
+  {
+   "date": "2030-02-28",
+   "name": "Feast of Saint Vartan",
+   "type": "Observance"
+  },
+  {
+   "date": "2030-03-08",
+   "name": "International Women's Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2030-04-07",
+   "name": "Motherhood and Beauty Day",
+   "type": "Observance"
+  },
+  {
+   "date": "2030-04-16",
+   "name": "Armenian Cinema Day",
+   "type": "Observance"
+  },
+  {
+   "date": "2030-04-19",
+   "name": "Good Friday",
+   "type": "Observance"
+  },
+  {
+   "date": "2030-04-19",
+   "name": "Taxpayers' Day",
+   "type": "Observance"
+  },
+  {
+   "date": "2030-04-20",
+   "name": "Holy Saturday",
+   "type": "Observance"
+  },
+  {
+   "date": "2030-04-21",
+   "name": "Easter Sunday",
+   "type": "Observance"
+  },
+  {
+   "date": "2030-04-22",
+   "name": "Easter Monday",
+   "type": "Observance"
+  },
+  {
+   "date": "2030-04-24",
+   "name": "Genocide Remembrance Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2030-04-27",
+   "name": "Citizens' Day",
+   "type": "Observance"
+  },
+  {
+   "date": "2030-05-01",
+   "name": "Labor Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2030-05-08",
+   "name": "Yerkrapah Day",
+   "type": "Observance"
+  },
+  {
+   "date": "2030-05-09",
+   "name": "Victory and Peace Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2030-05-15",
+   "name": "Family Day",
+   "type": "Observance"
+  },
+  {
+   "date": "2030-05-16",
+   "name": "Day of Students and Youth",
+   "type": "Observance"
+  },
+  {
+   "date": "2030-05-28",
+   "name": "Republic Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2030-06-01",
+   "name": "Children's Day",
+   "type": "Observance"
+  },
+  {
+   "date": "2030-06-14",
+   "name": "Remembrance Day of the Oppressed",
+   "type": "Observance"
+  },
+  {
+   "date": "2030-06-23",
+   "name": "The Feast of Holy Etchmiadzin",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2030-07-05",
+   "name": "Constitution Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2030-07-05",
+   "name": "Day of State Symbols",
+   "type": "Observance"
+  },
+  {
+   "date": "2030-09-01",
+   "name": "Knowledge and Literature Day",
+   "type": "Observance"
+  },
+  {
+   "date": "2030-09-21",
+   "name": "Independence Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2030-10-05",
+   "name": "Teachers' Day",
+   "type": "Observance"
+  },
+  {
+   "date": "2030-10-06",
+   "name": "Day of National Minorities of the Republic of Armenia",
+   "type": "Observance"
+  },
+  {
+   "date": "2030-10-12",
+   "name": "Translators' Day",
+   "type": "Observance"
+  },
+  {
+   "date": "2030-11-10",
+   "name": "Local Self-Government Day",
+   "type": "Observance"
+  },
+  {
+   "date": "2030-12-07",
+   "name": "Spitak Remembrance Day",
+   "type": "Observance"
+  },
+  {
+   "date": "2030-12-09",
+   "name": "Genocide Condemnation and Prevention Day",
+   "type": "Observance"
+  },
+  {
+   "date": "2030-12-31",
+   "name": "New Year's Eve",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2031-01-01",
+   "name": "New Year's Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2031-01-02",
+   "name": "New Year's Day (Day 2)",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2031-01-05",
+   "name": "Christmas Eve",
+   "type": "Observance"
+  },
+  {
+   "date": "2031-01-06",
+   "name": "Christmas Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2031-01-07",
+   "name": "Christmas Remembrance Day",
+   "type": "Observance"
+  },
+  {
+   "date": "2031-01-27",
+   "name": "Remembrance Day for Fallen Defenders",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2031-01-28",
+   "name": "Army Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2031-02-21",
+   "name": "Mother Language Day",
+   "type": "Observance"
+  },
+  {
+   "date": "2031-03-08",
+   "name": "International Women's Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2031-04-07",
+   "name": "Motherhood and Beauty Day",
+   "type": "Observance"
+  },
+  {
+   "date": "2031-04-11",
+   "name": "Good Friday",
+   "type": "Observance"
+  },
+  {
+   "date": "2031-04-12",
+   "name": "Holy Saturday",
+   "type": "Observance"
+  },
+  {
+   "date": "2031-04-13",
+   "name": "Easter Sunday",
+   "type": "Observance"
+  },
+  {
+   "date": "2031-04-14",
+   "name": "Easter Monday",
+   "type": "Observance"
+  },
+  {
+   "date": "2031-04-16",
+   "name": "Armenian Cinema Day",
+   "type": "Observance"
+  },
+  {
+   "date": "2031-04-19",
+   "name": "Taxpayers' Day",
+   "type": "Observance"
+  },
+  {
+   "date": "2031-04-24",
+   "name": "Genocide Remembrance Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2031-04-26",
+   "name": "Citizens' Day",
+   "type": "Observance"
+  },
+  {
+   "date": "2031-05-01",
+   "name": "Labor Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2031-05-08",
+   "name": "Yerkrapah Day",
+   "type": "Observance"
+  },
+  {
+   "date": "2031-05-09",
+   "name": "Victory and Peace Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2031-05-15",
+   "name": "Family Day",
+   "type": "Observance"
+  },
+  {
+   "date": "2031-05-16",
+   "name": "Day of Students and Youth",
+   "type": "Observance"
+  },
+  {
+   "date": "2031-05-28",
+   "name": "Republic Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2031-06-01",
+   "name": "Children's Day",
+   "type": "Observance"
+  },
+  {
+   "date": "2031-06-14",
+   "name": "Remembrance Day of the Oppressed",
+   "type": "Observance"
+  },
+  {
+   "date": "2031-06-15",
+   "name": "The Feast of Holy Etchmiadzin",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2031-07-05",
+   "name": "Constitution Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2031-07-05",
+   "name": "Day of State Symbols",
+   "type": "Observance"
+  },
+  {
+   "date": "2031-09-01",
+   "name": "Knowledge and Literature Day",
+   "type": "Observance"
+  },
+  {
+   "date": "2031-09-21",
+   "name": "Independence Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2031-10-05",
+   "name": "Day of National Minorities of the Republic of Armenia",
+   "type": "Observance"
+  },
+  {
+   "date": "2031-10-05",
+   "name": "Teachers' Day",
+   "type": "Observance"
+  },
+  {
+   "date": "2031-10-11",
+   "name": "Translators' Day",
+   "type": "Observance"
+  },
+  {
+   "date": "2031-11-10",
+   "name": "Local Self-Government Day",
+   "type": "Observance"
+  },
+  {
+   "date": "2031-12-07",
+   "name": "Spitak Remembrance Day",
+   "type": "Observance"
+  },
+  {
+   "date": "2031-12-09",
+   "name": "Genocide Condemnation and Prevention Day",
+   "type": "Observance"
+  },
+  {
+   "date": "2031-12-31",
+   "name": "New Year's Eve",
+   "type": "Public holiday"
+  }
+ ]
+}

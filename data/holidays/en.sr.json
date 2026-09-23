@@ -1,0 +1,941 @@
+{
+ "id": "en.sr",
+ "name": "Holidays in Suriname",
+ "lang": "en",
+ "from": 2021,
+ "to": 2031,
+ "count": 186,
+ "fetchedAt": "2026-09-23T12:14:41.029Z",
+ "events": [
+  {
+   "date": "2021-01-01",
+   "name": "New Year",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2021-02-12",
+   "name": "Lunar New Year",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2021-03-28",
+   "name": "Holi Phagwa",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2021-04-02",
+   "name": "Good Friday",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2021-04-04",
+   "name": "Easter Sunday",
+   "type": "Observance"
+  },
+  {
+   "date": "2021-04-05",
+   "name": "Easter Monday",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2021-05-01",
+   "name": "Labor Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2021-05-13",
+   "name": "Eid al-Fitr",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2021-07-01",
+   "name": "Freedom Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2021-07-20",
+   "name": "Eid al-Adha",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2021-08-09",
+   "name": "Indigenous Peoples Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2021-10-10",
+   "name": "Day of the Maroons",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2021-11-04",
+   "name": "Diwali",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2021-11-25",
+   "name": "Independence Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2021-12-25",
+   "name": "Christmas Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2021-12-26",
+   "name": "Boxing Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2022-01-01",
+   "name": "New Year",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2022-02-01",
+   "name": "Lunar New Year",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2022-03-18",
+   "name": "Holi Phagwa",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2022-04-15",
+   "name": "Good Friday",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2022-04-17",
+   "name": "Easter Sunday",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2022-04-18",
+   "name": "Easter Monday",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2022-05-01",
+   "name": "Labor Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2022-05-02",
+   "name": "Eid al-Fitr",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2022-07-01",
+   "name": "Freedom Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2022-07-09",
+   "name": "Eid al-Adha",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2022-08-09",
+   "name": "Indigenous Peoples Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2022-09-19",
+   "name": "260th anniversary of the Saramaccan Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2022-10-10",
+   "name": "Day of the Maroons",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2022-10-24",
+   "name": "Diwali",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2022-11-25",
+   "name": "Independence Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2022-12-25",
+   "name": "Christmas Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2022-12-26",
+   "name": "Boxing Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2023-01-01",
+   "name": "New Year",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2023-01-22",
+   "name": "Lunar New Year",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2023-03-07",
+   "name": "Holi Phagwa",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2023-03-23",
+   "name": "Ramadan Start",
+   "type": "Observance"
+  },
+  {
+   "date": "2023-04-07",
+   "name": "Good Friday",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2023-04-09",
+   "name": "Easter Sunday",
+   "type": "Observance"
+  },
+  {
+   "date": "2023-04-10",
+   "name": "Easter Monday",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2023-04-22",
+   "name": "Eid al-Fitr",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2023-05-01",
+   "name": "Labor Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2023-06-29",
+   "name": "Eid al-Adha",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2023-07-01",
+   "name": "Freedom Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2023-08-09",
+   "name": "Indigenous Peoples Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2023-10-10",
+   "name": "Day of the Maroons",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2023-11-12",
+   "name": "Diwali",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2023-11-25",
+   "name": "Independence Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2023-12-25",
+   "name": "Christmas Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2023-12-26",
+   "name": "Boxing Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2024-01-01",
+   "name": "New Year",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2024-02-10",
+   "name": "Lunar New Year",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2024-03-12",
+   "name": "Ramadan Start",
+   "type": "Observance"
+  },
+  {
+   "date": "2024-03-25",
+   "name": "Holi Phagwa",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2024-03-29",
+   "name": "Good Friday",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2024-03-31",
+   "name": "Easter Sunday",
+   "type": "Observance"
+  },
+  {
+   "date": "2024-04-01",
+   "name": "Easter Monday",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2024-04-10",
+   "name": "Eid al-Fitr",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2024-05-01",
+   "name": "Labor Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2024-06-16",
+   "name": "Eid al-Adha",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2024-07-01",
+   "name": "Freedom Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2024-08-09",
+   "name": "Indigenous Peoples Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2024-10-10",
+   "name": "Day of the Maroons",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2024-10-31",
+   "name": "Diwali",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2024-11-25",
+   "name": "Independence Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2024-12-25",
+   "name": "Christmas Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2024-12-26",
+   "name": "Boxing Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2025-01-01",
+   "name": "New Year",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2025-01-29",
+   "name": "Lunar New Year",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2025-03-02",
+   "name": "Ramadan Start",
+   "type": "Observance"
+  },
+  {
+   "date": "2025-03-14",
+   "name": "Holi Phagwa",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2025-03-31",
+   "name": "Eid al-Fitr",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2025-04-18",
+   "name": "Good Friday",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2025-04-20",
+   "name": "Easter Sunday",
+   "type": "Observance"
+  },
+  {
+   "date": "2025-04-21",
+   "name": "Easter Monday",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2025-05-01",
+   "name": "Labor Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2025-06-06",
+   "name": "Eid al-Adha",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2025-06-20",
+   "name": "Sranan Boeroe Holiday",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2025-07-01",
+   "name": "Freedom Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2025-08-09",
+   "name": "Indigenous Peoples Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2025-10-10",
+   "name": "Day of the Maroons",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2025-10-20",
+   "name": "Diwali",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2025-11-25",
+   "name": "Independence Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2025-12-25",
+   "name": "Christmas Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2025-12-26",
+   "name": "Boxing Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2026-01-01",
+   "name": "New Year",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2026-02-17",
+   "name": "Lunar New Year",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2026-02-18",
+   "name": "Ramadan Start",
+   "type": "Observance"
+  },
+  {
+   "date": "2026-03-03",
+   "name": "Holi Phagwa",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2026-03-20",
+   "name": "Eid al-Fitr",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2026-04-03",
+   "name": "Good Friday",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2026-04-05",
+   "name": "Easter Sunday",
+   "type": "Observance"
+  },
+  {
+   "date": "2026-04-06",
+   "name": "Easter Monday",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2026-05-01",
+   "name": "Labor Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2026-05-27",
+   "name": "Eid al-Adha",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2026-07-01",
+   "name": "Freedom Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2026-08-09",
+   "name": "Indigenous Peoples Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2026-10-10",
+   "name": "Day of the Maroons",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2026-11-08",
+   "name": "Diwali",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2026-11-25",
+   "name": "Independence Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2026-12-25",
+   "name": "Christmas Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2026-12-26",
+   "name": "Boxing Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2027-01-01",
+   "name": "New Year",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2027-02-06",
+   "name": "Lunar New Year",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2027-02-08",
+   "name": "Ramadan Start (tentative)",
+   "type": "Observance"
+  },
+  {
+   "date": "2027-03-10",
+   "name": "Eid al-Fitr (tentative)",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2027-03-22",
+   "name": "Holi Phagwa",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2027-03-26",
+   "name": "Good Friday",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2027-03-28",
+   "name": "Easter Sunday",
+   "type": "Observance"
+  },
+  {
+   "date": "2027-03-29",
+   "name": "Easter Monday",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2027-05-01",
+   "name": "Labor Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2027-05-17",
+   "name": "Eid al-Adha (tentative)",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2027-07-01",
+   "name": "Freedom Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2027-08-09",
+   "name": "Indigenous Peoples Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2027-10-10",
+   "name": "Day of the Maroons",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2027-10-28",
+   "name": "Diwali",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2027-11-25",
+   "name": "Independence Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2027-12-25",
+   "name": "Christmas Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2027-12-26",
+   "name": "Boxing Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2028-01-01",
+   "name": "New Year",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2028-01-26",
+   "name": "Lunar New Year",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2028-01-28",
+   "name": "Ramadan Start (tentative)",
+   "type": "Observance"
+  },
+  {
+   "date": "2028-02-27",
+   "name": "Eid al-Fitr (tentative)",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2028-03-11",
+   "name": "Holi Phagwa",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2028-04-14",
+   "name": "Good Friday",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2028-04-16",
+   "name": "Easter Sunday",
+   "type": "Observance"
+  },
+  {
+   "date": "2028-04-17",
+   "name": "Easter Monday",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2028-05-01",
+   "name": "Labor Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2028-05-05",
+   "name": "Eid al-Adha (tentative)",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2028-07-01",
+   "name": "Freedom Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2028-08-09",
+   "name": "Indigenous Peoples Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2028-10-10",
+   "name": "Day of the Maroons",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2028-10-17",
+   "name": "Diwali",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2028-11-25",
+   "name": "Independence Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2028-12-25",
+   "name": "Christmas Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2028-12-26",
+   "name": "Boxing Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2029-01-01",
+   "name": "New Year",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2029-01-16",
+   "name": "Ramadan Start (tentative)",
+   "type": "Observance"
+  },
+  {
+   "date": "2029-02-13",
+   "name": "Lunar New Year",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2029-02-15",
+   "name": "Eid al-Fitr (tentative)",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2029-02-28",
+   "name": "Holi Phagwa",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2029-03-30",
+   "name": "Good Friday",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2029-04-01",
+   "name": "Easter Sunday",
+   "type": "Observance"
+  },
+  {
+   "date": "2029-04-02",
+   "name": "Easter Monday",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2029-04-24",
+   "name": "Eid al-Adha (tentative)",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2029-05-01",
+   "name": "Labor Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2029-07-01",
+   "name": "Freedom Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2029-08-09",
+   "name": "Indigenous Peoples Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2029-10-10",
+   "name": "Day of the Maroons",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2029-11-05",
+   "name": "Diwali",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2029-11-25",
+   "name": "Independence Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2029-12-25",
+   "name": "Christmas Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2029-12-26",
+   "name": "Boxing Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2030-01-01",
+   "name": "New Year",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2030-01-06",
+   "name": "Ramadan Start (tentative)",
+   "type": "Observance"
+  },
+  {
+   "date": "2030-02-03",
+   "name": "Lunar New Year",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2030-02-05",
+   "name": "Eid al-Fitr (tentative)",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2030-03-19",
+   "name": "Holi Phagwa",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2030-04-14",
+   "name": "Eid al-Adha (tentative)",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2030-04-19",
+   "name": "Good Friday",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2030-04-21",
+   "name": "Easter Sunday",
+   "type": "Observance"
+  },
+  {
+   "date": "2030-04-22",
+   "name": "Easter Monday",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2030-05-01",
+   "name": "Labor Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2030-07-01",
+   "name": "Freedom Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2030-08-09",
+   "name": "Indigenous Peoples Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2030-10-10",
+   "name": "Day of the Maroons",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2030-10-25",
+   "name": "Diwali",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2030-11-25",
+   "name": "Independence Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2030-12-25",
+   "name": "Christmas Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2030-12-26",
+   "name": "Boxing Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2030-12-26",
+   "name": "Ramadan Start (tentative)",
+   "type": "Observance"
+  },
+  {
+   "date": "2031-01-01",
+   "name": "New Year",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2031-01-23",
+   "name": "Lunar New Year",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2031-01-25",
+   "name": "Eid al-Fitr (tentative)",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2031-04-03",
+   "name": "Eid al-Adha (tentative)",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2031-04-11",
+   "name": "Good Friday",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2031-04-13",
+   "name": "Easter Sunday",
+   "type": "Observance"
+  },
+  {
+   "date": "2031-04-14",
+   "name": "Easter Monday",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2031-05-01",
+   "name": "Labor Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2031-07-01",
+   "name": "Freedom Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2031-08-09",
+   "name": "Indigenous Peoples Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2031-10-10",
+   "name": "Day of the Maroons",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2031-11-25",
+   "name": "Independence Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2031-12-15",
+   "name": "Ramadan Start (tentative)",
+   "type": "Observance"
+  },
+  {
+   "date": "2031-12-25",
+   "name": "Christmas Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2031-12-26",
+   "name": "Boxing Day",
+   "type": "Public holiday"
+  }
+ ]
+}

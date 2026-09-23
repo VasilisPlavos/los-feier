@@ -1,0 +1,5198 @@
+{
+ "id": "de.ch",
+ "name": "Feiertage in der Schweiz",
+ "lang": "de",
+ "from": 2021,
+ "to": 2031,
+ "count": 325,
+ "fetchedAt": "2026-09-23T12:14:40.623Z",
+ "events": [
+  {
+   "date": "2021-01-01",
+   "name": "Neujahr (regionaler Feiertag)",
+   "type": "Feiertag",
+   "regions": [
+    "Zürich",
+    "Bern",
+    "Luzern",
+    "Uri",
+    "Schwyz",
+    "Obwalden",
+    "Nidwalden",
+    "Glarus",
+    "Zug",
+    "Freiburg",
+    "Solothurn",
+    "Basel-Stadt",
+    "Basel-Landschaft",
+    "Schaffhausen",
+    "Appenzell Ausserrhoden",
+    "Appenzell Innerrhoden",
+    "St. Gallen",
+    "Aargau",
+    "Graubünden",
+    "Thurgau",
+    "Tessin",
+    "Waadt",
+    "Wallis",
+    "Neuenburg",
+    "Genf",
+    "Jura"
+   ]
+  },
+  {
+   "date": "2021-01-02",
+   "name": "Berchtoldstag (regionaler Feiertag)",
+   "type": "Feiertag",
+   "regions": [
+    "Aargau",
+    "Bern",
+    "Freiburg",
+    "Jura",
+    "Thurgau",
+    "Waadt"
+   ]
+  },
+  {
+   "date": "2021-01-06",
+   "name": "Dreikönigsfest (regionaler Feiertag)",
+   "type": "Feiertag",
+   "regions": [
+    "Schwyz",
+    "Tessin",
+    "Uri"
+   ]
+  },
+  {
+   "date": "2021-02-14",
+   "name": "Valentinstag",
+   "type": "Gedenktag"
+  },
+  {
+   "date": "2021-03-19",
+   "name": "Josefstag (regionaler Feiertag)",
+   "type": "Feiertag",
+   "regions": [
+    "Luzern",
+    "Nidwalden",
+    "Solothurn",
+    "Schwyz",
+    "Tessin",
+    "Uri",
+    "Wallis"
+   ]
+  },
+  {
+   "date": "2021-03-28",
+   "name": "Beginn der Sommerzeit",
+   "type": "Gedenktag"
+  },
+  {
+   "date": "2021-04-02",
+   "name": "Karfreitag (regionaler Feiertag)",
+   "type": "Feiertag",
+   "regions": [
+    "Zürich",
+    "Bern",
+    "Luzern",
+    "Uri",
+    "Schwyz",
+    "Obwalden",
+    "Nidwalden",
+    "Glarus",
+    "Zug",
+    "Freiburg",
+    "Solothurn",
+    "Basel-Stadt",
+    "Basel-Landschaft",
+    "Schaffhausen",
+    "Appenzell Ausserrhoden",
+    "Appenzell Innerrhoden",
+    "St. Gallen",
+    "Aargau",
+    "Graubünden",
+    "Thurgau",
+    "Waadt",
+    "Neuenburg",
+    "Genf",
+    "Jura"
+   ]
+  },
+  {
+   "date": "2021-04-04",
+   "name": "Ostersonntag",
+   "type": "Gedenktag"
+  },
+  {
+   "date": "2021-04-05",
+   "name": "Ostermontag (regionaler Feiertag)",
+   "type": "Feiertag",
+   "regions": [
+    "Zürich",
+    "Bern",
+    "Uri",
+    "Schwyz",
+    "Glarus",
+    "Freiburg",
+    "Basel-Stadt",
+    "Basel-Landschaft",
+    "Schaffhausen",
+    "Appenzell Ausserrhoden",
+    "Appenzell Innerrhoden",
+    "St. Gallen",
+    "Aargau",
+    "Graubünden",
+    "Thurgau",
+    "Tessin",
+    "Waadt",
+    "Genf",
+    "Jura"
+   ]
+  },
+  {
+   "date": "2021-04-19",
+   "name": "Sechseläuten (Zürich)",
+   "type": "Gedenktag",
+   "regions": [
+    "Zürich"
+   ]
+  },
+  {
+   "date": "2021-05-01",
+   "name": "Tag der Arbeit (regionaler Feiertag)",
+   "type": "Feiertag",
+   "regions": [
+    "Zürich",
+    "Basel-Stadt",
+    "Basel-Landschaft",
+    "Schaffhausen",
+    "Thurgau",
+    "Tessin",
+    "Neuenburg",
+    "Jura"
+   ]
+  },
+  {
+   "date": "2021-05-09",
+   "name": "Muttertag",
+   "type": "Gedenktag"
+  },
+  {
+   "date": "2021-05-13",
+   "name": "Auffahrt (regionaler Feiertag)",
+   "type": "Feiertag",
+   "regions": [
+    "Zürich",
+    "Bern",
+    "Luzern",
+    "Uri",
+    "Schwyz",
+    "Obwalden",
+    "Nidwalden",
+    "Glarus",
+    "Zug",
+    "Freiburg",
+    "Solothurn",
+    "Basel-Stadt",
+    "Basel-Landschaft",
+    "Schaffhausen",
+    "Appenzell Ausserrhoden",
+    "Appenzell Innerrhoden",
+    "St. Gallen",
+    "Aargau",
+    "Graubünden",
+    "Thurgau",
+    "Tessin",
+    "Waadt",
+    "Wallis",
+    "Neuenburg",
+    "Genf",
+    "Jura"
+   ]
+  },
+  {
+   "date": "2021-05-23",
+   "name": "Pfingstsonntag (regionaler Feiertag)",
+   "type": "Gedenktag",
+   "regions": [
+    "Zürich",
+    "Bern",
+    "Luzern",
+    "Uri",
+    "Schwyz",
+    "Obwalden",
+    "Nidwalden",
+    "Glarus",
+    "Zug",
+    "Freiburg",
+    "Solothurn",
+    "Basel-Stadt",
+    "Basel-Landschaft",
+    "Schaffhausen",
+    "Appenzell Ausserrhoden",
+    "Appenzell Innerrhoden",
+    "St. Gallen",
+    "Aargau",
+    "Graubünden",
+    "Thurgau",
+    "Tessin",
+    "Waadt",
+    "Wallis",
+    "Neuenburg",
+    "Genf",
+    "Jura"
+   ]
+  },
+  {
+   "date": "2021-05-24",
+   "name": "Pfingstmontag (regionaler Feiertag)",
+   "type": "Feiertag",
+   "regions": [
+    "Zürich",
+    "Bern",
+    "Uri",
+    "Schwyz",
+    "Glarus",
+    "Freiburg",
+    "Basel-Stadt",
+    "Basel-Landschaft",
+    "Schaffhausen",
+    "Appenzell Ausserrhoden",
+    "Appenzell Innerrhoden",
+    "St. Gallen",
+    "Aargau",
+    "Graubünden",
+    "Thurgau",
+    "Tessin",
+    "Waadt",
+    "Genf",
+    "Jura"
+   ]
+  },
+  {
+   "date": "2021-06-03",
+   "name": "Fronleichnam (regionaler Feiertag)",
+   "type": "Feiertag",
+   "regions": [
+    "Aargau",
+    "Appenzell Innerrhoden",
+    "Freiburg",
+    "Jura",
+    "Luzern",
+    "Nidwalden",
+    "Obwalden",
+    "Solothurn",
+    "Schwyz",
+    "Tessin",
+    "Uri",
+    "Wallis",
+    "Zug"
+   ]
+  },
+  {
+   "date": "2021-06-06",
+   "name": "Vatertag",
+   "type": "Gedenktag"
+  },
+  {
+   "date": "2021-06-29",
+   "name": "Peter und Paul (Tessin)",
+   "type": "Gedenktag",
+   "regions": [
+    "Tessin"
+   ]
+  },
+  {
+   "date": "2021-08-01",
+   "name": "Schweizer Nationalfeiertag",
+   "type": "Gesetzlicher Feiertag"
+  },
+  {
+   "date": "2021-08-15",
+   "name": "Mariä Himmelfahrt (regionaler Feiertag)",
+   "type": "Feiertag",
+   "regions": [
+    "Aargau",
+    "Appenzell Innerrhoden",
+    "Freiburg",
+    "Jura",
+    "Luzern",
+    "Nidwalden",
+    "Obwalden",
+    "Solothurn",
+    "Schwyz",
+    "Tessin",
+    "Uri",
+    "Wallis",
+    "Zug"
+   ]
+  },
+  {
+   "date": "2021-09-11",
+   "name": "Knabenschiessen (Zürich)",
+   "type": "Gedenktag",
+   "regions": [
+    "Zürich"
+   ]
+  },
+  {
+   "date": "2021-09-12",
+   "name": "Knabenschiessen (Zürich)",
+   "type": "Gedenktag",
+   "regions": [
+    "Zürich"
+   ]
+  },
+  {
+   "date": "2021-09-13",
+   "name": "Knabenschiessen (Zürich)",
+   "type": "Gedenktag",
+   "regions": [
+    "Zürich"
+   ]
+  },
+  {
+   "date": "2021-09-19",
+   "name": "Eidgenössischer Dank-, Buss- und Bettag (regionaler Feiertag)",
+   "type": "Gedenktag",
+   "regions": [
+    "Zürich",
+    "Bern",
+    "Luzern",
+    "Uri",
+    "Schwyz",
+    "Obwalden",
+    "Nidwalden",
+    "Glarus",
+    "Zug",
+    "Freiburg",
+    "Solothurn",
+    "Basel-Stadt",
+    "Basel-Landschaft",
+    "Schaffhausen",
+    "Appenzell Ausserrhoden",
+    "Appenzell Innerrhoden",
+    "St. Gallen",
+    "Aargau",
+    "Graubünden",
+    "Thurgau",
+    "Tessin",
+    "Waadt",
+    "Wallis",
+    "Neuenburg",
+    "Jura"
+   ]
+  },
+  {
+   "date": "2021-10-31",
+   "name": "Ende der Sommerzeit",
+   "type": "Gedenktag"
+  },
+  {
+   "date": "2021-11-01",
+   "name": "Allerheiligen (regionaler Feiertag)",
+   "type": "Feiertag",
+   "regions": [
+    "Aargau",
+    "Appenzell Innerrhoden",
+    "Freiburg",
+    "Glarus",
+    "Jura",
+    "Luzern",
+    "Nidwalden",
+    "Obwalden",
+    "St. Gallen",
+    "Schwyz",
+    "Tessin",
+    "Uri",
+    "Wallis",
+    "Zug"
+   ]
+  },
+  {
+   "date": "2021-12-08",
+   "name": "Mariä Empfängnis (regionaler Feiertag)",
+   "type": "Feiertag",
+   "regions": [
+    "Aargau",
+    "Appenzell Innerrhoden",
+    "Freiburg",
+    "Luzern",
+    "Nidwalden",
+    "Obwalden",
+    "Schwyz",
+    "Tessin",
+    "Uri",
+    "Wallis",
+    "Zug"
+   ]
+  },
+  {
+   "date": "2021-12-24",
+   "name": "Heiligabend",
+   "type": "Gedenktag"
+  },
+  {
+   "date": "2021-12-25",
+   "name": "Weihnachten (regionaler Feiertag)",
+   "type": "Feiertag",
+   "regions": [
+    "Zürich",
+    "Bern",
+    "Luzern",
+    "Uri",
+    "Schwyz",
+    "Obwalden",
+    "Nidwalden",
+    "Glarus",
+    "Zug",
+    "Freiburg",
+    "Solothurn",
+    "Basel-Stadt",
+    "Basel-Landschaft",
+    "Schaffhausen",
+    "Appenzell Ausserrhoden",
+    "Appenzell Innerrhoden",
+    "St. Gallen",
+    "Aargau",
+    "Graubünden",
+    "Thurgau",
+    "Tessin",
+    "Waadt",
+    "Wallis",
+    "Neuenburg",
+    "Genf",
+    "Jura"
+   ]
+  },
+  {
+   "date": "2021-12-26",
+   "name": "Stephanstag (regionaler Feiertag)",
+   "type": "Feiertag",
+   "regions": [
+    "Zürich",
+    "Bern",
+    "Luzern",
+    "Uri",
+    "Schwyz",
+    "Glarus",
+    "Basel-Stadt",
+    "Basel-Landschaft",
+    "Schaffhausen",
+    "Appenzell Ausserrhoden",
+    "Appenzell Innerrhoden",
+    "St. Gallen",
+    "Graubünden",
+    "Thurgau",
+    "Tessin"
+   ]
+  },
+  {
+   "date": "2021-12-31",
+   "name": "Silvester",
+   "type": "Gedenktag"
+  },
+  {
+   "date": "2022-01-01",
+   "name": "Neujahr (regionaler Feiertag)",
+   "type": "Feiertag",
+   "regions": [
+    "Zürich",
+    "Bern",
+    "Luzern",
+    "Uri",
+    "Schwyz",
+    "Obwalden",
+    "Nidwalden",
+    "Glarus",
+    "Zug",
+    "Freiburg",
+    "Solothurn",
+    "Basel-Stadt",
+    "Basel-Landschaft",
+    "Schaffhausen",
+    "Appenzell Ausserrhoden",
+    "Appenzell Innerrhoden",
+    "St. Gallen",
+    "Aargau",
+    "Graubünden",
+    "Thurgau",
+    "Tessin",
+    "Waadt",
+    "Wallis",
+    "Neuenburg",
+    "Genf",
+    "Jura"
+   ]
+  },
+  {
+   "date": "2022-01-02",
+   "name": "Berchtoldstag (regionaler Feiertag)",
+   "type": "Feiertag",
+   "regions": [
+    "Aargau",
+    "Bern",
+    "Freiburg",
+    "Jura",
+    "Thurgau",
+    "Waadt"
+   ]
+  },
+  {
+   "date": "2022-01-06",
+   "name": "Dreikönigsfest (regionaler Feiertag)",
+   "type": "Feiertag",
+   "regions": [
+    "Schwyz",
+    "Tessin",
+    "Uri"
+   ]
+  },
+  {
+   "date": "2022-02-14",
+   "name": "Valentinstag",
+   "type": "Gedenktag"
+  },
+  {
+   "date": "2022-03-19",
+   "name": "Josefstag (regionaler Feiertag)",
+   "type": "Feiertag",
+   "regions": [
+    "Luzern",
+    "Nidwalden",
+    "Solothurn",
+    "Schwyz",
+    "Tessin",
+    "Uri",
+    "Wallis"
+   ]
+  },
+  {
+   "date": "2022-03-27",
+   "name": "Beginn der Sommerzeit",
+   "type": "Gedenktag"
+  },
+  {
+   "date": "2022-04-15",
+   "name": "Karfreitag (regionaler Feiertag)",
+   "type": "Feiertag",
+   "regions": [
+    "Zürich",
+    "Bern",
+    "Luzern",
+    "Uri",
+    "Schwyz",
+    "Obwalden",
+    "Nidwalden",
+    "Glarus",
+    "Zug",
+    "Freiburg",
+    "Solothurn",
+    "Basel-Stadt",
+    "Basel-Landschaft",
+    "Schaffhausen",
+    "Appenzell Ausserrhoden",
+    "Appenzell Innerrhoden",
+    "St. Gallen",
+    "Aargau",
+    "Graubünden",
+    "Thurgau",
+    "Waadt",
+    "Neuenburg",
+    "Genf",
+    "Jura"
+   ]
+  },
+  {
+   "date": "2022-04-17",
+   "name": "Ostersonntag",
+   "type": "Gedenktag"
+  },
+  {
+   "date": "2022-04-18",
+   "name": "Ostermontag (regionaler Feiertag)",
+   "type": "Feiertag",
+   "regions": [
+    "Zürich",
+    "Bern",
+    "Uri",
+    "Schwyz",
+    "Glarus",
+    "Freiburg",
+    "Basel-Stadt",
+    "Basel-Landschaft",
+    "Schaffhausen",
+    "Appenzell Ausserrhoden",
+    "Appenzell Innerrhoden",
+    "St. Gallen",
+    "Aargau",
+    "Graubünden",
+    "Thurgau",
+    "Tessin",
+    "Waadt",
+    "Genf",
+    "Jura"
+   ]
+  },
+  {
+   "date": "2022-04-25",
+   "name": "Sechseläuten (Zürich)",
+   "type": "Gedenktag",
+   "regions": [
+    "Zürich"
+   ]
+  },
+  {
+   "date": "2022-05-01",
+   "name": "Tag der Arbeit (regionaler Feiertag)",
+   "type": "Feiertag",
+   "regions": [
+    "Basel-Landschaft",
+    "Basel-Stadt",
+    "Jura",
+    "Neuenburg",
+    "Schaffhausen",
+    "Zürich",
+    "Thurgau",
+    "Tessin"
+   ]
+  },
+  {
+   "date": "2022-05-08",
+   "name": "Muttertag",
+   "type": "Gedenktag"
+  },
+  {
+   "date": "2022-05-26",
+   "name": "Auffahrt (regionaler Feiertag)",
+   "type": "Feiertag",
+   "regions": [
+    "Zürich",
+    "Bern",
+    "Luzern",
+    "Uri",
+    "Schwyz",
+    "Obwalden",
+    "Nidwalden",
+    "Glarus",
+    "Zug",
+    "Freiburg",
+    "Solothurn",
+    "Basel-Stadt",
+    "Basel-Landschaft",
+    "Schaffhausen",
+    "Appenzell Ausserrhoden",
+    "Appenzell Innerrhoden",
+    "St. Gallen",
+    "Aargau",
+    "Graubünden",
+    "Thurgau",
+    "Tessin",
+    "Waadt",
+    "Wallis",
+    "Neuenburg",
+    "Genf",
+    "Jura"
+   ]
+  },
+  {
+   "date": "2022-06-05",
+   "name": "Pfingstsonntag (regionaler Feiertag)",
+   "type": "Gedenktag",
+   "regions": [
+    "Zürich",
+    "Bern",
+    "Luzern",
+    "Uri",
+    "Schwyz",
+    "Obwalden",
+    "Nidwalden",
+    "Glarus",
+    "Zug",
+    "Freiburg",
+    "Solothurn",
+    "Basel-Stadt",
+    "Basel-Landschaft",
+    "Schaffhausen",
+    "Appenzell Ausserrhoden",
+    "Appenzell Innerrhoden",
+    "St. Gallen",
+    "Aargau",
+    "Graubünden",
+    "Thurgau",
+    "Tessin",
+    "Waadt",
+    "Wallis",
+    "Neuenburg",
+    "Genf",
+    "Jura"
+   ]
+  },
+  {
+   "date": "2022-06-05",
+   "name": "Vatertag",
+   "type": "Gedenktag"
+  },
+  {
+   "date": "2022-06-06",
+   "name": "Pfingstmontag (regionaler Feiertag)",
+   "type": "Feiertag",
+   "regions": [
+    "Zürich",
+    "Bern",
+    "Uri",
+    "Schwyz",
+    "Glarus",
+    "Freiburg",
+    "Basel-Stadt",
+    "Basel-Landschaft",
+    "Schaffhausen",
+    "Appenzell Ausserrhoden",
+    "Appenzell Innerrhoden",
+    "St. Gallen",
+    "Aargau",
+    "Graubünden",
+    "Thurgau",
+    "Tessin",
+    "Waadt",
+    "Genf",
+    "Jura"
+   ]
+  },
+  {
+   "date": "2022-06-16",
+   "name": "Fronleichnam (regionaler Feiertag)",
+   "type": "Feiertag",
+   "regions": [
+    "Aargau",
+    "Appenzell Innerrhoden",
+    "Freiburg",
+    "Jura",
+    "Luzern",
+    "Nidwalden",
+    "Obwalden",
+    "Solothurn",
+    "Schwyz",
+    "Tessin",
+    "Uri",
+    "Wallis",
+    "Zug"
+   ]
+  },
+  {
+   "date": "2022-08-01",
+   "name": "Schweizer Nationalfeiertag",
+   "type": "Gesetzlicher Feiertag"
+  },
+  {
+   "date": "2022-08-15",
+   "name": "Mariä Himmelfahrt (regionaler Feiertag)",
+   "type": "Feiertag",
+   "regions": [
+    "Aargau",
+    "Appenzell Innerrhoden",
+    "Freiburg",
+    "Jura",
+    "Luzern",
+    "Nidwalden",
+    "Obwalden",
+    "Solothurn",
+    "Schwyz",
+    "Tessin",
+    "Uri",
+    "Wallis",
+    "Zug"
+   ]
+  },
+  {
+   "date": "2022-09-10",
+   "name": "Knabenschiessen (Zürich)",
+   "type": "Gedenktag",
+   "regions": [
+    "Zürich"
+   ]
+  },
+  {
+   "date": "2022-09-11",
+   "name": "Knabenschiessen (Zürich)",
+   "type": "Gedenktag",
+   "regions": [
+    "Zürich"
+   ]
+  },
+  {
+   "date": "2022-09-12",
+   "name": "Knabenschiessen (Zürich)",
+   "type": "Gedenktag",
+   "regions": [
+    "Zürich"
+   ]
+  },
+  {
+   "date": "2022-09-18",
+   "name": "Eidgenössischer Dank-, Buss- und Bettag (regionaler Feiertag)",
+   "type": "Gedenktag",
+   "regions": [
+    "Zürich",
+    "Bern",
+    "Luzern",
+    "Uri",
+    "Schwyz",
+    "Obwalden",
+    "Nidwalden",
+    "Glarus",
+    "Zug",
+    "Freiburg",
+    "Solothurn",
+    "Basel-Stadt",
+    "Basel-Landschaft",
+    "Schaffhausen",
+    "Appenzell Ausserrhoden",
+    "Appenzell Innerrhoden",
+    "St. Gallen",
+    "Aargau",
+    "Graubünden",
+    "Thurgau",
+    "Tessin",
+    "Waadt",
+    "Wallis",
+    "Neuenburg",
+    "Jura"
+   ]
+  },
+  {
+   "date": "2022-10-30",
+   "name": "Ende der Sommerzeit",
+   "type": "Gedenktag"
+  },
+  {
+   "date": "2022-11-01",
+   "name": "Allerheiligen (regionaler Feiertag)",
+   "type": "Feiertag",
+   "regions": [
+    "Aargau",
+    "Appenzell Innerrhoden",
+    "Freiburg",
+    "Glarus",
+    "Jura",
+    "Luzern",
+    "Nidwalden",
+    "Obwalden",
+    "St. Gallen",
+    "Schwyz",
+    "Tessin",
+    "Uri",
+    "Wallis",
+    "Zug"
+   ]
+  },
+  {
+   "date": "2022-12-08",
+   "name": "Mariä Empfängnis (regionaler Feiertag)",
+   "type": "Feiertag",
+   "regions": [
+    "Appenzell Innerrhoden",
+    "Luzern",
+    "Nidwalden",
+    "Obwalden",
+    "Schwyz",
+    "Tessin",
+    "Uri",
+    "Wallis",
+    "Zug"
+   ]
+  },
+  {
+   "date": "2022-12-24",
+   "name": "Heiligabend",
+   "type": "Gedenktag"
+  },
+  {
+   "date": "2022-12-25",
+   "name": "Weihnachten (regionaler Feiertag)",
+   "type": "Feiertag",
+   "regions": [
+    "Zürich",
+    "Bern",
+    "Luzern",
+    "Uri",
+    "Schwyz",
+    "Obwalden",
+    "Nidwalden",
+    "Glarus",
+    "Zug",
+    "Freiburg",
+    "Solothurn",
+    "Basel-Stadt",
+    "Basel-Landschaft",
+    "Schaffhausen",
+    "Appenzell Ausserrhoden",
+    "Appenzell Innerrhoden",
+    "St. Gallen",
+    "Aargau",
+    "Graubünden",
+    "Thurgau",
+    "Tessin",
+    "Waadt",
+    "Wallis",
+    "Neuenburg",
+    "Genf",
+    "Jura"
+   ]
+  },
+  {
+   "date": "2022-12-26",
+   "name": "Stephanstag (regionaler Feiertag)",
+   "type": "Feiertag",
+   "regions": [
+    "Zürich",
+    "Bern",
+    "Luzern",
+    "Uri",
+    "Schwyz",
+    "Glarus",
+    "Basel-Stadt",
+    "Basel-Landschaft",
+    "Schaffhausen",
+    "Appenzell Ausserrhoden",
+    "Appenzell Innerrhoden",
+    "St. Gallen",
+    "Graubünden",
+    "Thurgau",
+    "Tessin"
+   ]
+  },
+  {
+   "date": "2022-12-31",
+   "name": "Silvester",
+   "type": "Gedenktag"
+  },
+  {
+   "date": "2023-01-01",
+   "name": "Neujahr (regionaler Feiertag)",
+   "type": "Feiertag",
+   "regions": [
+    "Zürich",
+    "Bern",
+    "Luzern",
+    "Uri",
+    "Schwyz",
+    "Obwalden",
+    "Nidwalden",
+    "Glarus",
+    "Zug",
+    "Freiburg",
+    "Solothurn",
+    "Basel-Stadt",
+    "Basel-Landschaft",
+    "Schaffhausen",
+    "Appenzell Ausserrhoden",
+    "Appenzell Innerrhoden",
+    "St. Gallen",
+    "Aargau",
+    "Graubünden",
+    "Thurgau",
+    "Tessin",
+    "Waadt",
+    "Wallis",
+    "Neuenburg",
+    "Genf",
+    "Jura"
+   ]
+  },
+  {
+   "date": "2023-01-02",
+   "name": "Berchtoldstag (regionaler Feiertag)",
+   "type": "Feiertag",
+   "regions": [
+    "Aargau",
+    "Bern",
+    "Freiburg",
+    "Jura",
+    "Thurgau",
+    "Waadt"
+   ]
+  },
+  {
+   "date": "2023-01-06",
+   "name": "Dreikönigsfest (regionaler Feiertag)",
+   "type": "Feiertag",
+   "regions": [
+    "Schwyz",
+    "Tessin",
+    "Uri"
+   ]
+  },
+  {
+   "date": "2023-02-14",
+   "name": "Valentinstag",
+   "type": "Gedenktag"
+  },
+  {
+   "date": "2023-03-19",
+   "name": "Josefstag (regionaler Feiertag)",
+   "type": "Feiertag",
+   "regions": [
+    "Luzern",
+    "Nidwalden",
+    "Solothurn",
+    "Schwyz",
+    "Tessin",
+    "Uri",
+    "Wallis"
+   ]
+  },
+  {
+   "date": "2023-03-26",
+   "name": "Beginn der Sommerzeit",
+   "type": "Gedenktag"
+  },
+  {
+   "date": "2023-04-07",
+   "name": "Karfreitag (regionaler Feiertag)",
+   "type": "Feiertag",
+   "regions": [
+    "Zürich",
+    "Bern",
+    "Luzern",
+    "Uri",
+    "Schwyz",
+    "Obwalden",
+    "Nidwalden",
+    "Glarus",
+    "Zug",
+    "Freiburg",
+    "Solothurn",
+    "Basel-Stadt",
+    "Basel-Landschaft",
+    "Schaffhausen",
+    "Appenzell Ausserrhoden",
+    "Appenzell Innerrhoden",
+    "St. Gallen",
+    "Aargau",
+    "Graubünden",
+    "Thurgau",
+    "Waadt",
+    "Neuenburg",
+    "Genf",
+    "Jura"
+   ]
+  },
+  {
+   "date": "2023-04-09",
+   "name": "Ostersonntag",
+   "type": "Gedenktag"
+  },
+  {
+   "date": "2023-04-10",
+   "name": "Ostermontag (regionaler Feiertag)",
+   "type": "Feiertag",
+   "regions": [
+    "Zürich",
+    "Bern",
+    "Uri",
+    "Schwyz",
+    "Glarus",
+    "Freiburg",
+    "Basel-Stadt",
+    "Basel-Landschaft",
+    "Schaffhausen",
+    "Appenzell Ausserrhoden",
+    "Appenzell Innerrhoden",
+    "St. Gallen",
+    "Aargau",
+    "Graubünden",
+    "Thurgau",
+    "Tessin",
+    "Waadt",
+    "Genf",
+    "Jura"
+   ]
+  },
+  {
+   "date": "2023-04-17",
+   "name": "Sechseläuten (Zürich)",
+   "type": "Gedenktag",
+   "regions": [
+    "Zürich"
+   ]
+  },
+  {
+   "date": "2023-05-01",
+   "name": "Tag der Arbeit (regionaler Feiertag)",
+   "type": "Feiertag",
+   "regions": [
+    "Basel-Landschaft",
+    "Basel-Stadt",
+    "Jura",
+    "Neuenburg",
+    "Schaffhausen",
+    "Zürich",
+    "Thurgau",
+    "Tessin"
+   ]
+  },
+  {
+   "date": "2023-05-14",
+   "name": "Muttertag",
+   "type": "Gedenktag"
+  },
+  {
+   "date": "2023-05-18",
+   "name": "Auffahrt (regionaler Feiertag)",
+   "type": "Feiertag",
+   "regions": [
+    "Zürich",
+    "Bern",
+    "Luzern",
+    "Uri",
+    "Schwyz",
+    "Obwalden",
+    "Nidwalden",
+    "Glarus",
+    "Zug",
+    "Freiburg",
+    "Solothurn",
+    "Basel-Stadt",
+    "Basel-Landschaft",
+    "Schaffhausen",
+    "Appenzell Ausserrhoden",
+    "Appenzell Innerrhoden",
+    "St. Gallen",
+    "Aargau",
+    "Graubünden",
+    "Thurgau",
+    "Tessin",
+    "Waadt",
+    "Wallis",
+    "Neuenburg",
+    "Genf",
+    "Jura"
+   ]
+  },
+  {
+   "date": "2023-05-28",
+   "name": "Pfingstsonntag (regionaler Feiertag)",
+   "type": "Gedenktag",
+   "regions": [
+    "Zürich",
+    "Bern",
+    "Luzern",
+    "Uri",
+    "Schwyz",
+    "Obwalden",
+    "Nidwalden",
+    "Glarus",
+    "Zug",
+    "Freiburg",
+    "Solothurn",
+    "Basel-Stadt",
+    "Basel-Landschaft",
+    "Schaffhausen",
+    "Appenzell Ausserrhoden",
+    "Appenzell Innerrhoden",
+    "St. Gallen",
+    "Aargau",
+    "Graubünden",
+    "Thurgau",
+    "Tessin",
+    "Waadt",
+    "Wallis",
+    "Neuenburg",
+    "Genf",
+    "Jura"
+   ]
+  },
+  {
+   "date": "2023-05-29",
+   "name": "Pfingstmontag (regionaler Feiertag)",
+   "type": "Feiertag",
+   "regions": [
+    "Zürich",
+    "Bern",
+    "Uri",
+    "Schwyz",
+    "Glarus",
+    "Freiburg",
+    "Basel-Stadt",
+    "Basel-Landschaft",
+    "Schaffhausen",
+    "Appenzell Ausserrhoden",
+    "Appenzell Innerrhoden",
+    "St. Gallen",
+    "Aargau",
+    "Graubünden",
+    "Thurgau",
+    "Tessin",
+    "Waadt",
+    "Genf",
+    "Jura"
+   ]
+  },
+  {
+   "date": "2023-06-04",
+   "name": "Vatertag",
+   "type": "Gedenktag"
+  },
+  {
+   "date": "2023-06-08",
+   "name": "Fronleichnam (regionaler Feiertag)",
+   "type": "Feiertag",
+   "regions": [
+    "Aargau",
+    "Appenzell Innerrhoden",
+    "Freiburg",
+    "Jura",
+    "Luzern",
+    "Nidwalden",
+    "Obwalden",
+    "Solothurn",
+    "Schwyz",
+    "Tessin",
+    "Uri",
+    "Wallis",
+    "Zug"
+   ]
+  },
+  {
+   "date": "2023-08-01",
+   "name": "Schweizer Nationalfeiertag",
+   "type": "Gesetzlicher Feiertag"
+  },
+  {
+   "date": "2023-08-15",
+   "name": "Mariä Himmelfahrt (regionaler Feiertag)",
+   "type": "Feiertag",
+   "regions": [
+    "Aargau",
+    "Appenzell Innerrhoden",
+    "Freiburg",
+    "Jura",
+    "Luzern",
+    "Nidwalden",
+    "Obwalden",
+    "Solothurn",
+    "Schwyz",
+    "Tessin",
+    "Uri",
+    "Wallis",
+    "Zug"
+   ]
+  },
+  {
+   "date": "2023-09-09",
+   "name": "Knabenschiessen (Zürich)",
+   "type": "Gedenktag",
+   "regions": [
+    "Zürich"
+   ]
+  },
+  {
+   "date": "2023-09-10",
+   "name": "Knabenschiessen (Zürich)",
+   "type": "Gedenktag",
+   "regions": [
+    "Zürich"
+   ]
+  },
+  {
+   "date": "2023-09-11",
+   "name": "Knabenschiessen (Zürich)",
+   "type": "Gedenktag",
+   "regions": [
+    "Zürich"
+   ]
+  },
+  {
+   "date": "2023-09-17",
+   "name": "Eidgenössischer Dank-, Buss- und Bettag (regionaler Feiertag)",
+   "type": "Gedenktag",
+   "regions": [
+    "Zürich",
+    "Bern",
+    "Luzern",
+    "Uri",
+    "Schwyz",
+    "Obwalden",
+    "Nidwalden",
+    "Glarus",
+    "Zug",
+    "Freiburg",
+    "Solothurn",
+    "Basel-Stadt",
+    "Basel-Landschaft",
+    "Schaffhausen",
+    "Appenzell Ausserrhoden",
+    "Appenzell Innerrhoden",
+    "St. Gallen",
+    "Aargau",
+    "Graubünden",
+    "Thurgau",
+    "Tessin",
+    "Waadt",
+    "Wallis",
+    "Neuenburg",
+    "Jura"
+   ]
+  },
+  {
+   "date": "2023-10-29",
+   "name": "Ende der Sommerzeit",
+   "type": "Gedenktag"
+  },
+  {
+   "date": "2023-11-01",
+   "name": "Allerheiligen (regionaler Feiertag)",
+   "type": "Feiertag",
+   "regions": [
+    "Aargau",
+    "Appenzell Innerrhoden",
+    "Freiburg",
+    "Glarus",
+    "Jura",
+    "Luzern",
+    "Nidwalden",
+    "Obwalden",
+    "St. Gallen",
+    "Schwyz",
+    "Tessin",
+    "Uri",
+    "Wallis",
+    "Zug"
+   ]
+  },
+  {
+   "date": "2023-12-08",
+   "name": "Mariä Empfängnis (regionaler Feiertag)",
+   "type": "Feiertag",
+   "regions": [
+    "Appenzell Innerrhoden",
+    "Luzern",
+    "Nidwalden",
+    "Obwalden",
+    "Schwyz",
+    "Tessin",
+    "Uri",
+    "Wallis",
+    "Zug"
+   ]
+  },
+  {
+   "date": "2023-12-24",
+   "name": "Heiligabend",
+   "type": "Gedenktag"
+  },
+  {
+   "date": "2023-12-25",
+   "name": "Weihnachten (regionaler Feiertag)",
+   "type": "Feiertag",
+   "regions": [
+    "Zürich",
+    "Bern",
+    "Luzern",
+    "Uri",
+    "Schwyz",
+    "Obwalden",
+    "Nidwalden",
+    "Glarus",
+    "Zug",
+    "Freiburg",
+    "Solothurn",
+    "Basel-Stadt",
+    "Basel-Landschaft",
+    "Schaffhausen",
+    "Appenzell Ausserrhoden",
+    "Appenzell Innerrhoden",
+    "St. Gallen",
+    "Aargau",
+    "Graubünden",
+    "Thurgau",
+    "Tessin",
+    "Waadt",
+    "Wallis",
+    "Neuenburg",
+    "Genf",
+    "Jura"
+   ]
+  },
+  {
+   "date": "2023-12-26",
+   "name": "Stephanstag (regionaler Feiertag)",
+   "type": "Feiertag",
+   "regions": [
+    "Zürich",
+    "Bern",
+    "Luzern",
+    "Uri",
+    "Schwyz",
+    "Glarus",
+    "Basel-Stadt",
+    "Basel-Landschaft",
+    "Schaffhausen",
+    "Appenzell Ausserrhoden",
+    "Appenzell Innerrhoden",
+    "St. Gallen",
+    "Graubünden",
+    "Thurgau",
+    "Tessin"
+   ]
+  },
+  {
+   "date": "2023-12-31",
+   "name": "Silvester",
+   "type": "Gedenktag"
+  },
+  {
+   "date": "2024-01-01",
+   "name": "Neujahr (regionaler Feiertag)",
+   "type": "Feiertag",
+   "regions": [
+    "Zürich",
+    "Bern",
+    "Luzern",
+    "Uri",
+    "Schwyz",
+    "Obwalden",
+    "Nidwalden",
+    "Glarus",
+    "Zug",
+    "Freiburg",
+    "Solothurn",
+    "Basel-Stadt",
+    "Basel-Landschaft",
+    "Schaffhausen",
+    "Appenzell Ausserrhoden",
+    "Appenzell Innerrhoden",
+    "St. Gallen",
+    "Aargau",
+    "Graubünden",
+    "Thurgau",
+    "Tessin",
+    "Waadt",
+    "Wallis",
+    "Neuenburg",
+    "Genf",
+    "Jura"
+   ]
+  },
+  {
+   "date": "2024-01-02",
+   "name": "Berchtoldstag (regionaler Feiertag)",
+   "type": "Feiertag",
+   "regions": [
+    "Aargau",
+    "Bern",
+    "Freiburg",
+    "Jura",
+    "Thurgau",
+    "Waadt"
+   ]
+  },
+  {
+   "date": "2024-01-06",
+   "name": "Dreikönigsfest (regionaler Feiertag)",
+   "type": "Feiertag",
+   "regions": [
+    "Schwyz",
+    "Tessin",
+    "Uri"
+   ]
+  },
+  {
+   "date": "2024-02-14",
+   "name": "Valentinstag",
+   "type": "Gedenktag"
+  },
+  {
+   "date": "2024-03-19",
+   "name": "Josefstag (regionaler Feiertag)",
+   "type": "Feiertag",
+   "regions": [
+    "Luzern",
+    "Nidwalden",
+    "Solothurn",
+    "Schwyz",
+    "Tessin",
+    "Uri",
+    "Wallis"
+   ]
+  },
+  {
+   "date": "2024-03-29",
+   "name": "Karfreitag (regionaler Feiertag)",
+   "type": "Feiertag",
+   "regions": [
+    "Zürich",
+    "Bern",
+    "Luzern",
+    "Uri",
+    "Schwyz",
+    "Obwalden",
+    "Nidwalden",
+    "Glarus",
+    "Zug",
+    "Freiburg",
+    "Solothurn",
+    "Basel-Stadt",
+    "Basel-Landschaft",
+    "Schaffhausen",
+    "Appenzell Ausserrhoden",
+    "Appenzell Innerrhoden",
+    "St. Gallen",
+    "Aargau",
+    "Graubünden",
+    "Thurgau",
+    "Waadt",
+    "Neuenburg",
+    "Genf",
+    "Jura"
+   ]
+  },
+  {
+   "date": "2024-03-31",
+   "name": "Beginn der Sommerzeit",
+   "type": "Gedenktag"
+  },
+  {
+   "date": "2024-03-31",
+   "name": "Ostersonntag",
+   "type": "Gedenktag"
+  },
+  {
+   "date": "2024-04-01",
+   "name": "Ostermontag (regionaler Feiertag)",
+   "type": "Feiertag",
+   "regions": [
+    "Zürich",
+    "Bern",
+    "Uri",
+    "Schwyz",
+    "Glarus",
+    "Freiburg",
+    "Basel-Stadt",
+    "Basel-Landschaft",
+    "Schaffhausen",
+    "Appenzell Ausserrhoden",
+    "Appenzell Innerrhoden",
+    "St. Gallen",
+    "Aargau",
+    "Graubünden",
+    "Thurgau",
+    "Tessin",
+    "Waadt",
+    "Genf",
+    "Jura"
+   ]
+  },
+  {
+   "date": "2024-04-15",
+   "name": "Sechseläuten (Zürich)",
+   "type": "Gedenktag",
+   "regions": [
+    "Zürich"
+   ]
+  },
+  {
+   "date": "2024-05-01",
+   "name": "Tag der Arbeit (regionaler Feiertag)",
+   "type": "Feiertag",
+   "regions": [
+    "Basel-Landschaft",
+    "Basel-Stadt",
+    "Jura",
+    "Neuenburg",
+    "Schaffhausen",
+    "Zürich",
+    "Thurgau",
+    "Tessin"
+   ]
+  },
+  {
+   "date": "2024-05-09",
+   "name": "Auffahrt (regionaler Feiertag)",
+   "type": "Feiertag",
+   "regions": [
+    "Zürich",
+    "Bern",
+    "Luzern",
+    "Uri",
+    "Schwyz",
+    "Obwalden",
+    "Nidwalden",
+    "Glarus",
+    "Zug",
+    "Freiburg",
+    "Solothurn",
+    "Basel-Stadt",
+    "Basel-Landschaft",
+    "Schaffhausen",
+    "Appenzell Ausserrhoden",
+    "Appenzell Innerrhoden",
+    "St. Gallen",
+    "Aargau",
+    "Graubünden",
+    "Thurgau",
+    "Tessin",
+    "Waadt",
+    "Wallis",
+    "Neuenburg",
+    "Genf",
+    "Jura"
+   ]
+  },
+  {
+   "date": "2024-05-12",
+   "name": "Muttertag",
+   "type": "Gedenktag"
+  },
+  {
+   "date": "2024-05-19",
+   "name": "Pfingstsonntag (regionaler Feiertag)",
+   "type": "Gedenktag",
+   "regions": [
+    "Zürich",
+    "Bern",
+    "Luzern",
+    "Uri",
+    "Schwyz",
+    "Obwalden",
+    "Nidwalden",
+    "Glarus",
+    "Zug",
+    "Freiburg",
+    "Solothurn",
+    "Basel-Stadt",
+    "Basel-Landschaft",
+    "Schaffhausen",
+    "Appenzell Ausserrhoden",
+    "Appenzell Innerrhoden",
+    "St. Gallen",
+    "Aargau",
+    "Graubünden",
+    "Thurgau",
+    "Tessin",
+    "Waadt",
+    "Wallis",
+    "Neuenburg",
+    "Genf",
+    "Jura"
+   ]
+  },
+  {
+   "date": "2024-05-20",
+   "name": "Pfingstmontag (regionaler Feiertag)",
+   "type": "Feiertag",
+   "regions": [
+    "Zürich",
+    "Bern",
+    "Uri",
+    "Schwyz",
+    "Glarus",
+    "Freiburg",
+    "Basel-Stadt",
+    "Basel-Landschaft",
+    "Schaffhausen",
+    "Appenzell Ausserrhoden",
+    "Appenzell Innerrhoden",
+    "St. Gallen",
+    "Aargau",
+    "Graubünden",
+    "Thurgau",
+    "Tessin",
+    "Waadt",
+    "Genf",
+    "Jura"
+   ]
+  },
+  {
+   "date": "2024-05-30",
+   "name": "Fronleichnam (regionaler Feiertag)",
+   "type": "Feiertag",
+   "regions": [
+    "Aargau",
+    "Appenzell Innerrhoden",
+    "Freiburg",
+    "Jura",
+    "Luzern",
+    "Nidwalden",
+    "Obwalden",
+    "Solothurn",
+    "Schwyz",
+    "Tessin",
+    "Uri",
+    "Wallis",
+    "Zug"
+   ]
+  },
+  {
+   "date": "2024-06-02",
+   "name": "Vatertag",
+   "type": "Gedenktag"
+  },
+  {
+   "date": "2024-08-01",
+   "name": "Schweizer Nationalfeiertag",
+   "type": "Gesetzlicher Feiertag"
+  },
+  {
+   "date": "2024-08-15",
+   "name": "Mariä Himmelfahrt (regionaler Feiertag)",
+   "type": "Feiertag",
+   "regions": [
+    "Aargau",
+    "Appenzell Innerrhoden",
+    "Freiburg",
+    "Jura",
+    "Luzern",
+    "Nidwalden",
+    "Obwalden",
+    "Solothurn",
+    "Schwyz",
+    "Tessin",
+    "Uri",
+    "Wallis",
+    "Zug"
+   ]
+  },
+  {
+   "date": "2024-09-07",
+   "name": "Knabenschiessen (Zürich)",
+   "type": "Gedenktag",
+   "regions": [
+    "Zürich"
+   ]
+  },
+  {
+   "date": "2024-09-08",
+   "name": "Knabenschiessen (Zürich)",
+   "type": "Gedenktag",
+   "regions": [
+    "Zürich"
+   ]
+  },
+  {
+   "date": "2024-09-09",
+   "name": "Knabenschiessen (Zürich)",
+   "type": "Gedenktag",
+   "regions": [
+    "Zürich"
+   ]
+  },
+  {
+   "date": "2024-09-15",
+   "name": "Eidgenössischer Dank-, Buss- und Bettag (regionaler Feiertag)",
+   "type": "Gedenktag",
+   "regions": [
+    "Zürich",
+    "Bern",
+    "Luzern",
+    "Uri",
+    "Schwyz",
+    "Obwalden",
+    "Nidwalden",
+    "Glarus",
+    "Zug",
+    "Freiburg",
+    "Solothurn",
+    "Basel-Stadt",
+    "Basel-Landschaft",
+    "Schaffhausen",
+    "Appenzell Ausserrhoden",
+    "Appenzell Innerrhoden",
+    "St. Gallen",
+    "Aargau",
+    "Graubünden",
+    "Thurgau",
+    "Tessin",
+    "Waadt",
+    "Wallis",
+    "Neuenburg",
+    "Jura"
+   ]
+  },
+  {
+   "date": "2024-10-27",
+   "name": "Ende der Sommerzeit",
+   "type": "Gedenktag"
+  },
+  {
+   "date": "2024-11-01",
+   "name": "Allerheiligen (regionaler Feiertag)",
+   "type": "Feiertag",
+   "regions": [
+    "Aargau",
+    "Appenzell Innerrhoden",
+    "Freiburg",
+    "Glarus",
+    "Jura",
+    "Luzern",
+    "Nidwalden",
+    "Obwalden",
+    "St. Gallen",
+    "Schwyz",
+    "Tessin",
+    "Uri",
+    "Wallis",
+    "Zug"
+   ]
+  },
+  {
+   "date": "2024-12-08",
+   "name": "Mariä Empfängnis (regionaler Feiertag)",
+   "type": "Feiertag",
+   "regions": [
+    "Appenzell Innerrhoden",
+    "Luzern",
+    "Nidwalden",
+    "Obwalden",
+    "Schwyz",
+    "Tessin",
+    "Uri",
+    "Wallis",
+    "Zug"
+   ]
+  },
+  {
+   "date": "2024-12-24",
+   "name": "Heiligabend",
+   "type": "Gedenktag"
+  },
+  {
+   "date": "2024-12-25",
+   "name": "Weihnachten (regionaler Feiertag)",
+   "type": "Feiertag",
+   "regions": [
+    "Zürich",
+    "Bern",
+    "Luzern",
+    "Uri",
+    "Schwyz",
+    "Obwalden",
+    "Nidwalden",
+    "Glarus",
+    "Zug",
+    "Freiburg",
+    "Solothurn",
+    "Basel-Stadt",
+    "Basel-Landschaft",
+    "Schaffhausen",
+    "Appenzell Ausserrhoden",
+    "Appenzell Innerrhoden",
+    "St. Gallen",
+    "Aargau",
+    "Graubünden",
+    "Thurgau",
+    "Tessin",
+    "Waadt",
+    "Wallis",
+    "Neuenburg",
+    "Genf",
+    "Jura"
+   ]
+  },
+  {
+   "date": "2024-12-26",
+   "name": "Stephanstag (regionaler Feiertag)",
+   "type": "Feiertag",
+   "regions": [
+    "Zürich",
+    "Bern",
+    "Luzern",
+    "Uri",
+    "Schwyz",
+    "Glarus",
+    "Basel-Stadt",
+    "Basel-Landschaft",
+    "Schaffhausen",
+    "Appenzell Ausserrhoden",
+    "Appenzell Innerrhoden",
+    "St. Gallen",
+    "Graubünden",
+    "Thurgau",
+    "Tessin"
+   ]
+  },
+  {
+   "date": "2024-12-31",
+   "name": "Silvester",
+   "type": "Gedenktag"
+  },
+  {
+   "date": "2025-01-01",
+   "name": "Neujahr (regionaler Feiertag)",
+   "type": "Feiertag",
+   "regions": [
+    "Zürich",
+    "Bern",
+    "Luzern",
+    "Uri",
+    "Schwyz",
+    "Obwalden",
+    "Nidwalden",
+    "Glarus",
+    "Zug",
+    "Freiburg",
+    "Solothurn",
+    "Basel-Stadt",
+    "Basel-Landschaft",
+    "Schaffhausen",
+    "Appenzell Ausserrhoden",
+    "Appenzell Innerrhoden",
+    "St. Gallen",
+    "Aargau",
+    "Graubünden",
+    "Thurgau",
+    "Tessin",
+    "Waadt",
+    "Wallis",
+    "Neuenburg",
+    "Genf",
+    "Jura"
+   ]
+  },
+  {
+   "date": "2025-01-02",
+   "name": "Berchtoldstag (regionaler Feiertag)",
+   "type": "Feiertag",
+   "regions": [
+    "Aargau",
+    "Bern",
+    "Freiburg",
+    "Jura",
+    "Thurgau",
+    "Waadt"
+   ]
+  },
+  {
+   "date": "2025-01-06",
+   "name": "Dreikönigsfest (regionaler Feiertag)",
+   "type": "Feiertag",
+   "regions": [
+    "Schwyz",
+    "Tessin",
+    "Uri"
+   ]
+  },
+  {
+   "date": "2025-02-14",
+   "name": "Valentinstag",
+   "type": "Gedenktag"
+  },
+  {
+   "date": "2025-03-19",
+   "name": "Josefstag (regionaler Feiertag)",
+   "type": "Feiertag",
+   "regions": [
+    "Luzern",
+    "Nidwalden",
+    "Solothurn",
+    "Schwyz",
+    "Tessin",
+    "Uri",
+    "Wallis"
+   ]
+  },
+  {
+   "date": "2025-03-30",
+   "name": "Beginn der Sommerzeit",
+   "type": "Gedenktag"
+  },
+  {
+   "date": "2025-04-18",
+   "name": "Karfreitag (regionaler Feiertag)",
+   "type": "Feiertag",
+   "regions": [
+    "Zürich",
+    "Bern",
+    "Luzern",
+    "Uri",
+    "Schwyz",
+    "Obwalden",
+    "Nidwalden",
+    "Glarus",
+    "Zug",
+    "Freiburg",
+    "Solothurn",
+    "Basel-Stadt",
+    "Basel-Landschaft",
+    "Schaffhausen",
+    "Appenzell Ausserrhoden",
+    "Appenzell Innerrhoden",
+    "St. Gallen",
+    "Aargau",
+    "Graubünden",
+    "Thurgau",
+    "Waadt",
+    "Neuenburg",
+    "Genf",
+    "Jura"
+   ]
+  },
+  {
+   "date": "2025-04-20",
+   "name": "Ostersonntag",
+   "type": "Gedenktag"
+  },
+  {
+   "date": "2025-04-21",
+   "name": "Ostermontag (regionaler Feiertag)",
+   "type": "Feiertag",
+   "regions": [
+    "Zürich",
+    "Bern",
+    "Uri",
+    "Schwyz",
+    "Glarus",
+    "Freiburg",
+    "Basel-Stadt",
+    "Basel-Landschaft",
+    "Schaffhausen",
+    "Appenzell Ausserrhoden",
+    "Appenzell Innerrhoden",
+    "St. Gallen",
+    "Aargau",
+    "Graubünden",
+    "Thurgau",
+    "Tessin",
+    "Waadt",
+    "Genf",
+    "Jura"
+   ]
+  },
+  {
+   "date": "2025-04-28",
+   "name": "Sechseläuten (Zürich)",
+   "type": "Gedenktag",
+   "regions": [
+    "Zürich"
+   ]
+  },
+  {
+   "date": "2025-05-01",
+   "name": "Tag der Arbeit (regionaler Feiertag)",
+   "type": "Feiertag",
+   "regions": [
+    "Basel-Landschaft",
+    "Basel-Stadt",
+    "Jura",
+    "Neuenburg",
+    "Schaffhausen",
+    "Zürich",
+    "Thurgau",
+    "Tessin"
+   ]
+  },
+  {
+   "date": "2025-05-11",
+   "name": "Muttertag",
+   "type": "Gedenktag"
+  },
+  {
+   "date": "2025-05-29",
+   "name": "Auffahrt (regionaler Feiertag)",
+   "type": "Feiertag",
+   "regions": [
+    "Zürich",
+    "Bern",
+    "Luzern",
+    "Uri",
+    "Schwyz",
+    "Obwalden",
+    "Nidwalden",
+    "Glarus",
+    "Zug",
+    "Freiburg",
+    "Solothurn",
+    "Basel-Stadt",
+    "Basel-Landschaft",
+    "Schaffhausen",
+    "Appenzell Ausserrhoden",
+    "Appenzell Innerrhoden",
+    "St. Gallen",
+    "Aargau",
+    "Graubünden",
+    "Thurgau",
+    "Tessin",
+    "Waadt",
+    "Wallis",
+    "Neuenburg",
+    "Genf",
+    "Jura"
+   ]
+  },
+  {
+   "date": "2025-06-01",
+   "name": "Vatertag",
+   "type": "Gedenktag"
+  },
+  {
+   "date": "2025-06-08",
+   "name": "Pfingstsonntag (regionaler Feiertag)",
+   "type": "Gedenktag",
+   "regions": [
+    "Zürich",
+    "Bern",
+    "Luzern",
+    "Uri",
+    "Schwyz",
+    "Obwalden",
+    "Nidwalden",
+    "Glarus",
+    "Zug",
+    "Freiburg",
+    "Solothurn",
+    "Basel-Stadt",
+    "Basel-Landschaft",
+    "Schaffhausen",
+    "Appenzell Ausserrhoden",
+    "Appenzell Innerrhoden",
+    "St. Gallen",
+    "Aargau",
+    "Graubünden",
+    "Thurgau",
+    "Tessin",
+    "Waadt",
+    "Wallis",
+    "Neuenburg",
+    "Genf",
+    "Jura"
+   ]
+  },
+  {
+   "date": "2025-06-09",
+   "name": "Pfingstmontag (regionaler Feiertag)",
+   "type": "Feiertag",
+   "regions": [
+    "Zürich",
+    "Bern",
+    "Uri",
+    "Schwyz",
+    "Glarus",
+    "Freiburg",
+    "Basel-Stadt",
+    "Basel-Landschaft",
+    "Schaffhausen",
+    "Appenzell Ausserrhoden",
+    "Appenzell Innerrhoden",
+    "St. Gallen",
+    "Aargau",
+    "Graubünden",
+    "Thurgau",
+    "Tessin",
+    "Waadt",
+    "Genf",
+    "Jura"
+   ]
+  },
+  {
+   "date": "2025-06-19",
+   "name": "Fronleichnam (regionaler Feiertag)",
+   "type": "Feiertag",
+   "regions": [
+    "Aargau",
+    "Appenzell Innerrhoden",
+    "Freiburg",
+    "Jura",
+    "Luzern",
+    "Nidwalden",
+    "Obwalden",
+    "Solothurn",
+    "Schwyz",
+    "Tessin",
+    "Uri",
+    "Wallis",
+    "Zug"
+   ]
+  },
+  {
+   "date": "2025-08-01",
+   "name": "Schweizer Nationalfeiertag",
+   "type": "Gesetzlicher Feiertag"
+  },
+  {
+   "date": "2025-08-15",
+   "name": "Mariä Himmelfahrt (regionaler Feiertag)",
+   "type": "Feiertag",
+   "regions": [
+    "Aargau",
+    "Appenzell Innerrhoden",
+    "Freiburg",
+    "Jura",
+    "Luzern",
+    "Nidwalden",
+    "Obwalden",
+    "Solothurn",
+    "Schwyz",
+    "Tessin",
+    "Uri",
+    "Wallis",
+    "Zug"
+   ]
+  },
+  {
+   "date": "2025-09-13",
+   "name": "Knabenschiessen (Zürich)",
+   "type": "Gedenktag",
+   "regions": [
+    "Zürich"
+   ]
+  },
+  {
+   "date": "2025-09-14",
+   "name": "Knabenschiessen (Zürich)",
+   "type": "Gedenktag",
+   "regions": [
+    "Zürich"
+   ]
+  },
+  {
+   "date": "2025-09-15",
+   "name": "Knabenschiessen (Zürich)",
+   "type": "Gedenktag",
+   "regions": [
+    "Zürich"
+   ]
+  },
+  {
+   "date": "2025-09-21",
+   "name": "Eidgenössischer Dank-, Buss- und Bettag (regionaler Feiertag)",
+   "type": "Gedenktag",
+   "regions": [
+    "Zürich",
+    "Bern",
+    "Luzern",
+    "Uri",
+    "Schwyz",
+    "Obwalden",
+    "Nidwalden",
+    "Glarus",
+    "Zug",
+    "Freiburg",
+    "Solothurn",
+    "Basel-Stadt",
+    "Basel-Landschaft",
+    "Schaffhausen",
+    "Appenzell Ausserrhoden",
+    "Appenzell Innerrhoden",
+    "St. Gallen",
+    "Aargau",
+    "Graubünden",
+    "Thurgau",
+    "Tessin",
+    "Waadt",
+    "Wallis",
+    "Neuenburg",
+    "Jura"
+   ]
+  },
+  {
+   "date": "2025-10-26",
+   "name": "Ende der Sommerzeit",
+   "type": "Gedenktag"
+  },
+  {
+   "date": "2025-11-01",
+   "name": "Allerheiligen (regionaler Feiertag)",
+   "type": "Feiertag",
+   "regions": [
+    "Aargau",
+    "Appenzell Innerrhoden",
+    "Freiburg",
+    "Glarus",
+    "Jura",
+    "Luzern",
+    "Nidwalden",
+    "Obwalden",
+    "St. Gallen",
+    "Schwyz",
+    "Tessin",
+    "Uri",
+    "Wallis",
+    "Zug"
+   ]
+  },
+  {
+   "date": "2025-12-08",
+   "name": "Mariä Empfängnis (regionaler Feiertag)",
+   "type": "Feiertag",
+   "regions": [
+    "Appenzell Innerrhoden",
+    "Luzern",
+    "Nidwalden",
+    "Obwalden",
+    "Schwyz",
+    "Tessin",
+    "Uri",
+    "Wallis",
+    "Zug"
+   ]
+  },
+  {
+   "date": "2025-12-24",
+   "name": "Heiligabend",
+   "type": "Gedenktag"
+  },
+  {
+   "date": "2025-12-25",
+   "name": "Weihnachten (regionaler Feiertag)",
+   "type": "Feiertag",
+   "regions": [
+    "Zürich",
+    "Bern",
+    "Luzern",
+    "Uri",
+    "Schwyz",
+    "Obwalden",
+    "Nidwalden",
+    "Glarus",
+    "Zug",
+    "Freiburg",
+    "Solothurn",
+    "Basel-Stadt",
+    "Basel-Landschaft",
+    "Schaffhausen",
+    "Appenzell Ausserrhoden",
+    "Appenzell Innerrhoden",
+    "St. Gallen",
+    "Aargau",
+    "Graubünden",
+    "Thurgau",
+    "Tessin",
+    "Waadt",
+    "Wallis",
+    "Neuenburg",
+    "Genf",
+    "Jura"
+   ]
+  },
+  {
+   "date": "2025-12-26",
+   "name": "Stephanstag (regionaler Feiertag)",
+   "type": "Feiertag",
+   "regions": [
+    "Zürich",
+    "Bern",
+    "Luzern",
+    "Uri",
+    "Schwyz",
+    "Glarus",
+    "Basel-Stadt",
+    "Basel-Landschaft",
+    "Schaffhausen",
+    "Appenzell Ausserrhoden",
+    "Appenzell Innerrhoden",
+    "St. Gallen",
+    "Graubünden",
+    "Thurgau",
+    "Tessin"
+   ]
+  },
+  {
+   "date": "2025-12-31",
+   "name": "Silvester",
+   "type": "Gedenktag"
+  },
+  {
+   "date": "2026-01-01",
+   "name": "Neujahr (regionaler Feiertag)",
+   "type": "Feiertag",
+   "regions": [
+    "Zürich",
+    "Bern",
+    "Luzern",
+    "Uri",
+    "Schwyz",
+    "Obwalden",
+    "Nidwalden",
+    "Glarus",
+    "Zug",
+    "Freiburg",
+    "Solothurn",
+    "Basel-Stadt",
+    "Basel-Landschaft",
+    "Schaffhausen",
+    "Appenzell Ausserrhoden",
+    "Appenzell Innerrhoden",
+    "St. Gallen",
+    "Aargau",
+    "Graubünden",
+    "Thurgau",
+    "Tessin",
+    "Waadt",
+    "Wallis",
+    "Neuenburg",
+    "Genf",
+    "Jura"
+   ]
+  },
+  {
+   "date": "2026-01-02",
+   "name": "Berchtoldstag (regionaler Feiertag)",
+   "type": "Feiertag",
+   "regions": [
+    "Aargau",
+    "Bern",
+    "Freiburg",
+    "Jura",
+    "Thurgau",
+    "Waadt"
+   ]
+  },
+  {
+   "date": "2026-01-06",
+   "name": "Dreikönigsfest (regionaler Feiertag)",
+   "type": "Feiertag",
+   "regions": [
+    "Schwyz",
+    "Tessin",
+    "Uri"
+   ]
+  },
+  {
+   "date": "2026-02-14",
+   "name": "Valentinstag",
+   "type": "Gedenktag"
+  },
+  {
+   "date": "2026-03-19",
+   "name": "Josefstag (regionaler Feiertag)",
+   "type": "Feiertag",
+   "regions": [
+    "Luzern",
+    "Nidwalden",
+    "Solothurn",
+    "Schwyz",
+    "Tessin",
+    "Uri",
+    "Wallis"
+   ]
+  },
+  {
+   "date": "2026-03-29",
+   "name": "Beginn der Sommerzeit",
+   "type": "Gedenktag"
+  },
+  {
+   "date": "2026-04-03",
+   "name": "Karfreitag (regionaler Feiertag)",
+   "type": "Feiertag",
+   "regions": [
+    "Zürich",
+    "Bern",
+    "Luzern",
+    "Uri",
+    "Schwyz",
+    "Obwalden",
+    "Nidwalden",
+    "Glarus",
+    "Zug",
+    "Freiburg",
+    "Solothurn",
+    "Basel-Stadt",
+    "Basel-Landschaft",
+    "Schaffhausen",
+    "Appenzell Ausserrhoden",
+    "Appenzell Innerrhoden",
+    "St. Gallen",
+    "Aargau",
+    "Graubünden",
+    "Thurgau",
+    "Waadt",
+    "Neuenburg",
+    "Genf",
+    "Jura"
+   ]
+  },
+  {
+   "date": "2026-04-05",
+   "name": "Ostersonntag",
+   "type": "Gedenktag"
+  },
+  {
+   "date": "2026-04-06",
+   "name": "Ostermontag (regionaler Feiertag)",
+   "type": "Feiertag",
+   "regions": [
+    "Zürich",
+    "Bern",
+    "Uri",
+    "Schwyz",
+    "Glarus",
+    "Freiburg",
+    "Basel-Stadt",
+    "Basel-Landschaft",
+    "Schaffhausen",
+    "Appenzell Ausserrhoden",
+    "Appenzell Innerrhoden",
+    "St. Gallen",
+    "Aargau",
+    "Graubünden",
+    "Thurgau",
+    "Tessin",
+    "Waadt",
+    "Genf",
+    "Jura"
+   ]
+  },
+  {
+   "date": "2026-05-01",
+   "name": "Tag der Arbeit (regionaler Feiertag)",
+   "type": "Feiertag",
+   "regions": [
+    "Basel-Landschaft",
+    "Basel-Stadt",
+    "Jura",
+    "Neuenburg",
+    "Schaffhausen",
+    "Zürich",
+    "Thurgau",
+    "Tessin"
+   ]
+  },
+  {
+   "date": "2026-05-10",
+   "name": "Muttertag",
+   "type": "Gedenktag"
+  },
+  {
+   "date": "2026-05-14",
+   "name": "Auffahrt (regionaler Feiertag)",
+   "type": "Feiertag",
+   "regions": [
+    "Zürich",
+    "Bern",
+    "Luzern",
+    "Uri",
+    "Schwyz",
+    "Obwalden",
+    "Nidwalden",
+    "Glarus",
+    "Zug",
+    "Freiburg",
+    "Solothurn",
+    "Basel-Stadt",
+    "Basel-Landschaft",
+    "Schaffhausen",
+    "Appenzell Ausserrhoden",
+    "Appenzell Innerrhoden",
+    "St. Gallen",
+    "Aargau",
+    "Graubünden",
+    "Thurgau",
+    "Tessin",
+    "Waadt",
+    "Wallis",
+    "Neuenburg",
+    "Genf",
+    "Jura"
+   ]
+  },
+  {
+   "date": "2026-05-24",
+   "name": "Pfingstsonntag (regionaler Feiertag)",
+   "type": "Gedenktag",
+   "regions": [
+    "Zürich",
+    "Bern",
+    "Luzern",
+    "Uri",
+    "Schwyz",
+    "Obwalden",
+    "Nidwalden",
+    "Glarus",
+    "Zug",
+    "Freiburg",
+    "Solothurn",
+    "Basel-Stadt",
+    "Basel-Landschaft",
+    "Schaffhausen",
+    "Appenzell Ausserrhoden",
+    "Appenzell Innerrhoden",
+    "St. Gallen",
+    "Aargau",
+    "Graubünden",
+    "Thurgau",
+    "Tessin",
+    "Waadt",
+    "Wallis",
+    "Neuenburg",
+    "Genf",
+    "Jura"
+   ]
+  },
+  {
+   "date": "2026-05-25",
+   "name": "Pfingstmontag (regionaler Feiertag)",
+   "type": "Feiertag",
+   "regions": [
+    "Zürich",
+    "Bern",
+    "Uri",
+    "Schwyz",
+    "Glarus",
+    "Freiburg",
+    "Basel-Stadt",
+    "Basel-Landschaft",
+    "Schaffhausen",
+    "Appenzell Ausserrhoden",
+    "Appenzell Innerrhoden",
+    "St. Gallen",
+    "Aargau",
+    "Graubünden",
+    "Thurgau",
+    "Tessin",
+    "Waadt",
+    "Genf",
+    "Jura"
+   ]
+  },
+  {
+   "date": "2026-06-04",
+   "name": "Fronleichnam (regionaler Feiertag)",
+   "type": "Feiertag",
+   "regions": [
+    "Aargau",
+    "Appenzell Innerrhoden",
+    "Freiburg",
+    "Jura",
+    "Luzern",
+    "Nidwalden",
+    "Obwalden",
+    "Solothurn",
+    "Schwyz",
+    "Tessin",
+    "Uri",
+    "Wallis",
+    "Zug"
+   ]
+  },
+  {
+   "date": "2026-06-07",
+   "name": "Vatertag",
+   "type": "Gedenktag"
+  },
+  {
+   "date": "2026-08-01",
+   "name": "Schweizer Nationalfeiertag",
+   "type": "Gesetzlicher Feiertag"
+  },
+  {
+   "date": "2026-08-15",
+   "name": "Mariä Himmelfahrt (regionaler Feiertag)",
+   "type": "Feiertag",
+   "regions": [
+    "Aargau",
+    "Appenzell Innerrhoden",
+    "Freiburg",
+    "Jura",
+    "Luzern",
+    "Nidwalden",
+    "Obwalden",
+    "Solothurn",
+    "Schwyz",
+    "Tessin",
+    "Uri",
+    "Wallis",
+    "Zug"
+   ]
+  },
+  {
+   "date": "2026-09-12",
+   "name": "Knabenschiessen (Zürich)",
+   "type": "Gedenktag",
+   "regions": [
+    "Zürich"
+   ]
+  },
+  {
+   "date": "2026-09-13",
+   "name": "Knabenschiessen (Zürich)",
+   "type": "Gedenktag",
+   "regions": [
+    "Zürich"
+   ]
+  },
+  {
+   "date": "2026-09-14",
+   "name": "Knabenschiessen (Zürich)",
+   "type": "Gedenktag",
+   "regions": [
+    "Zürich"
+   ]
+  },
+  {
+   "date": "2026-09-20",
+   "name": "Eidgenössischer Dank-, Buss- und Bettag (regionaler Feiertag)",
+   "type": "Gedenktag",
+   "regions": [
+    "Zürich",
+    "Bern",
+    "Luzern",
+    "Uri",
+    "Schwyz",
+    "Obwalden",
+    "Nidwalden",
+    "Glarus",
+    "Zug",
+    "Freiburg",
+    "Solothurn",
+    "Basel-Stadt",
+    "Basel-Landschaft",
+    "Schaffhausen",
+    "Appenzell Ausserrhoden",
+    "Appenzell Innerrhoden",
+    "St. Gallen",
+    "Aargau",
+    "Graubünden",
+    "Thurgau",
+    "Tessin",
+    "Waadt",
+    "Wallis",
+    "Neuenburg",
+    "Jura"
+   ]
+  },
+  {
+   "date": "2026-10-25",
+   "name": "Ende der Sommerzeit",
+   "type": "Gedenktag"
+  },
+  {
+   "date": "2026-11-01",
+   "name": "Allerheiligen (regionaler Feiertag)",
+   "type": "Feiertag",
+   "regions": [
+    "Aargau",
+    "Appenzell Innerrhoden",
+    "Freiburg",
+    "Glarus",
+    "Jura",
+    "Luzern",
+    "Nidwalden",
+    "Obwalden",
+    "St. Gallen",
+    "Schwyz",
+    "Tessin",
+    "Uri",
+    "Wallis",
+    "Zug"
+   ]
+  },
+  {
+   "date": "2026-12-08",
+   "name": "Mariä Empfängnis (regionaler Feiertag)",
+   "type": "Feiertag",
+   "regions": [
+    "Appenzell Innerrhoden",
+    "Luzern",
+    "Nidwalden",
+    "Obwalden",
+    "Schwyz",
+    "Tessin",
+    "Uri",
+    "Wallis",
+    "Zug"
+   ]
+  },
+  {
+   "date": "2026-12-24",
+   "name": "Heiligabend",
+   "type": "Gedenktag"
+  },
+  {
+   "date": "2026-12-25",
+   "name": "Weihnachten (regionaler Feiertag)",
+   "type": "Feiertag",
+   "regions": [
+    "Zürich",
+    "Bern",
+    "Luzern",
+    "Uri",
+    "Schwyz",
+    "Obwalden",
+    "Nidwalden",
+    "Glarus",
+    "Zug",
+    "Freiburg",
+    "Solothurn",
+    "Basel-Stadt",
+    "Basel-Landschaft",
+    "Schaffhausen",
+    "Appenzell Ausserrhoden",
+    "Appenzell Innerrhoden",
+    "St. Gallen",
+    "Aargau",
+    "Graubünden",
+    "Thurgau",
+    "Tessin",
+    "Waadt",
+    "Wallis",
+    "Neuenburg",
+    "Genf",
+    "Jura"
+   ]
+  },
+  {
+   "date": "2026-12-26",
+   "name": "Stephanstag (regionaler Feiertag)",
+   "type": "Feiertag",
+   "regions": [
+    "Zürich",
+    "Bern",
+    "Luzern",
+    "Uri",
+    "Schwyz",
+    "Glarus",
+    "Basel-Stadt",
+    "Basel-Landschaft",
+    "Schaffhausen",
+    "Appenzell Ausserrhoden",
+    "Appenzell Innerrhoden",
+    "St. Gallen",
+    "Graubünden",
+    "Thurgau",
+    "Tessin"
+   ]
+  },
+  {
+   "date": "2026-12-31",
+   "name": "Silvester",
+   "type": "Gedenktag"
+  },
+  {
+   "date": "2027-01-01",
+   "name": "Neujahr (regionaler Feiertag)",
+   "type": "Feiertag",
+   "regions": [
+    "Zürich",
+    "Bern",
+    "Luzern",
+    "Uri",
+    "Schwyz",
+    "Obwalden",
+    "Nidwalden",
+    "Glarus",
+    "Zug",
+    "Freiburg",
+    "Solothurn",
+    "Basel-Stadt",
+    "Basel-Landschaft",
+    "Schaffhausen",
+    "Appenzell Ausserrhoden",
+    "Appenzell Innerrhoden",
+    "St. Gallen",
+    "Aargau",
+    "Graubünden",
+    "Thurgau",
+    "Tessin",
+    "Waadt",
+    "Wallis",
+    "Neuenburg",
+    "Genf",
+    "Jura"
+   ]
+  },
+  {
+   "date": "2027-01-02",
+   "name": "Berchtoldstag (regionaler Feiertag)",
+   "type": "Feiertag",
+   "regions": [
+    "Aargau",
+    "Bern",
+    "Freiburg",
+    "Jura",
+    "Thurgau",
+    "Waadt"
+   ]
+  },
+  {
+   "date": "2027-01-06",
+   "name": "Dreikönigsfest (regionaler Feiertag)",
+   "type": "Feiertag",
+   "regions": [
+    "Schwyz",
+    "Tessin",
+    "Uri"
+   ]
+  },
+  {
+   "date": "2027-02-14",
+   "name": "Valentinstag",
+   "type": "Gedenktag"
+  },
+  {
+   "date": "2027-03-19",
+   "name": "Josefstag (regionaler Feiertag)",
+   "type": "Feiertag",
+   "regions": [
+    "Luzern",
+    "Nidwalden",
+    "Solothurn",
+    "Schwyz",
+    "Tessin",
+    "Uri",
+    "Wallis"
+   ]
+  },
+  {
+   "date": "2027-03-26",
+   "name": "Karfreitag (regionaler Feiertag)",
+   "type": "Feiertag",
+   "regions": [
+    "Zürich",
+    "Bern",
+    "Luzern",
+    "Uri",
+    "Schwyz",
+    "Obwalden",
+    "Nidwalden",
+    "Glarus",
+    "Zug",
+    "Freiburg",
+    "Solothurn",
+    "Basel-Stadt",
+    "Basel-Landschaft",
+    "Schaffhausen",
+    "Appenzell Ausserrhoden",
+    "Appenzell Innerrhoden",
+    "St. Gallen",
+    "Aargau",
+    "Graubünden",
+    "Thurgau",
+    "Waadt",
+    "Neuenburg",
+    "Genf",
+    "Jura"
+   ]
+  },
+  {
+   "date": "2027-03-28",
+   "name": "Beginn der Sommerzeit",
+   "type": "Gedenktag"
+  },
+  {
+   "date": "2027-03-28",
+   "name": "Ostersonntag",
+   "type": "Gedenktag"
+  },
+  {
+   "date": "2027-03-29",
+   "name": "Ostermontag (regionaler Feiertag)",
+   "type": "Feiertag",
+   "regions": [
+    "Zürich",
+    "Bern",
+    "Uri",
+    "Schwyz",
+    "Glarus",
+    "Freiburg",
+    "Basel-Stadt",
+    "Basel-Landschaft",
+    "Schaffhausen",
+    "Appenzell Ausserrhoden",
+    "Appenzell Innerrhoden",
+    "St. Gallen",
+    "Aargau",
+    "Graubünden",
+    "Thurgau",
+    "Tessin",
+    "Waadt",
+    "Genf",
+    "Jura"
+   ]
+  },
+  {
+   "date": "2027-05-01",
+   "name": "Tag der Arbeit (regionaler Feiertag)",
+   "type": "Feiertag",
+   "regions": [
+    "Basel-Landschaft",
+    "Basel-Stadt",
+    "Jura",
+    "Neuenburg",
+    "Schaffhausen",
+    "Zürich",
+    "Thurgau",
+    "Tessin"
+   ]
+  },
+  {
+   "date": "2027-05-06",
+   "name": "Auffahrt (regionaler Feiertag)",
+   "type": "Feiertag",
+   "regions": [
+    "Zürich",
+    "Bern",
+    "Luzern",
+    "Uri",
+    "Schwyz",
+    "Obwalden",
+    "Nidwalden",
+    "Glarus",
+    "Zug",
+    "Freiburg",
+    "Solothurn",
+    "Basel-Stadt",
+    "Basel-Landschaft",
+    "Schaffhausen",
+    "Appenzell Ausserrhoden",
+    "Appenzell Innerrhoden",
+    "St. Gallen",
+    "Aargau",
+    "Graubünden",
+    "Thurgau",
+    "Tessin",
+    "Waadt",
+    "Wallis",
+    "Neuenburg",
+    "Genf",
+    "Jura"
+   ]
+  },
+  {
+   "date": "2027-05-09",
+   "name": "Muttertag",
+   "type": "Gedenktag"
+  },
+  {
+   "date": "2027-05-16",
+   "name": "Pfingstsonntag (regionaler Feiertag)",
+   "type": "Gedenktag",
+   "regions": [
+    "Zürich",
+    "Bern",
+    "Luzern",
+    "Uri",
+    "Schwyz",
+    "Obwalden",
+    "Nidwalden",
+    "Glarus",
+    "Zug",
+    "Freiburg",
+    "Solothurn",
+    "Basel-Stadt",
+    "Basel-Landschaft",
+    "Schaffhausen",
+    "Appenzell Ausserrhoden",
+    "Appenzell Innerrhoden",
+    "St. Gallen",
+    "Aargau",
+    "Graubünden",
+    "Thurgau",
+    "Tessin",
+    "Waadt",
+    "Wallis",
+    "Neuenburg",
+    "Genf",
+    "Jura"
+   ]
+  },
+  {
+   "date": "2027-05-17",
+   "name": "Pfingstmontag (regionaler Feiertag)",
+   "type": "Feiertag",
+   "regions": [
+    "Zürich",
+    "Bern",
+    "Uri",
+    "Schwyz",
+    "Glarus",
+    "Freiburg",
+    "Basel-Stadt",
+    "Basel-Landschaft",
+    "Schaffhausen",
+    "Appenzell Ausserrhoden",
+    "Appenzell Innerrhoden",
+    "St. Gallen",
+    "Aargau",
+    "Graubünden",
+    "Thurgau",
+    "Tessin",
+    "Waadt",
+    "Genf",
+    "Jura"
+   ]
+  },
+  {
+   "date": "2027-05-27",
+   "name": "Fronleichnam (regionaler Feiertag)",
+   "type": "Feiertag",
+   "regions": [
+    "Aargau",
+    "Appenzell Innerrhoden",
+    "Freiburg",
+    "Jura",
+    "Luzern",
+    "Nidwalden",
+    "Obwalden",
+    "Solothurn",
+    "Schwyz",
+    "Tessin",
+    "Uri",
+    "Wallis",
+    "Zug"
+   ]
+  },
+  {
+   "date": "2027-06-06",
+   "name": "Vatertag",
+   "type": "Gedenktag"
+  },
+  {
+   "date": "2027-08-01",
+   "name": "Schweizer Nationalfeiertag",
+   "type": "Gesetzlicher Feiertag"
+  },
+  {
+   "date": "2027-08-15",
+   "name": "Mariä Himmelfahrt (regionaler Feiertag)",
+   "type": "Feiertag",
+   "regions": [
+    "Aargau",
+    "Appenzell Innerrhoden",
+    "Freiburg",
+    "Jura",
+    "Luzern",
+    "Nidwalden",
+    "Obwalden",
+    "Solothurn",
+    "Schwyz",
+    "Tessin",
+    "Uri",
+    "Wallis",
+    "Zug"
+   ]
+  },
+  {
+   "date": "2027-09-11",
+   "name": "Knabenschiessen (Zürich)",
+   "type": "Gedenktag",
+   "regions": [
+    "Zürich"
+   ]
+  },
+  {
+   "date": "2027-09-12",
+   "name": "Knabenschiessen (Zürich)",
+   "type": "Gedenktag",
+   "regions": [
+    "Zürich"
+   ]
+  },
+  {
+   "date": "2027-09-13",
+   "name": "Knabenschiessen (Zürich)",
+   "type": "Gedenktag",
+   "regions": [
+    "Zürich"
+   ]
+  },
+  {
+   "date": "2027-09-19",
+   "name": "Eidgenössischer Dank-, Buss- und Bettag (regionaler Feiertag)",
+   "type": "Gedenktag",
+   "regions": [
+    "Zürich",
+    "Bern",
+    "Luzern",
+    "Uri",
+    "Schwyz",
+    "Obwalden",
+    "Nidwalden",
+    "Glarus",
+    "Zug",
+    "Freiburg",
+    "Solothurn",
+    "Basel-Stadt",
+    "Basel-Landschaft",
+    "Schaffhausen",
+    "Appenzell Ausserrhoden",
+    "Appenzell Innerrhoden",
+    "St. Gallen",
+    "Aargau",
+    "Graubünden",
+    "Thurgau",
+    "Tessin",
+    "Waadt",
+    "Wallis",
+    "Neuenburg",
+    "Jura"
+   ]
+  },
+  {
+   "date": "2027-10-31",
+   "name": "Ende der Sommerzeit",
+   "type": "Gedenktag"
+  },
+  {
+   "date": "2027-11-01",
+   "name": "Allerheiligen (regionaler Feiertag)",
+   "type": "Feiertag",
+   "regions": [
+    "Aargau",
+    "Appenzell Innerrhoden",
+    "Freiburg",
+    "Glarus",
+    "Jura",
+    "Luzern",
+    "Nidwalden",
+    "Obwalden",
+    "St. Gallen",
+    "Schwyz",
+    "Tessin",
+    "Uri",
+    "Wallis",
+    "Zug"
+   ]
+  },
+  {
+   "date": "2027-12-08",
+   "name": "Mariä Empfängnis (regionaler Feiertag)",
+   "type": "Feiertag",
+   "regions": [
+    "Appenzell Innerrhoden",
+    "Luzern",
+    "Nidwalden",
+    "Obwalden",
+    "Schwyz",
+    "Tessin",
+    "Uri",
+    "Wallis",
+    "Zug"
+   ]
+  },
+  {
+   "date": "2027-12-24",
+   "name": "Heiligabend",
+   "type": "Gedenktag"
+  },
+  {
+   "date": "2027-12-25",
+   "name": "Weihnachten (regionaler Feiertag)",
+   "type": "Feiertag",
+   "regions": [
+    "Zürich",
+    "Bern",
+    "Luzern",
+    "Uri",
+    "Schwyz",
+    "Obwalden",
+    "Nidwalden",
+    "Glarus",
+    "Zug",
+    "Freiburg",
+    "Solothurn",
+    "Basel-Stadt",
+    "Basel-Landschaft",
+    "Schaffhausen",
+    "Appenzell Ausserrhoden",
+    "Appenzell Innerrhoden",
+    "St. Gallen",
+    "Aargau",
+    "Graubünden",
+    "Thurgau",
+    "Tessin",
+    "Waadt",
+    "Wallis",
+    "Neuenburg",
+    "Genf",
+    "Jura"
+   ]
+  },
+  {
+   "date": "2027-12-26",
+   "name": "Stephanstag (regionaler Feiertag)",
+   "type": "Feiertag",
+   "regions": [
+    "Zürich",
+    "Bern",
+    "Luzern",
+    "Uri",
+    "Schwyz",
+    "Glarus",
+    "Basel-Stadt",
+    "Basel-Landschaft",
+    "Schaffhausen",
+    "Appenzell Ausserrhoden",
+    "Appenzell Innerrhoden",
+    "St. Gallen",
+    "Graubünden",
+    "Thurgau",
+    "Tessin"
+   ]
+  },
+  {
+   "date": "2027-12-31",
+   "name": "Silvester",
+   "type": "Gedenktag"
+  },
+  {
+   "date": "2028-01-01",
+   "name": "Neujahr (regionaler Feiertag)",
+   "type": "Feiertag",
+   "regions": [
+    "Zürich",
+    "Bern",
+    "Luzern",
+    "Uri",
+    "Schwyz",
+    "Obwalden",
+    "Nidwalden",
+    "Glarus",
+    "Zug",
+    "Freiburg",
+    "Solothurn",
+    "Basel-Stadt",
+    "Basel-Landschaft",
+    "Schaffhausen",
+    "Appenzell Ausserrhoden",
+    "Appenzell Innerrhoden",
+    "St. Gallen",
+    "Aargau",
+    "Graubünden",
+    "Thurgau",
+    "Tessin",
+    "Waadt",
+    "Wallis",
+    "Neuenburg",
+    "Genf",
+    "Jura"
+   ]
+  },
+  {
+   "date": "2028-01-02",
+   "name": "Berchtoldstag (regionaler Feiertag)",
+   "type": "Feiertag",
+   "regions": [
+    "Aargau",
+    "Bern",
+    "Freiburg",
+    "Jura",
+    "Thurgau",
+    "Waadt"
+   ]
+  },
+  {
+   "date": "2028-01-06",
+   "name": "Dreikönigsfest (regionaler Feiertag)",
+   "type": "Feiertag",
+   "regions": [
+    "Schwyz",
+    "Tessin",
+    "Uri"
+   ]
+  },
+  {
+   "date": "2028-02-14",
+   "name": "Valentinstag",
+   "type": "Gedenktag"
+  },
+  {
+   "date": "2028-03-19",
+   "name": "Josefstag (regionaler Feiertag)",
+   "type": "Feiertag",
+   "regions": [
+    "Luzern",
+    "Nidwalden",
+    "Solothurn",
+    "Schwyz",
+    "Tessin",
+    "Uri",
+    "Wallis"
+   ]
+  },
+  {
+   "date": "2028-03-26",
+   "name": "Beginn der Sommerzeit",
+   "type": "Gedenktag"
+  },
+  {
+   "date": "2028-04-14",
+   "name": "Karfreitag (regionaler Feiertag)",
+   "type": "Feiertag",
+   "regions": [
+    "Zürich",
+    "Bern",
+    "Luzern",
+    "Uri",
+    "Schwyz",
+    "Obwalden",
+    "Nidwalden",
+    "Glarus",
+    "Zug",
+    "Freiburg",
+    "Solothurn",
+    "Basel-Stadt",
+    "Basel-Landschaft",
+    "Schaffhausen",
+    "Appenzell Ausserrhoden",
+    "Appenzell Innerrhoden",
+    "St. Gallen",
+    "Aargau",
+    "Graubünden",
+    "Thurgau",
+    "Waadt",
+    "Neuenburg",
+    "Genf",
+    "Jura"
+   ]
+  },
+  {
+   "date": "2028-04-16",
+   "name": "Ostersonntag",
+   "type": "Gedenktag"
+  },
+  {
+   "date": "2028-04-17",
+   "name": "Ostermontag (regionaler Feiertag)",
+   "type": "Feiertag",
+   "regions": [
+    "Zürich",
+    "Bern",
+    "Uri",
+    "Schwyz",
+    "Glarus",
+    "Freiburg",
+    "Basel-Stadt",
+    "Basel-Landschaft",
+    "Schaffhausen",
+    "Appenzell Ausserrhoden",
+    "Appenzell Innerrhoden",
+    "St. Gallen",
+    "Aargau",
+    "Graubünden",
+    "Thurgau",
+    "Tessin",
+    "Waadt",
+    "Genf",
+    "Jura"
+   ]
+  },
+  {
+   "date": "2028-05-01",
+   "name": "Tag der Arbeit (regionaler Feiertag)",
+   "type": "Feiertag",
+   "regions": [
+    "Basel-Landschaft",
+    "Basel-Stadt",
+    "Jura",
+    "Neuenburg",
+    "Schaffhausen",
+    "Zürich",
+    "Thurgau",
+    "Tessin"
+   ]
+  },
+  {
+   "date": "2028-05-14",
+   "name": "Muttertag",
+   "type": "Gedenktag"
+  },
+  {
+   "date": "2028-05-25",
+   "name": "Auffahrt (regionaler Feiertag)",
+   "type": "Feiertag",
+   "regions": [
+    "Zürich",
+    "Bern",
+    "Luzern",
+    "Uri",
+    "Schwyz",
+    "Obwalden",
+    "Nidwalden",
+    "Glarus",
+    "Zug",
+    "Freiburg",
+    "Solothurn",
+    "Basel-Stadt",
+    "Basel-Landschaft",
+    "Schaffhausen",
+    "Appenzell Ausserrhoden",
+    "Appenzell Innerrhoden",
+    "St. Gallen",
+    "Aargau",
+    "Graubünden",
+    "Thurgau",
+    "Tessin",
+    "Waadt",
+    "Wallis",
+    "Neuenburg",
+    "Genf",
+    "Jura"
+   ]
+  },
+  {
+   "date": "2028-06-04",
+   "name": "Pfingstsonntag (regionaler Feiertag)",
+   "type": "Gedenktag",
+   "regions": [
+    "Zürich",
+    "Bern",
+    "Luzern",
+    "Uri",
+    "Schwyz",
+    "Obwalden",
+    "Nidwalden",
+    "Glarus",
+    "Zug",
+    "Freiburg",
+    "Solothurn",
+    "Basel-Stadt",
+    "Basel-Landschaft",
+    "Schaffhausen",
+    "Appenzell Ausserrhoden",
+    "Appenzell Innerrhoden",
+    "St. Gallen",
+    "Aargau",
+    "Graubünden",
+    "Thurgau",
+    "Tessin",
+    "Waadt",
+    "Wallis",
+    "Neuenburg",
+    "Genf",
+    "Jura"
+   ]
+  },
+  {
+   "date": "2028-06-04",
+   "name": "Vatertag",
+   "type": "Gedenktag"
+  },
+  {
+   "date": "2028-06-05",
+   "name": "Pfingstmontag (regionaler Feiertag)",
+   "type": "Feiertag",
+   "regions": [
+    "Zürich",
+    "Bern",
+    "Uri",
+    "Schwyz",
+    "Glarus",
+    "Freiburg",
+    "Basel-Stadt",
+    "Basel-Landschaft",
+    "Schaffhausen",
+    "Appenzell Ausserrhoden",
+    "Appenzell Innerrhoden",
+    "St. Gallen",
+    "Aargau",
+    "Graubünden",
+    "Thurgau",
+    "Tessin",
+    "Waadt",
+    "Genf",
+    "Jura"
+   ]
+  },
+  {
+   "date": "2028-06-15",
+   "name": "Fronleichnam (regionaler Feiertag)",
+   "type": "Feiertag",
+   "regions": [
+    "Aargau",
+    "Appenzell Innerrhoden",
+    "Freiburg",
+    "Jura",
+    "Luzern",
+    "Nidwalden",
+    "Obwalden",
+    "Solothurn",
+    "Schwyz",
+    "Tessin",
+    "Uri",
+    "Wallis",
+    "Zug"
+   ]
+  },
+  {
+   "date": "2028-08-01",
+   "name": "Schweizer Nationalfeiertag",
+   "type": "Gesetzlicher Feiertag"
+  },
+  {
+   "date": "2028-08-15",
+   "name": "Mariä Himmelfahrt (regionaler Feiertag)",
+   "type": "Feiertag",
+   "regions": [
+    "Aargau",
+    "Appenzell Innerrhoden",
+    "Freiburg",
+    "Jura",
+    "Luzern",
+    "Nidwalden",
+    "Obwalden",
+    "Solothurn",
+    "Schwyz",
+    "Tessin",
+    "Uri",
+    "Wallis",
+    "Zug"
+   ]
+  },
+  {
+   "date": "2028-09-09",
+   "name": "Knabenschiessen (Zürich)",
+   "type": "Gedenktag",
+   "regions": [
+    "Zürich"
+   ]
+  },
+  {
+   "date": "2028-09-10",
+   "name": "Knabenschiessen (Zürich)",
+   "type": "Gedenktag",
+   "regions": [
+    "Zürich"
+   ]
+  },
+  {
+   "date": "2028-09-11",
+   "name": "Knabenschiessen (Zürich)",
+   "type": "Gedenktag",
+   "regions": [
+    "Zürich"
+   ]
+  },
+  {
+   "date": "2028-09-17",
+   "name": "Eidgenössischer Dank-, Buss- und Bettag (regionaler Feiertag)",
+   "type": "Gedenktag",
+   "regions": [
+    "Zürich",
+    "Bern",
+    "Luzern",
+    "Uri",
+    "Schwyz",
+    "Obwalden",
+    "Nidwalden",
+    "Glarus",
+    "Zug",
+    "Freiburg",
+    "Solothurn",
+    "Basel-Stadt",
+    "Basel-Landschaft",
+    "Schaffhausen",
+    "Appenzell Ausserrhoden",
+    "Appenzell Innerrhoden",
+    "St. Gallen",
+    "Aargau",
+    "Graubünden",
+    "Thurgau",
+    "Tessin",
+    "Waadt",
+    "Wallis",
+    "Neuenburg",
+    "Jura"
+   ]
+  },
+  {
+   "date": "2028-10-29",
+   "name": "Ende der Sommerzeit",
+   "type": "Gedenktag"
+  },
+  {
+   "date": "2028-11-01",
+   "name": "Allerheiligen (regionaler Feiertag)",
+   "type": "Feiertag",
+   "regions": [
+    "Aargau",
+    "Appenzell Innerrhoden",
+    "Freiburg",
+    "Glarus",
+    "Jura",
+    "Luzern",
+    "Nidwalden",
+    "Obwalden",
+    "St. Gallen",
+    "Schwyz",
+    "Tessin",
+    "Uri",
+    "Wallis",
+    "Zug"
+   ]
+  },
+  {
+   "date": "2028-12-08",
+   "name": "Mariä Empfängnis (regionaler Feiertag)",
+   "type": "Feiertag",
+   "regions": [
+    "Appenzell Innerrhoden",
+    "Luzern",
+    "Nidwalden",
+    "Obwalden",
+    "Schwyz",
+    "Tessin",
+    "Uri",
+    "Wallis",
+    "Zug"
+   ]
+  },
+  {
+   "date": "2028-12-24",
+   "name": "Heiligabend",
+   "type": "Gedenktag"
+  },
+  {
+   "date": "2028-12-25",
+   "name": "Weihnachten (regionaler Feiertag)",
+   "type": "Feiertag",
+   "regions": [
+    "Zürich",
+    "Bern",
+    "Luzern",
+    "Uri",
+    "Schwyz",
+    "Obwalden",
+    "Nidwalden",
+    "Glarus",
+    "Zug",
+    "Freiburg",
+    "Solothurn",
+    "Basel-Stadt",
+    "Basel-Landschaft",
+    "Schaffhausen",
+    "Appenzell Ausserrhoden",
+    "Appenzell Innerrhoden",
+    "St. Gallen",
+    "Aargau",
+    "Graubünden",
+    "Thurgau",
+    "Tessin",
+    "Waadt",
+    "Wallis",
+    "Neuenburg",
+    "Genf",
+    "Jura"
+   ]
+  },
+  {
+   "date": "2028-12-26",
+   "name": "Stephanstag (regionaler Feiertag)",
+   "type": "Feiertag",
+   "regions": [
+    "Zürich",
+    "Bern",
+    "Luzern",
+    "Uri",
+    "Schwyz",
+    "Glarus",
+    "Basel-Stadt",
+    "Basel-Landschaft",
+    "Schaffhausen",
+    "Appenzell Ausserrhoden",
+    "Appenzell Innerrhoden",
+    "St. Gallen",
+    "Graubünden",
+    "Thurgau",
+    "Tessin"
+   ]
+  },
+  {
+   "date": "2028-12-31",
+   "name": "Silvester",
+   "type": "Gedenktag"
+  },
+  {
+   "date": "2029-01-01",
+   "name": "Neujahr (regionaler Feiertag)",
+   "type": "Feiertag",
+   "regions": [
+    "Zürich",
+    "Bern",
+    "Luzern",
+    "Uri",
+    "Schwyz",
+    "Obwalden",
+    "Nidwalden",
+    "Glarus",
+    "Zug",
+    "Freiburg",
+    "Solothurn",
+    "Basel-Stadt",
+    "Basel-Landschaft",
+    "Schaffhausen",
+    "Appenzell Ausserrhoden",
+    "Appenzell Innerrhoden",
+    "St. Gallen",
+    "Aargau",
+    "Graubünden",
+    "Thurgau",
+    "Tessin",
+    "Waadt",
+    "Wallis",
+    "Neuenburg",
+    "Genf",
+    "Jura"
+   ]
+  },
+  {
+   "date": "2029-01-02",
+   "name": "Berchtoldstag (regionaler Feiertag)",
+   "type": "Feiertag",
+   "regions": [
+    "Aargau",
+    "Bern",
+    "Freiburg",
+    "Jura",
+    "Thurgau",
+    "Waadt"
+   ]
+  },
+  {
+   "date": "2029-01-06",
+   "name": "Dreikönigsfest (regionaler Feiertag)",
+   "type": "Feiertag",
+   "regions": [
+    "Schwyz",
+    "Tessin",
+    "Uri"
+   ]
+  },
+  {
+   "date": "2029-02-14",
+   "name": "Valentinstag",
+   "type": "Gedenktag"
+  },
+  {
+   "date": "2029-03-19",
+   "name": "Josefstag (regionaler Feiertag)",
+   "type": "Feiertag",
+   "regions": [
+    "Luzern",
+    "Nidwalden",
+    "Solothurn",
+    "Schwyz",
+    "Tessin",
+    "Uri",
+    "Wallis"
+   ]
+  },
+  {
+   "date": "2029-03-25",
+   "name": "Beginn der Sommerzeit",
+   "type": "Gedenktag"
+  },
+  {
+   "date": "2029-03-30",
+   "name": "Karfreitag (regionaler Feiertag)",
+   "type": "Feiertag",
+   "regions": [
+    "Zürich",
+    "Bern",
+    "Luzern",
+    "Uri",
+    "Schwyz",
+    "Obwalden",
+    "Nidwalden",
+    "Glarus",
+    "Zug",
+    "Freiburg",
+    "Solothurn",
+    "Basel-Stadt",
+    "Basel-Landschaft",
+    "Schaffhausen",
+    "Appenzell Ausserrhoden",
+    "Appenzell Innerrhoden",
+    "St. Gallen",
+    "Aargau",
+    "Graubünden",
+    "Thurgau",
+    "Waadt",
+    "Neuenburg",
+    "Genf",
+    "Jura"
+   ]
+  },
+  {
+   "date": "2029-04-01",
+   "name": "Ostersonntag",
+   "type": "Gedenktag"
+  },
+  {
+   "date": "2029-04-02",
+   "name": "Ostermontag (regionaler Feiertag)",
+   "type": "Feiertag",
+   "regions": [
+    "Zürich",
+    "Bern",
+    "Uri",
+    "Schwyz",
+    "Glarus",
+    "Freiburg",
+    "Basel-Stadt",
+    "Basel-Landschaft",
+    "Schaffhausen",
+    "Appenzell Ausserrhoden",
+    "Appenzell Innerrhoden",
+    "St. Gallen",
+    "Aargau",
+    "Graubünden",
+    "Thurgau",
+    "Tessin",
+    "Waadt",
+    "Genf",
+    "Jura"
+   ]
+  },
+  {
+   "date": "2029-05-01",
+   "name": "Tag der Arbeit (regionaler Feiertag)",
+   "type": "Feiertag",
+   "regions": [
+    "Basel-Landschaft",
+    "Basel-Stadt",
+    "Jura",
+    "Neuenburg",
+    "Schaffhausen",
+    "Zürich",
+    "Thurgau",
+    "Tessin"
+   ]
+  },
+  {
+   "date": "2029-05-10",
+   "name": "Auffahrt (regionaler Feiertag)",
+   "type": "Feiertag",
+   "regions": [
+    "Zürich",
+    "Bern",
+    "Luzern",
+    "Uri",
+    "Schwyz",
+    "Obwalden",
+    "Nidwalden",
+    "Glarus",
+    "Zug",
+    "Freiburg",
+    "Solothurn",
+    "Basel-Stadt",
+    "Basel-Landschaft",
+    "Schaffhausen",
+    "Appenzell Ausserrhoden",
+    "Appenzell Innerrhoden",
+    "St. Gallen",
+    "Aargau",
+    "Graubünden",
+    "Thurgau",
+    "Tessin",
+    "Waadt",
+    "Wallis",
+    "Neuenburg",
+    "Genf",
+    "Jura"
+   ]
+  },
+  {
+   "date": "2029-05-13",
+   "name": "Muttertag",
+   "type": "Gedenktag"
+  },
+  {
+   "date": "2029-05-20",
+   "name": "Pfingstsonntag (regionaler Feiertag)",
+   "type": "Gedenktag",
+   "regions": [
+    "Zürich",
+    "Bern",
+    "Luzern",
+    "Uri",
+    "Schwyz",
+    "Obwalden",
+    "Nidwalden",
+    "Glarus",
+    "Zug",
+    "Freiburg",
+    "Solothurn",
+    "Basel-Stadt",
+    "Basel-Landschaft",
+    "Schaffhausen",
+    "Appenzell Ausserrhoden",
+    "Appenzell Innerrhoden",
+    "St. Gallen",
+    "Aargau",
+    "Graubünden",
+    "Thurgau",
+    "Tessin",
+    "Waadt",
+    "Wallis",
+    "Neuenburg",
+    "Genf",
+    "Jura"
+   ]
+  },
+  {
+   "date": "2029-05-21",
+   "name": "Pfingstmontag (regionaler Feiertag)",
+   "type": "Feiertag",
+   "regions": [
+    "Zürich",
+    "Bern",
+    "Uri",
+    "Schwyz",
+    "Glarus",
+    "Freiburg",
+    "Basel-Stadt",
+    "Basel-Landschaft",
+    "Schaffhausen",
+    "Appenzell Ausserrhoden",
+    "Appenzell Innerrhoden",
+    "St. Gallen",
+    "Aargau",
+    "Graubünden",
+    "Thurgau",
+    "Tessin",
+    "Waadt",
+    "Genf",
+    "Jura"
+   ]
+  },
+  {
+   "date": "2029-05-31",
+   "name": "Fronleichnam (regionaler Feiertag)",
+   "type": "Feiertag",
+   "regions": [
+    "Aargau",
+    "Appenzell Innerrhoden",
+    "Freiburg",
+    "Jura",
+    "Luzern",
+    "Nidwalden",
+    "Obwalden",
+    "Solothurn",
+    "Schwyz",
+    "Tessin",
+    "Uri",
+    "Wallis",
+    "Zug"
+   ]
+  },
+  {
+   "date": "2029-06-03",
+   "name": "Vatertag",
+   "type": "Gedenktag"
+  },
+  {
+   "date": "2029-08-01",
+   "name": "Schweizer Nationalfeiertag",
+   "type": "Gesetzlicher Feiertag"
+  },
+  {
+   "date": "2029-08-15",
+   "name": "Mariä Himmelfahrt (regionaler Feiertag)",
+   "type": "Feiertag",
+   "regions": [
+    "Aargau",
+    "Appenzell Innerrhoden",
+    "Freiburg",
+    "Jura",
+    "Luzern",
+    "Nidwalden",
+    "Obwalden",
+    "Solothurn",
+    "Schwyz",
+    "Tessin",
+    "Uri",
+    "Wallis",
+    "Zug"
+   ]
+  },
+  {
+   "date": "2029-09-08",
+   "name": "Knabenschiessen (Zürich)",
+   "type": "Gedenktag",
+   "regions": [
+    "Zürich"
+   ]
+  },
+  {
+   "date": "2029-09-09",
+   "name": "Knabenschiessen (Zürich)",
+   "type": "Gedenktag",
+   "regions": [
+    "Zürich"
+   ]
+  },
+  {
+   "date": "2029-09-10",
+   "name": "Knabenschiessen (Zürich)",
+   "type": "Gedenktag",
+   "regions": [
+    "Zürich"
+   ]
+  },
+  {
+   "date": "2029-09-16",
+   "name": "Eidgenössischer Dank-, Buss- und Bettag (regionaler Feiertag)",
+   "type": "Gedenktag",
+   "regions": [
+    "Zürich",
+    "Bern",
+    "Luzern",
+    "Uri",
+    "Schwyz",
+    "Obwalden",
+    "Nidwalden",
+    "Glarus",
+    "Zug",
+    "Freiburg",
+    "Solothurn",
+    "Basel-Stadt",
+    "Basel-Landschaft",
+    "Schaffhausen",
+    "Appenzell Ausserrhoden",
+    "Appenzell Innerrhoden",
+    "St. Gallen",
+    "Aargau",
+    "Graubünden",
+    "Thurgau",
+    "Tessin",
+    "Waadt",
+    "Wallis",
+    "Neuenburg",
+    "Jura"
+   ]
+  },
+  {
+   "date": "2029-10-28",
+   "name": "Ende der Sommerzeit",
+   "type": "Gedenktag"
+  },
+  {
+   "date": "2029-11-01",
+   "name": "Allerheiligen (regionaler Feiertag)",
+   "type": "Feiertag",
+   "regions": [
+    "Aargau",
+    "Appenzell Innerrhoden",
+    "Freiburg",
+    "Glarus",
+    "Jura",
+    "Luzern",
+    "Nidwalden",
+    "Obwalden",
+    "St. Gallen",
+    "Schwyz",
+    "Tessin",
+    "Uri",
+    "Wallis",
+    "Zug"
+   ]
+  },
+  {
+   "date": "2029-12-08",
+   "name": "Mariä Empfängnis (regionaler Feiertag)",
+   "type": "Feiertag",
+   "regions": [
+    "Appenzell Innerrhoden",
+    "Luzern",
+    "Nidwalden",
+    "Obwalden",
+    "Schwyz",
+    "Tessin",
+    "Uri",
+    "Wallis",
+    "Zug"
+   ]
+  },
+  {
+   "date": "2029-12-24",
+   "name": "Heiligabend",
+   "type": "Gedenktag"
+  },
+  {
+   "date": "2029-12-25",
+   "name": "Weihnachten (regionaler Feiertag)",
+   "type": "Feiertag",
+   "regions": [
+    "Zürich",
+    "Bern",
+    "Luzern",
+    "Uri",
+    "Schwyz",
+    "Obwalden",
+    "Nidwalden",
+    "Glarus",
+    "Zug",
+    "Freiburg",
+    "Solothurn",
+    "Basel-Stadt",
+    "Basel-Landschaft",
+    "Schaffhausen",
+    "Appenzell Ausserrhoden",
+    "Appenzell Innerrhoden",
+    "St. Gallen",
+    "Aargau",
+    "Graubünden",
+    "Thurgau",
+    "Tessin",
+    "Waadt",
+    "Wallis",
+    "Neuenburg",
+    "Genf",
+    "Jura"
+   ]
+  },
+  {
+   "date": "2029-12-26",
+   "name": "Stephanstag (regionaler Feiertag)",
+   "type": "Feiertag",
+   "regions": [
+    "Zürich",
+    "Bern",
+    "Luzern",
+    "Uri",
+    "Schwyz",
+    "Glarus",
+    "Basel-Stadt",
+    "Basel-Landschaft",
+    "Schaffhausen",
+    "Appenzell Ausserrhoden",
+    "Appenzell Innerrhoden",
+    "St. Gallen",
+    "Graubünden",
+    "Thurgau",
+    "Tessin"
+   ]
+  },
+  {
+   "date": "2029-12-31",
+   "name": "Silvester",
+   "type": "Gedenktag"
+  },
+  {
+   "date": "2030-01-01",
+   "name": "Neujahr (regionaler Feiertag)",
+   "type": "Feiertag",
+   "regions": [
+    "Zürich",
+    "Bern",
+    "Luzern",
+    "Uri",
+    "Schwyz",
+    "Obwalden",
+    "Nidwalden",
+    "Glarus",
+    "Zug",
+    "Freiburg",
+    "Solothurn",
+    "Basel-Stadt",
+    "Basel-Landschaft",
+    "Schaffhausen",
+    "Appenzell Ausserrhoden",
+    "Appenzell Innerrhoden",
+    "St. Gallen",
+    "Aargau",
+    "Graubünden",
+    "Thurgau",
+    "Tessin",
+    "Waadt",
+    "Wallis",
+    "Neuenburg",
+    "Genf",
+    "Jura"
+   ]
+  },
+  {
+   "date": "2030-01-02",
+   "name": "Berchtoldstag (regionaler Feiertag)",
+   "type": "Feiertag",
+   "regions": [
+    "Aargau",
+    "Bern",
+    "Freiburg",
+    "Jura",
+    "Thurgau",
+    "Waadt"
+   ]
+  },
+  {
+   "date": "2030-01-06",
+   "name": "Dreikönigsfest (regionaler Feiertag)",
+   "type": "Feiertag",
+   "regions": [
+    "Schwyz",
+    "Tessin",
+    "Uri"
+   ]
+  },
+  {
+   "date": "2030-02-14",
+   "name": "Valentinstag",
+   "type": "Gedenktag"
+  },
+  {
+   "date": "2030-03-19",
+   "name": "Josefstag (regionaler Feiertag)",
+   "type": "Feiertag",
+   "regions": [
+    "Luzern",
+    "Nidwalden",
+    "Solothurn",
+    "Schwyz",
+    "Tessin",
+    "Uri",
+    "Wallis"
+   ]
+  },
+  {
+   "date": "2030-03-31",
+   "name": "Beginn der Sommerzeit",
+   "type": "Gedenktag"
+  },
+  {
+   "date": "2030-04-19",
+   "name": "Karfreitag (regionaler Feiertag)",
+   "type": "Feiertag",
+   "regions": [
+    "Zürich",
+    "Bern",
+    "Luzern",
+    "Uri",
+    "Schwyz",
+    "Obwalden",
+    "Nidwalden",
+    "Glarus",
+    "Zug",
+    "Freiburg",
+    "Solothurn",
+    "Basel-Stadt",
+    "Basel-Landschaft",
+    "Schaffhausen",
+    "Appenzell Ausserrhoden",
+    "Appenzell Innerrhoden",
+    "St. Gallen",
+    "Aargau",
+    "Graubünden",
+    "Thurgau",
+    "Waadt",
+    "Neuenburg",
+    "Genf",
+    "Jura"
+   ]
+  },
+  {
+   "date": "2030-04-21",
+   "name": "Ostersonntag",
+   "type": "Gedenktag"
+  },
+  {
+   "date": "2030-04-22",
+   "name": "Ostermontag (regionaler Feiertag)",
+   "type": "Feiertag",
+   "regions": [
+    "Zürich",
+    "Bern",
+    "Uri",
+    "Schwyz",
+    "Glarus",
+    "Freiburg",
+    "Basel-Stadt",
+    "Basel-Landschaft",
+    "Schaffhausen",
+    "Appenzell Ausserrhoden",
+    "Appenzell Innerrhoden",
+    "St. Gallen",
+    "Aargau",
+    "Graubünden",
+    "Thurgau",
+    "Tessin",
+    "Waadt",
+    "Genf",
+    "Jura"
+   ]
+  },
+  {
+   "date": "2030-05-01",
+   "name": "Tag der Arbeit (regionaler Feiertag)",
+   "type": "Feiertag",
+   "regions": [
+    "Basel-Landschaft",
+    "Basel-Stadt",
+    "Jura",
+    "Neuenburg",
+    "Schaffhausen",
+    "Zürich",
+    "Thurgau",
+    "Tessin"
+   ]
+  },
+  {
+   "date": "2030-05-12",
+   "name": "Muttertag",
+   "type": "Gedenktag"
+  },
+  {
+   "date": "2030-05-30",
+   "name": "Auffahrt (regionaler Feiertag)",
+   "type": "Feiertag",
+   "regions": [
+    "Zürich",
+    "Bern",
+    "Luzern",
+    "Uri",
+    "Schwyz",
+    "Obwalden",
+    "Nidwalden",
+    "Glarus",
+    "Zug",
+    "Freiburg",
+    "Solothurn",
+    "Basel-Stadt",
+    "Basel-Landschaft",
+    "Schaffhausen",
+    "Appenzell Ausserrhoden",
+    "Appenzell Innerrhoden",
+    "St. Gallen",
+    "Aargau",
+    "Graubünden",
+    "Thurgau",
+    "Tessin",
+    "Waadt",
+    "Wallis",
+    "Neuenburg",
+    "Genf",
+    "Jura"
+   ]
+  },
+  {
+   "date": "2030-06-02",
+   "name": "Vatertag",
+   "type": "Gedenktag"
+  },
+  {
+   "date": "2030-06-09",
+   "name": "Pfingstsonntag (regionaler Feiertag)",
+   "type": "Gedenktag",
+   "regions": [
+    "Zürich",
+    "Bern",
+    "Luzern",
+    "Uri",
+    "Schwyz",
+    "Obwalden",
+    "Nidwalden",
+    "Glarus",
+    "Zug",
+    "Freiburg",
+    "Solothurn",
+    "Basel-Stadt",
+    "Basel-Landschaft",
+    "Schaffhausen",
+    "Appenzell Ausserrhoden",
+    "Appenzell Innerrhoden",
+    "St. Gallen",
+    "Aargau",
+    "Graubünden",
+    "Thurgau",
+    "Tessin",
+    "Waadt",
+    "Wallis",
+    "Neuenburg",
+    "Genf",
+    "Jura"
+   ]
+  },
+  {
+   "date": "2030-06-10",
+   "name": "Pfingstmontag (regionaler Feiertag)",
+   "type": "Feiertag",
+   "regions": [
+    "Zürich",
+    "Bern",
+    "Uri",
+    "Schwyz",
+    "Glarus",
+    "Freiburg",
+    "Basel-Stadt",
+    "Basel-Landschaft",
+    "Schaffhausen",
+    "Appenzell Ausserrhoden",
+    "Appenzell Innerrhoden",
+    "St. Gallen",
+    "Aargau",
+    "Graubünden",
+    "Thurgau",
+    "Tessin",
+    "Waadt",
+    "Genf",
+    "Jura"
+   ]
+  },
+  {
+   "date": "2030-06-20",
+   "name": "Fronleichnam (regionaler Feiertag)",
+   "type": "Feiertag",
+   "regions": [
+    "Aargau",
+    "Appenzell Innerrhoden",
+    "Freiburg",
+    "Jura",
+    "Luzern",
+    "Nidwalden",
+    "Obwalden",
+    "Solothurn",
+    "Schwyz",
+    "Tessin",
+    "Uri",
+    "Wallis",
+    "Zug"
+   ]
+  },
+  {
+   "date": "2030-08-01",
+   "name": "Schweizer Nationalfeiertag",
+   "type": "Gesetzlicher Feiertag"
+  },
+  {
+   "date": "2030-08-15",
+   "name": "Mariä Himmelfahrt (regionaler Feiertag)",
+   "type": "Feiertag",
+   "regions": [
+    "Aargau",
+    "Appenzell Innerrhoden",
+    "Freiburg",
+    "Jura",
+    "Luzern",
+    "Nidwalden",
+    "Obwalden",
+    "Solothurn",
+    "Schwyz",
+    "Tessin",
+    "Uri",
+    "Wallis",
+    "Zug"
+   ]
+  },
+  {
+   "date": "2030-09-07",
+   "name": "Knabenschiessen (Zürich)",
+   "type": "Gedenktag",
+   "regions": [
+    "Zürich"
+   ]
+  },
+  {
+   "date": "2030-09-08",
+   "name": "Knabenschiessen (Zürich)",
+   "type": "Gedenktag",
+   "regions": [
+    "Zürich"
+   ]
+  },
+  {
+   "date": "2030-09-09",
+   "name": "Knabenschiessen (Zürich)",
+   "type": "Gedenktag",
+   "regions": [
+    "Zürich"
+   ]
+  },
+  {
+   "date": "2030-09-15",
+   "name": "Eidgenössischer Dank-, Buss- und Bettag (regionaler Feiertag)",
+   "type": "Gedenktag",
+   "regions": [
+    "Zürich",
+    "Bern",
+    "Luzern",
+    "Uri",
+    "Schwyz",
+    "Obwalden",
+    "Nidwalden",
+    "Glarus",
+    "Zug",
+    "Freiburg",
+    "Solothurn",
+    "Basel-Stadt",
+    "Basel-Landschaft",
+    "Schaffhausen",
+    "Appenzell Ausserrhoden",
+    "Appenzell Innerrhoden",
+    "St. Gallen",
+    "Aargau",
+    "Graubünden",
+    "Thurgau",
+    "Tessin",
+    "Waadt",
+    "Wallis",
+    "Neuenburg",
+    "Jura"
+   ]
+  },
+  {
+   "date": "2030-10-27",
+   "name": "Ende der Sommerzeit",
+   "type": "Gedenktag"
+  },
+  {
+   "date": "2030-11-01",
+   "name": "Allerheiligen (regionaler Feiertag)",
+   "type": "Feiertag",
+   "regions": [
+    "Aargau",
+    "Appenzell Innerrhoden",
+    "Freiburg",
+    "Glarus",
+    "Jura",
+    "Luzern",
+    "Nidwalden",
+    "Obwalden",
+    "St. Gallen",
+    "Schwyz",
+    "Tessin",
+    "Uri",
+    "Wallis",
+    "Zug"
+   ]
+  },
+  {
+   "date": "2030-12-08",
+   "name": "Mariä Empfängnis (regionaler Feiertag)",
+   "type": "Feiertag",
+   "regions": [
+    "Appenzell Innerrhoden",
+    "Luzern",
+    "Nidwalden",
+    "Obwalden",
+    "Schwyz",
+    "Tessin",
+    "Uri",
+    "Wallis",
+    "Zug"
+   ]
+  },
+  {
+   "date": "2030-12-24",
+   "name": "Heiligabend",
+   "type": "Gedenktag"
+  },
+  {
+   "date": "2030-12-25",
+   "name": "Weihnachten (regionaler Feiertag)",
+   "type": "Feiertag",
+   "regions": [
+    "Zürich",
+    "Bern",
+    "Luzern",
+    "Uri",
+    "Schwyz",
+    "Obwalden",
+    "Nidwalden",
+    "Glarus",
+    "Zug",
+    "Freiburg",
+    "Solothurn",
+    "Basel-Stadt",
+    "Basel-Landschaft",
+    "Schaffhausen",
+    "Appenzell Ausserrhoden",
+    "Appenzell Innerrhoden",
+    "St. Gallen",
+    "Aargau",
+    "Graubünden",
+    "Thurgau",
+    "Tessin",
+    "Waadt",
+    "Wallis",
+    "Neuenburg",
+    "Genf",
+    "Jura"
+   ]
+  },
+  {
+   "date": "2030-12-26",
+   "name": "Stephanstag (regionaler Feiertag)",
+   "type": "Feiertag",
+   "regions": [
+    "Zürich",
+    "Bern",
+    "Luzern",
+    "Uri",
+    "Schwyz",
+    "Glarus",
+    "Basel-Stadt",
+    "Basel-Landschaft",
+    "Schaffhausen",
+    "Appenzell Ausserrhoden",
+    "Appenzell Innerrhoden",
+    "St. Gallen",
+    "Graubünden",
+    "Thurgau",
+    "Tessin"
+   ]
+  },
+  {
+   "date": "2030-12-31",
+   "name": "Silvester",
+   "type": "Gedenktag"
+  },
+  {
+   "date": "2031-01-01",
+   "name": "Neujahr (regionaler Feiertag)",
+   "type": "Feiertag",
+   "regions": [
+    "Zürich",
+    "Bern",
+    "Luzern",
+    "Uri",
+    "Schwyz",
+    "Obwalden",
+    "Nidwalden",
+    "Glarus",
+    "Zug",
+    "Freiburg",
+    "Solothurn",
+    "Basel-Stadt",
+    "Basel-Landschaft",
+    "Schaffhausen",
+    "Appenzell Ausserrhoden",
+    "Appenzell Innerrhoden",
+    "St. Gallen",
+    "Aargau",
+    "Graubünden",
+    "Thurgau",
+    "Tessin",
+    "Waadt",
+    "Wallis",
+    "Neuenburg",
+    "Genf",
+    "Jura"
+   ]
+  },
+  {
+   "date": "2031-01-02",
+   "name": "Berchtoldstag (regionaler Feiertag)",
+   "type": "Feiertag",
+   "regions": [
+    "Aargau",
+    "Bern",
+    "Freiburg",
+    "Jura",
+    "Thurgau",
+    "Waadt"
+   ]
+  },
+  {
+   "date": "2031-01-06",
+   "name": "Dreikönigsfest (regionaler Feiertag)",
+   "type": "Feiertag",
+   "regions": [
+    "Schwyz",
+    "Tessin",
+    "Uri"
+   ]
+  },
+  {
+   "date": "2031-02-14",
+   "name": "Valentinstag",
+   "type": "Gedenktag"
+  },
+  {
+   "date": "2031-03-19",
+   "name": "Josefstag (regionaler Feiertag)",
+   "type": "Feiertag",
+   "regions": [
+    "Luzern",
+    "Nidwalden",
+    "Solothurn",
+    "Schwyz",
+    "Tessin",
+    "Uri",
+    "Wallis"
+   ]
+  },
+  {
+   "date": "2031-03-30",
+   "name": "Beginn der Sommerzeit",
+   "type": "Gedenktag"
+  },
+  {
+   "date": "2031-04-11",
+   "name": "Karfreitag (regionaler Feiertag)",
+   "type": "Feiertag",
+   "regions": [
+    "Zürich",
+    "Bern",
+    "Luzern",
+    "Uri",
+    "Schwyz",
+    "Obwalden",
+    "Nidwalden",
+    "Glarus",
+    "Zug",
+    "Freiburg",
+    "Solothurn",
+    "Basel-Stadt",
+    "Basel-Landschaft",
+    "Schaffhausen",
+    "Appenzell Ausserrhoden",
+    "Appenzell Innerrhoden",
+    "St. Gallen",
+    "Aargau",
+    "Graubünden",
+    "Thurgau",
+    "Waadt",
+    "Neuenburg",
+    "Genf",
+    "Jura"
+   ]
+  },
+  {
+   "date": "2031-04-13",
+   "name": "Ostersonntag",
+   "type": "Gedenktag"
+  },
+  {
+   "date": "2031-04-14",
+   "name": "Ostermontag (regionaler Feiertag)",
+   "type": "Feiertag",
+   "regions": [
+    "Zürich",
+    "Bern",
+    "Uri",
+    "Schwyz",
+    "Glarus",
+    "Freiburg",
+    "Basel-Stadt",
+    "Basel-Landschaft",
+    "Schaffhausen",
+    "Appenzell Ausserrhoden",
+    "Appenzell Innerrhoden",
+    "St. Gallen",
+    "Aargau",
+    "Graubünden",
+    "Thurgau",
+    "Tessin",
+    "Waadt",
+    "Genf",
+    "Jura"
+   ]
+  },
+  {
+   "date": "2031-05-01",
+   "name": "Tag der Arbeit (regionaler Feiertag)",
+   "type": "Feiertag",
+   "regions": [
+    "Basel-Landschaft",
+    "Basel-Stadt",
+    "Jura",
+    "Neuenburg",
+    "Schaffhausen",
+    "Zürich",
+    "Thurgau",
+    "Tessin"
+   ]
+  },
+  {
+   "date": "2031-05-11",
+   "name": "Muttertag",
+   "type": "Gedenktag"
+  },
+  {
+   "date": "2031-05-22",
+   "name": "Auffahrt (regionaler Feiertag)",
+   "type": "Feiertag",
+   "regions": [
+    "Zürich",
+    "Bern",
+    "Luzern",
+    "Uri",
+    "Schwyz",
+    "Obwalden",
+    "Nidwalden",
+    "Glarus",
+    "Zug",
+    "Freiburg",
+    "Solothurn",
+    "Basel-Stadt",
+    "Basel-Landschaft",
+    "Schaffhausen",
+    "Appenzell Ausserrhoden",
+    "Appenzell Innerrhoden",
+    "St. Gallen",
+    "Aargau",
+    "Graubünden",
+    "Thurgau",
+    "Tessin",
+    "Waadt",
+    "Wallis",
+    "Neuenburg",
+    "Genf",
+    "Jura"
+   ]
+  },
+  {
+   "date": "2031-06-01",
+   "name": "Pfingstsonntag (regionaler Feiertag)",
+   "type": "Gedenktag",
+   "regions": [
+    "Zürich",
+    "Bern",
+    "Luzern",
+    "Uri",
+    "Schwyz",
+    "Obwalden",
+    "Nidwalden",
+    "Glarus",
+    "Zug",
+    "Freiburg",
+    "Solothurn",
+    "Basel-Stadt",
+    "Basel-Landschaft",
+    "Schaffhausen",
+    "Appenzell Ausserrhoden",
+    "Appenzell Innerrhoden",
+    "St. Gallen",
+    "Aargau",
+    "Graubünden",
+    "Thurgau",
+    "Tessin",
+    "Waadt",
+    "Wallis",
+    "Neuenburg",
+    "Genf",
+    "Jura"
+   ]
+  },
+  {
+   "date": "2031-06-01",
+   "name": "Vatertag",
+   "type": "Gedenktag"
+  },
+  {
+   "date": "2031-06-02",
+   "name": "Pfingstmontag (regionaler Feiertag)",
+   "type": "Feiertag",
+   "regions": [
+    "Zürich",
+    "Bern",
+    "Uri",
+    "Schwyz",
+    "Glarus",
+    "Freiburg",
+    "Basel-Stadt",
+    "Basel-Landschaft",
+    "Schaffhausen",
+    "Appenzell Ausserrhoden",
+    "Appenzell Innerrhoden",
+    "St. Gallen",
+    "Aargau",
+    "Graubünden",
+    "Thurgau",
+    "Tessin",
+    "Waadt",
+    "Genf",
+    "Jura"
+   ]
+  },
+  {
+   "date": "2031-06-12",
+   "name": "Fronleichnam (regionaler Feiertag)",
+   "type": "Feiertag",
+   "regions": [
+    "Aargau",
+    "Appenzell Innerrhoden",
+    "Freiburg",
+    "Jura",
+    "Luzern",
+    "Nidwalden",
+    "Obwalden",
+    "Solothurn",
+    "Schwyz",
+    "Tessin",
+    "Uri",
+    "Wallis",
+    "Zug"
+   ]
+  },
+  {
+   "date": "2031-08-01",
+   "name": "Schweizer Nationalfeiertag",
+   "type": "Gesetzlicher Feiertag"
+  },
+  {
+   "date": "2031-08-15",
+   "name": "Mariä Himmelfahrt (regionaler Feiertag)",
+   "type": "Feiertag",
+   "regions": [
+    "Aargau",
+    "Appenzell Innerrhoden",
+    "Freiburg",
+    "Jura",
+    "Luzern",
+    "Nidwalden",
+    "Obwalden",
+    "Solothurn",
+    "Schwyz",
+    "Tessin",
+    "Uri",
+    "Wallis",
+    "Zug"
+   ]
+  },
+  {
+   "date": "2031-09-13",
+   "name": "Knabenschiessen (Zürich)",
+   "type": "Gedenktag",
+   "regions": [
+    "Zürich"
+   ]
+  },
+  {
+   "date": "2031-09-14",
+   "name": "Knabenschiessen (Zürich)",
+   "type": "Gedenktag",
+   "regions": [
+    "Zürich"
+   ]
+  },
+  {
+   "date": "2031-09-15",
+   "name": "Knabenschiessen (Zürich)",
+   "type": "Gedenktag",
+   "regions": [
+    "Zürich"
+   ]
+  },
+  {
+   "date": "2031-09-21",
+   "name": "Eidgenössischer Dank-, Buss- und Bettag (regionaler Feiertag)",
+   "type": "Gedenktag",
+   "regions": [
+    "Zürich",
+    "Bern",
+    "Luzern",
+    "Uri",
+    "Schwyz",
+    "Obwalden",
+    "Nidwalden",
+    "Glarus",
+    "Zug",
+    "Freiburg",
+    "Solothurn",
+    "Basel-Stadt",
+    "Basel-Landschaft",
+    "Schaffhausen",
+    "Appenzell Ausserrhoden",
+    "Appenzell Innerrhoden",
+    "St. Gallen",
+    "Aargau",
+    "Graubünden",
+    "Thurgau",
+    "Tessin",
+    "Waadt",
+    "Wallis",
+    "Neuenburg",
+    "Jura"
+   ]
+  },
+  {
+   "date": "2031-10-26",
+   "name": "Ende der Sommerzeit",
+   "type": "Gedenktag"
+  },
+  {
+   "date": "2031-11-01",
+   "name": "Allerheiligen (regionaler Feiertag)",
+   "type": "Feiertag",
+   "regions": [
+    "Aargau",
+    "Appenzell Innerrhoden",
+    "Freiburg",
+    "Glarus",
+    "Jura",
+    "Luzern",
+    "Nidwalden",
+    "Obwalden",
+    "St. Gallen",
+    "Schwyz",
+    "Tessin",
+    "Uri",
+    "Wallis",
+    "Zug"
+   ]
+  },
+  {
+   "date": "2031-12-08",
+   "name": "Mariä Empfängnis (regionaler Feiertag)",
+   "type": "Feiertag",
+   "regions": [
+    "Appenzell Innerrhoden",
+    "Luzern",
+    "Nidwalden",
+    "Obwalden",
+    "Schwyz",
+    "Tessin",
+    "Uri",
+    "Wallis",
+    "Zug"
+   ]
+  },
+  {
+   "date": "2031-12-24",
+   "name": "Heiligabend",
+   "type": "Gedenktag"
+  },
+  {
+   "date": "2031-12-25",
+   "name": "Weihnachten (regionaler Feiertag)",
+   "type": "Feiertag",
+   "regions": [
+    "Zürich",
+    "Bern",
+    "Luzern",
+    "Uri",
+    "Schwyz",
+    "Obwalden",
+    "Nidwalden",
+    "Glarus",
+    "Zug",
+    "Freiburg",
+    "Solothurn",
+    "Basel-Stadt",
+    "Basel-Landschaft",
+    "Schaffhausen",
+    "Appenzell Ausserrhoden",
+    "Appenzell Innerrhoden",
+    "St. Gallen",
+    "Aargau",
+    "Graubünden",
+    "Thurgau",
+    "Tessin",
+    "Waadt",
+    "Wallis",
+    "Neuenburg",
+    "Genf",
+    "Jura"
+   ]
+  },
+  {
+   "date": "2031-12-26",
+   "name": "Stephanstag (regionaler Feiertag)",
+   "type": "Feiertag",
+   "regions": [
+    "Zürich",
+    "Bern",
+    "Luzern",
+    "Uri",
+    "Schwyz",
+    "Glarus",
+    "Basel-Stadt",
+    "Basel-Landschaft",
+    "Schaffhausen",
+    "Appenzell Ausserrhoden",
+    "Appenzell Innerrhoden",
+    "St. Gallen",
+    "Graubünden",
+    "Thurgau",
+    "Tessin"
+   ]
+  },
+  {
+   "date": "2031-12-31",
+   "name": "Silvester",
+   "type": "Gedenktag"
+  }
+ ]
+}

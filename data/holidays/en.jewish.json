@@ -1,0 +1,6346 @@
+{
+ "id": "en.jewish",
+ "name": "Holidays in Israel",
+ "lang": "en",
+ "from": 2021,
+ "to": 2031,
+ "count": 1267,
+ "fetchedAt": "2026-09-23T12:14:40.853Z",
+ "events": [
+  {
+   "date": "2021-01-01",
+   "name": "New Year's Day",
+   "type": "Observance"
+  },
+  {
+   "date": "2021-01-05",
+   "name": "Catholic/Protestant Epiphany Eve",
+   "type": "Observance"
+  },
+  {
+   "date": "2021-01-06",
+   "name": "Catholic/Protestant Epiphany",
+   "type": "Observance"
+  },
+  {
+   "date": "2021-01-06",
+   "name": "Orthodox Christmas Eve",
+   "type": "Observance"
+  },
+  {
+   "date": "2021-01-07",
+   "name": "Orthodox Christmas Day",
+   "type": "Observance"
+  },
+  {
+   "date": "2021-01-08",
+   "name": "Orthodox Christmas Holiday",
+   "type": "Observance"
+  },
+  {
+   "date": "2021-01-13",
+   "name": "Orthodox New Year’s Eve",
+   "type": "Observance"
+  },
+  {
+   "date": "2021-01-14",
+   "name": "Orthodox New Year",
+   "type": "Observance"
+  },
+  {
+   "date": "2021-01-18",
+   "name": "Armenian Christmas Eve",
+   "type": "Observance"
+  },
+  {
+   "date": "2021-01-18",
+   "name": "Orthodox Epiphany Eve",
+   "type": "Observance"
+  },
+  {
+   "date": "2021-01-19",
+   "name": "Armenian Christmas Day",
+   "type": "Observance"
+  },
+  {
+   "date": "2021-01-19",
+   "name": "Orthodox Epiphany Day",
+   "type": "Observance"
+  },
+  {
+   "date": "2021-01-20",
+   "name": "Armenian Christmas Holiday",
+   "type": "Observance"
+  },
+  {
+   "date": "2021-01-24",
+   "name": "Eid al-Khader Eve",
+   "type": "Observance"
+  },
+  {
+   "date": "2021-01-25",
+   "name": "Eid al-Khader",
+   "type": "Observance"
+  },
+  {
+   "date": "2021-02-25",
+   "name": "Fast of Esther",
+   "type": "Observance"
+  },
+  {
+   "date": "2021-02-25",
+   "name": "Purim Eve",
+   "type": "Observance"
+  },
+  {
+   "date": "2021-02-26",
+   "name": "Purim",
+   "type": "Observance"
+  },
+  {
+   "date": "2021-02-27",
+   "name": "Shushan Purim",
+   "type": "Observance"
+  },
+  {
+   "date": "2021-03-08",
+   "name": "International Women's Day",
+   "type": "Observance"
+  },
+  {
+   "date": "2021-03-10",
+   "name": "Al Isra' wal Miraj",
+   "type": "Observance"
+  },
+  {
+   "date": "2021-03-23",
+   "name": "Election Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2021-03-25",
+   "name": "Catholic/Protestant Feast of the Annunciation",
+   "type": "Observance"
+  },
+  {
+   "date": "2021-03-27",
+   "name": "Passover Eve",
+   "type": "Observance"
+  },
+  {
+   "date": "2021-03-28",
+   "name": "Catholic/Protestant Palm Sunday",
+   "type": "Observance"
+  },
+  {
+   "date": "2021-03-28",
+   "name": "Passover (Day 1)",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2021-03-29",
+   "name": "Passover (Day 2)",
+   "type": "Observance"
+  },
+  {
+   "date": "2021-03-30",
+   "name": "Passover (Day 3)",
+   "type": "Observance"
+  },
+  {
+   "date": "2021-03-31",
+   "name": "Passover (Day 4)",
+   "type": "Observance"
+  },
+  {
+   "date": "2021-04-01",
+   "name": "Catholic/Protestant Maundy Thursday",
+   "type": "Observance"
+  },
+  {
+   "date": "2021-04-01",
+   "name": "Passover (Day 5)",
+   "type": "Observance"
+  },
+  {
+   "date": "2021-04-02",
+   "name": "Catholic/Protestant Good Friday",
+   "type": "Observance"
+  },
+  {
+   "date": "2021-04-02",
+   "name": "Passover (Day 6)",
+   "type": "Observance"
+  },
+  {
+   "date": "2021-04-03",
+   "name": "Catholic/Protestant Holy Saturday",
+   "type": "Observance"
+  },
+  {
+   "date": "2021-04-03",
+   "name": "Passover (Day 7)",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2021-04-04",
+   "name": "Catholic/Protestant Easter Sunday",
+   "type": "Observance"
+  },
+  {
+   "date": "2021-04-04",
+   "name": "Mimouna Day",
+   "type": "Observance"
+  },
+  {
+   "date": "2021-04-05",
+   "name": "Catholic/Protestant Easter Monday",
+   "type": "Observance"
+  },
+  {
+   "date": "2021-04-07",
+   "name": "Orthodox Feast of the Annunciation",
+   "type": "Observance"
+  },
+  {
+   "date": "2021-04-08",
+   "name": "Yom HaShoah",
+   "type": "Observance"
+  },
+  {
+   "date": "2021-04-14",
+   "name": "Yom HaZikaron",
+   "type": "Observance"
+  },
+  {
+   "date": "2021-04-15",
+   "name": "Yom HaAtzmaut",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2021-04-20",
+   "name": "Armenian Feast of the Annunciation",
+   "type": "Observance"
+  },
+  {
+   "date": "2021-04-24",
+   "name": "Prophet Shuaib's Feast Eve",
+   "type": "Observance"
+  },
+  {
+   "date": "2021-04-25",
+   "name": "Armenian/Orthodox Palm Sunday",
+   "type": "Observance"
+  },
+  {
+   "date": "2021-04-25",
+   "name": "Prophet Shuaib's Feast",
+   "type": "Observance"
+  },
+  {
+   "date": "2021-04-26",
+   "name": "Prophet Shuaib's Feast Holiday",
+   "type": "Observance"
+  },
+  {
+   "date": "2021-04-27",
+   "name": "Prophet Shuaib's Feast Holiday",
+   "type": "Observance"
+  },
+  {
+   "date": "2021-04-28",
+   "name": "Prophet Shuaib's Feast Holiday",
+   "type": "Observance"
+  },
+  {
+   "date": "2021-04-29",
+   "name": "Armenian/Orthodox Maundy Thursday",
+   "type": "Observance"
+  },
+  {
+   "date": "2021-04-30",
+   "name": "Armenian/Orthodox Good Friday",
+   "type": "Observance"
+  },
+  {
+   "date": "2021-04-30",
+   "name": "Lag BaOmer",
+   "type": "Observance"
+  },
+  {
+   "date": "2021-05-01",
+   "name": "Armenian/Orthodox Holy Saturday",
+   "type": "Observance"
+  },
+  {
+   "date": "2021-05-01",
+   "name": "May Day",
+   "type": "Observance"
+  },
+  {
+   "date": "2021-05-02",
+   "name": "Armenian/Orthodox Easter Sunday",
+   "type": "Observance"
+  },
+  {
+   "date": "2021-05-03",
+   "name": "Armenian/Orthodox Easter Monday",
+   "type": "Observance"
+  },
+  {
+   "date": "2021-05-10",
+   "name": "Jerusalem Day",
+   "type": "Observance"
+  },
+  {
+   "date": "2021-05-10",
+   "name": "Memorial Day for Ethiopian Jews",
+   "type": "Observance"
+  },
+  {
+   "date": "2021-05-12",
+   "name": "Catholic/Protestant Ascension Eve",
+   "type": "Observance"
+  },
+  {
+   "date": "2021-05-13",
+   "name": "Catholic/Protestant Ascension Day",
+   "type": "Observance"
+  },
+  {
+   "date": "2021-05-16",
+   "name": "Shavuot Eve",
+   "type": "Observance"
+  },
+  {
+   "date": "2021-05-17",
+   "name": "Shavuot",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2021-05-22",
+   "name": "Catholic/Protestant Pentecost Eve",
+   "type": "Observance"
+  },
+  {
+   "date": "2021-05-23",
+   "name": "Catholic/Protestant Pentecost",
+   "type": "Observance"
+  },
+  {
+   "date": "2021-05-24",
+   "name": "Catholic/Protestant Pentecost Monday",
+   "type": "Observance"
+  },
+  {
+   "date": "2021-06-09",
+   "name": "Armenian/Orthodox Ascension Eve",
+   "type": "Observance"
+  },
+  {
+   "date": "2021-06-10",
+   "name": "Armenian/Orthodox Ascension Day",
+   "type": "Observance"
+  },
+  {
+   "date": "2021-06-19",
+   "name": "Armenian/Orthodox Pentecost Eve",
+   "type": "Observance"
+  },
+  {
+   "date": "2021-06-20",
+   "name": "Armenian/Orthodox Pentecost",
+   "type": "Observance"
+  },
+  {
+   "date": "2021-06-21",
+   "name": "Armenian/Orthodox Pentecost Monday",
+   "type": "Observance"
+  },
+  {
+   "date": "2021-06-27",
+   "name": "17th of Tammuz",
+   "type": "Observance"
+  },
+  {
+   "date": "2021-07-17",
+   "name": "Tisha B'Av Eve",
+   "type": "Observance"
+  },
+  {
+   "date": "2021-07-18",
+   "name": "Tisha B'Av",
+   "type": "Observance"
+  },
+  {
+   "date": "2021-09-01",
+   "name": "First Day of School Year",
+   "type": "Observance"
+  },
+  {
+   "date": "2021-09-06",
+   "name": "Rosh Hashana Eve",
+   "type": "Observance"
+  },
+  {
+   "date": "2021-09-07",
+   "name": "Rosh Hashana",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2021-09-08",
+   "name": "Rosh Hashana (Day 2)",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2021-09-09",
+   "name": "Feast of Prophet Sabalan Eve",
+   "type": "Observance"
+  },
+  {
+   "date": "2021-09-09",
+   "name": "Gedaliah Fast",
+   "type": "Observance"
+  },
+  {
+   "date": "2021-09-10",
+   "name": "Feast of Prophet Sabalan",
+   "type": "Observance"
+  },
+  {
+   "date": "2021-09-15",
+   "name": "Yom Kippur Eve",
+   "type": "Observance"
+  },
+  {
+   "date": "2021-09-16",
+   "name": "Yom Kippur",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2021-09-20",
+   "name": "Sukkot Eve",
+   "type": "Observance"
+  },
+  {
+   "date": "2021-09-21",
+   "name": "Sukkot (Day 1)",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2021-09-22",
+   "name": "Sukkot (Day 2)",
+   "type": "Observance"
+  },
+  {
+   "date": "2021-09-23",
+   "name": "Sukkot (Day 3)",
+   "type": "Observance"
+  },
+  {
+   "date": "2021-09-24",
+   "name": "Sukkot (Day 4)",
+   "type": "Observance"
+  },
+  {
+   "date": "2021-09-25",
+   "name": "Sukkot (Day 5)",
+   "type": "Observance"
+  },
+  {
+   "date": "2021-09-26",
+   "name": "Sukkot (Day 6)",
+   "type": "Observance"
+  },
+  {
+   "date": "2021-09-27",
+   "name": "Sukkot (Day 7) / Hoshanah Rabah",
+   "type": "Observance"
+  },
+  {
+   "date": "2021-09-28",
+   "name": "Shemini Atzeret / Simchat Torah",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2021-10-13",
+   "name": "Aliyah Day School Observance",
+   "type": "Observance"
+  },
+  {
+   "date": "2021-11-04",
+   "name": "Sigd",
+   "type": "Observance"
+  },
+  {
+   "date": "2021-11-29",
+   "name": "Hanukkah (Day 1)",
+   "type": "Observance"
+  },
+  {
+   "date": "2021-11-30",
+   "name": "Hanukkah (Day 2)",
+   "type": "Observance"
+  },
+  {
+   "date": "2021-12-01",
+   "name": "Hanukkah (Day 3)",
+   "type": "Observance"
+  },
+  {
+   "date": "2021-12-02",
+   "name": "Hanukkah (Day 4)",
+   "type": "Observance"
+  },
+  {
+   "date": "2021-12-03",
+   "name": "Hanukkah (Day 5)",
+   "type": "Observance"
+  },
+  {
+   "date": "2021-12-04",
+   "name": "Hanukkah (Day 6) / Rosh Chodesh Tevet",
+   "type": "Observance"
+  },
+  {
+   "date": "2021-12-05",
+   "name": "Hanukkah (Day 7)",
+   "type": "Observance"
+  },
+  {
+   "date": "2021-12-06",
+   "name": "Hanukkah (Day 8)",
+   "type": "Observance"
+  },
+  {
+   "date": "2021-12-14",
+   "name": "Asarah B'Tevet (Tenth of Tevet)",
+   "type": "Observance"
+  },
+  {
+   "date": "2021-12-24",
+   "name": "Catholic/Protestant Christmas Eve",
+   "type": "Observance"
+  },
+  {
+   "date": "2021-12-25",
+   "name": "Catholic/Protestant Christmas Day",
+   "type": "Observance"
+  },
+  {
+   "date": "2021-12-26",
+   "name": "Catholic/Protestant Boxing Day",
+   "type": "Observance"
+  },
+  {
+   "date": "2021-12-31",
+   "name": "New Year's Eve",
+   "type": "Observance"
+  },
+  {
+   "date": "2022-01-01",
+   "name": "New Year's Day",
+   "type": "Observance"
+  },
+  {
+   "date": "2022-01-05",
+   "name": "Catholic/Protestant Epiphany Eve",
+   "type": "Observance"
+  },
+  {
+   "date": "2022-01-06",
+   "name": "Catholic/Protestant Epiphany",
+   "type": "Observance"
+  },
+  {
+   "date": "2022-01-06",
+   "name": "Orthodox Christmas Eve",
+   "type": "Observance"
+  },
+  {
+   "date": "2022-01-07",
+   "name": "Orthodox Christmas Day",
+   "type": "Observance"
+  },
+  {
+   "date": "2022-01-08",
+   "name": "Orthodox Christmas Holiday",
+   "type": "Observance"
+  },
+  {
+   "date": "2022-01-13",
+   "name": "Orthodox New Year’s Eve",
+   "type": "Observance"
+  },
+  {
+   "date": "2022-01-14",
+   "name": "Orthodox New Year",
+   "type": "Observance"
+  },
+  {
+   "date": "2022-01-18",
+   "name": "Armenian Christmas Eve",
+   "type": "Observance"
+  },
+  {
+   "date": "2022-01-18",
+   "name": "Orthodox Epiphany Eve",
+   "type": "Observance"
+  },
+  {
+   "date": "2022-01-19",
+   "name": "Armenian Christmas Day",
+   "type": "Observance"
+  },
+  {
+   "date": "2022-01-19",
+   "name": "Orthodox Epiphany Day",
+   "type": "Observance"
+  },
+  {
+   "date": "2022-01-20",
+   "name": "Armenian Christmas Holiday",
+   "type": "Observance"
+  },
+  {
+   "date": "2022-01-24",
+   "name": "Eid al-Khader Eve",
+   "type": "Observance"
+  },
+  {
+   "date": "2022-01-25",
+   "name": "Eid al-Khader",
+   "type": "Observance"
+  },
+  {
+   "date": "2022-02-28",
+   "name": "Al Isra' wal Miraj",
+   "type": "Observance"
+  },
+  {
+   "date": "2022-03-08",
+   "name": "International Women's Day",
+   "type": "Observance"
+  },
+  {
+   "date": "2022-03-16",
+   "name": "Fast of Esther",
+   "type": "Observance"
+  },
+  {
+   "date": "2022-03-16",
+   "name": "Purim Eve",
+   "type": "Observance"
+  },
+  {
+   "date": "2022-03-17",
+   "name": "Purim",
+   "type": "Observance"
+  },
+  {
+   "date": "2022-03-18",
+   "name": "Shushan Purim",
+   "type": "Observance"
+  },
+  {
+   "date": "2022-03-25",
+   "name": "Catholic/Protestant Feast of the Annunciation",
+   "type": "Observance"
+  },
+  {
+   "date": "2022-04-07",
+   "name": "Orthodox Feast of the Annunciation",
+   "type": "Observance"
+  },
+  {
+   "date": "2022-04-10",
+   "name": "Catholic/Protestant Palm Sunday",
+   "type": "Observance"
+  },
+  {
+   "date": "2022-04-14",
+   "name": "Catholic/Protestant Maundy Thursday",
+   "type": "Observance"
+  },
+  {
+   "date": "2022-04-15",
+   "name": "Catholic/Protestant Good Friday",
+   "type": "Observance"
+  },
+  {
+   "date": "2022-04-15",
+   "name": "Passover Eve",
+   "type": "Observance"
+  },
+  {
+   "date": "2022-04-16",
+   "name": "Catholic/Protestant Holy Saturday",
+   "type": "Observance"
+  },
+  {
+   "date": "2022-04-16",
+   "name": "Passover (Day 1)",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2022-04-17",
+   "name": "Armenian/Orthodox Palm Sunday",
+   "type": "Observance"
+  },
+  {
+   "date": "2022-04-17",
+   "name": "Catholic/Protestant Easter Sunday",
+   "type": "Observance"
+  },
+  {
+   "date": "2022-04-17",
+   "name": "Passover (Day 2)",
+   "type": "Observance"
+  },
+  {
+   "date": "2022-04-18",
+   "name": "Catholic/Protestant Easter Monday",
+   "type": "Observance"
+  },
+  {
+   "date": "2022-04-18",
+   "name": "Passover (Day 3)",
+   "type": "Observance"
+  },
+  {
+   "date": "2022-04-19",
+   "name": "Passover (Day 4)",
+   "type": "Observance"
+  },
+  {
+   "date": "2022-04-20",
+   "name": "Armenian Feast of the Annunciation",
+   "type": "Observance"
+  },
+  {
+   "date": "2022-04-20",
+   "name": "Passover (Day 5)",
+   "type": "Observance"
+  },
+  {
+   "date": "2022-04-21",
+   "name": "Armenian/Orthodox Maundy Thursday",
+   "type": "Observance"
+  },
+  {
+   "date": "2022-04-21",
+   "name": "Passover (Day 6)",
+   "type": "Observance"
+  },
+  {
+   "date": "2022-04-22",
+   "name": "Armenian/Orthodox Good Friday",
+   "type": "Observance"
+  },
+  {
+   "date": "2022-04-22",
+   "name": "Passover (Day 7)",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2022-04-23",
+   "name": "Armenian/Orthodox Holy Saturday",
+   "type": "Observance"
+  },
+  {
+   "date": "2022-04-23",
+   "name": "Mimouna Day",
+   "type": "Observance"
+  },
+  {
+   "date": "2022-04-24",
+   "name": "Armenian/Orthodox Easter Sunday",
+   "type": "Observance"
+  },
+  {
+   "date": "2022-04-24",
+   "name": "Prophet Shuaib's Feast Eve",
+   "type": "Observance"
+  },
+  {
+   "date": "2022-04-25",
+   "name": "Armenian/Orthodox Easter Monday",
+   "type": "Observance"
+  },
+  {
+   "date": "2022-04-25",
+   "name": "Prophet Shuaib's Feast",
+   "type": "Observance"
+  },
+  {
+   "date": "2022-04-26",
+   "name": "Prophet Shuaib's Feast Holiday",
+   "type": "Observance"
+  },
+  {
+   "date": "2022-04-27",
+   "name": "Prophet Shuaib's Feast Holiday",
+   "type": "Observance"
+  },
+  {
+   "date": "2022-04-28",
+   "name": "Prophet Shuaib's Feast Holiday",
+   "type": "Observance"
+  },
+  {
+   "date": "2022-04-28",
+   "name": "Yom HaShoah",
+   "type": "Observance"
+  },
+  {
+   "date": "2022-05-01",
+   "name": "May Day",
+   "type": "Observance"
+  },
+  {
+   "date": "2022-05-04",
+   "name": "Yom HaZikaron",
+   "type": "Observance"
+  },
+  {
+   "date": "2022-05-05",
+   "name": "Yom HaAtzmaut",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2022-05-19",
+   "name": "Lag BaOmer",
+   "type": "Observance"
+  },
+  {
+   "date": "2022-05-25",
+   "name": "Catholic/Protestant Ascension Eve",
+   "type": "Observance"
+  },
+  {
+   "date": "2022-05-26",
+   "name": "Catholic/Protestant Ascension Day",
+   "type": "Observance"
+  },
+  {
+   "date": "2022-05-29",
+   "name": "Jerusalem Day",
+   "type": "Observance"
+  },
+  {
+   "date": "2022-05-29",
+   "name": "Memorial Day for Ethiopian Jews",
+   "type": "Observance"
+  },
+  {
+   "date": "2022-06-01",
+   "name": "Armenian/Orthodox Ascension Eve",
+   "type": "Observance"
+  },
+  {
+   "date": "2022-06-02",
+   "name": "Armenian/Orthodox Ascension Day",
+   "type": "Observance"
+  },
+  {
+   "date": "2022-06-04",
+   "name": "Catholic/Protestant Pentecost Eve",
+   "type": "Observance"
+  },
+  {
+   "date": "2022-06-04",
+   "name": "Shavuot Eve",
+   "type": "Observance"
+  },
+  {
+   "date": "2022-06-05",
+   "name": "Catholic/Protestant Pentecost",
+   "type": "Observance"
+  },
+  {
+   "date": "2022-06-05",
+   "name": "Shavuot",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2022-06-06",
+   "name": "Catholic/Protestant Pentecost Monday",
+   "type": "Observance"
+  },
+  {
+   "date": "2022-06-11",
+   "name": "Armenian/Orthodox Pentecost Eve",
+   "type": "Observance"
+  },
+  {
+   "date": "2022-06-12",
+   "name": "Armenian/Orthodox Pentecost",
+   "type": "Observance"
+  },
+  {
+   "date": "2022-06-13",
+   "name": "Armenian/Orthodox Pentecost Monday",
+   "type": "Observance"
+  },
+  {
+   "date": "2022-07-17",
+   "name": "17th of Tammuz",
+   "type": "Observance"
+  },
+  {
+   "date": "2022-08-06",
+   "name": "Tisha B'Av Eve",
+   "type": "Observance"
+  },
+  {
+   "date": "2022-08-07",
+   "name": "Tisha B'Av",
+   "type": "Observance"
+  },
+  {
+   "date": "2022-09-01",
+   "name": "First Day of School Year",
+   "type": "Observance"
+  },
+  {
+   "date": "2022-09-09",
+   "name": "Feast of Prophet Sabalan Eve",
+   "type": "Observance"
+  },
+  {
+   "date": "2022-09-10",
+   "name": "Feast of Prophet Sabalan",
+   "type": "Observance"
+  },
+  {
+   "date": "2022-09-25",
+   "name": "Rosh Hashana Eve",
+   "type": "Observance"
+  },
+  {
+   "date": "2022-09-26",
+   "name": "Rosh Hashana",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2022-09-27",
+   "name": "Rosh Hashana (Day 2)",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2022-09-28",
+   "name": "Gedaliah Fast",
+   "type": "Observance"
+  },
+  {
+   "date": "2022-10-04",
+   "name": "Yom Kippur Eve",
+   "type": "Observance"
+  },
+  {
+   "date": "2022-10-05",
+   "name": "Yom Kippur",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2022-10-09",
+   "name": "Sukkot Eve",
+   "type": "Observance"
+  },
+  {
+   "date": "2022-10-10",
+   "name": "Sukkot (Day 1)",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2022-10-11",
+   "name": "Sukkot (Day 2)",
+   "type": "Observance"
+  },
+  {
+   "date": "2022-10-12",
+   "name": "Sukkot (Day 3)",
+   "type": "Observance"
+  },
+  {
+   "date": "2022-10-13",
+   "name": "Sukkot (Day 4)",
+   "type": "Observance"
+  },
+  {
+   "date": "2022-10-14",
+   "name": "Sukkot (Day 5)",
+   "type": "Observance"
+  },
+  {
+   "date": "2022-10-15",
+   "name": "Sukkot (Day 6)",
+   "type": "Observance"
+  },
+  {
+   "date": "2022-10-16",
+   "name": "Sukkot (Day 7) / Hoshanah Rabah",
+   "type": "Observance"
+  },
+  {
+   "date": "2022-10-17",
+   "name": "Shemini Atzeret / Simchat Torah",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2022-11-01",
+   "name": "Aliyah Day School Observance",
+   "type": "Observance"
+  },
+  {
+   "date": "2022-11-01",
+   "name": "Election Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2022-11-23",
+   "name": "Sigd",
+   "type": "Observance"
+  },
+  {
+   "date": "2022-12-19",
+   "name": "Hanukkah (Day 1)",
+   "type": "Observance"
+  },
+  {
+   "date": "2022-12-20",
+   "name": "Hanukkah (Day 2)",
+   "type": "Observance"
+  },
+  {
+   "date": "2022-12-21",
+   "name": "Hanukkah (Day 3)",
+   "type": "Observance"
+  },
+  {
+   "date": "2022-12-22",
+   "name": "Hanukkah (Day 4)",
+   "type": "Observance"
+  },
+  {
+   "date": "2022-12-23",
+   "name": "Hanukkah (Day 5)",
+   "type": "Observance"
+  },
+  {
+   "date": "2022-12-24",
+   "name": "Catholic/Protestant Christmas Eve",
+   "type": "Observance"
+  },
+  {
+   "date": "2022-12-24",
+   "name": "Hanukkah (Day 6) / Rosh Chodesh Tevet",
+   "type": "Observance"
+  },
+  {
+   "date": "2022-12-25",
+   "name": "Catholic/Protestant Christmas Day",
+   "type": "Observance"
+  },
+  {
+   "date": "2022-12-25",
+   "name": "Hanukkah (Day 7)",
+   "type": "Observance"
+  },
+  {
+   "date": "2022-12-26",
+   "name": "Catholic/Protestant Boxing Day",
+   "type": "Observance"
+  },
+  {
+   "date": "2022-12-26",
+   "name": "Hanukkah (Day 8)",
+   "type": "Observance"
+  },
+  {
+   "date": "2022-12-31",
+   "name": "New Year's Eve",
+   "type": "Observance"
+  },
+  {
+   "date": "2023-01-01",
+   "name": "New Year's Day",
+   "type": "Observance"
+  },
+  {
+   "date": "2023-01-03",
+   "name": "Asarah B'Tevet (Tenth of Tevet)",
+   "type": "Observance"
+  },
+  {
+   "date": "2023-01-05",
+   "name": "Catholic/Protestant Epiphany Eve",
+   "type": "Observance"
+  },
+  {
+   "date": "2023-01-06",
+   "name": "Catholic/Protestant Epiphany",
+   "type": "Observance"
+  },
+  {
+   "date": "2023-01-06",
+   "name": "Orthodox Christmas Eve",
+   "type": "Observance"
+  },
+  {
+   "date": "2023-01-07",
+   "name": "Orthodox Christmas Day",
+   "type": "Observance"
+  },
+  {
+   "date": "2023-01-08",
+   "name": "Orthodox Christmas Holiday",
+   "type": "Observance"
+  },
+  {
+   "date": "2023-01-13",
+   "name": "Orthodox New Year’s Eve",
+   "type": "Observance"
+  },
+  {
+   "date": "2023-01-14",
+   "name": "Orthodox New Year",
+   "type": "Observance"
+  },
+  {
+   "date": "2023-01-18",
+   "name": "Armenian Christmas Eve",
+   "type": "Observance"
+  },
+  {
+   "date": "2023-01-18",
+   "name": "Orthodox Epiphany Eve",
+   "type": "Observance"
+  },
+  {
+   "date": "2023-01-19",
+   "name": "Armenian Christmas Day",
+   "type": "Observance"
+  },
+  {
+   "date": "2023-01-19",
+   "name": "Orthodox Epiphany Day",
+   "type": "Observance"
+  },
+  {
+   "date": "2023-01-20",
+   "name": "Armenian Christmas Holiday",
+   "type": "Observance"
+  },
+  {
+   "date": "2023-01-24",
+   "name": "Eid al-Khader Eve",
+   "type": "Observance"
+  },
+  {
+   "date": "2023-01-25",
+   "name": "Eid al-Khader",
+   "type": "Observance"
+  },
+  {
+   "date": "2023-02-17",
+   "name": "Al Isra' wal Miraj",
+   "type": "Observance"
+  },
+  {
+   "date": "2023-03-06",
+   "name": "Fast of Esther",
+   "type": "Observance"
+  },
+  {
+   "date": "2023-03-06",
+   "name": "Purim Eve",
+   "type": "Observance"
+  },
+  {
+   "date": "2023-03-07",
+   "name": "Purim",
+   "type": "Observance"
+  },
+  {
+   "date": "2023-03-08",
+   "name": "International Women's Day",
+   "type": "Observance"
+  },
+  {
+   "date": "2023-03-08",
+   "name": "Shushan Purim",
+   "type": "Observance"
+  },
+  {
+   "date": "2023-03-25",
+   "name": "Catholic/Protestant Feast of the Annunciation",
+   "type": "Observance"
+  },
+  {
+   "date": "2023-04-02",
+   "name": "Catholic/Protestant Palm Sunday",
+   "type": "Observance"
+  },
+  {
+   "date": "2023-04-05",
+   "name": "Passover Eve",
+   "type": "Observance"
+  },
+  {
+   "date": "2023-04-06",
+   "name": "Catholic/Protestant Maundy Thursday",
+   "type": "Observance"
+  },
+  {
+   "date": "2023-04-06",
+   "name": "Passover (Day 1)",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2023-04-07",
+   "name": "Catholic/Protestant Good Friday",
+   "type": "Observance"
+  },
+  {
+   "date": "2023-04-07",
+   "name": "Orthodox Feast of the Annunciation",
+   "type": "Observance"
+  },
+  {
+   "date": "2023-04-07",
+   "name": "Passover (Day 2)",
+   "type": "Observance"
+  },
+  {
+   "date": "2023-04-08",
+   "name": "Catholic/Protestant Holy Saturday",
+   "type": "Observance"
+  },
+  {
+   "date": "2023-04-08",
+   "name": "Passover (Day 3)",
+   "type": "Observance"
+  },
+  {
+   "date": "2023-04-09",
+   "name": "Armenian/Orthodox Palm Sunday",
+   "type": "Observance"
+  },
+  {
+   "date": "2023-04-09",
+   "name": "Catholic/Protestant Easter Sunday",
+   "type": "Observance"
+  },
+  {
+   "date": "2023-04-09",
+   "name": "Passover (Day 4)",
+   "type": "Observance"
+  },
+  {
+   "date": "2023-04-10",
+   "name": "Catholic/Protestant Easter Monday",
+   "type": "Observance"
+  },
+  {
+   "date": "2023-04-10",
+   "name": "Passover (Day 5)",
+   "type": "Observance"
+  },
+  {
+   "date": "2023-04-11",
+   "name": "Passover (Day 6)",
+   "type": "Observance"
+  },
+  {
+   "date": "2023-04-12",
+   "name": "Passover (Day 7)",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2023-04-13",
+   "name": "Armenian/Orthodox Maundy Thursday",
+   "type": "Observance"
+  },
+  {
+   "date": "2023-04-13",
+   "name": "Mimouna Day",
+   "type": "Observance"
+  },
+  {
+   "date": "2023-04-14",
+   "name": "Armenian/Orthodox Good Friday",
+   "type": "Observance"
+  },
+  {
+   "date": "2023-04-15",
+   "name": "Armenian/Orthodox Holy Saturday",
+   "type": "Observance"
+  },
+  {
+   "date": "2023-04-16",
+   "name": "Armenian/Orthodox Easter Sunday",
+   "type": "Observance"
+  },
+  {
+   "date": "2023-04-17",
+   "name": "Armenian/Orthodox Easter Monday",
+   "type": "Observance"
+  },
+  {
+   "date": "2023-04-18",
+   "name": "Yom HaShoah",
+   "type": "Observance"
+  },
+  {
+   "date": "2023-04-20",
+   "name": "Armenian Feast of the Annunciation",
+   "type": "Observance"
+  },
+  {
+   "date": "2023-04-24",
+   "name": "Prophet Shuaib's Feast Eve",
+   "type": "Observance"
+  },
+  {
+   "date": "2023-04-25",
+   "name": "Prophet Shuaib's Feast",
+   "type": "Observance"
+  },
+  {
+   "date": "2023-04-25",
+   "name": "Yom HaZikaron",
+   "type": "Observance"
+  },
+  {
+   "date": "2023-04-26",
+   "name": "Prophet Shuaib's Feast Holiday",
+   "type": "Observance"
+  },
+  {
+   "date": "2023-04-26",
+   "name": "Yom HaAtzmaut",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2023-04-27",
+   "name": "Prophet Shuaib's Feast Holiday",
+   "type": "Observance"
+  },
+  {
+   "date": "2023-04-28",
+   "name": "Prophet Shuaib's Feast Holiday",
+   "type": "Observance"
+  },
+  {
+   "date": "2023-05-01",
+   "name": "May Day",
+   "type": "Observance"
+  },
+  {
+   "date": "2023-05-09",
+   "name": "Lag BaOmer",
+   "type": "Observance"
+  },
+  {
+   "date": "2023-05-17",
+   "name": "Catholic/Protestant Ascension Eve",
+   "type": "Observance"
+  },
+  {
+   "date": "2023-05-18",
+   "name": "Catholic/Protestant Ascension Day",
+   "type": "Observance"
+  },
+  {
+   "date": "2023-05-19",
+   "name": "Jerusalem Day",
+   "type": "Observance"
+  },
+  {
+   "date": "2023-05-19",
+   "name": "Memorial Day for Ethiopian Jews",
+   "type": "Observance"
+  },
+  {
+   "date": "2023-05-24",
+   "name": "Armenian/Orthodox Ascension Eve",
+   "type": "Observance"
+  },
+  {
+   "date": "2023-05-25",
+   "name": "Armenian/Orthodox Ascension Day",
+   "type": "Observance"
+  },
+  {
+   "date": "2023-05-25",
+   "name": "Shavuot Eve",
+   "type": "Observance"
+  },
+  {
+   "date": "2023-05-26",
+   "name": "Shavuot",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2023-05-27",
+   "name": "Catholic/Protestant Pentecost Eve",
+   "type": "Observance"
+  },
+  {
+   "date": "2023-05-28",
+   "name": "Catholic/Protestant Pentecost",
+   "type": "Observance"
+  },
+  {
+   "date": "2023-05-29",
+   "name": "Catholic/Protestant Pentecost Monday",
+   "type": "Observance"
+  },
+  {
+   "date": "2023-06-03",
+   "name": "Armenian/Orthodox Pentecost Eve",
+   "type": "Observance"
+  },
+  {
+   "date": "2023-06-04",
+   "name": "Armenian/Orthodox Pentecost",
+   "type": "Observance"
+  },
+  {
+   "date": "2023-06-05",
+   "name": "Armenian/Orthodox Pentecost Monday",
+   "type": "Observance"
+  },
+  {
+   "date": "2023-07-06",
+   "name": "17th of Tammuz",
+   "type": "Observance"
+  },
+  {
+   "date": "2023-07-26",
+   "name": "Tisha B'Av Eve",
+   "type": "Observance"
+  },
+  {
+   "date": "2023-07-27",
+   "name": "Tisha B'Av",
+   "type": "Observance"
+  },
+  {
+   "date": "2023-09-01",
+   "name": "First Day of School Year",
+   "type": "Observance"
+  },
+  {
+   "date": "2023-09-09",
+   "name": "Feast of Prophet Sabalan Eve",
+   "type": "Observance"
+  },
+  {
+   "date": "2023-09-10",
+   "name": "Feast of Prophet Sabalan",
+   "type": "Observance"
+  },
+  {
+   "date": "2023-09-15",
+   "name": "Rosh Hashana Eve",
+   "type": "Observance"
+  },
+  {
+   "date": "2023-09-16",
+   "name": "Rosh Hashana",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2023-09-17",
+   "name": "Rosh Hashana (Day 2)",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2023-09-18",
+   "name": "Gedaliah Fast",
+   "type": "Observance"
+  },
+  {
+   "date": "2023-09-24",
+   "name": "Yom Kippur Eve",
+   "type": "Observance"
+  },
+  {
+   "date": "2023-09-25",
+   "name": "Yom Kippur",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2023-09-29",
+   "name": "Sukkot Eve",
+   "type": "Observance"
+  },
+  {
+   "date": "2023-09-30",
+   "name": "Sukkot (Day 1)",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2023-10-01",
+   "name": "Sukkot (Day 2)",
+   "type": "Observance"
+  },
+  {
+   "date": "2023-10-02",
+   "name": "Sukkot (Day 3)",
+   "type": "Observance"
+  },
+  {
+   "date": "2023-10-03",
+   "name": "Sukkot (Day 4)",
+   "type": "Observance"
+  },
+  {
+   "date": "2023-10-04",
+   "name": "Sukkot (Day 5)",
+   "type": "Observance"
+  },
+  {
+   "date": "2023-10-05",
+   "name": "Sukkot (Day 6)",
+   "type": "Observance"
+  },
+  {
+   "date": "2023-10-06",
+   "name": "Sukkot (Day 7) / Hoshanah Rabah",
+   "type": "Observance"
+  },
+  {
+   "date": "2023-10-07",
+   "name": "Shemini Atzeret / Simchat Torah",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2023-10-22",
+   "name": "Aliyah Day School Observance",
+   "type": "Observance"
+  },
+  {
+   "date": "2023-11-13",
+   "name": "Sigd",
+   "type": "Observance"
+  },
+  {
+   "date": "2023-12-08",
+   "name": "Hanukkah (Day 1)",
+   "type": "Observance"
+  },
+  {
+   "date": "2023-12-09",
+   "name": "Hanukkah (Day 2)",
+   "type": "Observance"
+  },
+  {
+   "date": "2023-12-10",
+   "name": "Hanukkah (Day 3)",
+   "type": "Observance"
+  },
+  {
+   "date": "2023-12-11",
+   "name": "Hanukkah (Day 4)",
+   "type": "Observance"
+  },
+  {
+   "date": "2023-12-12",
+   "name": "Hanukkah (Day 5)",
+   "type": "Observance"
+  },
+  {
+   "date": "2023-12-13",
+   "name": "Hanukkah (Day 6) / Rosh Chodesh Tevet",
+   "type": "Observance"
+  },
+  {
+   "date": "2023-12-14",
+   "name": "Hanukkah (Day 7)",
+   "type": "Observance"
+  },
+  {
+   "date": "2023-12-15",
+   "name": "Hanukkah (Day 8)",
+   "type": "Observance"
+  },
+  {
+   "date": "2023-12-22",
+   "name": "Asarah B'Tevet (Tenth of Tevet)",
+   "type": "Observance"
+  },
+  {
+   "date": "2023-12-24",
+   "name": "Catholic/Protestant Christmas Eve",
+   "type": "Observance"
+  },
+  {
+   "date": "2023-12-25",
+   "name": "Catholic/Protestant Christmas Day",
+   "type": "Observance"
+  },
+  {
+   "date": "2023-12-26",
+   "name": "Catholic/Protestant Boxing Day",
+   "type": "Observance"
+  },
+  {
+   "date": "2023-12-31",
+   "name": "New Year's Eve",
+   "type": "Observance"
+  },
+  {
+   "date": "2024-01-01",
+   "name": "New Year's Day",
+   "type": "Observance"
+  },
+  {
+   "date": "2024-01-05",
+   "name": "Catholic/Protestant Epiphany Eve",
+   "type": "Observance"
+  },
+  {
+   "date": "2024-01-06",
+   "name": "Catholic/Protestant Epiphany",
+   "type": "Observance"
+  },
+  {
+   "date": "2024-01-06",
+   "name": "Orthodox Christmas Eve",
+   "type": "Observance"
+  },
+  {
+   "date": "2024-01-07",
+   "name": "Orthodox Christmas Day",
+   "type": "Observance"
+  },
+  {
+   "date": "2024-01-08",
+   "name": "Orthodox Christmas Holiday",
+   "type": "Observance"
+  },
+  {
+   "date": "2024-01-13",
+   "name": "Orthodox New Year’s Eve",
+   "type": "Observance"
+  },
+  {
+   "date": "2024-01-14",
+   "name": "Orthodox New Year",
+   "type": "Observance"
+  },
+  {
+   "date": "2024-01-18",
+   "name": "Armenian Christmas Eve",
+   "type": "Observance"
+  },
+  {
+   "date": "2024-01-18",
+   "name": "Orthodox Epiphany Eve",
+   "type": "Observance"
+  },
+  {
+   "date": "2024-01-19",
+   "name": "Armenian Christmas Day",
+   "type": "Observance"
+  },
+  {
+   "date": "2024-01-19",
+   "name": "Orthodox Epiphany Day",
+   "type": "Observance"
+  },
+  {
+   "date": "2024-01-20",
+   "name": "Armenian Christmas Holiday",
+   "type": "Observance"
+  },
+  {
+   "date": "2024-01-24",
+   "name": "Eid al-Khader Eve",
+   "type": "Observance"
+  },
+  {
+   "date": "2024-01-25",
+   "name": "Eid al-Khader",
+   "type": "Observance"
+  },
+  {
+   "date": "2024-02-06",
+   "name": "Al Isra' wal Miraj",
+   "type": "Observance"
+  },
+  {
+   "date": "2024-02-27",
+   "name": "Municipal Election Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2024-03-08",
+   "name": "International Women's Day",
+   "type": "Observance"
+  },
+  {
+   "date": "2024-03-21",
+   "name": "Fast of Esther",
+   "type": "Observance"
+  },
+  {
+   "date": "2024-03-23",
+   "name": "Purim Eve",
+   "type": "Observance"
+  },
+  {
+   "date": "2024-03-24",
+   "name": "Catholic/Protestant Palm Sunday",
+   "type": "Observance"
+  },
+  {
+   "date": "2024-03-24",
+   "name": "Purim",
+   "type": "Observance"
+  },
+  {
+   "date": "2024-03-25",
+   "name": "Catholic/Protestant Feast of the Annunciation",
+   "type": "Observance"
+  },
+  {
+   "date": "2024-03-25",
+   "name": "Shushan Purim",
+   "type": "Observance"
+  },
+  {
+   "date": "2024-03-28",
+   "name": "Catholic/Protestant Maundy Thursday",
+   "type": "Observance"
+  },
+  {
+   "date": "2024-03-29",
+   "name": "Catholic/Protestant Good Friday",
+   "type": "Observance"
+  },
+  {
+   "date": "2024-03-30",
+   "name": "Catholic/Protestant Holy Saturday",
+   "type": "Observance"
+  },
+  {
+   "date": "2024-03-31",
+   "name": "Catholic/Protestant Easter Sunday",
+   "type": "Observance"
+  },
+  {
+   "date": "2024-04-01",
+   "name": "Catholic/Protestant Easter Monday",
+   "type": "Observance"
+  },
+  {
+   "date": "2024-04-07",
+   "name": "Orthodox Feast of the Annunciation",
+   "type": "Observance"
+  },
+  {
+   "date": "2024-04-20",
+   "name": "Armenian Feast of the Annunciation",
+   "type": "Observance"
+  },
+  {
+   "date": "2024-04-22",
+   "name": "Passover Eve",
+   "type": "Observance"
+  },
+  {
+   "date": "2024-04-23",
+   "name": "Passover (Day 1)",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2024-04-24",
+   "name": "Passover (Day 2)",
+   "type": "Observance"
+  },
+  {
+   "date": "2024-04-24",
+   "name": "Prophet Shuaib's Feast Eve",
+   "type": "Observance"
+  },
+  {
+   "date": "2024-04-25",
+   "name": "Passover (Day 3)",
+   "type": "Observance"
+  },
+  {
+   "date": "2024-04-25",
+   "name": "Prophet Shuaib's Feast",
+   "type": "Observance"
+  },
+  {
+   "date": "2024-04-26",
+   "name": "Passover (Day 4)",
+   "type": "Observance"
+  },
+  {
+   "date": "2024-04-26",
+   "name": "Prophet Shuaib's Feast Holiday",
+   "type": "Observance"
+  },
+  {
+   "date": "2024-04-27",
+   "name": "Passover (Day 5)",
+   "type": "Observance"
+  },
+  {
+   "date": "2024-04-27",
+   "name": "Prophet Shuaib's Feast Holiday",
+   "type": "Observance"
+  },
+  {
+   "date": "2024-04-28",
+   "name": "Armenian/Orthodox Palm Sunday",
+   "type": "Observance"
+  },
+  {
+   "date": "2024-04-28",
+   "name": "Passover (Day 6)",
+   "type": "Observance"
+  },
+  {
+   "date": "2024-04-28",
+   "name": "Prophet Shuaib's Feast Holiday",
+   "type": "Observance"
+  },
+  {
+   "date": "2024-04-29",
+   "name": "Passover (Day 7)",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2024-04-30",
+   "name": "Mimouna Day",
+   "type": "Observance"
+  },
+  {
+   "date": "2024-05-01",
+   "name": "May Day",
+   "type": "Observance"
+  },
+  {
+   "date": "2024-05-02",
+   "name": "Armenian/Orthodox Maundy Thursday",
+   "type": "Observance"
+  },
+  {
+   "date": "2024-05-03",
+   "name": "Armenian/Orthodox Good Friday",
+   "type": "Observance"
+  },
+  {
+   "date": "2024-05-04",
+   "name": "Armenian/Orthodox Holy Saturday",
+   "type": "Observance"
+  },
+  {
+   "date": "2024-05-05",
+   "name": "Armenian/Orthodox Easter Sunday",
+   "type": "Observance"
+  },
+  {
+   "date": "2024-05-06",
+   "name": "Armenian/Orthodox Easter Monday",
+   "type": "Observance"
+  },
+  {
+   "date": "2024-05-06",
+   "name": "Yom HaShoah",
+   "type": "Observance"
+  },
+  {
+   "date": "2024-05-08",
+   "name": "Catholic/Protestant Ascension Eve",
+   "type": "Observance"
+  },
+  {
+   "date": "2024-05-09",
+   "name": "Catholic/Protestant Ascension Day",
+   "type": "Observance"
+  },
+  {
+   "date": "2024-05-13",
+   "name": "Yom HaZikaron",
+   "type": "Observance"
+  },
+  {
+   "date": "2024-05-14",
+   "name": "Yom HaAtzmaut",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2024-05-18",
+   "name": "Catholic/Protestant Pentecost Eve",
+   "type": "Observance"
+  },
+  {
+   "date": "2024-05-19",
+   "name": "Catholic/Protestant Pentecost",
+   "type": "Observance"
+  },
+  {
+   "date": "2024-05-20",
+   "name": "Catholic/Protestant Pentecost Monday",
+   "type": "Observance"
+  },
+  {
+   "date": "2024-05-26",
+   "name": "Lag BaOmer",
+   "type": "Observance"
+  },
+  {
+   "date": "2024-06-05",
+   "name": "Jerusalem Day",
+   "type": "Observance"
+  },
+  {
+   "date": "2024-06-05",
+   "name": "Memorial Day for Ethiopian Jews",
+   "type": "Observance"
+  },
+  {
+   "date": "2024-06-11",
+   "name": "Shavuot Eve",
+   "type": "Observance"
+  },
+  {
+   "date": "2024-06-12",
+   "name": "Armenian/Orthodox Ascension Eve",
+   "type": "Observance"
+  },
+  {
+   "date": "2024-06-12",
+   "name": "Shavuot",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2024-06-13",
+   "name": "Armenian/Orthodox Ascension Day",
+   "type": "Observance"
+  },
+  {
+   "date": "2024-06-22",
+   "name": "Armenian/Orthodox Pentecost Eve",
+   "type": "Observance"
+  },
+  {
+   "date": "2024-06-23",
+   "name": "Armenian/Orthodox Pentecost",
+   "type": "Observance"
+  },
+  {
+   "date": "2024-06-24",
+   "name": "Armenian/Orthodox Pentecost Monday",
+   "type": "Observance"
+  },
+  {
+   "date": "2024-07-23",
+   "name": "17th of Tammuz",
+   "type": "Observance"
+  },
+  {
+   "date": "2024-08-12",
+   "name": "Tisha B'Av Eve",
+   "type": "Observance"
+  },
+  {
+   "date": "2024-08-13",
+   "name": "Tisha B'Av",
+   "type": "Observance"
+  },
+  {
+   "date": "2024-09-01",
+   "name": "First Day of School Year",
+   "type": "Observance"
+  },
+  {
+   "date": "2024-09-09",
+   "name": "Feast of Prophet Sabalan Eve",
+   "type": "Observance"
+  },
+  {
+   "date": "2024-09-10",
+   "name": "Feast of Prophet Sabalan",
+   "type": "Observance"
+  },
+  {
+   "date": "2024-10-02",
+   "name": "Rosh Hashana Eve",
+   "type": "Observance"
+  },
+  {
+   "date": "2024-10-03",
+   "name": "Rosh Hashana",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2024-10-04",
+   "name": "Rosh Hashana (Day 2)",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2024-10-06",
+   "name": "Gedaliah Fast",
+   "type": "Observance"
+  },
+  {
+   "date": "2024-10-11",
+   "name": "Yom Kippur Eve",
+   "type": "Observance"
+  },
+  {
+   "date": "2024-10-12",
+   "name": "Yom Kippur",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2024-10-16",
+   "name": "Sukkot Eve",
+   "type": "Observance"
+  },
+  {
+   "date": "2024-10-17",
+   "name": "Sukkot (Day 1)",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2024-10-18",
+   "name": "Sukkot (Day 2)",
+   "type": "Observance"
+  },
+  {
+   "date": "2024-10-19",
+   "name": "Sukkot (Day 3)",
+   "type": "Observance"
+  },
+  {
+   "date": "2024-10-20",
+   "name": "Sukkot (Day 4)",
+   "type": "Observance"
+  },
+  {
+   "date": "2024-10-21",
+   "name": "Sukkot (Day 5)",
+   "type": "Observance"
+  },
+  {
+   "date": "2024-10-22",
+   "name": "Sukkot (Day 6)",
+   "type": "Observance"
+  },
+  {
+   "date": "2024-10-23",
+   "name": "Sukkot (Day 7) / Hoshanah Rabah",
+   "type": "Observance"
+  },
+  {
+   "date": "2024-10-24",
+   "name": "Shemini Atzeret / Simchat Torah",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2024-11-08",
+   "name": "Aliyah Day School Observance",
+   "type": "Observance"
+  },
+  {
+   "date": "2024-11-30",
+   "name": "Sigd",
+   "type": "Observance"
+  },
+  {
+   "date": "2024-12-24",
+   "name": "Catholic/Protestant Christmas Eve",
+   "type": "Observance"
+  },
+  {
+   "date": "2024-12-25",
+   "name": "Catholic/Protestant Christmas Day",
+   "type": "Observance"
+  },
+  {
+   "date": "2024-12-26",
+   "name": "Catholic/Protestant Boxing Day",
+   "type": "Observance"
+  },
+  {
+   "date": "2024-12-26",
+   "name": "Hanukkah (Day 1)",
+   "type": "Observance"
+  },
+  {
+   "date": "2024-12-27",
+   "name": "Hanukkah (Day 2)",
+   "type": "Observance"
+  },
+  {
+   "date": "2024-12-28",
+   "name": "Hanukkah (Day 3)",
+   "type": "Observance"
+  },
+  {
+   "date": "2024-12-29",
+   "name": "Hanukkah (Day 4)",
+   "type": "Observance"
+  },
+  {
+   "date": "2024-12-30",
+   "name": "Hanukkah (Day 5)",
+   "type": "Observance"
+  },
+  {
+   "date": "2024-12-31",
+   "name": "Hanukkah (Day 6) / Rosh Chodesh Tevet",
+   "type": "Observance"
+  },
+  {
+   "date": "2024-12-31",
+   "name": "New Year's Eve",
+   "type": "Observance"
+  },
+  {
+   "date": "2025-01-01",
+   "name": "Hanukkah (Day 7)",
+   "type": "Observance"
+  },
+  {
+   "date": "2025-01-01",
+   "name": "New Year's Day",
+   "type": "Observance"
+  },
+  {
+   "date": "2025-01-02",
+   "name": "Hanukkah (Day 8)",
+   "type": "Observance"
+  },
+  {
+   "date": "2025-01-05",
+   "name": "Catholic/Protestant Epiphany Eve",
+   "type": "Observance"
+  },
+  {
+   "date": "2025-01-06",
+   "name": "Catholic/Protestant Epiphany",
+   "type": "Observance"
+  },
+  {
+   "date": "2025-01-06",
+   "name": "Orthodox Christmas Eve",
+   "type": "Observance"
+  },
+  {
+   "date": "2025-01-07",
+   "name": "Orthodox Christmas Day",
+   "type": "Observance"
+  },
+  {
+   "date": "2025-01-08",
+   "name": "Orthodox Christmas Holiday",
+   "type": "Observance"
+  },
+  {
+   "date": "2025-01-10",
+   "name": "Asarah B'Tevet (Tenth of Tevet)",
+   "type": "Observance"
+  },
+  {
+   "date": "2025-01-13",
+   "name": "Orthodox New Year’s Eve",
+   "type": "Observance"
+  },
+  {
+   "date": "2025-01-14",
+   "name": "Orthodox New Year",
+   "type": "Observance"
+  },
+  {
+   "date": "2025-01-18",
+   "name": "Armenian Christmas Eve",
+   "type": "Observance"
+  },
+  {
+   "date": "2025-01-18",
+   "name": "Orthodox Epiphany Eve",
+   "type": "Observance"
+  },
+  {
+   "date": "2025-01-19",
+   "name": "Armenian Christmas Day",
+   "type": "Observance"
+  },
+  {
+   "date": "2025-01-19",
+   "name": "Orthodox Epiphany Day",
+   "type": "Observance"
+  },
+  {
+   "date": "2025-01-20",
+   "name": "Armenian Christmas Holiday",
+   "type": "Observance"
+  },
+  {
+   "date": "2025-01-24",
+   "name": "Eid al-Khader Eve",
+   "type": "Observance"
+  },
+  {
+   "date": "2025-01-25",
+   "name": "Eid al-Khader",
+   "type": "Observance"
+  },
+  {
+   "date": "2025-01-27",
+   "name": "Al Isra' wal Miraj",
+   "type": "Observance"
+  },
+  {
+   "date": "2025-03-01",
+   "name": "Ramadan begins",
+   "type": "Observance"
+  },
+  {
+   "date": "2025-03-08",
+   "name": "International Women's Day",
+   "type": "Observance"
+  },
+  {
+   "date": "2025-03-13",
+   "name": "Fast of Esther",
+   "type": "Observance"
+  },
+  {
+   "date": "2025-03-13",
+   "name": "Purim Eve",
+   "type": "Observance"
+  },
+  {
+   "date": "2025-03-14",
+   "name": "Purim",
+   "type": "Observance"
+  },
+  {
+   "date": "2025-03-15",
+   "name": "Shushan Purim",
+   "type": "Observance"
+  },
+  {
+   "date": "2025-03-25",
+   "name": "Catholic/Protestant Feast of the Annunciation",
+   "type": "Observance"
+  },
+  {
+   "date": "2025-03-29",
+   "name": "Eid al-Fitr Eve",
+   "type": "Observance"
+  },
+  {
+   "date": "2025-03-30",
+   "name": "Eid al-Fitr",
+   "type": "Observance"
+  },
+  {
+   "date": "2025-03-31",
+   "name": "Eid al-Fitr Holiday",
+   "type": "Observance"
+  },
+  {
+   "date": "2025-04-01",
+   "name": "Eid al-Fitr Holiday",
+   "type": "Observance"
+  },
+  {
+   "date": "2025-04-07",
+   "name": "Orthodox Feast of the Annunciation",
+   "type": "Observance"
+  },
+  {
+   "date": "2025-04-12",
+   "name": "Passover Eve",
+   "type": "Observance"
+  },
+  {
+   "date": "2025-04-13",
+   "name": "Armenian/Orthodox Palm Sunday",
+   "type": "Observance"
+  },
+  {
+   "date": "2025-04-13",
+   "name": "Catholic/Protestant Palm Sunday",
+   "type": "Observance"
+  },
+  {
+   "date": "2025-04-13",
+   "name": "Passover (Day 1)",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2025-04-14",
+   "name": "Passover (Day 2)",
+   "type": "Observance"
+  },
+  {
+   "date": "2025-04-15",
+   "name": "Passover (Day 3)",
+   "type": "Observance"
+  },
+  {
+   "date": "2025-04-16",
+   "name": "Passover (Day 4)",
+   "type": "Observance"
+  },
+  {
+   "date": "2025-04-17",
+   "name": "Armenian/Orthodox Maundy Thursday",
+   "type": "Observance"
+  },
+  {
+   "date": "2025-04-17",
+   "name": "Catholic/Protestant Maundy Thursday",
+   "type": "Observance"
+  },
+  {
+   "date": "2025-04-17",
+   "name": "Passover (Day 5)",
+   "type": "Observance"
+  },
+  {
+   "date": "2025-04-18",
+   "name": "Armenian/Orthodox Good Friday",
+   "type": "Observance"
+  },
+  {
+   "date": "2025-04-18",
+   "name": "Catholic/Protestant Good Friday",
+   "type": "Observance"
+  },
+  {
+   "date": "2025-04-18",
+   "name": "Passover (Day 6)",
+   "type": "Observance"
+  },
+  {
+   "date": "2025-04-19",
+   "name": "Armenian/Orthodox Holy Saturday",
+   "type": "Observance"
+  },
+  {
+   "date": "2025-04-19",
+   "name": "Catholic/Protestant Holy Saturday",
+   "type": "Observance"
+  },
+  {
+   "date": "2025-04-19",
+   "name": "Passover (Day 7)",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2025-04-20",
+   "name": "Armenian Feast of the Annunciation",
+   "type": "Observance"
+  },
+  {
+   "date": "2025-04-20",
+   "name": "Armenian/Orthodox Easter Sunday",
+   "type": "Observance"
+  },
+  {
+   "date": "2025-04-20",
+   "name": "Catholic/Protestant Easter Sunday",
+   "type": "Observance"
+  },
+  {
+   "date": "2025-04-20",
+   "name": "Mimouna Day",
+   "type": "Observance"
+  },
+  {
+   "date": "2025-04-21",
+   "name": "Armenian/Orthodox Easter Monday",
+   "type": "Observance"
+  },
+  {
+   "date": "2025-04-21",
+   "name": "Catholic/Protestant Easter Monday",
+   "type": "Observance"
+  },
+  {
+   "date": "2025-04-24",
+   "name": "Prophet Shuaib's Feast Eve",
+   "type": "Observance"
+  },
+  {
+   "date": "2025-04-24",
+   "name": "Yom HaShoah",
+   "type": "Observance"
+  },
+  {
+   "date": "2025-04-25",
+   "name": "Prophet Shuaib's Feast",
+   "type": "Observance"
+  },
+  {
+   "date": "2025-04-26",
+   "name": "Prophet Shuaib's Feast Holiday",
+   "type": "Observance"
+  },
+  {
+   "date": "2025-04-27",
+   "name": "Prophet Shuaib's Feast Holiday",
+   "type": "Observance"
+  },
+  {
+   "date": "2025-04-28",
+   "name": "Prophet Shuaib's Feast Holiday",
+   "type": "Observance"
+  },
+  {
+   "date": "2025-04-30",
+   "name": "Yom HaZikaron",
+   "type": "Observance"
+  },
+  {
+   "date": "2025-05-01",
+   "name": "May Day",
+   "type": "Observance"
+  },
+  {
+   "date": "2025-05-01",
+   "name": "Yom HaAtzmaut",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2025-05-08",
+   "name": "Victory Day over Nazi Germany",
+   "type": "Observance"
+  },
+  {
+   "date": "2025-05-16",
+   "name": "Lag BaOmer",
+   "type": "Observance"
+  },
+  {
+   "date": "2025-05-26",
+   "name": "Jerusalem Day",
+   "type": "Observance"
+  },
+  {
+   "date": "2025-05-26",
+   "name": "Memorial Day for Ethiopian Jews",
+   "type": "Observance"
+  },
+  {
+   "date": "2025-05-28",
+   "name": "Armenian/Orthodox Ascension Eve",
+   "type": "Observance"
+  },
+  {
+   "date": "2025-05-28",
+   "name": "Catholic/Protestant Ascension Eve",
+   "type": "Observance"
+  },
+  {
+   "date": "2025-05-29",
+   "name": "Armenian/Orthodox Ascension Day",
+   "type": "Observance"
+  },
+  {
+   "date": "2025-05-29",
+   "name": "Catholic/Protestant Ascension Day",
+   "type": "Observance"
+  },
+  {
+   "date": "2025-06-01",
+   "name": "Shavuot Eve",
+   "type": "Observance"
+  },
+  {
+   "date": "2025-06-02",
+   "name": "Shavuot",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2025-06-05",
+   "name": "Eid al-Adha Eve",
+   "type": "Observance"
+  },
+  {
+   "date": "2025-06-06",
+   "name": "Eid al-Adha",
+   "type": "Observance"
+  },
+  {
+   "date": "2025-06-07",
+   "name": "Armenian/Orthodox Pentecost Eve",
+   "type": "Observance"
+  },
+  {
+   "date": "2025-06-07",
+   "name": "Catholic/Protestant Pentecost Eve",
+   "type": "Observance"
+  },
+  {
+   "date": "2025-06-07",
+   "name": "Eid al-Adha Holiday",
+   "type": "Observance"
+  },
+  {
+   "date": "2025-06-08",
+   "name": "Armenian/Orthodox Pentecost",
+   "type": "Observance"
+  },
+  {
+   "date": "2025-06-08",
+   "name": "Catholic/Protestant Pentecost",
+   "type": "Observance"
+  },
+  {
+   "date": "2025-06-08",
+   "name": "Eid al-Adha Holiday",
+   "type": "Observance"
+  },
+  {
+   "date": "2025-06-09",
+   "name": "Armenian/Orthodox Pentecost Monday",
+   "type": "Observance"
+  },
+  {
+   "date": "2025-06-09",
+   "name": "Catholic/Protestant Pentecost Monday",
+   "type": "Observance"
+  },
+  {
+   "date": "2025-06-09",
+   "name": "Eid al-Adha Holiday",
+   "type": "Observance"
+  },
+  {
+   "date": "2025-06-25",
+   "name": "Muharram Eve",
+   "type": "Observance"
+  },
+  {
+   "date": "2025-06-26",
+   "name": "Muharram",
+   "type": "Observance"
+  },
+  {
+   "date": "2025-07-13",
+   "name": "17th of Tammuz",
+   "type": "Observance"
+  },
+  {
+   "date": "2025-07-16",
+   "name": "Herzl’s Death Anniversary",
+   "type": "Observance"
+  },
+  {
+   "date": "2025-08-02",
+   "name": "Tisha B'Av Eve",
+   "type": "Observance"
+  },
+  {
+   "date": "2025-08-03",
+   "name": "Tisha B'Av",
+   "type": "Observance"
+  },
+  {
+   "date": "2025-09-01",
+   "name": "First Day of School Year",
+   "type": "Observance"
+  },
+  {
+   "date": "2025-09-03",
+   "name": "Prophet's Birthday Eve",
+   "type": "Observance"
+  },
+  {
+   "date": "2025-09-04",
+   "name": "Prophet's Birthday",
+   "type": "Observance"
+  },
+  {
+   "date": "2025-09-09",
+   "name": "Feast of Prophet Sabalan Eve",
+   "type": "Observance"
+  },
+  {
+   "date": "2025-09-10",
+   "name": "Feast of Prophet Sabalan",
+   "type": "Observance"
+  },
+  {
+   "date": "2025-09-22",
+   "name": "Rosh Hashana Eve",
+   "type": "Observance"
+  },
+  {
+   "date": "2025-09-23",
+   "name": "Rosh Hashana",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2025-09-24",
+   "name": "Rosh Hashana (Day 2)",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2025-09-25",
+   "name": "Gedaliah Fast",
+   "type": "Observance"
+  },
+  {
+   "date": "2025-10-01",
+   "name": "Yom Kippur Eve",
+   "type": "Observance"
+  },
+  {
+   "date": "2025-10-02",
+   "name": "Yom Kippur",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2025-10-06",
+   "name": "Sukkot Eve",
+   "type": "Observance"
+  },
+  {
+   "date": "2025-10-07",
+   "name": "Sukkot (Day 1)",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2025-10-08",
+   "name": "Sukkot (Day 2)",
+   "type": "Observance"
+  },
+  {
+   "date": "2025-10-09",
+   "name": "Sukkot (Day 3)",
+   "type": "Observance"
+  },
+  {
+   "date": "2025-10-10",
+   "name": "Sukkot (Day 4)",
+   "type": "Observance"
+  },
+  {
+   "date": "2025-10-11",
+   "name": "Sukkot (Day 5)",
+   "type": "Observance"
+  },
+  {
+   "date": "2025-10-12",
+   "name": "Sukkot (Day 6)",
+   "type": "Observance"
+  },
+  {
+   "date": "2025-10-13",
+   "name": "Sukkot (Day 7) / Hoshanah Rabah",
+   "type": "Observance"
+  },
+  {
+   "date": "2025-10-14",
+   "name": "Shemini Atzeret / Simchat Torah",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2025-10-29",
+   "name": "Aliyah Day School Observance",
+   "type": "Observance"
+  },
+  {
+   "date": "2025-11-20",
+   "name": "Sigd",
+   "type": "Observance"
+  },
+  {
+   "date": "2025-12-15",
+   "name": "Hanukkah (Day 1)",
+   "type": "Observance"
+  },
+  {
+   "date": "2025-12-16",
+   "name": "Hanukkah (Day 2)",
+   "type": "Observance"
+  },
+  {
+   "date": "2025-12-17",
+   "name": "Hanukkah (Day 3)",
+   "type": "Observance"
+  },
+  {
+   "date": "2025-12-18",
+   "name": "Hanukkah (Day 4)",
+   "type": "Observance"
+  },
+  {
+   "date": "2025-12-19",
+   "name": "Hanukkah (Day 5)",
+   "type": "Observance"
+  },
+  {
+   "date": "2025-12-20",
+   "name": "Hanukkah (Day 6) / Rosh Chodesh Tevet",
+   "type": "Observance"
+  },
+  {
+   "date": "2025-12-21",
+   "name": "Hanukkah (Day 7)",
+   "type": "Observance"
+  },
+  {
+   "date": "2025-12-22",
+   "name": "Hanukkah (Day 8)",
+   "type": "Observance"
+  },
+  {
+   "date": "2025-12-24",
+   "name": "Catholic/Protestant Christmas Eve",
+   "type": "Observance"
+  },
+  {
+   "date": "2025-12-25",
+   "name": "Catholic/Protestant Christmas Day",
+   "type": "Observance"
+  },
+  {
+   "date": "2025-12-26",
+   "name": "Catholic/Protestant Boxing Day",
+   "type": "Observance"
+  },
+  {
+   "date": "2025-12-30",
+   "name": "Asarah B'Tevet (Tenth of Tevet)",
+   "type": "Observance"
+  },
+  {
+   "date": "2025-12-31",
+   "name": "New Year's Eve",
+   "type": "Observance"
+  },
+  {
+   "date": "2026-01-01",
+   "name": "New Year's Day",
+   "type": "Observance"
+  },
+  {
+   "date": "2026-01-05",
+   "name": "Catholic/Protestant Epiphany Eve",
+   "type": "Observance"
+  },
+  {
+   "date": "2026-01-06",
+   "name": "Catholic/Protestant Epiphany",
+   "type": "Observance"
+  },
+  {
+   "date": "2026-01-06",
+   "name": "Orthodox Christmas Eve",
+   "type": "Observance"
+  },
+  {
+   "date": "2026-01-07",
+   "name": "Orthodox Christmas Day",
+   "type": "Observance"
+  },
+  {
+   "date": "2026-01-08",
+   "name": "Orthodox Christmas Holiday",
+   "type": "Observance"
+  },
+  {
+   "date": "2026-01-13",
+   "name": "Orthodox New Year’s Eve",
+   "type": "Observance"
+  },
+  {
+   "date": "2026-01-14",
+   "name": "Orthodox New Year",
+   "type": "Observance"
+  },
+  {
+   "date": "2026-01-16",
+   "name": "Al Isra' wal Miraj",
+   "type": "Observance"
+  },
+  {
+   "date": "2026-01-18",
+   "name": "Armenian Christmas Eve",
+   "type": "Observance"
+  },
+  {
+   "date": "2026-01-18",
+   "name": "Orthodox Epiphany Eve",
+   "type": "Observance"
+  },
+  {
+   "date": "2026-01-19",
+   "name": "Armenian Christmas Day",
+   "type": "Observance"
+  },
+  {
+   "date": "2026-01-19",
+   "name": "Orthodox Epiphany Day",
+   "type": "Observance"
+  },
+  {
+   "date": "2026-01-20",
+   "name": "Armenian Christmas Holiday",
+   "type": "Observance"
+  },
+  {
+   "date": "2026-01-24",
+   "name": "Eid al-Khader Eve",
+   "type": "Observance"
+  },
+  {
+   "date": "2026-01-25",
+   "name": "Eid al-Khader",
+   "type": "Observance"
+  },
+  {
+   "date": "2026-02-18",
+   "name": "Ramadan begins",
+   "type": "Observance"
+  },
+  {
+   "date": "2026-03-02",
+   "name": "Fast of Esther",
+   "type": "Observance"
+  },
+  {
+   "date": "2026-03-02",
+   "name": "Purim Eve",
+   "type": "Observance"
+  },
+  {
+   "date": "2026-03-03",
+   "name": "Purim",
+   "type": "Observance"
+  },
+  {
+   "date": "2026-03-04",
+   "name": "Shushan Purim",
+   "type": "Observance"
+  },
+  {
+   "date": "2026-03-08",
+   "name": "International Women's Day",
+   "type": "Observance"
+  },
+  {
+   "date": "2026-03-19",
+   "name": "Eid al-Fitr Eve",
+   "type": "Observance"
+  },
+  {
+   "date": "2026-03-20",
+   "name": "Eid al-Fitr",
+   "type": "Observance"
+  },
+  {
+   "date": "2026-03-21",
+   "name": "Eid al-Fitr Holiday",
+   "type": "Observance"
+  },
+  {
+   "date": "2026-03-22",
+   "name": "Eid al-Fitr Holiday",
+   "type": "Observance"
+  },
+  {
+   "date": "2026-03-25",
+   "name": "Catholic/Protestant Feast of the Annunciation",
+   "type": "Observance"
+  },
+  {
+   "date": "2026-03-29",
+   "name": "Catholic/Protestant Palm Sunday",
+   "type": "Observance"
+  },
+  {
+   "date": "2026-04-01",
+   "name": "Passover Eve",
+   "type": "Observance"
+  },
+  {
+   "date": "2026-04-02",
+   "name": "Catholic/Protestant Maundy Thursday",
+   "type": "Observance"
+  },
+  {
+   "date": "2026-04-02",
+   "name": "Passover (Day 1)",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2026-04-03",
+   "name": "Catholic/Protestant Good Friday",
+   "type": "Observance"
+  },
+  {
+   "date": "2026-04-03",
+   "name": "Passover (Day 2)",
+   "type": "Observance"
+  },
+  {
+   "date": "2026-04-04",
+   "name": "Catholic/Protestant Holy Saturday",
+   "type": "Observance"
+  },
+  {
+   "date": "2026-04-04",
+   "name": "Passover (Day 3)",
+   "type": "Observance"
+  },
+  {
+   "date": "2026-04-05",
+   "name": "Armenian/Orthodox Palm Sunday",
+   "type": "Observance"
+  },
+  {
+   "date": "2026-04-05",
+   "name": "Catholic/Protestant Easter Sunday",
+   "type": "Observance"
+  },
+  {
+   "date": "2026-04-05",
+   "name": "Passover (Day 4)",
+   "type": "Observance"
+  },
+  {
+   "date": "2026-04-06",
+   "name": "Catholic/Protestant Easter Monday",
+   "type": "Observance"
+  },
+  {
+   "date": "2026-04-06",
+   "name": "Passover (Day 5)",
+   "type": "Observance"
+  },
+  {
+   "date": "2026-04-07",
+   "name": "Orthodox Feast of the Annunciation",
+   "type": "Observance"
+  },
+  {
+   "date": "2026-04-07",
+   "name": "Passover (Day 6)",
+   "type": "Observance"
+  },
+  {
+   "date": "2026-04-08",
+   "name": "Passover (Day 7)",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2026-04-09",
+   "name": "Armenian/Orthodox Maundy Thursday",
+   "type": "Observance"
+  },
+  {
+   "date": "2026-04-09",
+   "name": "Mimouna Day",
+   "type": "Observance"
+  },
+  {
+   "date": "2026-04-10",
+   "name": "Armenian/Orthodox Good Friday",
+   "type": "Observance"
+  },
+  {
+   "date": "2026-04-11",
+   "name": "Armenian/Orthodox Holy Saturday",
+   "type": "Observance"
+  },
+  {
+   "date": "2026-04-12",
+   "name": "Armenian/Orthodox Easter Sunday",
+   "type": "Observance"
+  },
+  {
+   "date": "2026-04-13",
+   "name": "Armenian/Orthodox Easter Monday",
+   "type": "Observance"
+  },
+  {
+   "date": "2026-04-14",
+   "name": "Yom HaShoah",
+   "type": "Observance"
+  },
+  {
+   "date": "2026-04-20",
+   "name": "Armenian Feast of the Annunciation",
+   "type": "Observance"
+  },
+  {
+   "date": "2026-04-21",
+   "name": "Yom HaZikaron",
+   "type": "Observance"
+  },
+  {
+   "date": "2026-04-22",
+   "name": "Yom HaAtzmaut",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2026-04-24",
+   "name": "Prophet Shuaib's Feast Eve",
+   "type": "Observance"
+  },
+  {
+   "date": "2026-04-25",
+   "name": "Prophet Shuaib's Feast",
+   "type": "Observance"
+  },
+  {
+   "date": "2026-04-26",
+   "name": "Prophet Shuaib's Feast Holiday",
+   "type": "Observance"
+  },
+  {
+   "date": "2026-04-27",
+   "name": "Prophet Shuaib's Feast Holiday",
+   "type": "Observance"
+  },
+  {
+   "date": "2026-04-28",
+   "name": "Prophet Shuaib's Feast Holiday",
+   "type": "Observance"
+  },
+  {
+   "date": "2026-05-01",
+   "name": "May Day",
+   "type": "Observance"
+  },
+  {
+   "date": "2026-05-05",
+   "name": "Lag BaOmer",
+   "type": "Observance"
+  },
+  {
+   "date": "2026-05-10",
+   "name": "Victory Day over Nazi Germany",
+   "type": "Observance"
+  },
+  {
+   "date": "2026-05-13",
+   "name": "Catholic/Protestant Ascension Eve",
+   "type": "Observance"
+  },
+  {
+   "date": "2026-05-14",
+   "name": "Catholic/Protestant Ascension Day",
+   "type": "Observance"
+  },
+  {
+   "date": "2026-05-15",
+   "name": "Jerusalem Day",
+   "type": "Observance"
+  },
+  {
+   "date": "2026-05-15",
+   "name": "Memorial Day for Ethiopian Jews",
+   "type": "Observance"
+  },
+  {
+   "date": "2026-05-20",
+   "name": "Armenian/Orthodox Ascension Eve",
+   "type": "Observance"
+  },
+  {
+   "date": "2026-05-21",
+   "name": "Armenian/Orthodox Ascension Day",
+   "type": "Observance"
+  },
+  {
+   "date": "2026-05-21",
+   "name": "Shavuot Eve",
+   "type": "Observance"
+  },
+  {
+   "date": "2026-05-22",
+   "name": "Shavuot",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2026-05-23",
+   "name": "Catholic/Protestant Pentecost Eve",
+   "type": "Observance"
+  },
+  {
+   "date": "2026-05-24",
+   "name": "Catholic/Protestant Pentecost",
+   "type": "Observance"
+  },
+  {
+   "date": "2026-05-25",
+   "name": "Catholic/Protestant Pentecost Monday",
+   "type": "Observance"
+  },
+  {
+   "date": "2026-05-26",
+   "name": "Eid al-Adha Eve",
+   "type": "Observance"
+  },
+  {
+   "date": "2026-05-27",
+   "name": "Eid al-Adha",
+   "type": "Observance"
+  },
+  {
+   "date": "2026-05-28",
+   "name": "Eid al-Adha Holiday",
+   "type": "Observance"
+  },
+  {
+   "date": "2026-05-29",
+   "name": "Eid al-Adha Holiday",
+   "type": "Observance"
+  },
+  {
+   "date": "2026-05-30",
+   "name": "Armenian/Orthodox Pentecost Eve",
+   "type": "Observance"
+  },
+  {
+   "date": "2026-05-30",
+   "name": "Eid al-Adha Holiday",
+   "type": "Observance"
+  },
+  {
+   "date": "2026-05-31",
+   "name": "Armenian/Orthodox Pentecost",
+   "type": "Observance"
+  },
+  {
+   "date": "2026-06-01",
+   "name": "Armenian/Orthodox Pentecost Monday",
+   "type": "Observance"
+  },
+  {
+   "date": "2026-06-15",
+   "name": "Muharram Eve",
+   "type": "Observance"
+  },
+  {
+   "date": "2026-06-16",
+   "name": "Muharram",
+   "type": "Observance"
+  },
+  {
+   "date": "2026-07-02",
+   "name": "17th of Tammuz",
+   "type": "Observance"
+  },
+  {
+   "date": "2026-07-22",
+   "name": "Tisha B'Av Eve",
+   "type": "Observance"
+  },
+  {
+   "date": "2026-07-23",
+   "name": "Tisha B'Av",
+   "type": "Observance"
+  },
+  {
+   "date": "2026-08-24",
+   "name": "Prophet's Birthday Eve",
+   "type": "Observance"
+  },
+  {
+   "date": "2026-08-25",
+   "name": "Prophet's Birthday",
+   "type": "Observance"
+  },
+  {
+   "date": "2026-09-01",
+   "name": "First Day of School Year",
+   "type": "Observance"
+  },
+  {
+   "date": "2026-09-09",
+   "name": "Feast of Prophet Sabalan Eve",
+   "type": "Observance"
+  },
+  {
+   "date": "2026-09-10",
+   "name": "Feast of Prophet Sabalan",
+   "type": "Observance"
+  },
+  {
+   "date": "2026-09-11",
+   "name": "Rosh Hashana Eve",
+   "type": "Observance"
+  },
+  {
+   "date": "2026-09-12",
+   "name": "Rosh Hashana",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2026-09-13",
+   "name": "Rosh Hashana (Day 2)",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2026-09-14",
+   "name": "Gedaliah Fast",
+   "type": "Observance"
+  },
+  {
+   "date": "2026-09-20",
+   "name": "Yom Kippur Eve",
+   "type": "Observance"
+  },
+  {
+   "date": "2026-09-21",
+   "name": "Yom Kippur",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2026-09-25",
+   "name": "Sukkot Eve",
+   "type": "Observance"
+  },
+  {
+   "date": "2026-09-26",
+   "name": "Sukkot (Day 1)",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2026-09-27",
+   "name": "Sukkot (Day 2)",
+   "type": "Observance"
+  },
+  {
+   "date": "2026-09-28",
+   "name": "Sukkot (Day 3)",
+   "type": "Observance"
+  },
+  {
+   "date": "2026-09-29",
+   "name": "Sukkot (Day 4)",
+   "type": "Observance"
+  },
+  {
+   "date": "2026-09-30",
+   "name": "Sukkot (Day 5)",
+   "type": "Observance"
+  },
+  {
+   "date": "2026-10-01",
+   "name": "Sukkot (Day 6)",
+   "type": "Observance"
+  },
+  {
+   "date": "2026-10-02",
+   "name": "Sukkot (Day 7) / Hoshanah Rabah",
+   "type": "Observance"
+  },
+  {
+   "date": "2026-10-03",
+   "name": "Shemini Atzeret / Simchat Torah",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2026-10-18",
+   "name": "Aliyah Day School Observance",
+   "type": "Observance"
+  },
+  {
+   "date": "2026-10-27",
+   "name": "Election Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2026-11-09",
+   "name": "Sigd",
+   "type": "Observance"
+  },
+  {
+   "date": "2026-12-05",
+   "name": "Hanukkah (Day 1)",
+   "type": "Observance"
+  },
+  {
+   "date": "2026-12-06",
+   "name": "Hanukkah (Day 2)",
+   "type": "Observance"
+  },
+  {
+   "date": "2026-12-07",
+   "name": "Hanukkah (Day 3)",
+   "type": "Observance"
+  },
+  {
+   "date": "2026-12-08",
+   "name": "Hanukkah (Day 4)",
+   "type": "Observance"
+  },
+  {
+   "date": "2026-12-09",
+   "name": "Hanukkah (Day 5)",
+   "type": "Observance"
+  },
+  {
+   "date": "2026-12-10",
+   "name": "Hanukkah (Day 6) / Rosh Chodesh Tevet",
+   "type": "Observance"
+  },
+  {
+   "date": "2026-12-11",
+   "name": "Hanukkah (Day 7)",
+   "type": "Observance"
+  },
+  {
+   "date": "2026-12-12",
+   "name": "Hanukkah (Day 8)",
+   "type": "Observance"
+  },
+  {
+   "date": "2026-12-20",
+   "name": "Asarah B'Tevet (Tenth of Tevet)",
+   "type": "Observance"
+  },
+  {
+   "date": "2026-12-24",
+   "name": "Catholic/Protestant Christmas Eve",
+   "type": "Observance"
+  },
+  {
+   "date": "2026-12-25",
+   "name": "Catholic/Protestant Christmas Day",
+   "type": "Observance"
+  },
+  {
+   "date": "2026-12-26",
+   "name": "Catholic/Protestant Boxing Day",
+   "type": "Observance"
+  },
+  {
+   "date": "2026-12-31",
+   "name": "New Year's Eve",
+   "type": "Observance"
+  },
+  {
+   "date": "2027-01-01",
+   "name": "New Year's Day",
+   "type": "Observance"
+  },
+  {
+   "date": "2027-01-05",
+   "name": "Al Isra' wal Miraj (tentative)",
+   "type": "Observance"
+  },
+  {
+   "date": "2027-01-05",
+   "name": "Catholic/Protestant Epiphany Eve",
+   "type": "Observance"
+  },
+  {
+   "date": "2027-01-06",
+   "name": "Catholic/Protestant Epiphany",
+   "type": "Observance"
+  },
+  {
+   "date": "2027-01-06",
+   "name": "Orthodox Christmas Eve",
+   "type": "Observance"
+  },
+  {
+   "date": "2027-01-07",
+   "name": "Orthodox Christmas Day",
+   "type": "Observance"
+  },
+  {
+   "date": "2027-01-08",
+   "name": "Orthodox Christmas Holiday",
+   "type": "Observance"
+  },
+  {
+   "date": "2027-01-13",
+   "name": "Orthodox New Year’s Eve",
+   "type": "Observance"
+  },
+  {
+   "date": "2027-01-14",
+   "name": "Orthodox New Year",
+   "type": "Observance"
+  },
+  {
+   "date": "2027-01-18",
+   "name": "Armenian Christmas Eve",
+   "type": "Observance"
+  },
+  {
+   "date": "2027-01-18",
+   "name": "Orthodox Epiphany Eve",
+   "type": "Observance"
+  },
+  {
+   "date": "2027-01-19",
+   "name": "Armenian Christmas Day",
+   "type": "Observance"
+  },
+  {
+   "date": "2027-01-19",
+   "name": "Orthodox Epiphany Day",
+   "type": "Observance"
+  },
+  {
+   "date": "2027-01-20",
+   "name": "Armenian Christmas Holiday",
+   "type": "Observance"
+  },
+  {
+   "date": "2027-01-24",
+   "name": "Eid al-Khader Eve",
+   "type": "Observance"
+  },
+  {
+   "date": "2027-01-25",
+   "name": "Eid al-Khader",
+   "type": "Observance"
+  },
+  {
+   "date": "2027-02-08",
+   "name": "Ramadan begins (tentative)",
+   "type": "Observance"
+  },
+  {
+   "date": "2027-03-08",
+   "name": "International Women's Day",
+   "type": "Observance"
+  },
+  {
+   "date": "2027-03-09",
+   "name": "Eid al-Fitr Eve (tentative)",
+   "type": "Observance"
+  },
+  {
+   "date": "2027-03-10",
+   "name": "Eid al-Fitr (tentative)",
+   "type": "Observance"
+  },
+  {
+   "date": "2027-03-11",
+   "name": "Eid al-Fitr Holiday (tentative)",
+   "type": "Observance"
+  },
+  {
+   "date": "2027-03-12",
+   "name": "Eid al-Fitr Holiday (tentative)",
+   "type": "Observance"
+  },
+  {
+   "date": "2027-03-21",
+   "name": "Catholic/Protestant Palm Sunday",
+   "type": "Observance"
+  },
+  {
+   "date": "2027-03-22",
+   "name": "Fast of Esther",
+   "type": "Observance"
+  },
+  {
+   "date": "2027-03-22",
+   "name": "Purim Eve",
+   "type": "Observance"
+  },
+  {
+   "date": "2027-03-23",
+   "name": "Purim",
+   "type": "Observance"
+  },
+  {
+   "date": "2027-03-24",
+   "name": "Shushan Purim",
+   "type": "Observance"
+  },
+  {
+   "date": "2027-03-25",
+   "name": "Catholic/Protestant Feast of the Annunciation",
+   "type": "Observance"
+  },
+  {
+   "date": "2027-03-25",
+   "name": "Catholic/Protestant Maundy Thursday",
+   "type": "Observance"
+  },
+  {
+   "date": "2027-03-26",
+   "name": "Catholic/Protestant Good Friday",
+   "type": "Observance"
+  },
+  {
+   "date": "2027-03-27",
+   "name": "Catholic/Protestant Holy Saturday",
+   "type": "Observance"
+  },
+  {
+   "date": "2027-03-28",
+   "name": "Catholic/Protestant Easter Sunday",
+   "type": "Observance"
+  },
+  {
+   "date": "2027-03-29",
+   "name": "Catholic/Protestant Easter Monday",
+   "type": "Observance"
+  },
+  {
+   "date": "2027-04-07",
+   "name": "Orthodox Feast of the Annunciation",
+   "type": "Observance"
+  },
+  {
+   "date": "2027-04-20",
+   "name": "Armenian Feast of the Annunciation",
+   "type": "Observance"
+  },
+  {
+   "date": "2027-04-21",
+   "name": "Passover Eve",
+   "type": "Observance"
+  },
+  {
+   "date": "2027-04-22",
+   "name": "Passover (Day 1)",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2027-04-23",
+   "name": "Passover (Day 2)",
+   "type": "Observance"
+  },
+  {
+   "date": "2027-04-24",
+   "name": "Passover (Day 3)",
+   "type": "Observance"
+  },
+  {
+   "date": "2027-04-24",
+   "name": "Prophet Shuaib's Feast Eve",
+   "type": "Observance"
+  },
+  {
+   "date": "2027-04-25",
+   "name": "Armenian/Orthodox Palm Sunday",
+   "type": "Observance"
+  },
+  {
+   "date": "2027-04-25",
+   "name": "Passover (Day 4)",
+   "type": "Observance"
+  },
+  {
+   "date": "2027-04-25",
+   "name": "Prophet Shuaib's Feast",
+   "type": "Observance"
+  },
+  {
+   "date": "2027-04-26",
+   "name": "Passover (Day 5)",
+   "type": "Observance"
+  },
+  {
+   "date": "2027-04-26",
+   "name": "Prophet Shuaib's Feast Holiday",
+   "type": "Observance"
+  },
+  {
+   "date": "2027-04-27",
+   "name": "Passover (Day 6)",
+   "type": "Observance"
+  },
+  {
+   "date": "2027-04-27",
+   "name": "Prophet Shuaib's Feast Holiday",
+   "type": "Observance"
+  },
+  {
+   "date": "2027-04-28",
+   "name": "Passover (Day 7)",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2027-04-28",
+   "name": "Prophet Shuaib's Feast Holiday",
+   "type": "Observance"
+  },
+  {
+   "date": "2027-04-29",
+   "name": "Armenian/Orthodox Maundy Thursday",
+   "type": "Observance"
+  },
+  {
+   "date": "2027-04-29",
+   "name": "Mimouna Day",
+   "type": "Observance"
+  },
+  {
+   "date": "2027-04-30",
+   "name": "Armenian/Orthodox Good Friday",
+   "type": "Observance"
+  },
+  {
+   "date": "2027-05-01",
+   "name": "Armenian/Orthodox Holy Saturday",
+   "type": "Observance"
+  },
+  {
+   "date": "2027-05-01",
+   "name": "May Day",
+   "type": "Observance"
+  },
+  {
+   "date": "2027-05-02",
+   "name": "Armenian/Orthodox Easter Sunday",
+   "type": "Observance"
+  },
+  {
+   "date": "2027-05-03",
+   "name": "Armenian/Orthodox Easter Monday",
+   "type": "Observance"
+  },
+  {
+   "date": "2027-05-04",
+   "name": "Yom HaShoah",
+   "type": "Observance"
+  },
+  {
+   "date": "2027-05-05",
+   "name": "Catholic/Protestant Ascension Eve",
+   "type": "Observance"
+  },
+  {
+   "date": "2027-05-06",
+   "name": "Catholic/Protestant Ascension Day",
+   "type": "Observance"
+  },
+  {
+   "date": "2027-05-08",
+   "name": "Victory Day over Nazi Germany",
+   "type": "Observance"
+  },
+  {
+   "date": "2027-05-11",
+   "name": "Yom HaZikaron",
+   "type": "Observance"
+  },
+  {
+   "date": "2027-05-12",
+   "name": "Yom HaAtzmaut",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2027-05-15",
+   "name": "Catholic/Protestant Pentecost Eve",
+   "type": "Observance"
+  },
+  {
+   "date": "2027-05-16",
+   "name": "Catholic/Protestant Pentecost",
+   "type": "Observance"
+  },
+  {
+   "date": "2027-05-16",
+   "name": "Eid al-Adha Eve (tentative)",
+   "type": "Observance"
+  },
+  {
+   "date": "2027-05-17",
+   "name": "Catholic/Protestant Pentecost Monday",
+   "type": "Observance"
+  },
+  {
+   "date": "2027-05-17",
+   "name": "Eid al-Adha (tentative)",
+   "type": "Observance"
+  },
+  {
+   "date": "2027-05-18",
+   "name": "Eid al-Adha Holiday (tentative)",
+   "type": "Observance"
+  },
+  {
+   "date": "2027-05-19",
+   "name": "Eid al-Adha Holiday (tentative)",
+   "type": "Observance"
+  },
+  {
+   "date": "2027-05-20",
+   "name": "Eid al-Adha Holiday (tentative)",
+   "type": "Observance"
+  },
+  {
+   "date": "2027-05-25",
+   "name": "Lag BaOmer",
+   "type": "Observance"
+  },
+  {
+   "date": "2027-06-04",
+   "name": "Jerusalem Day",
+   "type": "Observance"
+  },
+  {
+   "date": "2027-06-04",
+   "name": "Memorial Day for Ethiopian Jews",
+   "type": "Observance"
+  },
+  {
+   "date": "2027-06-06",
+   "name": "Muharram (tentative)",
+   "type": "Observance"
+  },
+  {
+   "date": "2027-06-06",
+   "name": "Muharram Eve (tentative)",
+   "type": "Observance"
+  },
+  {
+   "date": "2027-06-09",
+   "name": "Armenian/Orthodox Ascension Eve",
+   "type": "Observance"
+  },
+  {
+   "date": "2027-06-10",
+   "name": "Armenian/Orthodox Ascension Day",
+   "type": "Observance"
+  },
+  {
+   "date": "2027-06-10",
+   "name": "Shavuot Eve",
+   "type": "Observance"
+  },
+  {
+   "date": "2027-06-11",
+   "name": "Shavuot",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2027-06-19",
+   "name": "Armenian/Orthodox Pentecost Eve",
+   "type": "Observance"
+  },
+  {
+   "date": "2027-06-20",
+   "name": "Armenian/Orthodox Pentecost",
+   "type": "Observance"
+  },
+  {
+   "date": "2027-06-21",
+   "name": "Armenian/Orthodox Pentecost Monday",
+   "type": "Observance"
+  },
+  {
+   "date": "2027-07-22",
+   "name": "17th of Tammuz",
+   "type": "Observance"
+  },
+  {
+   "date": "2027-08-11",
+   "name": "Tisha B'Av Eve",
+   "type": "Observance"
+  },
+  {
+   "date": "2027-08-12",
+   "name": "Tisha B'Av",
+   "type": "Observance"
+  },
+  {
+   "date": "2027-08-14",
+   "name": "Prophet's Birthday Eve (tentative)",
+   "type": "Observance"
+  },
+  {
+   "date": "2027-08-15",
+   "name": "Prophet's Birthday (tentative)",
+   "type": "Observance"
+  },
+  {
+   "date": "2027-09-01",
+   "name": "First Day of School Year",
+   "type": "Observance"
+  },
+  {
+   "date": "2027-09-09",
+   "name": "Feast of Prophet Sabalan Eve",
+   "type": "Observance"
+  },
+  {
+   "date": "2027-09-10",
+   "name": "Feast of Prophet Sabalan",
+   "type": "Observance"
+  },
+  {
+   "date": "2027-10-01",
+   "name": "Rosh Hashana Eve",
+   "type": "Observance"
+  },
+  {
+   "date": "2027-10-02",
+   "name": "Rosh Hashana",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2027-10-03",
+   "name": "Rosh Hashana (Day 2)",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2027-10-04",
+   "name": "Gedaliah Fast",
+   "type": "Observance"
+  },
+  {
+   "date": "2027-10-10",
+   "name": "Yom Kippur Eve",
+   "type": "Observance"
+  },
+  {
+   "date": "2027-10-11",
+   "name": "Yom Kippur",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2027-10-15",
+   "name": "Sukkot Eve",
+   "type": "Observance"
+  },
+  {
+   "date": "2027-10-16",
+   "name": "Sukkot (Day 1)",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2027-10-17",
+   "name": "Sukkot (Day 2)",
+   "type": "Observance"
+  },
+  {
+   "date": "2027-10-18",
+   "name": "Sukkot (Day 3)",
+   "type": "Observance"
+  },
+  {
+   "date": "2027-10-19",
+   "name": "Sukkot (Day 4)",
+   "type": "Observance"
+  },
+  {
+   "date": "2027-10-20",
+   "name": "Sukkot (Day 5)",
+   "type": "Observance"
+  },
+  {
+   "date": "2027-10-21",
+   "name": "Sukkot (Day 6)",
+   "type": "Observance"
+  },
+  {
+   "date": "2027-10-22",
+   "name": "Sukkot (Day 7) / Hoshanah Rabah",
+   "type": "Observance"
+  },
+  {
+   "date": "2027-10-23",
+   "name": "Shemini Atzeret / Simchat Torah",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2027-11-07",
+   "name": "Aliyah Day School Observance",
+   "type": "Observance"
+  },
+  {
+   "date": "2027-11-29",
+   "name": "Sigd",
+   "type": "Observance"
+  },
+  {
+   "date": "2027-12-24",
+   "name": "Catholic/Protestant Christmas Eve",
+   "type": "Observance"
+  },
+  {
+   "date": "2027-12-25",
+   "name": "Al Isra' wal Miraj (tentative)",
+   "type": "Observance"
+  },
+  {
+   "date": "2027-12-25",
+   "name": "Catholic/Protestant Christmas Day",
+   "type": "Observance"
+  },
+  {
+   "date": "2027-12-25",
+   "name": "Hanukkah (Day 1)",
+   "type": "Observance"
+  },
+  {
+   "date": "2027-12-26",
+   "name": "Catholic/Protestant Boxing Day",
+   "type": "Observance"
+  },
+  {
+   "date": "2027-12-26",
+   "name": "Hanukkah (Day 2)",
+   "type": "Observance"
+  },
+  {
+   "date": "2027-12-27",
+   "name": "Hanukkah (Day 3)",
+   "type": "Observance"
+  },
+  {
+   "date": "2027-12-28",
+   "name": "Hanukkah (Day 4)",
+   "type": "Observance"
+  },
+  {
+   "date": "2027-12-29",
+   "name": "Hanukkah (Day 5)",
+   "type": "Observance"
+  },
+  {
+   "date": "2027-12-30",
+   "name": "Hanukkah (Day 6) / Rosh Chodesh Tevet",
+   "type": "Observance"
+  },
+  {
+   "date": "2027-12-31",
+   "name": "Hanukkah (Day 7)",
+   "type": "Observance"
+  },
+  {
+   "date": "2027-12-31",
+   "name": "New Year's Eve",
+   "type": "Observance"
+  },
+  {
+   "date": "2028-01-01",
+   "name": "Hanukkah (Day 8)",
+   "type": "Observance"
+  },
+  {
+   "date": "2028-01-01",
+   "name": "New Year's Day",
+   "type": "Observance"
+  },
+  {
+   "date": "2028-01-05",
+   "name": "Catholic/Protestant Epiphany Eve",
+   "type": "Observance"
+  },
+  {
+   "date": "2028-01-06",
+   "name": "Catholic/Protestant Epiphany",
+   "type": "Observance"
+  },
+  {
+   "date": "2028-01-06",
+   "name": "Orthodox Christmas Eve",
+   "type": "Observance"
+  },
+  {
+   "date": "2028-01-07",
+   "name": "Orthodox Christmas Day",
+   "type": "Observance"
+  },
+  {
+   "date": "2028-01-08",
+   "name": "Orthodox Christmas Holiday",
+   "type": "Observance"
+  },
+  {
+   "date": "2028-01-09",
+   "name": "Asarah B'Tevet (Tenth of Tevet)",
+   "type": "Observance"
+  },
+  {
+   "date": "2028-01-13",
+   "name": "Orthodox New Year’s Eve",
+   "type": "Observance"
+  },
+  {
+   "date": "2028-01-14",
+   "name": "Orthodox New Year",
+   "type": "Observance"
+  },
+  {
+   "date": "2028-01-18",
+   "name": "Armenian Christmas Eve",
+   "type": "Observance"
+  },
+  {
+   "date": "2028-01-18",
+   "name": "Orthodox Epiphany Eve",
+   "type": "Observance"
+  },
+  {
+   "date": "2028-01-19",
+   "name": "Armenian Christmas Day",
+   "type": "Observance"
+  },
+  {
+   "date": "2028-01-19",
+   "name": "Orthodox Epiphany Day",
+   "type": "Observance"
+  },
+  {
+   "date": "2028-01-20",
+   "name": "Armenian Christmas Holiday",
+   "type": "Observance"
+  },
+  {
+   "date": "2028-01-24",
+   "name": "Eid al-Khader Eve",
+   "type": "Observance"
+  },
+  {
+   "date": "2028-01-25",
+   "name": "Eid al-Khader",
+   "type": "Observance"
+  },
+  {
+   "date": "2028-01-28",
+   "name": "Ramadan begins (tentative)",
+   "type": "Observance"
+  },
+  {
+   "date": "2028-02-26",
+   "name": "Eid al-Fitr Eve (tentative)",
+   "type": "Observance"
+  },
+  {
+   "date": "2028-02-27",
+   "name": "Eid al-Fitr (tentative)",
+   "type": "Observance"
+  },
+  {
+   "date": "2028-02-28",
+   "name": "Eid al-Fitr Holiday (tentative)",
+   "type": "Observance"
+  },
+  {
+   "date": "2028-02-29",
+   "name": "Eid al-Fitr Holiday (tentative)",
+   "type": "Observance"
+  },
+  {
+   "date": "2028-03-08",
+   "name": "International Women's Day",
+   "type": "Observance"
+  },
+  {
+   "date": "2028-03-09",
+   "name": "Fast of Esther",
+   "type": "Observance"
+  },
+  {
+   "date": "2028-03-11",
+   "name": "Purim Eve",
+   "type": "Observance"
+  },
+  {
+   "date": "2028-03-12",
+   "name": "Purim",
+   "type": "Observance"
+  },
+  {
+   "date": "2028-03-13",
+   "name": "Shushan Purim",
+   "type": "Observance"
+  },
+  {
+   "date": "2028-03-25",
+   "name": "Catholic/Protestant Feast of the Annunciation",
+   "type": "Observance"
+  },
+  {
+   "date": "2028-04-07",
+   "name": "Orthodox Feast of the Annunciation",
+   "type": "Observance"
+  },
+  {
+   "date": "2028-04-09",
+   "name": "Armenian/Orthodox Palm Sunday",
+   "type": "Observance"
+  },
+  {
+   "date": "2028-04-09",
+   "name": "Catholic/Protestant Palm Sunday",
+   "type": "Observance"
+  },
+  {
+   "date": "2028-04-10",
+   "name": "Passover Eve",
+   "type": "Observance"
+  },
+  {
+   "date": "2028-04-11",
+   "name": "Passover (Day 1)",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2028-04-12",
+   "name": "Passover (Day 2)",
+   "type": "Observance"
+  },
+  {
+   "date": "2028-04-13",
+   "name": "Armenian/Orthodox Maundy Thursday",
+   "type": "Observance"
+  },
+  {
+   "date": "2028-04-13",
+   "name": "Catholic/Protestant Maundy Thursday",
+   "type": "Observance"
+  },
+  {
+   "date": "2028-04-13",
+   "name": "Passover (Day 3)",
+   "type": "Observance"
+  },
+  {
+   "date": "2028-04-14",
+   "name": "Armenian/Orthodox Good Friday",
+   "type": "Observance"
+  },
+  {
+   "date": "2028-04-14",
+   "name": "Catholic/Protestant Good Friday",
+   "type": "Observance"
+  },
+  {
+   "date": "2028-04-14",
+   "name": "Passover (Day 4)",
+   "type": "Observance"
+  },
+  {
+   "date": "2028-04-15",
+   "name": "Armenian/Orthodox Holy Saturday",
+   "type": "Observance"
+  },
+  {
+   "date": "2028-04-15",
+   "name": "Catholic/Protestant Holy Saturday",
+   "type": "Observance"
+  },
+  {
+   "date": "2028-04-15",
+   "name": "Passover (Day 5)",
+   "type": "Observance"
+  },
+  {
+   "date": "2028-04-16",
+   "name": "Armenian/Orthodox Easter Sunday",
+   "type": "Observance"
+  },
+  {
+   "date": "2028-04-16",
+   "name": "Catholic/Protestant Easter Sunday",
+   "type": "Observance"
+  },
+  {
+   "date": "2028-04-16",
+   "name": "Passover (Day 6)",
+   "type": "Observance"
+  },
+  {
+   "date": "2028-04-17",
+   "name": "Armenian/Orthodox Easter Monday",
+   "type": "Observance"
+  },
+  {
+   "date": "2028-04-17",
+   "name": "Catholic/Protestant Easter Monday",
+   "type": "Observance"
+  },
+  {
+   "date": "2028-04-17",
+   "name": "Passover (Day 7)",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2028-04-18",
+   "name": "Mimouna Day",
+   "type": "Observance"
+  },
+  {
+   "date": "2028-04-20",
+   "name": "Armenian Feast of the Annunciation",
+   "type": "Observance"
+  },
+  {
+   "date": "2028-04-24",
+   "name": "Prophet Shuaib's Feast Eve",
+   "type": "Observance"
+  },
+  {
+   "date": "2028-04-24",
+   "name": "Yom HaShoah",
+   "type": "Observance"
+  },
+  {
+   "date": "2028-04-25",
+   "name": "Prophet Shuaib's Feast",
+   "type": "Observance"
+  },
+  {
+   "date": "2028-04-26",
+   "name": "Prophet Shuaib's Feast Holiday",
+   "type": "Observance"
+  },
+  {
+   "date": "2028-04-27",
+   "name": "Prophet Shuaib's Feast Holiday",
+   "type": "Observance"
+  },
+  {
+   "date": "2028-04-28",
+   "name": "Prophet Shuaib's Feast Holiday",
+   "type": "Observance"
+  },
+  {
+   "date": "2028-05-01",
+   "name": "May Day",
+   "type": "Observance"
+  },
+  {
+   "date": "2028-05-01",
+   "name": "Yom HaZikaron",
+   "type": "Observance"
+  },
+  {
+   "date": "2028-05-02",
+   "name": "Yom HaAtzmaut",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2028-05-04",
+   "name": "Eid al-Adha Eve (tentative)",
+   "type": "Observance"
+  },
+  {
+   "date": "2028-05-05",
+   "name": "Eid al-Adha (tentative)",
+   "type": "Observance"
+  },
+  {
+   "date": "2028-05-06",
+   "name": "Eid al-Adha Holiday (tentative)",
+   "type": "Observance"
+  },
+  {
+   "date": "2028-05-07",
+   "name": "Eid al-Adha Holiday (tentative)",
+   "type": "Observance"
+  },
+  {
+   "date": "2028-05-08",
+   "name": "Eid al-Adha Holiday (tentative)",
+   "type": "Observance"
+  },
+  {
+   "date": "2028-05-08",
+   "name": "Victory Day over Nazi Germany",
+   "type": "Observance"
+  },
+  {
+   "date": "2028-05-14",
+   "name": "Lag BaOmer",
+   "type": "Observance"
+  },
+  {
+   "date": "2028-05-24",
+   "name": "Armenian/Orthodox Ascension Eve",
+   "type": "Observance"
+  },
+  {
+   "date": "2028-05-24",
+   "name": "Catholic/Protestant Ascension Eve",
+   "type": "Observance"
+  },
+  {
+   "date": "2028-05-24",
+   "name": "Jerusalem Day",
+   "type": "Observance"
+  },
+  {
+   "date": "2028-05-24",
+   "name": "Memorial Day for Ethiopian Jews",
+   "type": "Observance"
+  },
+  {
+   "date": "2028-05-25",
+   "name": "Armenian/Orthodox Ascension Day",
+   "type": "Observance"
+  },
+  {
+   "date": "2028-05-25",
+   "name": "Catholic/Protestant Ascension Day",
+   "type": "Observance"
+  },
+  {
+   "date": "2028-05-25",
+   "name": "Muharram (tentative)",
+   "type": "Observance"
+  },
+  {
+   "date": "2028-05-25",
+   "name": "Muharram Eve (tentative)",
+   "type": "Observance"
+  },
+  {
+   "date": "2028-05-30",
+   "name": "Shavuot Eve",
+   "type": "Observance"
+  },
+  {
+   "date": "2028-05-31",
+   "name": "Shavuot",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2028-06-03",
+   "name": "Armenian/Orthodox Pentecost Eve",
+   "type": "Observance"
+  },
+  {
+   "date": "2028-06-03",
+   "name": "Catholic/Protestant Pentecost Eve",
+   "type": "Observance"
+  },
+  {
+   "date": "2028-06-04",
+   "name": "Armenian/Orthodox Pentecost",
+   "type": "Observance"
+  },
+  {
+   "date": "2028-06-04",
+   "name": "Catholic/Protestant Pentecost",
+   "type": "Observance"
+  },
+  {
+   "date": "2028-06-05",
+   "name": "Armenian/Orthodox Pentecost Monday",
+   "type": "Observance"
+  },
+  {
+   "date": "2028-06-05",
+   "name": "Catholic/Protestant Pentecost Monday",
+   "type": "Observance"
+  },
+  {
+   "date": "2028-07-11",
+   "name": "17th of Tammuz",
+   "type": "Observance"
+  },
+  {
+   "date": "2028-07-31",
+   "name": "Tisha B'Av Eve",
+   "type": "Observance"
+  },
+  {
+   "date": "2028-08-01",
+   "name": "Tisha B'Av",
+   "type": "Observance"
+  },
+  {
+   "date": "2028-08-02",
+   "name": "Prophet's Birthday Eve (tentative)",
+   "type": "Observance"
+  },
+  {
+   "date": "2028-08-03",
+   "name": "Prophet's Birthday (tentative)",
+   "type": "Observance"
+  },
+  {
+   "date": "2028-09-01",
+   "name": "First Day of School Year",
+   "type": "Observance"
+  },
+  {
+   "date": "2028-09-09",
+   "name": "Feast of Prophet Sabalan Eve",
+   "type": "Observance"
+  },
+  {
+   "date": "2028-09-10",
+   "name": "Feast of Prophet Sabalan",
+   "type": "Observance"
+  },
+  {
+   "date": "2028-09-20",
+   "name": "Rosh Hashana Eve",
+   "type": "Observance"
+  },
+  {
+   "date": "2028-09-21",
+   "name": "Rosh Hashana",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2028-09-22",
+   "name": "Rosh Hashana (Day 2)",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2028-09-24",
+   "name": "Gedaliah Fast",
+   "type": "Observance"
+  },
+  {
+   "date": "2028-09-29",
+   "name": "Yom Kippur Eve",
+   "type": "Observance"
+  },
+  {
+   "date": "2028-09-30",
+   "name": "Yom Kippur",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2028-10-04",
+   "name": "Sukkot Eve",
+   "type": "Observance"
+  },
+  {
+   "date": "2028-10-05",
+   "name": "Sukkot (Day 1)",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2028-10-06",
+   "name": "Sukkot (Day 2)",
+   "type": "Observance"
+  },
+  {
+   "date": "2028-10-07",
+   "name": "Sukkot (Day 3)",
+   "type": "Observance"
+  },
+  {
+   "date": "2028-10-08",
+   "name": "Sukkot (Day 4)",
+   "type": "Observance"
+  },
+  {
+   "date": "2028-10-09",
+   "name": "Sukkot (Day 5)",
+   "type": "Observance"
+  },
+  {
+   "date": "2028-10-10",
+   "name": "Sukkot (Day 6)",
+   "type": "Observance"
+  },
+  {
+   "date": "2028-10-11",
+   "name": "Sukkot (Day 7) / Hoshanah Rabah",
+   "type": "Observance"
+  },
+  {
+   "date": "2028-10-12",
+   "name": "Shemini Atzeret / Simchat Torah",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2028-10-27",
+   "name": "Aliyah Day School Observance",
+   "type": "Observance"
+  },
+  {
+   "date": "2028-11-18",
+   "name": "Sigd",
+   "type": "Observance"
+  },
+  {
+   "date": "2028-12-13",
+   "name": "Al Isra' wal Miraj (tentative)",
+   "type": "Observance"
+  },
+  {
+   "date": "2028-12-13",
+   "name": "Hanukkah (Day 1)",
+   "type": "Observance"
+  },
+  {
+   "date": "2028-12-14",
+   "name": "Hanukkah (Day 2)",
+   "type": "Observance"
+  },
+  {
+   "date": "2028-12-15",
+   "name": "Hanukkah (Day 3)",
+   "type": "Observance"
+  },
+  {
+   "date": "2028-12-16",
+   "name": "Hanukkah (Day 4)",
+   "type": "Observance"
+  },
+  {
+   "date": "2028-12-17",
+   "name": "Hanukkah (Day 5)",
+   "type": "Observance"
+  },
+  {
+   "date": "2028-12-18",
+   "name": "Hanukkah (Day 6) / Rosh Chodesh Tevet",
+   "type": "Observance"
+  },
+  {
+   "date": "2028-12-19",
+   "name": "Hanukkah (Day 7)",
+   "type": "Observance"
+  },
+  {
+   "date": "2028-12-20",
+   "name": "Hanukkah (Day 8)",
+   "type": "Observance"
+  },
+  {
+   "date": "2028-12-24",
+   "name": "Catholic/Protestant Christmas Eve",
+   "type": "Observance"
+  },
+  {
+   "date": "2028-12-25",
+   "name": "Catholic/Protestant Christmas Day",
+   "type": "Observance"
+  },
+  {
+   "date": "2028-12-26",
+   "name": "Catholic/Protestant Boxing Day",
+   "type": "Observance"
+  },
+  {
+   "date": "2028-12-28",
+   "name": "Asarah B'Tevet (Tenth of Tevet)",
+   "type": "Observance"
+  },
+  {
+   "date": "2028-12-31",
+   "name": "New Year's Eve",
+   "type": "Observance"
+  },
+  {
+   "date": "2029-01-01",
+   "name": "New Year's Day",
+   "type": "Observance"
+  },
+  {
+   "date": "2029-01-05",
+   "name": "Catholic/Protestant Epiphany Eve",
+   "type": "Observance"
+  },
+  {
+   "date": "2029-01-06",
+   "name": "Catholic/Protestant Epiphany",
+   "type": "Observance"
+  },
+  {
+   "date": "2029-01-06",
+   "name": "Orthodox Christmas Eve",
+   "type": "Observance"
+  },
+  {
+   "date": "2029-01-07",
+   "name": "Orthodox Christmas Day",
+   "type": "Observance"
+  },
+  {
+   "date": "2029-01-08",
+   "name": "Orthodox Christmas Holiday",
+   "type": "Observance"
+  },
+  {
+   "date": "2029-01-13",
+   "name": "Orthodox New Year’s Eve",
+   "type": "Observance"
+  },
+  {
+   "date": "2029-01-14",
+   "name": "Orthodox New Year",
+   "type": "Observance"
+  },
+  {
+   "date": "2029-01-16",
+   "name": "Ramadan begins (tentative)",
+   "type": "Observance"
+  },
+  {
+   "date": "2029-01-18",
+   "name": "Armenian Christmas Eve",
+   "type": "Observance"
+  },
+  {
+   "date": "2029-01-18",
+   "name": "Orthodox Epiphany Eve",
+   "type": "Observance"
+  },
+  {
+   "date": "2029-01-19",
+   "name": "Armenian Christmas Day",
+   "type": "Observance"
+  },
+  {
+   "date": "2029-01-19",
+   "name": "Orthodox Epiphany Day",
+   "type": "Observance"
+  },
+  {
+   "date": "2029-01-20",
+   "name": "Armenian Christmas Holiday",
+   "type": "Observance"
+  },
+  {
+   "date": "2029-01-24",
+   "name": "Eid al-Khader Eve",
+   "type": "Observance"
+  },
+  {
+   "date": "2029-01-25",
+   "name": "Eid al-Khader",
+   "type": "Observance"
+  },
+  {
+   "date": "2029-02-14",
+   "name": "Eid al-Fitr Eve (tentative)",
+   "type": "Observance"
+  },
+  {
+   "date": "2029-02-15",
+   "name": "Eid al-Fitr (tentative)",
+   "type": "Observance"
+  },
+  {
+   "date": "2029-02-16",
+   "name": "Eid al-Fitr Holiday (tentative)",
+   "type": "Observance"
+  },
+  {
+   "date": "2029-02-17",
+   "name": "Eid al-Fitr Holiday (tentative)",
+   "type": "Observance"
+  },
+  {
+   "date": "2029-02-28",
+   "name": "Fast of Esther",
+   "type": "Observance"
+  },
+  {
+   "date": "2029-02-28",
+   "name": "Purim Eve",
+   "type": "Observance"
+  },
+  {
+   "date": "2029-03-01",
+   "name": "Purim",
+   "type": "Observance"
+  },
+  {
+   "date": "2029-03-02",
+   "name": "Shushan Purim",
+   "type": "Observance"
+  },
+  {
+   "date": "2029-03-08",
+   "name": "International Women's Day",
+   "type": "Observance"
+  },
+  {
+   "date": "2029-03-25",
+   "name": "Catholic/Protestant Feast of the Annunciation",
+   "type": "Observance"
+  },
+  {
+   "date": "2029-03-25",
+   "name": "Catholic/Protestant Palm Sunday",
+   "type": "Observance"
+  },
+  {
+   "date": "2029-03-29",
+   "name": "Catholic/Protestant Maundy Thursday",
+   "type": "Observance"
+  },
+  {
+   "date": "2029-03-30",
+   "name": "Catholic/Protestant Good Friday",
+   "type": "Observance"
+  },
+  {
+   "date": "2029-03-30",
+   "name": "Passover Eve",
+   "type": "Observance"
+  },
+  {
+   "date": "2029-03-31",
+   "name": "Catholic/Protestant Holy Saturday",
+   "type": "Observance"
+  },
+  {
+   "date": "2029-03-31",
+   "name": "Passover (Day 1)",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2029-04-01",
+   "name": "Armenian/Orthodox Palm Sunday",
+   "type": "Observance"
+  },
+  {
+   "date": "2029-04-01",
+   "name": "Catholic/Protestant Easter Sunday",
+   "type": "Observance"
+  },
+  {
+   "date": "2029-04-01",
+   "name": "Passover (Day 2)",
+   "type": "Observance"
+  },
+  {
+   "date": "2029-04-02",
+   "name": "Catholic/Protestant Easter Monday",
+   "type": "Observance"
+  },
+  {
+   "date": "2029-04-02",
+   "name": "Passover (Day 3)",
+   "type": "Observance"
+  },
+  {
+   "date": "2029-04-03",
+   "name": "Passover (Day 4)",
+   "type": "Observance"
+  },
+  {
+   "date": "2029-04-04",
+   "name": "Passover (Day 5)",
+   "type": "Observance"
+  },
+  {
+   "date": "2029-04-05",
+   "name": "Armenian/Orthodox Maundy Thursday",
+   "type": "Observance"
+  },
+  {
+   "date": "2029-04-05",
+   "name": "Passover (Day 6)",
+   "type": "Observance"
+  },
+  {
+   "date": "2029-04-06",
+   "name": "Armenian/Orthodox Good Friday",
+   "type": "Observance"
+  },
+  {
+   "date": "2029-04-06",
+   "name": "Passover (Day 7)",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2029-04-07",
+   "name": "Armenian/Orthodox Holy Saturday",
+   "type": "Observance"
+  },
+  {
+   "date": "2029-04-07",
+   "name": "Mimouna Day",
+   "type": "Observance"
+  },
+  {
+   "date": "2029-04-07",
+   "name": "Orthodox Feast of the Annunciation",
+   "type": "Observance"
+  },
+  {
+   "date": "2029-04-08",
+   "name": "Armenian/Orthodox Easter Sunday",
+   "type": "Observance"
+  },
+  {
+   "date": "2029-04-09",
+   "name": "Armenian/Orthodox Easter Monday",
+   "type": "Observance"
+  },
+  {
+   "date": "2029-04-12",
+   "name": "Yom HaShoah",
+   "type": "Observance"
+  },
+  {
+   "date": "2029-04-18",
+   "name": "Yom HaZikaron",
+   "type": "Observance"
+  },
+  {
+   "date": "2029-04-19",
+   "name": "Yom HaAtzmaut",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2029-04-20",
+   "name": "Armenian Feast of the Annunciation",
+   "type": "Observance"
+  },
+  {
+   "date": "2029-04-23",
+   "name": "Eid al-Adha Eve (tentative)",
+   "type": "Observance"
+  },
+  {
+   "date": "2029-04-24",
+   "name": "Eid al-Adha (tentative)",
+   "type": "Observance"
+  },
+  {
+   "date": "2029-04-24",
+   "name": "Prophet Shuaib's Feast Eve",
+   "type": "Observance"
+  },
+  {
+   "date": "2029-04-25",
+   "name": "Eid al-Adha Holiday (tentative)",
+   "type": "Observance"
+  },
+  {
+   "date": "2029-04-25",
+   "name": "Prophet Shuaib's Feast",
+   "type": "Observance"
+  },
+  {
+   "date": "2029-04-26",
+   "name": "Eid al-Adha Holiday (tentative)",
+   "type": "Observance"
+  },
+  {
+   "date": "2029-04-26",
+   "name": "Prophet Shuaib's Feast Holiday",
+   "type": "Observance"
+  },
+  {
+   "date": "2029-04-27",
+   "name": "Eid al-Adha Holiday (tentative)",
+   "type": "Observance"
+  },
+  {
+   "date": "2029-04-27",
+   "name": "Prophet Shuaib's Feast Holiday",
+   "type": "Observance"
+  },
+  {
+   "date": "2029-04-28",
+   "name": "Prophet Shuaib's Feast Holiday",
+   "type": "Observance"
+  },
+  {
+   "date": "2029-05-01",
+   "name": "May Day",
+   "type": "Observance"
+  },
+  {
+   "date": "2029-05-03",
+   "name": "Lag BaOmer",
+   "type": "Observance"
+  },
+  {
+   "date": "2029-05-08",
+   "name": "Victory Day over Nazi Germany",
+   "type": "Observance"
+  },
+  {
+   "date": "2029-05-09",
+   "name": "Catholic/Protestant Ascension Eve",
+   "type": "Observance"
+  },
+  {
+   "date": "2029-05-10",
+   "name": "Catholic/Protestant Ascension Day",
+   "type": "Observance"
+  },
+  {
+   "date": "2029-05-13",
+   "name": "Jerusalem Day",
+   "type": "Observance"
+  },
+  {
+   "date": "2029-05-13",
+   "name": "Memorial Day for Ethiopian Jews",
+   "type": "Observance"
+  },
+  {
+   "date": "2029-05-14",
+   "name": "Muharram Eve (tentative)",
+   "type": "Observance"
+  },
+  {
+   "date": "2029-05-15",
+   "name": "Muharram (tentative)",
+   "type": "Observance"
+  },
+  {
+   "date": "2029-05-16",
+   "name": "Armenian/Orthodox Ascension Eve",
+   "type": "Observance"
+  },
+  {
+   "date": "2029-05-17",
+   "name": "Armenian/Orthodox Ascension Day",
+   "type": "Observance"
+  },
+  {
+   "date": "2029-05-19",
+   "name": "Catholic/Protestant Pentecost Eve",
+   "type": "Observance"
+  },
+  {
+   "date": "2029-05-19",
+   "name": "Shavuot Eve",
+   "type": "Observance"
+  },
+  {
+   "date": "2029-05-20",
+   "name": "Catholic/Protestant Pentecost",
+   "type": "Observance"
+  },
+  {
+   "date": "2029-05-20",
+   "name": "Shavuot",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2029-05-21",
+   "name": "Catholic/Protestant Pentecost Monday",
+   "type": "Observance"
+  },
+  {
+   "date": "2029-05-26",
+   "name": "Armenian/Orthodox Pentecost Eve",
+   "type": "Observance"
+  },
+  {
+   "date": "2029-05-27",
+   "name": "Armenian/Orthodox Pentecost",
+   "type": "Observance"
+  },
+  {
+   "date": "2029-05-28",
+   "name": "Armenian/Orthodox Pentecost Monday",
+   "type": "Observance"
+  },
+  {
+   "date": "2029-07-01",
+   "name": "17th of Tammuz",
+   "type": "Observance"
+  },
+  {
+   "date": "2029-07-21",
+   "name": "Tisha B'Av Eve",
+   "type": "Observance"
+  },
+  {
+   "date": "2029-07-22",
+   "name": "Tisha B'Av",
+   "type": "Observance"
+  },
+  {
+   "date": "2029-07-23",
+   "name": "Prophet's Birthday Eve (tentative)",
+   "type": "Observance"
+  },
+  {
+   "date": "2029-07-24",
+   "name": "Prophet's Birthday (tentative)",
+   "type": "Observance"
+  },
+  {
+   "date": "2029-09-01",
+   "name": "First Day of School Year",
+   "type": "Observance"
+  },
+  {
+   "date": "2029-09-09",
+   "name": "Feast of Prophet Sabalan Eve",
+   "type": "Observance"
+  },
+  {
+   "date": "2029-09-09",
+   "name": "Rosh Hashana Eve",
+   "type": "Observance"
+  },
+  {
+   "date": "2029-09-10",
+   "name": "Feast of Prophet Sabalan",
+   "type": "Observance"
+  },
+  {
+   "date": "2029-09-10",
+   "name": "Rosh Hashana",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2029-09-11",
+   "name": "Rosh Hashana (Day 2)",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2029-09-12",
+   "name": "Gedaliah Fast",
+   "type": "Observance"
+  },
+  {
+   "date": "2029-09-18",
+   "name": "Yom Kippur Eve",
+   "type": "Observance"
+  },
+  {
+   "date": "2029-09-19",
+   "name": "Yom Kippur",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2029-09-23",
+   "name": "Sukkot Eve",
+   "type": "Observance"
+  },
+  {
+   "date": "2029-09-24",
+   "name": "Sukkot (Day 1)",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2029-09-25",
+   "name": "Sukkot (Day 2)",
+   "type": "Observance"
+  },
+  {
+   "date": "2029-09-26",
+   "name": "Sukkot (Day 3)",
+   "type": "Observance"
+  },
+  {
+   "date": "2029-09-27",
+   "name": "Sukkot (Day 4)",
+   "type": "Observance"
+  },
+  {
+   "date": "2029-09-28",
+   "name": "Sukkot (Day 5)",
+   "type": "Observance"
+  },
+  {
+   "date": "2029-09-29",
+   "name": "Sukkot (Day 6)",
+   "type": "Observance"
+  },
+  {
+   "date": "2029-09-30",
+   "name": "Sukkot (Day 7) / Hoshanah Rabah",
+   "type": "Observance"
+  },
+  {
+   "date": "2029-10-01",
+   "name": "Shemini Atzeret / Simchat Torah",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2029-10-16",
+   "name": "Aliyah Day School Observance",
+   "type": "Observance"
+  },
+  {
+   "date": "2029-11-07",
+   "name": "Sigd",
+   "type": "Observance"
+  },
+  {
+   "date": "2029-12-02",
+   "name": "Hanukkah (Day 1)",
+   "type": "Observance"
+  },
+  {
+   "date": "2029-12-03",
+   "name": "Al Isra' wal Miraj (tentative)",
+   "type": "Observance"
+  },
+  {
+   "date": "2029-12-03",
+   "name": "Hanukkah (Day 2)",
+   "type": "Observance"
+  },
+  {
+   "date": "2029-12-04",
+   "name": "Hanukkah (Day 3)",
+   "type": "Observance"
+  },
+  {
+   "date": "2029-12-05",
+   "name": "Hanukkah (Day 4)",
+   "type": "Observance"
+  },
+  {
+   "date": "2029-12-06",
+   "name": "Hanukkah (Day 5)",
+   "type": "Observance"
+  },
+  {
+   "date": "2029-12-07",
+   "name": "Hanukkah (Day 6) / Rosh Chodesh Tevet",
+   "type": "Observance"
+  },
+  {
+   "date": "2029-12-08",
+   "name": "Hanukkah (Day 7)",
+   "type": "Observance"
+  },
+  {
+   "date": "2029-12-09",
+   "name": "Hanukkah (Day 8)",
+   "type": "Observance"
+  },
+  {
+   "date": "2029-12-16",
+   "name": "Asarah B'Tevet (Tenth of Tevet)",
+   "type": "Observance"
+  },
+  {
+   "date": "2029-12-24",
+   "name": "Catholic/Protestant Christmas Eve",
+   "type": "Observance"
+  },
+  {
+   "date": "2029-12-25",
+   "name": "Catholic/Protestant Christmas Day",
+   "type": "Observance"
+  },
+  {
+   "date": "2029-12-26",
+   "name": "Catholic/Protestant Boxing Day",
+   "type": "Observance"
+  },
+  {
+   "date": "2029-12-31",
+   "name": "New Year's Eve",
+   "type": "Observance"
+  },
+  {
+   "date": "2030-01-01",
+   "name": "New Year's Day",
+   "type": "Observance"
+  },
+  {
+   "date": "2030-01-05",
+   "name": "Catholic/Protestant Epiphany Eve",
+   "type": "Observance"
+  },
+  {
+   "date": "2030-01-06",
+   "name": "Catholic/Protestant Epiphany",
+   "type": "Observance"
+  },
+  {
+   "date": "2030-01-06",
+   "name": "Orthodox Christmas Eve",
+   "type": "Observance"
+  },
+  {
+   "date": "2030-01-06",
+   "name": "Ramadan begins (tentative)",
+   "type": "Observance"
+  },
+  {
+   "date": "2030-01-07",
+   "name": "Orthodox Christmas Day",
+   "type": "Observance"
+  },
+  {
+   "date": "2030-01-08",
+   "name": "Orthodox Christmas Holiday",
+   "type": "Observance"
+  },
+  {
+   "date": "2030-01-13",
+   "name": "Orthodox New Year’s Eve",
+   "type": "Observance"
+  },
+  {
+   "date": "2030-01-14",
+   "name": "Orthodox New Year",
+   "type": "Observance"
+  },
+  {
+   "date": "2030-01-18",
+   "name": "Armenian Christmas Eve",
+   "type": "Observance"
+  },
+  {
+   "date": "2030-01-18",
+   "name": "Orthodox Epiphany Eve",
+   "type": "Observance"
+  },
+  {
+   "date": "2030-01-19",
+   "name": "Armenian Christmas Day",
+   "type": "Observance"
+  },
+  {
+   "date": "2030-01-19",
+   "name": "Orthodox Epiphany Day",
+   "type": "Observance"
+  },
+  {
+   "date": "2030-01-20",
+   "name": "Armenian Christmas Holiday",
+   "type": "Observance"
+  },
+  {
+   "date": "2030-01-24",
+   "name": "Eid al-Khader Eve",
+   "type": "Observance"
+  },
+  {
+   "date": "2030-01-25",
+   "name": "Eid al-Khader",
+   "type": "Observance"
+  },
+  {
+   "date": "2030-02-04",
+   "name": "Eid al-Fitr Eve (tentative)",
+   "type": "Observance"
+  },
+  {
+   "date": "2030-02-05",
+   "name": "Eid al-Fitr (tentative)",
+   "type": "Observance"
+  },
+  {
+   "date": "2030-02-06",
+   "name": "Eid al-Fitr Holiday (tentative)",
+   "type": "Observance"
+  },
+  {
+   "date": "2030-02-07",
+   "name": "Eid al-Fitr Holiday (tentative)",
+   "type": "Observance"
+  },
+  {
+   "date": "2030-03-08",
+   "name": "International Women's Day",
+   "type": "Observance"
+  },
+  {
+   "date": "2030-03-18",
+   "name": "Fast of Esther",
+   "type": "Observance"
+  },
+  {
+   "date": "2030-03-18",
+   "name": "Purim Eve",
+   "type": "Observance"
+  },
+  {
+   "date": "2030-03-19",
+   "name": "Purim",
+   "type": "Observance"
+  },
+  {
+   "date": "2030-03-20",
+   "name": "Shushan Purim",
+   "type": "Observance"
+  },
+  {
+   "date": "2030-03-25",
+   "name": "Catholic/Protestant Feast of the Annunciation",
+   "type": "Observance"
+  },
+  {
+   "date": "2030-04-07",
+   "name": "Orthodox Feast of the Annunciation",
+   "type": "Observance"
+  },
+  {
+   "date": "2030-04-13",
+   "name": "Eid al-Adha Eve (tentative)",
+   "type": "Observance"
+  },
+  {
+   "date": "2030-04-14",
+   "name": "Catholic/Protestant Palm Sunday",
+   "type": "Observance"
+  },
+  {
+   "date": "2030-04-14",
+   "name": "Eid al-Adha (tentative)",
+   "type": "Observance"
+  },
+  {
+   "date": "2030-04-15",
+   "name": "Eid al-Adha Holiday (tentative)",
+   "type": "Observance"
+  },
+  {
+   "date": "2030-04-16",
+   "name": "Eid al-Adha Holiday (tentative)",
+   "type": "Observance"
+  },
+  {
+   "date": "2030-04-17",
+   "name": "Eid al-Adha Holiday (tentative)",
+   "type": "Observance"
+  },
+  {
+   "date": "2030-04-17",
+   "name": "Passover Eve",
+   "type": "Observance"
+  },
+  {
+   "date": "2030-04-18",
+   "name": "Catholic/Protestant Maundy Thursday",
+   "type": "Observance"
+  },
+  {
+   "date": "2030-04-18",
+   "name": "Passover (Day 1)",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2030-04-19",
+   "name": "Catholic/Protestant Good Friday",
+   "type": "Observance"
+  },
+  {
+   "date": "2030-04-19",
+   "name": "Passover (Day 2)",
+   "type": "Observance"
+  },
+  {
+   "date": "2030-04-20",
+   "name": "Armenian Feast of the Annunciation",
+   "type": "Observance"
+  },
+  {
+   "date": "2030-04-20",
+   "name": "Catholic/Protestant Holy Saturday",
+   "type": "Observance"
+  },
+  {
+   "date": "2030-04-20",
+   "name": "Passover (Day 3)",
+   "type": "Observance"
+  },
+  {
+   "date": "2030-04-21",
+   "name": "Armenian/Orthodox Palm Sunday",
+   "type": "Observance"
+  },
+  {
+   "date": "2030-04-21",
+   "name": "Catholic/Protestant Easter Sunday",
+   "type": "Observance"
+  },
+  {
+   "date": "2030-04-21",
+   "name": "Passover (Day 4)",
+   "type": "Observance"
+  },
+  {
+   "date": "2030-04-22",
+   "name": "Catholic/Protestant Easter Monday",
+   "type": "Observance"
+  },
+  {
+   "date": "2030-04-22",
+   "name": "Passover (Day 5)",
+   "type": "Observance"
+  },
+  {
+   "date": "2030-04-23",
+   "name": "Passover (Day 6)",
+   "type": "Observance"
+  },
+  {
+   "date": "2030-04-24",
+   "name": "Passover (Day 7)",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2030-04-24",
+   "name": "Prophet Shuaib's Feast Eve",
+   "type": "Observance"
+  },
+  {
+   "date": "2030-04-25",
+   "name": "Armenian/Orthodox Maundy Thursday",
+   "type": "Observance"
+  },
+  {
+   "date": "2030-04-25",
+   "name": "Mimouna Day",
+   "type": "Observance"
+  },
+  {
+   "date": "2030-04-25",
+   "name": "Prophet Shuaib's Feast",
+   "type": "Observance"
+  },
+  {
+   "date": "2030-04-26",
+   "name": "Armenian/Orthodox Good Friday",
+   "type": "Observance"
+  },
+  {
+   "date": "2030-04-26",
+   "name": "Prophet Shuaib's Feast Holiday",
+   "type": "Observance"
+  },
+  {
+   "date": "2030-04-27",
+   "name": "Armenian/Orthodox Holy Saturday",
+   "type": "Observance"
+  },
+  {
+   "date": "2030-04-27",
+   "name": "Prophet Shuaib's Feast Holiday",
+   "type": "Observance"
+  },
+  {
+   "date": "2030-04-28",
+   "name": "Armenian/Orthodox Easter Sunday",
+   "type": "Observance"
+  },
+  {
+   "date": "2030-04-28",
+   "name": "Prophet Shuaib's Feast Holiday",
+   "type": "Observance"
+  },
+  {
+   "date": "2030-04-29",
+   "name": "Armenian/Orthodox Easter Monday",
+   "type": "Observance"
+  },
+  {
+   "date": "2030-04-30",
+   "name": "Yom HaShoah",
+   "type": "Observance"
+  },
+  {
+   "date": "2030-05-01",
+   "name": "May Day",
+   "type": "Observance"
+  },
+  {
+   "date": "2030-05-04",
+   "name": "Muharram (tentative)",
+   "type": "Observance"
+  },
+  {
+   "date": "2030-05-04",
+   "name": "Muharram Eve (tentative)",
+   "type": "Observance"
+  },
+  {
+   "date": "2030-05-07",
+   "name": "Yom HaZikaron",
+   "type": "Observance"
+  },
+  {
+   "date": "2030-05-08",
+   "name": "Victory Day over Nazi Germany",
+   "type": "Observance"
+  },
+  {
+   "date": "2030-05-08",
+   "name": "Yom HaAtzmaut",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2030-05-21",
+   "name": "Lag BaOmer",
+   "type": "Observance"
+  },
+  {
+   "date": "2030-05-29",
+   "name": "Catholic/Protestant Ascension Eve",
+   "type": "Observance"
+  },
+  {
+   "date": "2030-05-30",
+   "name": "Catholic/Protestant Ascension Day",
+   "type": "Observance"
+  },
+  {
+   "date": "2030-05-31",
+   "name": "Jerusalem Day",
+   "type": "Observance"
+  },
+  {
+   "date": "2030-05-31",
+   "name": "Memorial Day for Ethiopian Jews",
+   "type": "Observance"
+  },
+  {
+   "date": "2030-06-05",
+   "name": "Armenian/Orthodox Ascension Eve",
+   "type": "Observance"
+  },
+  {
+   "date": "2030-06-06",
+   "name": "Armenian/Orthodox Ascension Day",
+   "type": "Observance"
+  },
+  {
+   "date": "2030-06-06",
+   "name": "Shavuot Eve",
+   "type": "Observance"
+  },
+  {
+   "date": "2030-06-07",
+   "name": "Shavuot",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2030-06-08",
+   "name": "Catholic/Protestant Pentecost Eve",
+   "type": "Observance"
+  },
+  {
+   "date": "2030-06-09",
+   "name": "Catholic/Protestant Pentecost",
+   "type": "Observance"
+  },
+  {
+   "date": "2030-06-10",
+   "name": "Catholic/Protestant Pentecost Monday",
+   "type": "Observance"
+  },
+  {
+   "date": "2030-06-15",
+   "name": "Armenian/Orthodox Pentecost Eve",
+   "type": "Observance"
+  },
+  {
+   "date": "2030-06-16",
+   "name": "Armenian/Orthodox Pentecost",
+   "type": "Observance"
+  },
+  {
+   "date": "2030-06-17",
+   "name": "Armenian/Orthodox Pentecost Monday",
+   "type": "Observance"
+  },
+  {
+   "date": "2030-07-12",
+   "name": "Prophet's Birthday Eve (tentative)",
+   "type": "Observance"
+  },
+  {
+   "date": "2030-07-13",
+   "name": "Prophet's Birthday (tentative)",
+   "type": "Observance"
+  },
+  {
+   "date": "2030-07-18",
+   "name": "17th of Tammuz",
+   "type": "Observance"
+  },
+  {
+   "date": "2030-08-07",
+   "name": "Tisha B'Av Eve",
+   "type": "Observance"
+  },
+  {
+   "date": "2030-08-08",
+   "name": "Tisha B'Av",
+   "type": "Observance"
+  },
+  {
+   "date": "2030-09-01",
+   "name": "First Day of School Year",
+   "type": "Observance"
+  },
+  {
+   "date": "2030-09-09",
+   "name": "Feast of Prophet Sabalan Eve",
+   "type": "Observance"
+  },
+  {
+   "date": "2030-09-10",
+   "name": "Feast of Prophet Sabalan",
+   "type": "Observance"
+  },
+  {
+   "date": "2030-09-27",
+   "name": "Rosh Hashana Eve",
+   "type": "Observance"
+  },
+  {
+   "date": "2030-09-28",
+   "name": "Rosh Hashana",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2030-09-29",
+   "name": "Rosh Hashana (Day 2)",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2030-09-30",
+   "name": "Gedaliah Fast",
+   "type": "Observance"
+  },
+  {
+   "date": "2030-10-06",
+   "name": "Yom Kippur Eve",
+   "type": "Observance"
+  },
+  {
+   "date": "2030-10-07",
+   "name": "Yom Kippur",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2030-10-11",
+   "name": "Sukkot Eve",
+   "type": "Observance"
+  },
+  {
+   "date": "2030-10-12",
+   "name": "Sukkot (Day 1)",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2030-10-13",
+   "name": "Sukkot (Day 2)",
+   "type": "Observance"
+  },
+  {
+   "date": "2030-10-14",
+   "name": "Sukkot (Day 3)",
+   "type": "Observance"
+  },
+  {
+   "date": "2030-10-15",
+   "name": "Sukkot (Day 4)",
+   "type": "Observance"
+  },
+  {
+   "date": "2030-10-16",
+   "name": "Sukkot (Day 5)",
+   "type": "Observance"
+  },
+  {
+   "date": "2030-10-17",
+   "name": "Sukkot (Day 6)",
+   "type": "Observance"
+  },
+  {
+   "date": "2030-10-18",
+   "name": "Sukkot (Day 7) / Hoshanah Rabah",
+   "type": "Observance"
+  },
+  {
+   "date": "2030-10-19",
+   "name": "Shemini Atzeret / Simchat Torah",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2030-11-03",
+   "name": "Aliyah Day School Observance",
+   "type": "Observance"
+  },
+  {
+   "date": "2030-11-22",
+   "name": "Al Isra' wal Miraj (tentative)",
+   "type": "Observance"
+  },
+  {
+   "date": "2030-11-25",
+   "name": "Sigd",
+   "type": "Observance"
+  },
+  {
+   "date": "2030-12-21",
+   "name": "Hanukkah (Day 1)",
+   "type": "Observance"
+  },
+  {
+   "date": "2030-12-22",
+   "name": "Hanukkah (Day 2)",
+   "type": "Observance"
+  },
+  {
+   "date": "2030-12-23",
+   "name": "Hanukkah (Day 3)",
+   "type": "Observance"
+  },
+  {
+   "date": "2030-12-24",
+   "name": "Catholic/Protestant Christmas Eve",
+   "type": "Observance"
+  },
+  {
+   "date": "2030-12-24",
+   "name": "Hanukkah (Day 4)",
+   "type": "Observance"
+  },
+  {
+   "date": "2030-12-25",
+   "name": "Catholic/Protestant Christmas Day",
+   "type": "Observance"
+  },
+  {
+   "date": "2030-12-25",
+   "name": "Hanukkah (Day 5)",
+   "type": "Observance"
+  },
+  {
+   "date": "2030-12-26",
+   "name": "Catholic/Protestant Boxing Day",
+   "type": "Observance"
+  },
+  {
+   "date": "2030-12-26",
+   "name": "Hanukkah (Day 6) / Rosh Chodesh Tevet",
+   "type": "Observance"
+  },
+  {
+   "date": "2030-12-26",
+   "name": "Ramadan begins (tentative)",
+   "type": "Observance"
+  },
+  {
+   "date": "2030-12-27",
+   "name": "Hanukkah (Day 7)",
+   "type": "Observance"
+  },
+  {
+   "date": "2030-12-28",
+   "name": "Hanukkah (Day 8)",
+   "type": "Observance"
+  },
+  {
+   "date": "2030-12-31",
+   "name": "New Year's Eve",
+   "type": "Observance"
+  },
+  {
+   "date": "2031-01-01",
+   "name": "New Year's Day",
+   "type": "Observance"
+  },
+  {
+   "date": "2031-01-05",
+   "name": "Asarah B'Tevet (Tenth of Tevet)",
+   "type": "Observance"
+  },
+  {
+   "date": "2031-01-05",
+   "name": "Catholic/Protestant Epiphany Eve",
+   "type": "Observance"
+  },
+  {
+   "date": "2031-01-06",
+   "name": "Catholic/Protestant Epiphany",
+   "type": "Observance"
+  },
+  {
+   "date": "2031-01-06",
+   "name": "Orthodox Christmas Eve",
+   "type": "Observance"
+  },
+  {
+   "date": "2031-01-07",
+   "name": "Orthodox Christmas Day",
+   "type": "Observance"
+  },
+  {
+   "date": "2031-01-08",
+   "name": "Orthodox Christmas Holiday",
+   "type": "Observance"
+  },
+  {
+   "date": "2031-01-13",
+   "name": "Orthodox New Year’s Eve",
+   "type": "Observance"
+  },
+  {
+   "date": "2031-01-14",
+   "name": "Orthodox New Year",
+   "type": "Observance"
+  },
+  {
+   "date": "2031-01-18",
+   "name": "Armenian Christmas Eve",
+   "type": "Observance"
+  },
+  {
+   "date": "2031-01-18",
+   "name": "Orthodox Epiphany Eve",
+   "type": "Observance"
+  },
+  {
+   "date": "2031-01-19",
+   "name": "Armenian Christmas Day",
+   "type": "Observance"
+  },
+  {
+   "date": "2031-01-19",
+   "name": "Orthodox Epiphany Day",
+   "type": "Observance"
+  },
+  {
+   "date": "2031-01-20",
+   "name": "Armenian Christmas Holiday",
+   "type": "Observance"
+  },
+  {
+   "date": "2031-01-24",
+   "name": "Eid al-Fitr Eve (tentative)",
+   "type": "Observance"
+  },
+  {
+   "date": "2031-01-24",
+   "name": "Eid al-Khader Eve",
+   "type": "Observance"
+  },
+  {
+   "date": "2031-01-25",
+   "name": "Eid al-Fitr (tentative)",
+   "type": "Observance"
+  },
+  {
+   "date": "2031-01-25",
+   "name": "Eid al-Khader",
+   "type": "Observance"
+  },
+  {
+   "date": "2031-01-26",
+   "name": "Eid al-Fitr Holiday (tentative)",
+   "type": "Observance"
+  },
+  {
+   "date": "2031-01-27",
+   "name": "Eid al-Fitr Holiday (tentative)",
+   "type": "Observance"
+  },
+  {
+   "date": "2031-03-06",
+   "name": "Fast of Esther",
+   "type": "Observance"
+  },
+  {
+   "date": "2031-03-08",
+   "name": "International Women's Day",
+   "type": "Observance"
+  },
+  {
+   "date": "2031-03-08",
+   "name": "Purim Eve",
+   "type": "Observance"
+  },
+  {
+   "date": "2031-03-09",
+   "name": "Purim",
+   "type": "Observance"
+  },
+  {
+   "date": "2031-03-10",
+   "name": "Shushan Purim",
+   "type": "Observance"
+  },
+  {
+   "date": "2031-03-25",
+   "name": "Catholic/Protestant Feast of the Annunciation",
+   "type": "Observance"
+  },
+  {
+   "date": "2031-04-02",
+   "name": "Eid al-Adha Eve (tentative)",
+   "type": "Observance"
+  },
+  {
+   "date": "2031-04-03",
+   "name": "Eid al-Adha (tentative)",
+   "type": "Observance"
+  },
+  {
+   "date": "2031-04-04",
+   "name": "Eid al-Adha Holiday (tentative)",
+   "type": "Observance"
+  },
+  {
+   "date": "2031-04-05",
+   "name": "Eid al-Adha Holiday (tentative)",
+   "type": "Observance"
+  },
+  {
+   "date": "2031-04-06",
+   "name": "Armenian/Orthodox Palm Sunday",
+   "type": "Observance"
+  },
+  {
+   "date": "2031-04-06",
+   "name": "Catholic/Protestant Palm Sunday",
+   "type": "Observance"
+  },
+  {
+   "date": "2031-04-06",
+   "name": "Eid al-Adha Holiday (tentative)",
+   "type": "Observance"
+  },
+  {
+   "date": "2031-04-07",
+   "name": "Orthodox Feast of the Annunciation",
+   "type": "Observance"
+  },
+  {
+   "date": "2031-04-07",
+   "name": "Passover Eve",
+   "type": "Observance"
+  },
+  {
+   "date": "2031-04-08",
+   "name": "Passover (Day 1)",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2031-04-09",
+   "name": "Passover (Day 2)",
+   "type": "Observance"
+  },
+  {
+   "date": "2031-04-10",
+   "name": "Armenian/Orthodox Maundy Thursday",
+   "type": "Observance"
+  },
+  {
+   "date": "2031-04-10",
+   "name": "Catholic/Protestant Maundy Thursday",
+   "type": "Observance"
+  },
+  {
+   "date": "2031-04-10",
+   "name": "Passover (Day 3)",
+   "type": "Observance"
+  },
+  {
+   "date": "2031-04-11",
+   "name": "Armenian/Orthodox Good Friday",
+   "type": "Observance"
+  },
+  {
+   "date": "2031-04-11",
+   "name": "Catholic/Protestant Good Friday",
+   "type": "Observance"
+  },
+  {
+   "date": "2031-04-11",
+   "name": "Passover (Day 4)",
+   "type": "Observance"
+  },
+  {
+   "date": "2031-04-12",
+   "name": "Armenian/Orthodox Holy Saturday",
+   "type": "Observance"
+  },
+  {
+   "date": "2031-04-12",
+   "name": "Catholic/Protestant Holy Saturday",
+   "type": "Observance"
+  },
+  {
+   "date": "2031-04-12",
+   "name": "Passover (Day 5)",
+   "type": "Observance"
+  },
+  {
+   "date": "2031-04-13",
+   "name": "Armenian/Orthodox Easter Sunday",
+   "type": "Observance"
+  },
+  {
+   "date": "2031-04-13",
+   "name": "Catholic/Protestant Easter Sunday",
+   "type": "Observance"
+  },
+  {
+   "date": "2031-04-13",
+   "name": "Passover (Day 6)",
+   "type": "Observance"
+  },
+  {
+   "date": "2031-04-14",
+   "name": "Armenian/Orthodox Easter Monday",
+   "type": "Observance"
+  },
+  {
+   "date": "2031-04-14",
+   "name": "Catholic/Protestant Easter Monday",
+   "type": "Observance"
+  },
+  {
+   "date": "2031-04-14",
+   "name": "Passover (Day 7)",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2031-04-15",
+   "name": "Mimouna Day",
+   "type": "Observance"
+  },
+  {
+   "date": "2031-04-20",
+   "name": "Armenian Feast of the Annunciation",
+   "type": "Observance"
+  },
+  {
+   "date": "2031-04-21",
+   "name": "Yom HaShoah",
+   "type": "Observance"
+  },
+  {
+   "date": "2031-04-23",
+   "name": "Muharram (tentative)",
+   "type": "Observance"
+  },
+  {
+   "date": "2031-04-23",
+   "name": "Muharram Eve (tentative)",
+   "type": "Observance"
+  },
+  {
+   "date": "2031-04-24",
+   "name": "Prophet Shuaib's Feast Eve",
+   "type": "Observance"
+  },
+  {
+   "date": "2031-04-25",
+   "name": "Prophet Shuaib's Feast",
+   "type": "Observance"
+  },
+  {
+   "date": "2031-04-26",
+   "name": "Prophet Shuaib's Feast Holiday",
+   "type": "Observance"
+  },
+  {
+   "date": "2031-04-27",
+   "name": "Prophet Shuaib's Feast Holiday",
+   "type": "Observance"
+  },
+  {
+   "date": "2031-04-28",
+   "name": "Prophet Shuaib's Feast Holiday",
+   "type": "Observance"
+  },
+  {
+   "date": "2031-04-28",
+   "name": "Yom HaZikaron",
+   "type": "Observance"
+  },
+  {
+   "date": "2031-04-29",
+   "name": "Yom HaAtzmaut",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2031-05-01",
+   "name": "May Day",
+   "type": "Observance"
+  },
+  {
+   "date": "2031-05-08",
+   "name": "Victory Day over Nazi Germany",
+   "type": "Observance"
+  },
+  {
+   "date": "2031-05-11",
+   "name": "Lag BaOmer",
+   "type": "Observance"
+  },
+  {
+   "date": "2031-05-21",
+   "name": "Armenian/Orthodox Ascension Eve",
+   "type": "Observance"
+  },
+  {
+   "date": "2031-05-21",
+   "name": "Catholic/Protestant Ascension Eve",
+   "type": "Observance"
+  },
+  {
+   "date": "2031-05-21",
+   "name": "Jerusalem Day",
+   "type": "Observance"
+  },
+  {
+   "date": "2031-05-21",
+   "name": "Memorial Day for Ethiopian Jews",
+   "type": "Observance"
+  },
+  {
+   "date": "2031-05-22",
+   "name": "Armenian/Orthodox Ascension Day",
+   "type": "Observance"
+  },
+  {
+   "date": "2031-05-22",
+   "name": "Catholic/Protestant Ascension Day",
+   "type": "Observance"
+  },
+  {
+   "date": "2031-05-27",
+   "name": "Shavuot Eve",
+   "type": "Observance"
+  },
+  {
+   "date": "2031-05-28",
+   "name": "Shavuot",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2031-05-31",
+   "name": "Armenian/Orthodox Pentecost Eve",
+   "type": "Observance"
+  },
+  {
+   "date": "2031-05-31",
+   "name": "Catholic/Protestant Pentecost Eve",
+   "type": "Observance"
+  },
+  {
+   "date": "2031-06-01",
+   "name": "Armenian/Orthodox Pentecost",
+   "type": "Observance"
+  },
+  {
+   "date": "2031-06-01",
+   "name": "Catholic/Protestant Pentecost",
+   "type": "Observance"
+  },
+  {
+   "date": "2031-06-02",
+   "name": "Armenian/Orthodox Pentecost Monday",
+   "type": "Observance"
+  },
+  {
+   "date": "2031-06-02",
+   "name": "Catholic/Protestant Pentecost Monday",
+   "type": "Observance"
+  },
+  {
+   "date": "2031-07-01",
+   "name": "Prophet's Birthday Eve (tentative)",
+   "type": "Observance"
+  },
+  {
+   "date": "2031-07-02",
+   "name": "Prophet's Birthday (tentative)",
+   "type": "Observance"
+  },
+  {
+   "date": "2031-07-08",
+   "name": "17th of Tammuz",
+   "type": "Observance"
+  },
+  {
+   "date": "2031-07-28",
+   "name": "Tisha B'Av Eve",
+   "type": "Observance"
+  },
+  {
+   "date": "2031-07-29",
+   "name": "Tisha B'Av",
+   "type": "Observance"
+  },
+  {
+   "date": "2031-09-01",
+   "name": "First Day of School Year",
+   "type": "Observance"
+  },
+  {
+   "date": "2031-09-09",
+   "name": "Feast of Prophet Sabalan Eve",
+   "type": "Observance"
+  },
+  {
+   "date": "2031-09-10",
+   "name": "Feast of Prophet Sabalan",
+   "type": "Observance"
+  },
+  {
+   "date": "2031-09-17",
+   "name": "Rosh Hashana Eve",
+   "type": "Observance"
+  },
+  {
+   "date": "2031-09-18",
+   "name": "Rosh Hashana",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2031-09-19",
+   "name": "Rosh Hashana (Day 2)",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2031-09-21",
+   "name": "Gedaliah Fast",
+   "type": "Observance"
+  },
+  {
+   "date": "2031-09-26",
+   "name": "Yom Kippur Eve",
+   "type": "Observance"
+  },
+  {
+   "date": "2031-09-27",
+   "name": "Yom Kippur",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2031-10-01",
+   "name": "Sukkot Eve",
+   "type": "Observance"
+  },
+  {
+   "date": "2031-10-02",
+   "name": "Sukkot (Day 1)",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2031-10-03",
+   "name": "Sukkot (Day 2)",
+   "type": "Observance"
+  },
+  {
+   "date": "2031-10-04",
+   "name": "Sukkot (Day 3)",
+   "type": "Observance"
+  },
+  {
+   "date": "2031-10-05",
+   "name": "Sukkot (Day 4)",
+   "type": "Observance"
+  },
+  {
+   "date": "2031-10-06",
+   "name": "Sukkot (Day 5)",
+   "type": "Observance"
+  },
+  {
+   "date": "2031-10-07",
+   "name": "Sukkot (Day 6)",
+   "type": "Observance"
+  },
+  {
+   "date": "2031-10-08",
+   "name": "Sukkot (Day 7) / Hoshanah Rabah",
+   "type": "Observance"
+  },
+  {
+   "date": "2031-10-09",
+   "name": "Shemini Atzeret / Simchat Torah",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2031-10-24",
+   "name": "Aliyah Day School Observance",
+   "type": "Observance"
+  },
+  {
+   "date": "2031-11-11",
+   "name": "Al Isra' wal Miraj (tentative)",
+   "type": "Observance"
+  },
+  {
+   "date": "2031-11-15",
+   "name": "Sigd",
+   "type": "Observance"
+  },
+  {
+   "date": "2031-12-10",
+   "name": "Hanukkah (Day 1)",
+   "type": "Observance"
+  },
+  {
+   "date": "2031-12-11",
+   "name": "Hanukkah (Day 2)",
+   "type": "Observance"
+  },
+  {
+   "date": "2031-12-12",
+   "name": "Hanukkah (Day 3)",
+   "type": "Observance"
+  },
+  {
+   "date": "2031-12-13",
+   "name": "Hanukkah (Day 4)",
+   "type": "Observance"
+  },
+  {
+   "date": "2031-12-14",
+   "name": "Hanukkah (Day 5)",
+   "type": "Observance"
+  },
+  {
+   "date": "2031-12-15",
+   "name": "Hanukkah (Day 6) / Rosh Chodesh Tevet",
+   "type": "Observance"
+  },
+  {
+   "date": "2031-12-15",
+   "name": "Ramadan begins (tentative)",
+   "type": "Observance"
+  },
+  {
+   "date": "2031-12-16",
+   "name": "Hanukkah (Day 7)",
+   "type": "Observance"
+  },
+  {
+   "date": "2031-12-17",
+   "name": "Hanukkah (Day 8)",
+   "type": "Observance"
+  },
+  {
+   "date": "2031-12-24",
+   "name": "Catholic/Protestant Christmas Eve",
+   "type": "Observance"
+  },
+  {
+   "date": "2031-12-25",
+   "name": "Asarah B'Tevet (Tenth of Tevet)",
+   "type": "Observance"
+  },
+  {
+   "date": "2031-12-25",
+   "name": "Catholic/Protestant Christmas Day",
+   "type": "Observance"
+  },
+  {
+   "date": "2031-12-26",
+   "name": "Catholic/Protestant Boxing Day",
+   "type": "Observance"
+  },
+  {
+   "date": "2031-12-31",
+   "name": "New Year's Eve",
+   "type": "Observance"
+  }
+ ]
+}

@@ -1,0 +1,5198 @@
+{
+ "id": "it.ch",
+ "name": "Festività in Svizzera",
+ "lang": "it",
+ "from": 2021,
+ "to": 2031,
+ "count": 325,
+ "fetchedAt": "2026-09-23T12:14:41.117Z",
+ "events": [
+  {
+   "date": "2021-01-01",
+   "name": "Capodanno (festività regionale)",
+   "type": "Festa nazionale",
+   "regions": [
+    "Zurigo",
+    "Berna",
+    "Lucerna",
+    "Uri",
+    "Svitto",
+    "Obvaldo",
+    "Nidvaldo",
+    "Glarona",
+    "Zugo",
+    "Friburgo",
+    "Soletta",
+    "Basilea Città",
+    "Basilea Campagna",
+    "Sciaffusa",
+    "Appenzello Esterno",
+    "Appenzello Interno",
+    "San Gallo",
+    "Argovia",
+    "Grigioni",
+    "Turgovia",
+    "Ticino",
+    "Vaud",
+    "Vallese",
+    "Neuchâtel",
+    "Ginevra",
+    "Giura"
+   ]
+  },
+  {
+   "date": "2021-01-02",
+   "name": "San Basilio (festività regionale)",
+   "type": "Festa nazionale",
+   "regions": [
+    "Argovia",
+    "Berna",
+    "Friburgo",
+    "Giura",
+    "Turgovia",
+    "Vaud"
+   ]
+  },
+  {
+   "date": "2021-01-06",
+   "name": "Epifania (festività regionale)",
+   "type": "Festa nazionale",
+   "regions": [
+    "Svitto",
+    "Ticino",
+    "Uri"
+   ]
+  },
+  {
+   "date": "2021-02-14",
+   "name": "San Valentino",
+   "type": "Ricorrenza"
+  },
+  {
+   "date": "2021-03-19",
+   "name": "San Giuseppe (festività regionale)",
+   "type": "Festa nazionale",
+   "regions": [
+    "Lucerna",
+    "Nidvaldo",
+    "Soletta",
+    "Svitto",
+    "Ticino",
+    "Uri",
+    "Vallese"
+   ]
+  },
+  {
+   "date": "2021-03-28",
+   "name": "l'ora legale inizia",
+   "type": "Ricorrenza"
+  },
+  {
+   "date": "2021-04-02",
+   "name": "Venerdì Santo (festività regionale)",
+   "type": "Festa nazionale",
+   "regions": [
+    "Zurigo",
+    "Berna",
+    "Lucerna",
+    "Uri",
+    "Svitto",
+    "Obvaldo",
+    "Nidvaldo",
+    "Glarona",
+    "Zugo",
+    "Friburgo",
+    "Soletta",
+    "Basilea Città",
+    "Basilea Campagna",
+    "Sciaffusa",
+    "Appenzello Esterno",
+    "Appenzello Interno",
+    "San Gallo",
+    "Argovia",
+    "Grigioni",
+    "Turgovia",
+    "Vaud",
+    "Neuchâtel",
+    "Ginevra",
+    "Giura"
+   ]
+  },
+  {
+   "date": "2021-04-04",
+   "name": "Domenica di Pasqua",
+   "type": "Ricorrenza"
+  },
+  {
+   "date": "2021-04-05",
+   "name": "Lunedi di Pasqua (festività regionale)",
+   "type": "Festa nazionale",
+   "regions": [
+    "Zurigo",
+    "Berna",
+    "Uri",
+    "Svitto",
+    "Glarona",
+    "Friburgo",
+    "Basilea Città",
+    "Basilea Campagna",
+    "Sciaffusa",
+    "Appenzello Esterno",
+    "Appenzello Interno",
+    "San Gallo",
+    "Argovia",
+    "Grigioni",
+    "Turgovia",
+    "Ticino",
+    "Vaud",
+    "Ginevra",
+    "Giura"
+   ]
+  },
+  {
+   "date": "2021-04-19",
+   "name": "Sechseläuten (Zurigo)",
+   "type": "Ricorrenza",
+   "regions": [
+    "Zurigo"
+   ]
+  },
+  {
+   "date": "2021-05-01",
+   "name": "Festa del Lavoro (festività regionale)",
+   "type": "Festa nazionale",
+   "regions": [
+    "Zurigo",
+    "Basilea Città",
+    "Basilea Campagna",
+    "Sciaffusa",
+    "Turgovia",
+    "Ticino",
+    "Neuchâtel",
+    "Giura"
+   ]
+  },
+  {
+   "date": "2021-05-09",
+   "name": "Festa della mamma",
+   "type": "Ricorrenza"
+  },
+  {
+   "date": "2021-05-13",
+   "name": "Ascensione (festività regionale)",
+   "type": "Festa nazionale",
+   "regions": [
+    "Zurigo",
+    "Berna",
+    "Lucerna",
+    "Uri",
+    "Svitto",
+    "Obvaldo",
+    "Nidvaldo",
+    "Glarona",
+    "Zugo",
+    "Friburgo",
+    "Soletta",
+    "Basilea Città",
+    "Basilea Campagna",
+    "Sciaffusa",
+    "Appenzello Esterno",
+    "Appenzello Interno",
+    "San Gallo",
+    "Argovia",
+    "Grigioni",
+    "Turgovia",
+    "Ticino",
+    "Vaud",
+    "Vallese",
+    "Neuchâtel",
+    "Ginevra",
+    "Giura"
+   ]
+  },
+  {
+   "date": "2021-05-23",
+   "name": "Pentecoste (festività regionale)",
+   "type": "Ricorrenza",
+   "regions": [
+    "Zurigo",
+    "Berna",
+    "Lucerna",
+    "Uri",
+    "Svitto",
+    "Obvaldo",
+    "Nidvaldo",
+    "Glarona",
+    "Zugo",
+    "Friburgo",
+    "Soletta",
+    "Basilea Città",
+    "Basilea Campagna",
+    "Sciaffusa",
+    "Appenzello Esterno",
+    "Appenzello Interno",
+    "San Gallo",
+    "Argovia",
+    "Grigioni",
+    "Turgovia",
+    "Ticino",
+    "Vaud",
+    "Vallese",
+    "Neuchâtel",
+    "Ginevra",
+    "Giura"
+   ]
+  },
+  {
+   "date": "2021-05-24",
+   "name": "Lunedi di Pentecoste (festività regionale)",
+   "type": "Festa nazionale",
+   "regions": [
+    "Zurigo",
+    "Berna",
+    "Uri",
+    "Svitto",
+    "Glarona",
+    "Friburgo",
+    "Basilea Città",
+    "Basilea Campagna",
+    "Sciaffusa",
+    "Appenzello Esterno",
+    "Appenzello Interno",
+    "San Gallo",
+    "Argovia",
+    "Grigioni",
+    "Turgovia",
+    "Ticino",
+    "Vaud",
+    "Ginevra",
+    "Giura"
+   ]
+  },
+  {
+   "date": "2021-06-03",
+   "name": "Corpus Domini (festività regionale)",
+   "type": "Festa nazionale",
+   "regions": [
+    "Argovia",
+    "Appenzello Interno",
+    "Friburgo",
+    "Giura",
+    "Lucerna",
+    "Nidvaldo",
+    "Obvaldo",
+    "Soletta",
+    "Svitto",
+    "Ticino",
+    "Uri",
+    "Vallese",
+    "Zugo"
+   ]
+  },
+  {
+   "date": "2021-06-06",
+   "name": "Festa del papà",
+   "type": "Ricorrenza"
+  },
+  {
+   "date": "2021-06-29",
+   "name": "SS. Pietro e Paolo (Ticino)",
+   "type": "Ricorrenza",
+   "regions": [
+    "Ticino"
+   ]
+  },
+  {
+   "date": "2021-08-01",
+   "name": "Festa nazionale della Svizzera",
+   "type": "Festività pubblica"
+  },
+  {
+   "date": "2021-08-15",
+   "name": "Assunzione di Maria (festività regionale)",
+   "type": "Festa nazionale",
+   "regions": [
+    "Argovia",
+    "Appenzello Interno",
+    "Friburgo",
+    "Giura",
+    "Lucerna",
+    "Nidvaldo",
+    "Obvaldo",
+    "Soletta",
+    "Svitto",
+    "Ticino",
+    "Uri",
+    "Vallese",
+    "Zugo"
+   ]
+  },
+  {
+   "date": "2021-09-11",
+   "name": "Knabenschiessen (Zurigo)",
+   "type": "Ricorrenza",
+   "regions": [
+    "Zurigo"
+   ]
+  },
+  {
+   "date": "2021-09-12",
+   "name": "Knabenschiessen (Zurigo)",
+   "type": "Ricorrenza",
+   "regions": [
+    "Zurigo"
+   ]
+  },
+  {
+   "date": "2021-09-13",
+   "name": "Knabenschiessen (Zurigo)",
+   "type": "Ricorrenza",
+   "regions": [
+    "Zurigo"
+   ]
+  },
+  {
+   "date": "2021-09-19",
+   "name": "Digiuno federale (festività regionale)",
+   "type": "Ricorrenza",
+   "regions": [
+    "Zurigo",
+    "Berna",
+    "Lucerna",
+    "Uri",
+    "Svitto",
+    "Obvaldo",
+    "Nidvaldo",
+    "Glarona",
+    "Zugo",
+    "Friburgo",
+    "Soletta",
+    "Basilea Città",
+    "Basilea Campagna",
+    "Sciaffusa",
+    "Appenzello Esterno",
+    "Appenzello Interno",
+    "San Gallo",
+    "Argovia",
+    "Grigioni",
+    "Turgovia",
+    "Ticino",
+    "Vaud",
+    "Vallese",
+    "Neuchâtel",
+    "Giura"
+   ]
+  },
+  {
+   "date": "2021-10-31",
+   "name": "l'ora legale termina",
+   "type": "Ricorrenza"
+  },
+  {
+   "date": "2021-11-01",
+   "name": "Ognissanti (festività regionale)",
+   "type": "Festa nazionale",
+   "regions": [
+    "Argovia",
+    "Appenzello Interno",
+    "Friburgo",
+    "Glarona",
+    "Giura",
+    "Lucerna",
+    "Nidvaldo",
+    "Obvaldo",
+    "San Gallo",
+    "Svitto",
+    "Ticino",
+    "Uri",
+    "Vallese",
+    "Zugo"
+   ]
+  },
+  {
+   "date": "2021-12-08",
+   "name": "Immacolata Concezione (festività regionale)",
+   "type": "Festa nazionale",
+   "regions": [
+    "Argovia",
+    "Appenzello Interno",
+    "Friburgo",
+    "Lucerna",
+    "Nidvaldo",
+    "Obvaldo",
+    "Svitto",
+    "Ticino",
+    "Uri",
+    "Vallese",
+    "Zugo"
+   ]
+  },
+  {
+   "date": "2021-12-24",
+   "name": "Vigilia di Natale",
+   "type": "Ricorrenza"
+  },
+  {
+   "date": "2021-12-25",
+   "name": "Giorno di Natale (festività regionale)",
+   "type": "Festa nazionale",
+   "regions": [
+    "Zurigo",
+    "Berna",
+    "Lucerna",
+    "Uri",
+    "Svitto",
+    "Obvaldo",
+    "Nidvaldo",
+    "Glarona",
+    "Zugo",
+    "Friburgo",
+    "Soletta",
+    "Basilea Città",
+    "Basilea Campagna",
+    "Sciaffusa",
+    "Appenzello Esterno",
+    "Appenzello Interno",
+    "San Gallo",
+    "Argovia",
+    "Grigioni",
+    "Turgovia",
+    "Ticino",
+    "Vaud",
+    "Vallese",
+    "Neuchâtel",
+    "Ginevra",
+    "Giura"
+   ]
+  },
+  {
+   "date": "2021-12-26",
+   "name": "Giorno di Santo Stefano (festività regionale)",
+   "type": "Festa nazionale",
+   "regions": [
+    "Zurigo",
+    "Berna",
+    "Lucerna",
+    "Uri",
+    "Svitto",
+    "Glarona",
+    "Basilea Città",
+    "Basilea Campagna",
+    "Sciaffusa",
+    "Appenzello Esterno",
+    "Appenzello Interno",
+    "San Gallo",
+    "Grigioni",
+    "Turgovia",
+    "Ticino"
+   ]
+  },
+  {
+   "date": "2021-12-31",
+   "name": "Vigilia di Capodanno",
+   "type": "Ricorrenza"
+  },
+  {
+   "date": "2022-01-01",
+   "name": "Capodanno (festività regionale)",
+   "type": "Festa nazionale",
+   "regions": [
+    "Zurigo",
+    "Berna",
+    "Lucerna",
+    "Uri",
+    "Svitto",
+    "Obvaldo",
+    "Nidvaldo",
+    "Glarona",
+    "Zugo",
+    "Friburgo",
+    "Soletta",
+    "Basilea Città",
+    "Basilea Campagna",
+    "Sciaffusa",
+    "Appenzello Esterno",
+    "Appenzello Interno",
+    "San Gallo",
+    "Argovia",
+    "Grigioni",
+    "Turgovia",
+    "Ticino",
+    "Vaud",
+    "Vallese",
+    "Neuchâtel",
+    "Ginevra",
+    "Giura"
+   ]
+  },
+  {
+   "date": "2022-01-02",
+   "name": "San Basilio (festività regionale)",
+   "type": "Festa nazionale",
+   "regions": [
+    "Argovia",
+    "Berna",
+    "Friburgo",
+    "Giura",
+    "Turgovia",
+    "Vaud"
+   ]
+  },
+  {
+   "date": "2022-01-06",
+   "name": "Epifania (festività regionale)",
+   "type": "Festa nazionale",
+   "regions": [
+    "Svitto",
+    "Ticino",
+    "Uri"
+   ]
+  },
+  {
+   "date": "2022-02-14",
+   "name": "San Valentino",
+   "type": "Ricorrenza"
+  },
+  {
+   "date": "2022-03-19",
+   "name": "San Giuseppe (festività regionale)",
+   "type": "Festa nazionale",
+   "regions": [
+    "Lucerna",
+    "Nidvaldo",
+    "Soletta",
+    "Svitto",
+    "Ticino",
+    "Uri",
+    "Vallese"
+   ]
+  },
+  {
+   "date": "2022-03-27",
+   "name": "l'ora legale inizia",
+   "type": "Ricorrenza"
+  },
+  {
+   "date": "2022-04-15",
+   "name": "Venerdì Santo (festività regionale)",
+   "type": "Festa nazionale",
+   "regions": [
+    "Zurigo",
+    "Berna",
+    "Lucerna",
+    "Uri",
+    "Svitto",
+    "Obvaldo",
+    "Nidvaldo",
+    "Glarona",
+    "Zugo",
+    "Friburgo",
+    "Soletta",
+    "Basilea Città",
+    "Basilea Campagna",
+    "Sciaffusa",
+    "Appenzello Esterno",
+    "Appenzello Interno",
+    "San Gallo",
+    "Argovia",
+    "Grigioni",
+    "Turgovia",
+    "Vaud",
+    "Neuchâtel",
+    "Ginevra",
+    "Giura"
+   ]
+  },
+  {
+   "date": "2022-04-17",
+   "name": "Domenica di Pasqua",
+   "type": "Ricorrenza"
+  },
+  {
+   "date": "2022-04-18",
+   "name": "Lunedi di Pasqua (festività regionale)",
+   "type": "Festa nazionale",
+   "regions": [
+    "Zurigo",
+    "Berna",
+    "Uri",
+    "Svitto",
+    "Glarona",
+    "Friburgo",
+    "Basilea Città",
+    "Basilea Campagna",
+    "Sciaffusa",
+    "Appenzello Esterno",
+    "Appenzello Interno",
+    "San Gallo",
+    "Argovia",
+    "Grigioni",
+    "Turgovia",
+    "Ticino",
+    "Vaud",
+    "Ginevra",
+    "Giura"
+   ]
+  },
+  {
+   "date": "2022-04-25",
+   "name": "Sechseläuten (Zurigo)",
+   "type": "Ricorrenza",
+   "regions": [
+    "Zurigo"
+   ]
+  },
+  {
+   "date": "2022-05-01",
+   "name": "Festa del Lavoro (festività regionale)",
+   "type": "Festa nazionale",
+   "regions": [
+    "Basilea Campagna",
+    "Basilea Città",
+    "Giura",
+    "Neuchâtel",
+    "Sciaffusa",
+    "Zurigo",
+    "Turgovia",
+    "Ticino"
+   ]
+  },
+  {
+   "date": "2022-05-08",
+   "name": "Festa della mamma",
+   "type": "Ricorrenza"
+  },
+  {
+   "date": "2022-05-26",
+   "name": "Ascensione (festività regionale)",
+   "type": "Festa nazionale",
+   "regions": [
+    "Zurigo",
+    "Berna",
+    "Lucerna",
+    "Uri",
+    "Svitto",
+    "Obvaldo",
+    "Nidvaldo",
+    "Glarona",
+    "Zugo",
+    "Friburgo",
+    "Soletta",
+    "Basilea Città",
+    "Basilea Campagna",
+    "Sciaffusa",
+    "Appenzello Esterno",
+    "Appenzello Interno",
+    "San Gallo",
+    "Argovia",
+    "Grigioni",
+    "Turgovia",
+    "Ticino",
+    "Vaud",
+    "Vallese",
+    "Neuchâtel",
+    "Ginevra",
+    "Giura"
+   ]
+  },
+  {
+   "date": "2022-06-05",
+   "name": "Festa del papà",
+   "type": "Ricorrenza"
+  },
+  {
+   "date": "2022-06-05",
+   "name": "Pentecoste (festività regionale)",
+   "type": "Ricorrenza",
+   "regions": [
+    "Zurigo",
+    "Berna",
+    "Lucerna",
+    "Uri",
+    "Svitto",
+    "Obvaldo",
+    "Nidvaldo",
+    "Glarona",
+    "Zugo",
+    "Friburgo",
+    "Soletta",
+    "Basilea Città",
+    "Basilea Campagna",
+    "Sciaffusa",
+    "Appenzello Esterno",
+    "Appenzello Interno",
+    "San Gallo",
+    "Argovia",
+    "Grigioni",
+    "Turgovia",
+    "Ticino",
+    "Vaud",
+    "Vallese",
+    "Neuchâtel",
+    "Ginevra",
+    "Giura"
+   ]
+  },
+  {
+   "date": "2022-06-06",
+   "name": "Lunedi di Pentecoste (festività regionale)",
+   "type": "Festa nazionale",
+   "regions": [
+    "Zurigo",
+    "Berna",
+    "Uri",
+    "Svitto",
+    "Glarona",
+    "Friburgo",
+    "Basilea Città",
+    "Basilea Campagna",
+    "Sciaffusa",
+    "Appenzello Esterno",
+    "Appenzello Interno",
+    "San Gallo",
+    "Argovia",
+    "Grigioni",
+    "Turgovia",
+    "Ticino",
+    "Vaud",
+    "Ginevra",
+    "Giura"
+   ]
+  },
+  {
+   "date": "2022-06-16",
+   "name": "Corpus Domini (festività regionale)",
+   "type": "Festa nazionale",
+   "regions": [
+    "Argovia",
+    "Appenzello Interno",
+    "Friburgo",
+    "Giura",
+    "Lucerna",
+    "Nidvaldo",
+    "Obvaldo",
+    "Soletta",
+    "Svitto",
+    "Ticino",
+    "Uri",
+    "Vallese",
+    "Zugo"
+   ]
+  },
+  {
+   "date": "2022-08-01",
+   "name": "Festa nazionale della Svizzera",
+   "type": "Festività pubblica"
+  },
+  {
+   "date": "2022-08-15",
+   "name": "Assunzione di Maria (festività regionale)",
+   "type": "Festa nazionale",
+   "regions": [
+    "Argovia",
+    "Appenzello Interno",
+    "Friburgo",
+    "Giura",
+    "Lucerna",
+    "Nidvaldo",
+    "Obvaldo",
+    "Soletta",
+    "Svitto",
+    "Ticino",
+    "Uri",
+    "Vallese",
+    "Zugo"
+   ]
+  },
+  {
+   "date": "2022-09-10",
+   "name": "Knabenschiessen (Zurigo)",
+   "type": "Ricorrenza",
+   "regions": [
+    "Zurigo"
+   ]
+  },
+  {
+   "date": "2022-09-11",
+   "name": "Knabenschiessen (Zurigo)",
+   "type": "Ricorrenza",
+   "regions": [
+    "Zurigo"
+   ]
+  },
+  {
+   "date": "2022-09-12",
+   "name": "Knabenschiessen (Zurigo)",
+   "type": "Ricorrenza",
+   "regions": [
+    "Zurigo"
+   ]
+  },
+  {
+   "date": "2022-09-18",
+   "name": "Digiuno federale (festività regionale)",
+   "type": "Ricorrenza",
+   "regions": [
+    "Zurigo",
+    "Berna",
+    "Lucerna",
+    "Uri",
+    "Svitto",
+    "Obvaldo",
+    "Nidvaldo",
+    "Glarona",
+    "Zugo",
+    "Friburgo",
+    "Soletta",
+    "Basilea Città",
+    "Basilea Campagna",
+    "Sciaffusa",
+    "Appenzello Esterno",
+    "Appenzello Interno",
+    "San Gallo",
+    "Argovia",
+    "Grigioni",
+    "Turgovia",
+    "Ticino",
+    "Vaud",
+    "Vallese",
+    "Neuchâtel",
+    "Giura"
+   ]
+  },
+  {
+   "date": "2022-10-30",
+   "name": "l'ora legale termina",
+   "type": "Ricorrenza"
+  },
+  {
+   "date": "2022-11-01",
+   "name": "Ognissanti (festività regionale)",
+   "type": "Festa nazionale",
+   "regions": [
+    "Argovia",
+    "Appenzello Interno",
+    "Friburgo",
+    "Glarona",
+    "Giura",
+    "Lucerna",
+    "Nidvaldo",
+    "Obvaldo",
+    "San Gallo",
+    "Svitto",
+    "Ticino",
+    "Uri",
+    "Vallese",
+    "Zugo"
+   ]
+  },
+  {
+   "date": "2022-12-08",
+   "name": "Immacolata Concezione (festività regionale)",
+   "type": "Festa nazionale",
+   "regions": [
+    "Appenzello Interno",
+    "Lucerna",
+    "Nidvaldo",
+    "Obvaldo",
+    "Svitto",
+    "Ticino",
+    "Uri",
+    "Vallese",
+    "Zugo"
+   ]
+  },
+  {
+   "date": "2022-12-24",
+   "name": "Vigilia di Natale",
+   "type": "Ricorrenza"
+  },
+  {
+   "date": "2022-12-25",
+   "name": "Giorno di Natale (festività regionale)",
+   "type": "Festa nazionale",
+   "regions": [
+    "Zurigo",
+    "Berna",
+    "Lucerna",
+    "Uri",
+    "Svitto",
+    "Obvaldo",
+    "Nidvaldo",
+    "Glarona",
+    "Zugo",
+    "Friburgo",
+    "Soletta",
+    "Basilea Città",
+    "Basilea Campagna",
+    "Sciaffusa",
+    "Appenzello Esterno",
+    "Appenzello Interno",
+    "San Gallo",
+    "Argovia",
+    "Grigioni",
+    "Turgovia",
+    "Ticino",
+    "Vaud",
+    "Vallese",
+    "Neuchâtel",
+    "Ginevra",
+    "Giura"
+   ]
+  },
+  {
+   "date": "2022-12-26",
+   "name": "Giorno di Santo Stefano (festività regionale)",
+   "type": "Festa nazionale",
+   "regions": [
+    "Zurigo",
+    "Berna",
+    "Lucerna",
+    "Uri",
+    "Svitto",
+    "Glarona",
+    "Basilea Città",
+    "Basilea Campagna",
+    "Sciaffusa",
+    "Appenzello Esterno",
+    "Appenzello Interno",
+    "San Gallo",
+    "Grigioni",
+    "Turgovia",
+    "Ticino"
+   ]
+  },
+  {
+   "date": "2022-12-31",
+   "name": "Vigilia di Capodanno",
+   "type": "Ricorrenza"
+  },
+  {
+   "date": "2023-01-01",
+   "name": "Capodanno (festività regionale)",
+   "type": "Festa nazionale",
+   "regions": [
+    "Zurigo",
+    "Berna",
+    "Lucerna",
+    "Uri",
+    "Svitto",
+    "Obvaldo",
+    "Nidvaldo",
+    "Glarona",
+    "Zugo",
+    "Friburgo",
+    "Soletta",
+    "Basilea Città",
+    "Basilea Campagna",
+    "Sciaffusa",
+    "Appenzello Esterno",
+    "Appenzello Interno",
+    "San Gallo",
+    "Argovia",
+    "Grigioni",
+    "Turgovia",
+    "Ticino",
+    "Vaud",
+    "Vallese",
+    "Neuchâtel",
+    "Ginevra",
+    "Giura"
+   ]
+  },
+  {
+   "date": "2023-01-02",
+   "name": "San Basilio (festività regionale)",
+   "type": "Festa nazionale",
+   "regions": [
+    "Argovia",
+    "Berna",
+    "Friburgo",
+    "Giura",
+    "Turgovia",
+    "Vaud"
+   ]
+  },
+  {
+   "date": "2023-01-06",
+   "name": "Epifania (festività regionale)",
+   "type": "Festa nazionale",
+   "regions": [
+    "Svitto",
+    "Ticino",
+    "Uri"
+   ]
+  },
+  {
+   "date": "2023-02-14",
+   "name": "San Valentino",
+   "type": "Ricorrenza"
+  },
+  {
+   "date": "2023-03-19",
+   "name": "San Giuseppe (festività regionale)",
+   "type": "Festa nazionale",
+   "regions": [
+    "Lucerna",
+    "Nidvaldo",
+    "Soletta",
+    "Svitto",
+    "Ticino",
+    "Uri",
+    "Vallese"
+   ]
+  },
+  {
+   "date": "2023-03-26",
+   "name": "l'ora legale inizia",
+   "type": "Ricorrenza"
+  },
+  {
+   "date": "2023-04-07",
+   "name": "Venerdì Santo (festività regionale)",
+   "type": "Festa nazionale",
+   "regions": [
+    "Zurigo",
+    "Berna",
+    "Lucerna",
+    "Uri",
+    "Svitto",
+    "Obvaldo",
+    "Nidvaldo",
+    "Glarona",
+    "Zugo",
+    "Friburgo",
+    "Soletta",
+    "Basilea Città",
+    "Basilea Campagna",
+    "Sciaffusa",
+    "Appenzello Esterno",
+    "Appenzello Interno",
+    "San Gallo",
+    "Argovia",
+    "Grigioni",
+    "Turgovia",
+    "Vaud",
+    "Neuchâtel",
+    "Ginevra",
+    "Giura"
+   ]
+  },
+  {
+   "date": "2023-04-09",
+   "name": "Domenica di Pasqua",
+   "type": "Ricorrenza"
+  },
+  {
+   "date": "2023-04-10",
+   "name": "Lunedi di Pasqua (festività regionale)",
+   "type": "Festa nazionale",
+   "regions": [
+    "Zurigo",
+    "Berna",
+    "Uri",
+    "Svitto",
+    "Glarona",
+    "Friburgo",
+    "Basilea Città",
+    "Basilea Campagna",
+    "Sciaffusa",
+    "Appenzello Esterno",
+    "Appenzello Interno",
+    "San Gallo",
+    "Argovia",
+    "Grigioni",
+    "Turgovia",
+    "Ticino",
+    "Vaud",
+    "Ginevra",
+    "Giura"
+   ]
+  },
+  {
+   "date": "2023-04-17",
+   "name": "Sechseläuten (Zurigo)",
+   "type": "Ricorrenza",
+   "regions": [
+    "Zurigo"
+   ]
+  },
+  {
+   "date": "2023-05-01",
+   "name": "Festa del Lavoro (festività regionale)",
+   "type": "Festa nazionale",
+   "regions": [
+    "Basilea Campagna",
+    "Basilea Città",
+    "Giura",
+    "Neuchâtel",
+    "Sciaffusa",
+    "Zurigo",
+    "Turgovia",
+    "Ticino"
+   ]
+  },
+  {
+   "date": "2023-05-14",
+   "name": "Festa della mamma",
+   "type": "Ricorrenza"
+  },
+  {
+   "date": "2023-05-18",
+   "name": "Ascensione (festività regionale)",
+   "type": "Festa nazionale",
+   "regions": [
+    "Zurigo",
+    "Berna",
+    "Lucerna",
+    "Uri",
+    "Svitto",
+    "Obvaldo",
+    "Nidvaldo",
+    "Glarona",
+    "Zugo",
+    "Friburgo",
+    "Soletta",
+    "Basilea Città",
+    "Basilea Campagna",
+    "Sciaffusa",
+    "Appenzello Esterno",
+    "Appenzello Interno",
+    "San Gallo",
+    "Argovia",
+    "Grigioni",
+    "Turgovia",
+    "Ticino",
+    "Vaud",
+    "Vallese",
+    "Neuchâtel",
+    "Ginevra",
+    "Giura"
+   ]
+  },
+  {
+   "date": "2023-05-28",
+   "name": "Pentecoste (festività regionale)",
+   "type": "Ricorrenza",
+   "regions": [
+    "Zurigo",
+    "Berna",
+    "Lucerna",
+    "Uri",
+    "Svitto",
+    "Obvaldo",
+    "Nidvaldo",
+    "Glarona",
+    "Zugo",
+    "Friburgo",
+    "Soletta",
+    "Basilea Città",
+    "Basilea Campagna",
+    "Sciaffusa",
+    "Appenzello Esterno",
+    "Appenzello Interno",
+    "San Gallo",
+    "Argovia",
+    "Grigioni",
+    "Turgovia",
+    "Ticino",
+    "Vaud",
+    "Vallese",
+    "Neuchâtel",
+    "Ginevra",
+    "Giura"
+   ]
+  },
+  {
+   "date": "2023-05-29",
+   "name": "Lunedi di Pentecoste (festività regionale)",
+   "type": "Festa nazionale",
+   "regions": [
+    "Zurigo",
+    "Berna",
+    "Uri",
+    "Svitto",
+    "Glarona",
+    "Friburgo",
+    "Basilea Città",
+    "Basilea Campagna",
+    "Sciaffusa",
+    "Appenzello Esterno",
+    "Appenzello Interno",
+    "San Gallo",
+    "Argovia",
+    "Grigioni",
+    "Turgovia",
+    "Ticino",
+    "Vaud",
+    "Ginevra",
+    "Giura"
+   ]
+  },
+  {
+   "date": "2023-06-04",
+   "name": "Festa del papà",
+   "type": "Ricorrenza"
+  },
+  {
+   "date": "2023-06-08",
+   "name": "Corpus Domini (festività regionale)",
+   "type": "Festa nazionale",
+   "regions": [
+    "Argovia",
+    "Appenzello Interno",
+    "Friburgo",
+    "Giura",
+    "Lucerna",
+    "Nidvaldo",
+    "Obvaldo",
+    "Soletta",
+    "Svitto",
+    "Ticino",
+    "Uri",
+    "Vallese",
+    "Zugo"
+   ]
+  },
+  {
+   "date": "2023-08-01",
+   "name": "Festa nazionale della Svizzera",
+   "type": "Festività pubblica"
+  },
+  {
+   "date": "2023-08-15",
+   "name": "Assunzione di Maria (festività regionale)",
+   "type": "Festa nazionale",
+   "regions": [
+    "Argovia",
+    "Appenzello Interno",
+    "Friburgo",
+    "Giura",
+    "Lucerna",
+    "Nidvaldo",
+    "Obvaldo",
+    "Soletta",
+    "Svitto",
+    "Ticino",
+    "Uri",
+    "Vallese",
+    "Zugo"
+   ]
+  },
+  {
+   "date": "2023-09-09",
+   "name": "Knabenschiessen (Zurigo)",
+   "type": "Ricorrenza",
+   "regions": [
+    "Zurigo"
+   ]
+  },
+  {
+   "date": "2023-09-10",
+   "name": "Knabenschiessen (Zurigo)",
+   "type": "Ricorrenza",
+   "regions": [
+    "Zurigo"
+   ]
+  },
+  {
+   "date": "2023-09-11",
+   "name": "Knabenschiessen (Zurigo)",
+   "type": "Ricorrenza",
+   "regions": [
+    "Zurigo"
+   ]
+  },
+  {
+   "date": "2023-09-17",
+   "name": "Digiuno federale (festività regionale)",
+   "type": "Ricorrenza",
+   "regions": [
+    "Zurigo",
+    "Berna",
+    "Lucerna",
+    "Uri",
+    "Svitto",
+    "Obvaldo",
+    "Nidvaldo",
+    "Glarona",
+    "Zugo",
+    "Friburgo",
+    "Soletta",
+    "Basilea Città",
+    "Basilea Campagna",
+    "Sciaffusa",
+    "Appenzello Esterno",
+    "Appenzello Interno",
+    "San Gallo",
+    "Argovia",
+    "Grigioni",
+    "Turgovia",
+    "Ticino",
+    "Vaud",
+    "Vallese",
+    "Neuchâtel",
+    "Giura"
+   ]
+  },
+  {
+   "date": "2023-10-29",
+   "name": "l'ora legale termina",
+   "type": "Ricorrenza"
+  },
+  {
+   "date": "2023-11-01",
+   "name": "Ognissanti (festività regionale)",
+   "type": "Festa nazionale",
+   "regions": [
+    "Argovia",
+    "Appenzello Interno",
+    "Friburgo",
+    "Glarona",
+    "Giura",
+    "Lucerna",
+    "Nidvaldo",
+    "Obvaldo",
+    "San Gallo",
+    "Svitto",
+    "Ticino",
+    "Uri",
+    "Vallese",
+    "Zugo"
+   ]
+  },
+  {
+   "date": "2023-12-08",
+   "name": "Immacolata Concezione (festività regionale)",
+   "type": "Festa nazionale",
+   "regions": [
+    "Appenzello Interno",
+    "Lucerna",
+    "Nidvaldo",
+    "Obvaldo",
+    "Svitto",
+    "Ticino",
+    "Uri",
+    "Vallese",
+    "Zugo"
+   ]
+  },
+  {
+   "date": "2023-12-24",
+   "name": "Vigilia di Natale",
+   "type": "Ricorrenza"
+  },
+  {
+   "date": "2023-12-25",
+   "name": "Giorno di Natale (festività regionale)",
+   "type": "Festa nazionale",
+   "regions": [
+    "Zurigo",
+    "Berna",
+    "Lucerna",
+    "Uri",
+    "Svitto",
+    "Obvaldo",
+    "Nidvaldo",
+    "Glarona",
+    "Zugo",
+    "Friburgo",
+    "Soletta",
+    "Basilea Città",
+    "Basilea Campagna",
+    "Sciaffusa",
+    "Appenzello Esterno",
+    "Appenzello Interno",
+    "San Gallo",
+    "Argovia",
+    "Grigioni",
+    "Turgovia",
+    "Ticino",
+    "Vaud",
+    "Vallese",
+    "Neuchâtel",
+    "Ginevra",
+    "Giura"
+   ]
+  },
+  {
+   "date": "2023-12-26",
+   "name": "Giorno di Santo Stefano (festività regionale)",
+   "type": "Festa nazionale",
+   "regions": [
+    "Zurigo",
+    "Berna",
+    "Lucerna",
+    "Uri",
+    "Svitto",
+    "Glarona",
+    "Basilea Città",
+    "Basilea Campagna",
+    "Sciaffusa",
+    "Appenzello Esterno",
+    "Appenzello Interno",
+    "San Gallo",
+    "Grigioni",
+    "Turgovia",
+    "Ticino"
+   ]
+  },
+  {
+   "date": "2023-12-31",
+   "name": "Vigilia di Capodanno",
+   "type": "Ricorrenza"
+  },
+  {
+   "date": "2024-01-01",
+   "name": "Capodanno (festività regionale)",
+   "type": "Festa nazionale",
+   "regions": [
+    "Zurigo",
+    "Berna",
+    "Lucerna",
+    "Uri",
+    "Svitto",
+    "Obvaldo",
+    "Nidvaldo",
+    "Glarona",
+    "Zugo",
+    "Friburgo",
+    "Soletta",
+    "Basilea Città",
+    "Basilea Campagna",
+    "Sciaffusa",
+    "Appenzello Esterno",
+    "Appenzello Interno",
+    "San Gallo",
+    "Argovia",
+    "Grigioni",
+    "Turgovia",
+    "Ticino",
+    "Vaud",
+    "Vallese",
+    "Neuchâtel",
+    "Ginevra",
+    "Giura"
+   ]
+  },
+  {
+   "date": "2024-01-02",
+   "name": "San Basilio (festività regionale)",
+   "type": "Festa nazionale",
+   "regions": [
+    "Argovia",
+    "Berna",
+    "Friburgo",
+    "Giura",
+    "Turgovia",
+    "Vaud"
+   ]
+  },
+  {
+   "date": "2024-01-06",
+   "name": "Epifania (festività regionale)",
+   "type": "Festa nazionale",
+   "regions": [
+    "Svitto",
+    "Ticino",
+    "Uri"
+   ]
+  },
+  {
+   "date": "2024-02-14",
+   "name": "San Valentino",
+   "type": "Ricorrenza"
+  },
+  {
+   "date": "2024-03-19",
+   "name": "San Giuseppe (festività regionale)",
+   "type": "Festa nazionale",
+   "regions": [
+    "Lucerna",
+    "Nidvaldo",
+    "Soletta",
+    "Svitto",
+    "Ticino",
+    "Uri",
+    "Vallese"
+   ]
+  },
+  {
+   "date": "2024-03-29",
+   "name": "Venerdì Santo (festività regionale)",
+   "type": "Festa nazionale",
+   "regions": [
+    "Zurigo",
+    "Berna",
+    "Lucerna",
+    "Uri",
+    "Svitto",
+    "Obvaldo",
+    "Nidvaldo",
+    "Glarona",
+    "Zugo",
+    "Friburgo",
+    "Soletta",
+    "Basilea Città",
+    "Basilea Campagna",
+    "Sciaffusa",
+    "Appenzello Esterno",
+    "Appenzello Interno",
+    "San Gallo",
+    "Argovia",
+    "Grigioni",
+    "Turgovia",
+    "Vaud",
+    "Neuchâtel",
+    "Ginevra",
+    "Giura"
+   ]
+  },
+  {
+   "date": "2024-03-31",
+   "name": "Domenica di Pasqua",
+   "type": "Ricorrenza"
+  },
+  {
+   "date": "2024-03-31",
+   "name": "l'ora legale inizia",
+   "type": "Ricorrenza"
+  },
+  {
+   "date": "2024-04-01",
+   "name": "Lunedi di Pasqua (festività regionale)",
+   "type": "Festa nazionale",
+   "regions": [
+    "Zurigo",
+    "Berna",
+    "Uri",
+    "Svitto",
+    "Glarona",
+    "Friburgo",
+    "Basilea Città",
+    "Basilea Campagna",
+    "Sciaffusa",
+    "Appenzello Esterno",
+    "Appenzello Interno",
+    "San Gallo",
+    "Argovia",
+    "Grigioni",
+    "Turgovia",
+    "Ticino",
+    "Vaud",
+    "Ginevra",
+    "Giura"
+   ]
+  },
+  {
+   "date": "2024-04-15",
+   "name": "Sechseläuten (Zurigo)",
+   "type": "Ricorrenza",
+   "regions": [
+    "Zurigo"
+   ]
+  },
+  {
+   "date": "2024-05-01",
+   "name": "Festa del Lavoro (festività regionale)",
+   "type": "Festa nazionale",
+   "regions": [
+    "Basilea Campagna",
+    "Basilea Città",
+    "Giura",
+    "Neuchâtel",
+    "Sciaffusa",
+    "Zurigo",
+    "Turgovia",
+    "Ticino"
+   ]
+  },
+  {
+   "date": "2024-05-09",
+   "name": "Ascensione (festività regionale)",
+   "type": "Festa nazionale",
+   "regions": [
+    "Zurigo",
+    "Berna",
+    "Lucerna",
+    "Uri",
+    "Svitto",
+    "Obvaldo",
+    "Nidvaldo",
+    "Glarona",
+    "Zugo",
+    "Friburgo",
+    "Soletta",
+    "Basilea Città",
+    "Basilea Campagna",
+    "Sciaffusa",
+    "Appenzello Esterno",
+    "Appenzello Interno",
+    "San Gallo",
+    "Argovia",
+    "Grigioni",
+    "Turgovia",
+    "Ticino",
+    "Vaud",
+    "Vallese",
+    "Neuchâtel",
+    "Ginevra",
+    "Giura"
+   ]
+  },
+  {
+   "date": "2024-05-12",
+   "name": "Festa della mamma",
+   "type": "Ricorrenza"
+  },
+  {
+   "date": "2024-05-19",
+   "name": "Pentecoste (festività regionale)",
+   "type": "Ricorrenza",
+   "regions": [
+    "Zurigo",
+    "Berna",
+    "Lucerna",
+    "Uri",
+    "Svitto",
+    "Obvaldo",
+    "Nidvaldo",
+    "Glarona",
+    "Zugo",
+    "Friburgo",
+    "Soletta",
+    "Basilea Città",
+    "Basilea Campagna",
+    "Sciaffusa",
+    "Appenzello Esterno",
+    "Appenzello Interno",
+    "San Gallo",
+    "Argovia",
+    "Grigioni",
+    "Turgovia",
+    "Ticino",
+    "Vaud",
+    "Vallese",
+    "Neuchâtel",
+    "Ginevra",
+    "Giura"
+   ]
+  },
+  {
+   "date": "2024-05-20",
+   "name": "Lunedi di Pentecoste (festività regionale)",
+   "type": "Festa nazionale",
+   "regions": [
+    "Zurigo",
+    "Berna",
+    "Uri",
+    "Svitto",
+    "Glarona",
+    "Friburgo",
+    "Basilea Città",
+    "Basilea Campagna",
+    "Sciaffusa",
+    "Appenzello Esterno",
+    "Appenzello Interno",
+    "San Gallo",
+    "Argovia",
+    "Grigioni",
+    "Turgovia",
+    "Ticino",
+    "Vaud",
+    "Ginevra",
+    "Giura"
+   ]
+  },
+  {
+   "date": "2024-05-30",
+   "name": "Corpus Domini (festività regionale)",
+   "type": "Festa nazionale",
+   "regions": [
+    "Argovia",
+    "Appenzello Interno",
+    "Friburgo",
+    "Giura",
+    "Lucerna",
+    "Nidvaldo",
+    "Obvaldo",
+    "Soletta",
+    "Svitto",
+    "Ticino",
+    "Uri",
+    "Vallese",
+    "Zugo"
+   ]
+  },
+  {
+   "date": "2024-06-02",
+   "name": "Festa del papà",
+   "type": "Ricorrenza"
+  },
+  {
+   "date": "2024-08-01",
+   "name": "Festa nazionale della Svizzera",
+   "type": "Festività pubblica"
+  },
+  {
+   "date": "2024-08-15",
+   "name": "Assunzione di Maria (festività regionale)",
+   "type": "Festa nazionale",
+   "regions": [
+    "Argovia",
+    "Appenzello Interno",
+    "Friburgo",
+    "Giura",
+    "Lucerna",
+    "Nidvaldo",
+    "Obvaldo",
+    "Soletta",
+    "Svitto",
+    "Ticino",
+    "Uri",
+    "Vallese",
+    "Zugo"
+   ]
+  },
+  {
+   "date": "2024-09-07",
+   "name": "Knabenschiessen (Zurigo)",
+   "type": "Ricorrenza",
+   "regions": [
+    "Zurigo"
+   ]
+  },
+  {
+   "date": "2024-09-08",
+   "name": "Knabenschiessen (Zurigo)",
+   "type": "Ricorrenza",
+   "regions": [
+    "Zurigo"
+   ]
+  },
+  {
+   "date": "2024-09-09",
+   "name": "Knabenschiessen (Zurigo)",
+   "type": "Ricorrenza",
+   "regions": [
+    "Zurigo"
+   ]
+  },
+  {
+   "date": "2024-09-15",
+   "name": "Digiuno federale (festività regionale)",
+   "type": "Ricorrenza",
+   "regions": [
+    "Zurigo",
+    "Berna",
+    "Lucerna",
+    "Uri",
+    "Svitto",
+    "Obvaldo",
+    "Nidvaldo",
+    "Glarona",
+    "Zugo",
+    "Friburgo",
+    "Soletta",
+    "Basilea Città",
+    "Basilea Campagna",
+    "Sciaffusa",
+    "Appenzello Esterno",
+    "Appenzello Interno",
+    "San Gallo",
+    "Argovia",
+    "Grigioni",
+    "Turgovia",
+    "Ticino",
+    "Vaud",
+    "Vallese",
+    "Neuchâtel",
+    "Giura"
+   ]
+  },
+  {
+   "date": "2024-10-27",
+   "name": "l'ora legale termina",
+   "type": "Ricorrenza"
+  },
+  {
+   "date": "2024-11-01",
+   "name": "Ognissanti (festività regionale)",
+   "type": "Festa nazionale",
+   "regions": [
+    "Argovia",
+    "Appenzello Interno",
+    "Friburgo",
+    "Glarona",
+    "Giura",
+    "Lucerna",
+    "Nidvaldo",
+    "Obvaldo",
+    "San Gallo",
+    "Svitto",
+    "Ticino",
+    "Uri",
+    "Vallese",
+    "Zugo"
+   ]
+  },
+  {
+   "date": "2024-12-08",
+   "name": "Immacolata Concezione (festività regionale)",
+   "type": "Festa nazionale",
+   "regions": [
+    "Appenzello Interno",
+    "Lucerna",
+    "Nidvaldo",
+    "Obvaldo",
+    "Svitto",
+    "Ticino",
+    "Uri",
+    "Vallese",
+    "Zugo"
+   ]
+  },
+  {
+   "date": "2024-12-24",
+   "name": "Vigilia di Natale",
+   "type": "Ricorrenza"
+  },
+  {
+   "date": "2024-12-25",
+   "name": "Giorno di Natale (festività regionale)",
+   "type": "Festa nazionale",
+   "regions": [
+    "Zurigo",
+    "Berna",
+    "Lucerna",
+    "Uri",
+    "Svitto",
+    "Obvaldo",
+    "Nidvaldo",
+    "Glarona",
+    "Zugo",
+    "Friburgo",
+    "Soletta",
+    "Basilea Città",
+    "Basilea Campagna",
+    "Sciaffusa",
+    "Appenzello Esterno",
+    "Appenzello Interno",
+    "San Gallo",
+    "Argovia",
+    "Grigioni",
+    "Turgovia",
+    "Ticino",
+    "Vaud",
+    "Vallese",
+    "Neuchâtel",
+    "Ginevra",
+    "Giura"
+   ]
+  },
+  {
+   "date": "2024-12-26",
+   "name": "Giorno di Santo Stefano (festività regionale)",
+   "type": "Festa nazionale",
+   "regions": [
+    "Zurigo",
+    "Berna",
+    "Lucerna",
+    "Uri",
+    "Svitto",
+    "Glarona",
+    "Basilea Città",
+    "Basilea Campagna",
+    "Sciaffusa",
+    "Appenzello Esterno",
+    "Appenzello Interno",
+    "San Gallo",
+    "Grigioni",
+    "Turgovia",
+    "Ticino"
+   ]
+  },
+  {
+   "date": "2024-12-31",
+   "name": "Vigilia di Capodanno",
+   "type": "Ricorrenza"
+  },
+  {
+   "date": "2025-01-01",
+   "name": "Capodanno (festività regionale)",
+   "type": "Festa nazionale",
+   "regions": [
+    "Zurigo",
+    "Berna",
+    "Lucerna",
+    "Uri",
+    "Svitto",
+    "Obvaldo",
+    "Nidvaldo",
+    "Glarona",
+    "Zugo",
+    "Friburgo",
+    "Soletta",
+    "Basilea Città",
+    "Basilea Campagna",
+    "Sciaffusa",
+    "Appenzello Esterno",
+    "Appenzello Interno",
+    "San Gallo",
+    "Argovia",
+    "Grigioni",
+    "Turgovia",
+    "Ticino",
+    "Vaud",
+    "Vallese",
+    "Neuchâtel",
+    "Ginevra",
+    "Giura"
+   ]
+  },
+  {
+   "date": "2025-01-02",
+   "name": "San Basilio (festività regionale)",
+   "type": "Festa nazionale",
+   "regions": [
+    "Argovia",
+    "Berna",
+    "Friburgo",
+    "Giura",
+    "Turgovia",
+    "Vaud"
+   ]
+  },
+  {
+   "date": "2025-01-06",
+   "name": "Epifania (festività regionale)",
+   "type": "Festa nazionale",
+   "regions": [
+    "Svitto",
+    "Ticino",
+    "Uri"
+   ]
+  },
+  {
+   "date": "2025-02-14",
+   "name": "San Valentino",
+   "type": "Ricorrenza"
+  },
+  {
+   "date": "2025-03-19",
+   "name": "San Giuseppe (festività regionale)",
+   "type": "Festa nazionale",
+   "regions": [
+    "Lucerna",
+    "Nidvaldo",
+    "Soletta",
+    "Svitto",
+    "Ticino",
+    "Uri",
+    "Vallese"
+   ]
+  },
+  {
+   "date": "2025-03-30",
+   "name": "l'ora legale inizia",
+   "type": "Ricorrenza"
+  },
+  {
+   "date": "2025-04-18",
+   "name": "Venerdì Santo (festività regionale)",
+   "type": "Festa nazionale",
+   "regions": [
+    "Zurigo",
+    "Berna",
+    "Lucerna",
+    "Uri",
+    "Svitto",
+    "Obvaldo",
+    "Nidvaldo",
+    "Glarona",
+    "Zugo",
+    "Friburgo",
+    "Soletta",
+    "Basilea Città",
+    "Basilea Campagna",
+    "Sciaffusa",
+    "Appenzello Esterno",
+    "Appenzello Interno",
+    "San Gallo",
+    "Argovia",
+    "Grigioni",
+    "Turgovia",
+    "Vaud",
+    "Neuchâtel",
+    "Ginevra",
+    "Giura"
+   ]
+  },
+  {
+   "date": "2025-04-20",
+   "name": "Domenica di Pasqua",
+   "type": "Ricorrenza"
+  },
+  {
+   "date": "2025-04-21",
+   "name": "Lunedi di Pasqua (festività regionale)",
+   "type": "Festa nazionale",
+   "regions": [
+    "Zurigo",
+    "Berna",
+    "Uri",
+    "Svitto",
+    "Glarona",
+    "Friburgo",
+    "Basilea Città",
+    "Basilea Campagna",
+    "Sciaffusa",
+    "Appenzello Esterno",
+    "Appenzello Interno",
+    "San Gallo",
+    "Argovia",
+    "Grigioni",
+    "Turgovia",
+    "Ticino",
+    "Vaud",
+    "Ginevra",
+    "Giura"
+   ]
+  },
+  {
+   "date": "2025-04-28",
+   "name": "Sechseläuten (Zurigo)",
+   "type": "Ricorrenza",
+   "regions": [
+    "Zurigo"
+   ]
+  },
+  {
+   "date": "2025-05-01",
+   "name": "Festa del Lavoro (festività regionale)",
+   "type": "Festa nazionale",
+   "regions": [
+    "Basilea Campagna",
+    "Basilea Città",
+    "Giura",
+    "Neuchâtel",
+    "Sciaffusa",
+    "Zurigo",
+    "Turgovia",
+    "Ticino"
+   ]
+  },
+  {
+   "date": "2025-05-11",
+   "name": "Festa della mamma",
+   "type": "Ricorrenza"
+  },
+  {
+   "date": "2025-05-29",
+   "name": "Ascensione (festività regionale)",
+   "type": "Festa nazionale",
+   "regions": [
+    "Zurigo",
+    "Berna",
+    "Lucerna",
+    "Uri",
+    "Svitto",
+    "Obvaldo",
+    "Nidvaldo",
+    "Glarona",
+    "Zugo",
+    "Friburgo",
+    "Soletta",
+    "Basilea Città",
+    "Basilea Campagna",
+    "Sciaffusa",
+    "Appenzello Esterno",
+    "Appenzello Interno",
+    "San Gallo",
+    "Argovia",
+    "Grigioni",
+    "Turgovia",
+    "Ticino",
+    "Vaud",
+    "Vallese",
+    "Neuchâtel",
+    "Ginevra",
+    "Giura"
+   ]
+  },
+  {
+   "date": "2025-06-01",
+   "name": "Festa del papà",
+   "type": "Ricorrenza"
+  },
+  {
+   "date": "2025-06-08",
+   "name": "Pentecoste (festività regionale)",
+   "type": "Ricorrenza",
+   "regions": [
+    "Zurigo",
+    "Berna",
+    "Lucerna",
+    "Uri",
+    "Svitto",
+    "Obvaldo",
+    "Nidvaldo",
+    "Glarona",
+    "Zugo",
+    "Friburgo",
+    "Soletta",
+    "Basilea Città",
+    "Basilea Campagna",
+    "Sciaffusa",
+    "Appenzello Esterno",
+    "Appenzello Interno",
+    "San Gallo",
+    "Argovia",
+    "Grigioni",
+    "Turgovia",
+    "Ticino",
+    "Vaud",
+    "Vallese",
+    "Neuchâtel",
+    "Ginevra",
+    "Giura"
+   ]
+  },
+  {
+   "date": "2025-06-09",
+   "name": "Lunedi di Pentecoste (festività regionale)",
+   "type": "Festa nazionale",
+   "regions": [
+    "Zurigo",
+    "Berna",
+    "Uri",
+    "Svitto",
+    "Glarona",
+    "Friburgo",
+    "Basilea Città",
+    "Basilea Campagna",
+    "Sciaffusa",
+    "Appenzello Esterno",
+    "Appenzello Interno",
+    "San Gallo",
+    "Argovia",
+    "Grigioni",
+    "Turgovia",
+    "Ticino",
+    "Vaud",
+    "Ginevra",
+    "Giura"
+   ]
+  },
+  {
+   "date": "2025-06-19",
+   "name": "Corpus Domini (festività regionale)",
+   "type": "Festa nazionale",
+   "regions": [
+    "Argovia",
+    "Appenzello Interno",
+    "Friburgo",
+    "Giura",
+    "Lucerna",
+    "Nidvaldo",
+    "Obvaldo",
+    "Soletta",
+    "Svitto",
+    "Ticino",
+    "Uri",
+    "Vallese",
+    "Zugo"
+   ]
+  },
+  {
+   "date": "2025-08-01",
+   "name": "Festa nazionale della Svizzera",
+   "type": "Festività pubblica"
+  },
+  {
+   "date": "2025-08-15",
+   "name": "Assunzione di Maria (festività regionale)",
+   "type": "Festa nazionale",
+   "regions": [
+    "Argovia",
+    "Appenzello Interno",
+    "Friburgo",
+    "Giura",
+    "Lucerna",
+    "Nidvaldo",
+    "Obvaldo",
+    "Soletta",
+    "Svitto",
+    "Ticino",
+    "Uri",
+    "Vallese",
+    "Zugo"
+   ]
+  },
+  {
+   "date": "2025-09-13",
+   "name": "Knabenschiessen (Zurigo)",
+   "type": "Ricorrenza",
+   "regions": [
+    "Zurigo"
+   ]
+  },
+  {
+   "date": "2025-09-14",
+   "name": "Knabenschiessen (Zurigo)",
+   "type": "Ricorrenza",
+   "regions": [
+    "Zurigo"
+   ]
+  },
+  {
+   "date": "2025-09-15",
+   "name": "Knabenschiessen (Zurigo)",
+   "type": "Ricorrenza",
+   "regions": [
+    "Zurigo"
+   ]
+  },
+  {
+   "date": "2025-09-21",
+   "name": "Digiuno federale (festività regionale)",
+   "type": "Ricorrenza",
+   "regions": [
+    "Zurigo",
+    "Berna",
+    "Lucerna",
+    "Uri",
+    "Svitto",
+    "Obvaldo",
+    "Nidvaldo",
+    "Glarona",
+    "Zugo",
+    "Friburgo",
+    "Soletta",
+    "Basilea Città",
+    "Basilea Campagna",
+    "Sciaffusa",
+    "Appenzello Esterno",
+    "Appenzello Interno",
+    "San Gallo",
+    "Argovia",
+    "Grigioni",
+    "Turgovia",
+    "Ticino",
+    "Vaud",
+    "Vallese",
+    "Neuchâtel",
+    "Giura"
+   ]
+  },
+  {
+   "date": "2025-10-26",
+   "name": "l'ora legale termina",
+   "type": "Ricorrenza"
+  },
+  {
+   "date": "2025-11-01",
+   "name": "Ognissanti (festività regionale)",
+   "type": "Festa nazionale",
+   "regions": [
+    "Argovia",
+    "Appenzello Interno",
+    "Friburgo",
+    "Glarona",
+    "Giura",
+    "Lucerna",
+    "Nidvaldo",
+    "Obvaldo",
+    "San Gallo",
+    "Svitto",
+    "Ticino",
+    "Uri",
+    "Vallese",
+    "Zugo"
+   ]
+  },
+  {
+   "date": "2025-12-08",
+   "name": "Immacolata Concezione (festività regionale)",
+   "type": "Festa nazionale",
+   "regions": [
+    "Appenzello Interno",
+    "Lucerna",
+    "Nidvaldo",
+    "Obvaldo",
+    "Svitto",
+    "Ticino",
+    "Uri",
+    "Vallese",
+    "Zugo"
+   ]
+  },
+  {
+   "date": "2025-12-24",
+   "name": "Vigilia di Natale",
+   "type": "Ricorrenza"
+  },
+  {
+   "date": "2025-12-25",
+   "name": "Giorno di Natale (festività regionale)",
+   "type": "Festa nazionale",
+   "regions": [
+    "Zurigo",
+    "Berna",
+    "Lucerna",
+    "Uri",
+    "Svitto",
+    "Obvaldo",
+    "Nidvaldo",
+    "Glarona",
+    "Zugo",
+    "Friburgo",
+    "Soletta",
+    "Basilea Città",
+    "Basilea Campagna",
+    "Sciaffusa",
+    "Appenzello Esterno",
+    "Appenzello Interno",
+    "San Gallo",
+    "Argovia",
+    "Grigioni",
+    "Turgovia",
+    "Ticino",
+    "Vaud",
+    "Vallese",
+    "Neuchâtel",
+    "Ginevra",
+    "Giura"
+   ]
+  },
+  {
+   "date": "2025-12-26",
+   "name": "Giorno di Santo Stefano (festività regionale)",
+   "type": "Festa nazionale",
+   "regions": [
+    "Zurigo",
+    "Berna",
+    "Lucerna",
+    "Uri",
+    "Svitto",
+    "Glarona",
+    "Basilea Città",
+    "Basilea Campagna",
+    "Sciaffusa",
+    "Appenzello Esterno",
+    "Appenzello Interno",
+    "San Gallo",
+    "Grigioni",
+    "Turgovia",
+    "Ticino"
+   ]
+  },
+  {
+   "date": "2025-12-31",
+   "name": "Vigilia di Capodanno",
+   "type": "Ricorrenza"
+  },
+  {
+   "date": "2026-01-01",
+   "name": "Capodanno (festività regionale)",
+   "type": "Festa nazionale",
+   "regions": [
+    "Zurigo",
+    "Berna",
+    "Lucerna",
+    "Uri",
+    "Svitto",
+    "Obvaldo",
+    "Nidvaldo",
+    "Glarona",
+    "Zugo",
+    "Friburgo",
+    "Soletta",
+    "Basilea Città",
+    "Basilea Campagna",
+    "Sciaffusa",
+    "Appenzello Esterno",
+    "Appenzello Interno",
+    "San Gallo",
+    "Argovia",
+    "Grigioni",
+    "Turgovia",
+    "Ticino",
+    "Vaud",
+    "Vallese",
+    "Neuchâtel",
+    "Ginevra",
+    "Giura"
+   ]
+  },
+  {
+   "date": "2026-01-02",
+   "name": "San Basilio (festività regionale)",
+   "type": "Festa nazionale",
+   "regions": [
+    "Argovia",
+    "Berna",
+    "Friburgo",
+    "Giura",
+    "Turgovia",
+    "Vaud"
+   ]
+  },
+  {
+   "date": "2026-01-06",
+   "name": "Epifania (festività regionale)",
+   "type": "Festa nazionale",
+   "regions": [
+    "Svitto",
+    "Ticino",
+    "Uri"
+   ]
+  },
+  {
+   "date": "2026-02-14",
+   "name": "San Valentino",
+   "type": "Ricorrenza"
+  },
+  {
+   "date": "2026-03-19",
+   "name": "San Giuseppe (festività regionale)",
+   "type": "Festa nazionale",
+   "regions": [
+    "Lucerna",
+    "Nidvaldo",
+    "Soletta",
+    "Svitto",
+    "Ticino",
+    "Uri",
+    "Vallese"
+   ]
+  },
+  {
+   "date": "2026-03-29",
+   "name": "l'ora legale inizia",
+   "type": "Ricorrenza"
+  },
+  {
+   "date": "2026-04-03",
+   "name": "Venerdì Santo (festività regionale)",
+   "type": "Festa nazionale",
+   "regions": [
+    "Zurigo",
+    "Berna",
+    "Lucerna",
+    "Uri",
+    "Svitto",
+    "Obvaldo",
+    "Nidvaldo",
+    "Glarona",
+    "Zugo",
+    "Friburgo",
+    "Soletta",
+    "Basilea Città",
+    "Basilea Campagna",
+    "Sciaffusa",
+    "Appenzello Esterno",
+    "Appenzello Interno",
+    "San Gallo",
+    "Argovia",
+    "Grigioni",
+    "Turgovia",
+    "Vaud",
+    "Neuchâtel",
+    "Ginevra",
+    "Giura"
+   ]
+  },
+  {
+   "date": "2026-04-05",
+   "name": "Domenica di Pasqua",
+   "type": "Ricorrenza"
+  },
+  {
+   "date": "2026-04-06",
+   "name": "Lunedi di Pasqua (festività regionale)",
+   "type": "Festa nazionale",
+   "regions": [
+    "Zurigo",
+    "Berna",
+    "Uri",
+    "Svitto",
+    "Glarona",
+    "Friburgo",
+    "Basilea Città",
+    "Basilea Campagna",
+    "Sciaffusa",
+    "Appenzello Esterno",
+    "Appenzello Interno",
+    "San Gallo",
+    "Argovia",
+    "Grigioni",
+    "Turgovia",
+    "Ticino",
+    "Vaud",
+    "Ginevra",
+    "Giura"
+   ]
+  },
+  {
+   "date": "2026-05-01",
+   "name": "Festa del Lavoro (festività regionale)",
+   "type": "Festa nazionale",
+   "regions": [
+    "Basilea Campagna",
+    "Basilea Città",
+    "Giura",
+    "Neuchâtel",
+    "Sciaffusa",
+    "Zurigo",
+    "Turgovia",
+    "Ticino"
+   ]
+  },
+  {
+   "date": "2026-05-10",
+   "name": "Festa della mamma",
+   "type": "Ricorrenza"
+  },
+  {
+   "date": "2026-05-14",
+   "name": "Ascensione (festività regionale)",
+   "type": "Festa nazionale",
+   "regions": [
+    "Zurigo",
+    "Berna",
+    "Lucerna",
+    "Uri",
+    "Svitto",
+    "Obvaldo",
+    "Nidvaldo",
+    "Glarona",
+    "Zugo",
+    "Friburgo",
+    "Soletta",
+    "Basilea Città",
+    "Basilea Campagna",
+    "Sciaffusa",
+    "Appenzello Esterno",
+    "Appenzello Interno",
+    "San Gallo",
+    "Argovia",
+    "Grigioni",
+    "Turgovia",
+    "Ticino",
+    "Vaud",
+    "Vallese",
+    "Neuchâtel",
+    "Ginevra",
+    "Giura"
+   ]
+  },
+  {
+   "date": "2026-05-24",
+   "name": "Pentecoste (festività regionale)",
+   "type": "Ricorrenza",
+   "regions": [
+    "Zurigo",
+    "Berna",
+    "Lucerna",
+    "Uri",
+    "Svitto",
+    "Obvaldo",
+    "Nidvaldo",
+    "Glarona",
+    "Zugo",
+    "Friburgo",
+    "Soletta",
+    "Basilea Città",
+    "Basilea Campagna",
+    "Sciaffusa",
+    "Appenzello Esterno",
+    "Appenzello Interno",
+    "San Gallo",
+    "Argovia",
+    "Grigioni",
+    "Turgovia",
+    "Ticino",
+    "Vaud",
+    "Vallese",
+    "Neuchâtel",
+    "Ginevra",
+    "Giura"
+   ]
+  },
+  {
+   "date": "2026-05-25",
+   "name": "Lunedi di Pentecoste (festività regionale)",
+   "type": "Festa nazionale",
+   "regions": [
+    "Zurigo",
+    "Berna",
+    "Uri",
+    "Svitto",
+    "Glarona",
+    "Friburgo",
+    "Basilea Città",
+    "Basilea Campagna",
+    "Sciaffusa",
+    "Appenzello Esterno",
+    "Appenzello Interno",
+    "San Gallo",
+    "Argovia",
+    "Grigioni",
+    "Turgovia",
+    "Ticino",
+    "Vaud",
+    "Ginevra",
+    "Giura"
+   ]
+  },
+  {
+   "date": "2026-06-04",
+   "name": "Corpus Domini (festività regionale)",
+   "type": "Festa nazionale",
+   "regions": [
+    "Argovia",
+    "Appenzello Interno",
+    "Friburgo",
+    "Giura",
+    "Lucerna",
+    "Nidvaldo",
+    "Obvaldo",
+    "Soletta",
+    "Svitto",
+    "Ticino",
+    "Uri",
+    "Vallese",
+    "Zugo"
+   ]
+  },
+  {
+   "date": "2026-06-07",
+   "name": "Festa del papà",
+   "type": "Ricorrenza"
+  },
+  {
+   "date": "2026-08-01",
+   "name": "Festa nazionale della Svizzera",
+   "type": "Festività pubblica"
+  },
+  {
+   "date": "2026-08-15",
+   "name": "Assunzione di Maria (festività regionale)",
+   "type": "Festa nazionale",
+   "regions": [
+    "Argovia",
+    "Appenzello Interno",
+    "Friburgo",
+    "Giura",
+    "Lucerna",
+    "Nidvaldo",
+    "Obvaldo",
+    "Soletta",
+    "Svitto",
+    "Ticino",
+    "Uri",
+    "Vallese",
+    "Zugo"
+   ]
+  },
+  {
+   "date": "2026-09-12",
+   "name": "Knabenschiessen (Zurigo)",
+   "type": "Ricorrenza",
+   "regions": [
+    "Zurigo"
+   ]
+  },
+  {
+   "date": "2026-09-13",
+   "name": "Knabenschiessen (Zurigo)",
+   "type": "Ricorrenza",
+   "regions": [
+    "Zurigo"
+   ]
+  },
+  {
+   "date": "2026-09-14",
+   "name": "Knabenschiessen (Zurigo)",
+   "type": "Ricorrenza",
+   "regions": [
+    "Zurigo"
+   ]
+  },
+  {
+   "date": "2026-09-20",
+   "name": "Digiuno federale (festività regionale)",
+   "type": "Ricorrenza",
+   "regions": [
+    "Zurigo",
+    "Berna",
+    "Lucerna",
+    "Uri",
+    "Svitto",
+    "Obvaldo",
+    "Nidvaldo",
+    "Glarona",
+    "Zugo",
+    "Friburgo",
+    "Soletta",
+    "Basilea Città",
+    "Basilea Campagna",
+    "Sciaffusa",
+    "Appenzello Esterno",
+    "Appenzello Interno",
+    "San Gallo",
+    "Argovia",
+    "Grigioni",
+    "Turgovia",
+    "Ticino",
+    "Vaud",
+    "Vallese",
+    "Neuchâtel",
+    "Giura"
+   ]
+  },
+  {
+   "date": "2026-10-25",
+   "name": "l'ora legale termina",
+   "type": "Ricorrenza"
+  },
+  {
+   "date": "2026-11-01",
+   "name": "Ognissanti (festività regionale)",
+   "type": "Festa nazionale",
+   "regions": [
+    "Argovia",
+    "Appenzello Interno",
+    "Friburgo",
+    "Glarona",
+    "Giura",
+    "Lucerna",
+    "Nidvaldo",
+    "Obvaldo",
+    "San Gallo",
+    "Svitto",
+    "Ticino",
+    "Uri",
+    "Vallese",
+    "Zugo"
+   ]
+  },
+  {
+   "date": "2026-12-08",
+   "name": "Immacolata Concezione (festività regionale)",
+   "type": "Festa nazionale",
+   "regions": [
+    "Appenzello Interno",
+    "Lucerna",
+    "Nidvaldo",
+    "Obvaldo",
+    "Svitto",
+    "Ticino",
+    "Uri",
+    "Vallese",
+    "Zugo"
+   ]
+  },
+  {
+   "date": "2026-12-24",
+   "name": "Vigilia di Natale",
+   "type": "Ricorrenza"
+  },
+  {
+   "date": "2026-12-25",
+   "name": "Giorno di Natale (festività regionale)",
+   "type": "Festa nazionale",
+   "regions": [
+    "Zurigo",
+    "Berna",
+    "Lucerna",
+    "Uri",
+    "Svitto",
+    "Obvaldo",
+    "Nidvaldo",
+    "Glarona",
+    "Zugo",
+    "Friburgo",
+    "Soletta",
+    "Basilea Città",
+    "Basilea Campagna",
+    "Sciaffusa",
+    "Appenzello Esterno",
+    "Appenzello Interno",
+    "San Gallo",
+    "Argovia",
+    "Grigioni",
+    "Turgovia",
+    "Ticino",
+    "Vaud",
+    "Vallese",
+    "Neuchâtel",
+    "Ginevra",
+    "Giura"
+   ]
+  },
+  {
+   "date": "2026-12-26",
+   "name": "Giorno di Santo Stefano (festività regionale)",
+   "type": "Festa nazionale",
+   "regions": [
+    "Zurigo",
+    "Berna",
+    "Lucerna",
+    "Uri",
+    "Svitto",
+    "Glarona",
+    "Basilea Città",
+    "Basilea Campagna",
+    "Sciaffusa",
+    "Appenzello Esterno",
+    "Appenzello Interno",
+    "San Gallo",
+    "Grigioni",
+    "Turgovia",
+    "Ticino"
+   ]
+  },
+  {
+   "date": "2026-12-31",
+   "name": "Vigilia di Capodanno",
+   "type": "Ricorrenza"
+  },
+  {
+   "date": "2027-01-01",
+   "name": "Capodanno (festività regionale)",
+   "type": "Festa nazionale",
+   "regions": [
+    "Zurigo",
+    "Berna",
+    "Lucerna",
+    "Uri",
+    "Svitto",
+    "Obvaldo",
+    "Nidvaldo",
+    "Glarona",
+    "Zugo",
+    "Friburgo",
+    "Soletta",
+    "Basilea Città",
+    "Basilea Campagna",
+    "Sciaffusa",
+    "Appenzello Esterno",
+    "Appenzello Interno",
+    "San Gallo",
+    "Argovia",
+    "Grigioni",
+    "Turgovia",
+    "Ticino",
+    "Vaud",
+    "Vallese",
+    "Neuchâtel",
+    "Ginevra",
+    "Giura"
+   ]
+  },
+  {
+   "date": "2027-01-02",
+   "name": "San Basilio (festività regionale)",
+   "type": "Festa nazionale",
+   "regions": [
+    "Argovia",
+    "Berna",
+    "Friburgo",
+    "Giura",
+    "Turgovia",
+    "Vaud"
+   ]
+  },
+  {
+   "date": "2027-01-06",
+   "name": "Epifania (festività regionale)",
+   "type": "Festa nazionale",
+   "regions": [
+    "Svitto",
+    "Ticino",
+    "Uri"
+   ]
+  },
+  {
+   "date": "2027-02-14",
+   "name": "San Valentino",
+   "type": "Ricorrenza"
+  },
+  {
+   "date": "2027-03-19",
+   "name": "San Giuseppe (festività regionale)",
+   "type": "Festa nazionale",
+   "regions": [
+    "Lucerna",
+    "Nidvaldo",
+    "Soletta",
+    "Svitto",
+    "Ticino",
+    "Uri",
+    "Vallese"
+   ]
+  },
+  {
+   "date": "2027-03-26",
+   "name": "Venerdì Santo (festività regionale)",
+   "type": "Festa nazionale",
+   "regions": [
+    "Zurigo",
+    "Berna",
+    "Lucerna",
+    "Uri",
+    "Svitto",
+    "Obvaldo",
+    "Nidvaldo",
+    "Glarona",
+    "Zugo",
+    "Friburgo",
+    "Soletta",
+    "Basilea Città",
+    "Basilea Campagna",
+    "Sciaffusa",
+    "Appenzello Esterno",
+    "Appenzello Interno",
+    "San Gallo",
+    "Argovia",
+    "Grigioni",
+    "Turgovia",
+    "Vaud",
+    "Neuchâtel",
+    "Ginevra",
+    "Giura"
+   ]
+  },
+  {
+   "date": "2027-03-28",
+   "name": "Domenica di Pasqua",
+   "type": "Ricorrenza"
+  },
+  {
+   "date": "2027-03-28",
+   "name": "l'ora legale inizia",
+   "type": "Ricorrenza"
+  },
+  {
+   "date": "2027-03-29",
+   "name": "Lunedi di Pasqua (festività regionale)",
+   "type": "Festa nazionale",
+   "regions": [
+    "Zurigo",
+    "Berna",
+    "Uri",
+    "Svitto",
+    "Glarona",
+    "Friburgo",
+    "Basilea Città",
+    "Basilea Campagna",
+    "Sciaffusa",
+    "Appenzello Esterno",
+    "Appenzello Interno",
+    "San Gallo",
+    "Argovia",
+    "Grigioni",
+    "Turgovia",
+    "Ticino",
+    "Vaud",
+    "Ginevra",
+    "Giura"
+   ]
+  },
+  {
+   "date": "2027-05-01",
+   "name": "Festa del Lavoro (festività regionale)",
+   "type": "Festa nazionale",
+   "regions": [
+    "Basilea Campagna",
+    "Basilea Città",
+    "Giura",
+    "Neuchâtel",
+    "Sciaffusa",
+    "Zurigo",
+    "Turgovia",
+    "Ticino"
+   ]
+  },
+  {
+   "date": "2027-05-06",
+   "name": "Ascensione (festività regionale)",
+   "type": "Festa nazionale",
+   "regions": [
+    "Zurigo",
+    "Berna",
+    "Lucerna",
+    "Uri",
+    "Svitto",
+    "Obvaldo",
+    "Nidvaldo",
+    "Glarona",
+    "Zugo",
+    "Friburgo",
+    "Soletta",
+    "Basilea Città",
+    "Basilea Campagna",
+    "Sciaffusa",
+    "Appenzello Esterno",
+    "Appenzello Interno",
+    "San Gallo",
+    "Argovia",
+    "Grigioni",
+    "Turgovia",
+    "Ticino",
+    "Vaud",
+    "Vallese",
+    "Neuchâtel",
+    "Ginevra",
+    "Giura"
+   ]
+  },
+  {
+   "date": "2027-05-09",
+   "name": "Festa della mamma",
+   "type": "Ricorrenza"
+  },
+  {
+   "date": "2027-05-16",
+   "name": "Pentecoste (festività regionale)",
+   "type": "Ricorrenza",
+   "regions": [
+    "Zurigo",
+    "Berna",
+    "Lucerna",
+    "Uri",
+    "Svitto",
+    "Obvaldo",
+    "Nidvaldo",
+    "Glarona",
+    "Zugo",
+    "Friburgo",
+    "Soletta",
+    "Basilea Città",
+    "Basilea Campagna",
+    "Sciaffusa",
+    "Appenzello Esterno",
+    "Appenzello Interno",
+    "San Gallo",
+    "Argovia",
+    "Grigioni",
+    "Turgovia",
+    "Ticino",
+    "Vaud",
+    "Vallese",
+    "Neuchâtel",
+    "Ginevra",
+    "Giura"
+   ]
+  },
+  {
+   "date": "2027-05-17",
+   "name": "Lunedi di Pentecoste (festività regionale)",
+   "type": "Festa nazionale",
+   "regions": [
+    "Zurigo",
+    "Berna",
+    "Uri",
+    "Svitto",
+    "Glarona",
+    "Friburgo",
+    "Basilea Città",
+    "Basilea Campagna",
+    "Sciaffusa",
+    "Appenzello Esterno",
+    "Appenzello Interno",
+    "San Gallo",
+    "Argovia",
+    "Grigioni",
+    "Turgovia",
+    "Ticino",
+    "Vaud",
+    "Ginevra",
+    "Giura"
+   ]
+  },
+  {
+   "date": "2027-05-27",
+   "name": "Corpus Domini (festività regionale)",
+   "type": "Festa nazionale",
+   "regions": [
+    "Argovia",
+    "Appenzello Interno",
+    "Friburgo",
+    "Giura",
+    "Lucerna",
+    "Nidvaldo",
+    "Obvaldo",
+    "Soletta",
+    "Svitto",
+    "Ticino",
+    "Uri",
+    "Vallese",
+    "Zugo"
+   ]
+  },
+  {
+   "date": "2027-06-06",
+   "name": "Festa del papà",
+   "type": "Ricorrenza"
+  },
+  {
+   "date": "2027-08-01",
+   "name": "Festa nazionale della Svizzera",
+   "type": "Festività pubblica"
+  },
+  {
+   "date": "2027-08-15",
+   "name": "Assunzione di Maria (festività regionale)",
+   "type": "Festa nazionale",
+   "regions": [
+    "Argovia",
+    "Appenzello Interno",
+    "Friburgo",
+    "Giura",
+    "Lucerna",
+    "Nidvaldo",
+    "Obvaldo",
+    "Soletta",
+    "Svitto",
+    "Ticino",
+    "Uri",
+    "Vallese",
+    "Zugo"
+   ]
+  },
+  {
+   "date": "2027-09-11",
+   "name": "Knabenschiessen (Zurigo)",
+   "type": "Ricorrenza",
+   "regions": [
+    "Zurigo"
+   ]
+  },
+  {
+   "date": "2027-09-12",
+   "name": "Knabenschiessen (Zurigo)",
+   "type": "Ricorrenza",
+   "regions": [
+    "Zurigo"
+   ]
+  },
+  {
+   "date": "2027-09-13",
+   "name": "Knabenschiessen (Zurigo)",
+   "type": "Ricorrenza",
+   "regions": [
+    "Zurigo"
+   ]
+  },
+  {
+   "date": "2027-09-19",
+   "name": "Digiuno federale (festività regionale)",
+   "type": "Ricorrenza",
+   "regions": [
+    "Zurigo",
+    "Berna",
+    "Lucerna",
+    "Uri",
+    "Svitto",
+    "Obvaldo",
+    "Nidvaldo",
+    "Glarona",
+    "Zugo",
+    "Friburgo",
+    "Soletta",
+    "Basilea Città",
+    "Basilea Campagna",
+    "Sciaffusa",
+    "Appenzello Esterno",
+    "Appenzello Interno",
+    "San Gallo",
+    "Argovia",
+    "Grigioni",
+    "Turgovia",
+    "Ticino",
+    "Vaud",
+    "Vallese",
+    "Neuchâtel",
+    "Giura"
+   ]
+  },
+  {
+   "date": "2027-10-31",
+   "name": "l'ora legale termina",
+   "type": "Ricorrenza"
+  },
+  {
+   "date": "2027-11-01",
+   "name": "Ognissanti (festività regionale)",
+   "type": "Festa nazionale",
+   "regions": [
+    "Argovia",
+    "Appenzello Interno",
+    "Friburgo",
+    "Glarona",
+    "Giura",
+    "Lucerna",
+    "Nidvaldo",
+    "Obvaldo",
+    "San Gallo",
+    "Svitto",
+    "Ticino",
+    "Uri",
+    "Vallese",
+    "Zugo"
+   ]
+  },
+  {
+   "date": "2027-12-08",
+   "name": "Immacolata Concezione (festività regionale)",
+   "type": "Festa nazionale",
+   "regions": [
+    "Appenzello Interno",
+    "Lucerna",
+    "Nidvaldo",
+    "Obvaldo",
+    "Svitto",
+    "Ticino",
+    "Uri",
+    "Vallese",
+    "Zugo"
+   ]
+  },
+  {
+   "date": "2027-12-24",
+   "name": "Vigilia di Natale",
+   "type": "Ricorrenza"
+  },
+  {
+   "date": "2027-12-25",
+   "name": "Giorno di Natale (festività regionale)",
+   "type": "Festa nazionale",
+   "regions": [
+    "Zurigo",
+    "Berna",
+    "Lucerna",
+    "Uri",
+    "Svitto",
+    "Obvaldo",
+    "Nidvaldo",
+    "Glarona",
+    "Zugo",
+    "Friburgo",
+    "Soletta",
+    "Basilea Città",
+    "Basilea Campagna",
+    "Sciaffusa",
+    "Appenzello Esterno",
+    "Appenzello Interno",
+    "San Gallo",
+    "Argovia",
+    "Grigioni",
+    "Turgovia",
+    "Ticino",
+    "Vaud",
+    "Vallese",
+    "Neuchâtel",
+    "Ginevra",
+    "Giura"
+   ]
+  },
+  {
+   "date": "2027-12-26",
+   "name": "Giorno di Santo Stefano (festività regionale)",
+   "type": "Festa nazionale",
+   "regions": [
+    "Zurigo",
+    "Berna",
+    "Lucerna",
+    "Uri",
+    "Svitto",
+    "Glarona",
+    "Basilea Città",
+    "Basilea Campagna",
+    "Sciaffusa",
+    "Appenzello Esterno",
+    "Appenzello Interno",
+    "San Gallo",
+    "Grigioni",
+    "Turgovia",
+    "Ticino"
+   ]
+  },
+  {
+   "date": "2027-12-31",
+   "name": "Vigilia di Capodanno",
+   "type": "Ricorrenza"
+  },
+  {
+   "date": "2028-01-01",
+   "name": "Capodanno (festività regionale)",
+   "type": "Festa nazionale",
+   "regions": [
+    "Zurigo",
+    "Berna",
+    "Lucerna",
+    "Uri",
+    "Svitto",
+    "Obvaldo",
+    "Nidvaldo",
+    "Glarona",
+    "Zugo",
+    "Friburgo",
+    "Soletta",
+    "Basilea Città",
+    "Basilea Campagna",
+    "Sciaffusa",
+    "Appenzello Esterno",
+    "Appenzello Interno",
+    "San Gallo",
+    "Argovia",
+    "Grigioni",
+    "Turgovia",
+    "Ticino",
+    "Vaud",
+    "Vallese",
+    "Neuchâtel",
+    "Ginevra",
+    "Giura"
+   ]
+  },
+  {
+   "date": "2028-01-02",
+   "name": "San Basilio (festività regionale)",
+   "type": "Festa nazionale",
+   "regions": [
+    "Argovia",
+    "Berna",
+    "Friburgo",
+    "Giura",
+    "Turgovia",
+    "Vaud"
+   ]
+  },
+  {
+   "date": "2028-01-06",
+   "name": "Epifania (festività regionale)",
+   "type": "Festa nazionale",
+   "regions": [
+    "Svitto",
+    "Ticino",
+    "Uri"
+   ]
+  },
+  {
+   "date": "2028-02-14",
+   "name": "San Valentino",
+   "type": "Ricorrenza"
+  },
+  {
+   "date": "2028-03-19",
+   "name": "San Giuseppe (festività regionale)",
+   "type": "Festa nazionale",
+   "regions": [
+    "Lucerna",
+    "Nidvaldo",
+    "Soletta",
+    "Svitto",
+    "Ticino",
+    "Uri",
+    "Vallese"
+   ]
+  },
+  {
+   "date": "2028-03-26",
+   "name": "l'ora legale inizia",
+   "type": "Ricorrenza"
+  },
+  {
+   "date": "2028-04-14",
+   "name": "Venerdì Santo (festività regionale)",
+   "type": "Festa nazionale",
+   "regions": [
+    "Zurigo",
+    "Berna",
+    "Lucerna",
+    "Uri",
+    "Svitto",
+    "Obvaldo",
+    "Nidvaldo",
+    "Glarona",
+    "Zugo",
+    "Friburgo",
+    "Soletta",
+    "Basilea Città",
+    "Basilea Campagna",
+    "Sciaffusa",
+    "Appenzello Esterno",
+    "Appenzello Interno",
+    "San Gallo",
+    "Argovia",
+    "Grigioni",
+    "Turgovia",
+    "Vaud",
+    "Neuchâtel",
+    "Ginevra",
+    "Giura"
+   ]
+  },
+  {
+   "date": "2028-04-16",
+   "name": "Domenica di Pasqua",
+   "type": "Ricorrenza"
+  },
+  {
+   "date": "2028-04-17",
+   "name": "Lunedi di Pasqua (festività regionale)",
+   "type": "Festa nazionale",
+   "regions": [
+    "Zurigo",
+    "Berna",
+    "Uri",
+    "Svitto",
+    "Glarona",
+    "Friburgo",
+    "Basilea Città",
+    "Basilea Campagna",
+    "Sciaffusa",
+    "Appenzello Esterno",
+    "Appenzello Interno",
+    "San Gallo",
+    "Argovia",
+    "Grigioni",
+    "Turgovia",
+    "Ticino",
+    "Vaud",
+    "Ginevra",
+    "Giura"
+   ]
+  },
+  {
+   "date": "2028-05-01",
+   "name": "Festa del Lavoro (festività regionale)",
+   "type": "Festa nazionale",
+   "regions": [
+    "Basilea Campagna",
+    "Basilea Città",
+    "Giura",
+    "Neuchâtel",
+    "Sciaffusa",
+    "Zurigo",
+    "Turgovia",
+    "Ticino"
+   ]
+  },
+  {
+   "date": "2028-05-14",
+   "name": "Festa della mamma",
+   "type": "Ricorrenza"
+  },
+  {
+   "date": "2028-05-25",
+   "name": "Ascensione (festività regionale)",
+   "type": "Festa nazionale",
+   "regions": [
+    "Zurigo",
+    "Berna",
+    "Lucerna",
+    "Uri",
+    "Svitto",
+    "Obvaldo",
+    "Nidvaldo",
+    "Glarona",
+    "Zugo",
+    "Friburgo",
+    "Soletta",
+    "Basilea Città",
+    "Basilea Campagna",
+    "Sciaffusa",
+    "Appenzello Esterno",
+    "Appenzello Interno",
+    "San Gallo",
+    "Argovia",
+    "Grigioni",
+    "Turgovia",
+    "Ticino",
+    "Vaud",
+    "Vallese",
+    "Neuchâtel",
+    "Ginevra",
+    "Giura"
+   ]
+  },
+  {
+   "date": "2028-06-04",
+   "name": "Festa del papà",
+   "type": "Ricorrenza"
+  },
+  {
+   "date": "2028-06-04",
+   "name": "Pentecoste (festività regionale)",
+   "type": "Ricorrenza",
+   "regions": [
+    "Zurigo",
+    "Berna",
+    "Lucerna",
+    "Uri",
+    "Svitto",
+    "Obvaldo",
+    "Nidvaldo",
+    "Glarona",
+    "Zugo",
+    "Friburgo",
+    "Soletta",
+    "Basilea Città",
+    "Basilea Campagna",
+    "Sciaffusa",
+    "Appenzello Esterno",
+    "Appenzello Interno",
+    "San Gallo",
+    "Argovia",
+    "Grigioni",
+    "Turgovia",
+    "Ticino",
+    "Vaud",
+    "Vallese",
+    "Neuchâtel",
+    "Ginevra",
+    "Giura"
+   ]
+  },
+  {
+   "date": "2028-06-05",
+   "name": "Lunedi di Pentecoste (festività regionale)",
+   "type": "Festa nazionale",
+   "regions": [
+    "Zurigo",
+    "Berna",
+    "Uri",
+    "Svitto",
+    "Glarona",
+    "Friburgo",
+    "Basilea Città",
+    "Basilea Campagna",
+    "Sciaffusa",
+    "Appenzello Esterno",
+    "Appenzello Interno",
+    "San Gallo",
+    "Argovia",
+    "Grigioni",
+    "Turgovia",
+    "Ticino",
+    "Vaud",
+    "Ginevra",
+    "Giura"
+   ]
+  },
+  {
+   "date": "2028-06-15",
+   "name": "Corpus Domini (festività regionale)",
+   "type": "Festa nazionale",
+   "regions": [
+    "Argovia",
+    "Appenzello Interno",
+    "Friburgo",
+    "Giura",
+    "Lucerna",
+    "Nidvaldo",
+    "Obvaldo",
+    "Soletta",
+    "Svitto",
+    "Ticino",
+    "Uri",
+    "Vallese",
+    "Zugo"
+   ]
+  },
+  {
+   "date": "2028-08-01",
+   "name": "Festa nazionale della Svizzera",
+   "type": "Festività pubblica"
+  },
+  {
+   "date": "2028-08-15",
+   "name": "Assunzione di Maria (festività regionale)",
+   "type": "Festa nazionale",
+   "regions": [
+    "Argovia",
+    "Appenzello Interno",
+    "Friburgo",
+    "Giura",
+    "Lucerna",
+    "Nidvaldo",
+    "Obvaldo",
+    "Soletta",
+    "Svitto",
+    "Ticino",
+    "Uri",
+    "Vallese",
+    "Zugo"
+   ]
+  },
+  {
+   "date": "2028-09-09",
+   "name": "Knabenschiessen (Zurigo)",
+   "type": "Ricorrenza",
+   "regions": [
+    "Zurigo"
+   ]
+  },
+  {
+   "date": "2028-09-10",
+   "name": "Knabenschiessen (Zurigo)",
+   "type": "Ricorrenza",
+   "regions": [
+    "Zurigo"
+   ]
+  },
+  {
+   "date": "2028-09-11",
+   "name": "Knabenschiessen (Zurigo)",
+   "type": "Ricorrenza",
+   "regions": [
+    "Zurigo"
+   ]
+  },
+  {
+   "date": "2028-09-17",
+   "name": "Digiuno federale (festività regionale)",
+   "type": "Ricorrenza",
+   "regions": [
+    "Zurigo",
+    "Berna",
+    "Lucerna",
+    "Uri",
+    "Svitto",
+    "Obvaldo",
+    "Nidvaldo",
+    "Glarona",
+    "Zugo",
+    "Friburgo",
+    "Soletta",
+    "Basilea Città",
+    "Basilea Campagna",
+    "Sciaffusa",
+    "Appenzello Esterno",
+    "Appenzello Interno",
+    "San Gallo",
+    "Argovia",
+    "Grigioni",
+    "Turgovia",
+    "Ticino",
+    "Vaud",
+    "Vallese",
+    "Neuchâtel",
+    "Giura"
+   ]
+  },
+  {
+   "date": "2028-10-29",
+   "name": "l'ora legale termina",
+   "type": "Ricorrenza"
+  },
+  {
+   "date": "2028-11-01",
+   "name": "Ognissanti (festività regionale)",
+   "type": "Festa nazionale",
+   "regions": [
+    "Argovia",
+    "Appenzello Interno",
+    "Friburgo",
+    "Glarona",
+    "Giura",
+    "Lucerna",
+    "Nidvaldo",
+    "Obvaldo",
+    "San Gallo",
+    "Svitto",
+    "Ticino",
+    "Uri",
+    "Vallese",
+    "Zugo"
+   ]
+  },
+  {
+   "date": "2028-12-08",
+   "name": "Immacolata Concezione (festività regionale)",
+   "type": "Festa nazionale",
+   "regions": [
+    "Appenzello Interno",
+    "Lucerna",
+    "Nidvaldo",
+    "Obvaldo",
+    "Svitto",
+    "Ticino",
+    "Uri",
+    "Vallese",
+    "Zugo"
+   ]
+  },
+  {
+   "date": "2028-12-24",
+   "name": "Vigilia di Natale",
+   "type": "Ricorrenza"
+  },
+  {
+   "date": "2028-12-25",
+   "name": "Giorno di Natale (festività regionale)",
+   "type": "Festa nazionale",
+   "regions": [
+    "Zurigo",
+    "Berna",
+    "Lucerna",
+    "Uri",
+    "Svitto",
+    "Obvaldo",
+    "Nidvaldo",
+    "Glarona",
+    "Zugo",
+    "Friburgo",
+    "Soletta",
+    "Basilea Città",
+    "Basilea Campagna",
+    "Sciaffusa",
+    "Appenzello Esterno",
+    "Appenzello Interno",
+    "San Gallo",
+    "Argovia",
+    "Grigioni",
+    "Turgovia",
+    "Ticino",
+    "Vaud",
+    "Vallese",
+    "Neuchâtel",
+    "Ginevra",
+    "Giura"
+   ]
+  },
+  {
+   "date": "2028-12-26",
+   "name": "Giorno di Santo Stefano (festività regionale)",
+   "type": "Festa nazionale",
+   "regions": [
+    "Zurigo",
+    "Berna",
+    "Lucerna",
+    "Uri",
+    "Svitto",
+    "Glarona",
+    "Basilea Città",
+    "Basilea Campagna",
+    "Sciaffusa",
+    "Appenzello Esterno",
+    "Appenzello Interno",
+    "San Gallo",
+    "Grigioni",
+    "Turgovia",
+    "Ticino"
+   ]
+  },
+  {
+   "date": "2028-12-31",
+   "name": "Vigilia di Capodanno",
+   "type": "Ricorrenza"
+  },
+  {
+   "date": "2029-01-01",
+   "name": "Capodanno (festività regionale)",
+   "type": "Festa nazionale",
+   "regions": [
+    "Zurigo",
+    "Berna",
+    "Lucerna",
+    "Uri",
+    "Svitto",
+    "Obvaldo",
+    "Nidvaldo",
+    "Glarona",
+    "Zugo",
+    "Friburgo",
+    "Soletta",
+    "Basilea Città",
+    "Basilea Campagna",
+    "Sciaffusa",
+    "Appenzello Esterno",
+    "Appenzello Interno",
+    "San Gallo",
+    "Argovia",
+    "Grigioni",
+    "Turgovia",
+    "Ticino",
+    "Vaud",
+    "Vallese",
+    "Neuchâtel",
+    "Ginevra",
+    "Giura"
+   ]
+  },
+  {
+   "date": "2029-01-02",
+   "name": "San Basilio (festività regionale)",
+   "type": "Festa nazionale",
+   "regions": [
+    "Argovia",
+    "Berna",
+    "Friburgo",
+    "Giura",
+    "Turgovia",
+    "Vaud"
+   ]
+  },
+  {
+   "date": "2029-01-06",
+   "name": "Epifania (festività regionale)",
+   "type": "Festa nazionale",
+   "regions": [
+    "Svitto",
+    "Ticino",
+    "Uri"
+   ]
+  },
+  {
+   "date": "2029-02-14",
+   "name": "San Valentino",
+   "type": "Ricorrenza"
+  },
+  {
+   "date": "2029-03-19",
+   "name": "San Giuseppe (festività regionale)",
+   "type": "Festa nazionale",
+   "regions": [
+    "Lucerna",
+    "Nidvaldo",
+    "Soletta",
+    "Svitto",
+    "Ticino",
+    "Uri",
+    "Vallese"
+   ]
+  },
+  {
+   "date": "2029-03-25",
+   "name": "l'ora legale inizia",
+   "type": "Ricorrenza"
+  },
+  {
+   "date": "2029-03-30",
+   "name": "Venerdì Santo (festività regionale)",
+   "type": "Festa nazionale",
+   "regions": [
+    "Zurigo",
+    "Berna",
+    "Lucerna",
+    "Uri",
+    "Svitto",
+    "Obvaldo",
+    "Nidvaldo",
+    "Glarona",
+    "Zugo",
+    "Friburgo",
+    "Soletta",
+    "Basilea Città",
+    "Basilea Campagna",
+    "Sciaffusa",
+    "Appenzello Esterno",
+    "Appenzello Interno",
+    "San Gallo",
+    "Argovia",
+    "Grigioni",
+    "Turgovia",
+    "Vaud",
+    "Neuchâtel",
+    "Ginevra",
+    "Giura"
+   ]
+  },
+  {
+   "date": "2029-04-01",
+   "name": "Domenica di Pasqua",
+   "type": "Ricorrenza"
+  },
+  {
+   "date": "2029-04-02",
+   "name": "Lunedi di Pasqua (festività regionale)",
+   "type": "Festa nazionale",
+   "regions": [
+    "Zurigo",
+    "Berna",
+    "Uri",
+    "Svitto",
+    "Glarona",
+    "Friburgo",
+    "Basilea Città",
+    "Basilea Campagna",
+    "Sciaffusa",
+    "Appenzello Esterno",
+    "Appenzello Interno",
+    "San Gallo",
+    "Argovia",
+    "Grigioni",
+    "Turgovia",
+    "Ticino",
+    "Vaud",
+    "Ginevra",
+    "Giura"
+   ]
+  },
+  {
+   "date": "2029-05-01",
+   "name": "Festa del Lavoro (festività regionale)",
+   "type": "Festa nazionale",
+   "regions": [
+    "Basilea Campagna",
+    "Basilea Città",
+    "Giura",
+    "Neuchâtel",
+    "Sciaffusa",
+    "Zurigo",
+    "Turgovia",
+    "Ticino"
+   ]
+  },
+  {
+   "date": "2029-05-10",
+   "name": "Ascensione (festività regionale)",
+   "type": "Festa nazionale",
+   "regions": [
+    "Zurigo",
+    "Berna",
+    "Lucerna",
+    "Uri",
+    "Svitto",
+    "Obvaldo",
+    "Nidvaldo",
+    "Glarona",
+    "Zugo",
+    "Friburgo",
+    "Soletta",
+    "Basilea Città",
+    "Basilea Campagna",
+    "Sciaffusa",
+    "Appenzello Esterno",
+    "Appenzello Interno",
+    "San Gallo",
+    "Argovia",
+    "Grigioni",
+    "Turgovia",
+    "Ticino",
+    "Vaud",
+    "Vallese",
+    "Neuchâtel",
+    "Ginevra",
+    "Giura"
+   ]
+  },
+  {
+   "date": "2029-05-13",
+   "name": "Festa della mamma",
+   "type": "Ricorrenza"
+  },
+  {
+   "date": "2029-05-20",
+   "name": "Pentecoste (festività regionale)",
+   "type": "Ricorrenza",
+   "regions": [
+    "Zurigo",
+    "Berna",
+    "Lucerna",
+    "Uri",
+    "Svitto",
+    "Obvaldo",
+    "Nidvaldo",
+    "Glarona",
+    "Zugo",
+    "Friburgo",
+    "Soletta",
+    "Basilea Città",
+    "Basilea Campagna",
+    "Sciaffusa",
+    "Appenzello Esterno",
+    "Appenzello Interno",
+    "San Gallo",
+    "Argovia",
+    "Grigioni",
+    "Turgovia",
+    "Ticino",
+    "Vaud",
+    "Vallese",
+    "Neuchâtel",
+    "Ginevra",
+    "Giura"
+   ]
+  },
+  {
+   "date": "2029-05-21",
+   "name": "Lunedi di Pentecoste (festività regionale)",
+   "type": "Festa nazionale",
+   "regions": [
+    "Zurigo",
+    "Berna",
+    "Uri",
+    "Svitto",
+    "Glarona",
+    "Friburgo",
+    "Basilea Città",
+    "Basilea Campagna",
+    "Sciaffusa",
+    "Appenzello Esterno",
+    "Appenzello Interno",
+    "San Gallo",
+    "Argovia",
+    "Grigioni",
+    "Turgovia",
+    "Ticino",
+    "Vaud",
+    "Ginevra",
+    "Giura"
+   ]
+  },
+  {
+   "date": "2029-05-31",
+   "name": "Corpus Domini (festività regionale)",
+   "type": "Festa nazionale",
+   "regions": [
+    "Argovia",
+    "Appenzello Interno",
+    "Friburgo",
+    "Giura",
+    "Lucerna",
+    "Nidvaldo",
+    "Obvaldo",
+    "Soletta",
+    "Svitto",
+    "Ticino",
+    "Uri",
+    "Vallese",
+    "Zugo"
+   ]
+  },
+  {
+   "date": "2029-06-03",
+   "name": "Festa del papà",
+   "type": "Ricorrenza"
+  },
+  {
+   "date": "2029-08-01",
+   "name": "Festa nazionale della Svizzera",
+   "type": "Festività pubblica"
+  },
+  {
+   "date": "2029-08-15",
+   "name": "Assunzione di Maria (festività regionale)",
+   "type": "Festa nazionale",
+   "regions": [
+    "Argovia",
+    "Appenzello Interno",
+    "Friburgo",
+    "Giura",
+    "Lucerna",
+    "Nidvaldo",
+    "Obvaldo",
+    "Soletta",
+    "Svitto",
+    "Ticino",
+    "Uri",
+    "Vallese",
+    "Zugo"
+   ]
+  },
+  {
+   "date": "2029-09-08",
+   "name": "Knabenschiessen (Zurigo)",
+   "type": "Ricorrenza",
+   "regions": [
+    "Zurigo"
+   ]
+  },
+  {
+   "date": "2029-09-09",
+   "name": "Knabenschiessen (Zurigo)",
+   "type": "Ricorrenza",
+   "regions": [
+    "Zurigo"
+   ]
+  },
+  {
+   "date": "2029-09-10",
+   "name": "Knabenschiessen (Zurigo)",
+   "type": "Ricorrenza",
+   "regions": [
+    "Zurigo"
+   ]
+  },
+  {
+   "date": "2029-09-16",
+   "name": "Digiuno federale (festività regionale)",
+   "type": "Ricorrenza",
+   "regions": [
+    "Zurigo",
+    "Berna",
+    "Lucerna",
+    "Uri",
+    "Svitto",
+    "Obvaldo",
+    "Nidvaldo",
+    "Glarona",
+    "Zugo",
+    "Friburgo",
+    "Soletta",
+    "Basilea Città",
+    "Basilea Campagna",
+    "Sciaffusa",
+    "Appenzello Esterno",
+    "Appenzello Interno",
+    "San Gallo",
+    "Argovia",
+    "Grigioni",
+    "Turgovia",
+    "Ticino",
+    "Vaud",
+    "Vallese",
+    "Neuchâtel",
+    "Giura"
+   ]
+  },
+  {
+   "date": "2029-10-28",
+   "name": "l'ora legale termina",
+   "type": "Ricorrenza"
+  },
+  {
+   "date": "2029-11-01",
+   "name": "Ognissanti (festività regionale)",
+   "type": "Festa nazionale",
+   "regions": [
+    "Argovia",
+    "Appenzello Interno",
+    "Friburgo",
+    "Glarona",
+    "Giura",
+    "Lucerna",
+    "Nidvaldo",
+    "Obvaldo",
+    "San Gallo",
+    "Svitto",
+    "Ticino",
+    "Uri",
+    "Vallese",
+    "Zugo"
+   ]
+  },
+  {
+   "date": "2029-12-08",
+   "name": "Immacolata Concezione (festività regionale)",
+   "type": "Festa nazionale",
+   "regions": [
+    "Appenzello Interno",
+    "Lucerna",
+    "Nidvaldo",
+    "Obvaldo",
+    "Svitto",
+    "Ticino",
+    "Uri",
+    "Vallese",
+    "Zugo"
+   ]
+  },
+  {
+   "date": "2029-12-24",
+   "name": "Vigilia di Natale",
+   "type": "Ricorrenza"
+  },
+  {
+   "date": "2029-12-25",
+   "name": "Giorno di Natale (festività regionale)",
+   "type": "Festa nazionale",
+   "regions": [
+    "Zurigo",
+    "Berna",
+    "Lucerna",
+    "Uri",
+    "Svitto",
+    "Obvaldo",
+    "Nidvaldo",
+    "Glarona",
+    "Zugo",
+    "Friburgo",
+    "Soletta",
+    "Basilea Città",
+    "Basilea Campagna",
+    "Sciaffusa",
+    "Appenzello Esterno",
+    "Appenzello Interno",
+    "San Gallo",
+    "Argovia",
+    "Grigioni",
+    "Turgovia",
+    "Ticino",
+    "Vaud",
+    "Vallese",
+    "Neuchâtel",
+    "Ginevra",
+    "Giura"
+   ]
+  },
+  {
+   "date": "2029-12-26",
+   "name": "Giorno di Santo Stefano (festività regionale)",
+   "type": "Festa nazionale",
+   "regions": [
+    "Zurigo",
+    "Berna",
+    "Lucerna",
+    "Uri",
+    "Svitto",
+    "Glarona",
+    "Basilea Città",
+    "Basilea Campagna",
+    "Sciaffusa",
+    "Appenzello Esterno",
+    "Appenzello Interno",
+    "San Gallo",
+    "Grigioni",
+    "Turgovia",
+    "Ticino"
+   ]
+  },
+  {
+   "date": "2029-12-31",
+   "name": "Vigilia di Capodanno",
+   "type": "Ricorrenza"
+  },
+  {
+   "date": "2030-01-01",
+   "name": "Capodanno (festività regionale)",
+   "type": "Festa nazionale",
+   "regions": [
+    "Zurigo",
+    "Berna",
+    "Lucerna",
+    "Uri",
+    "Svitto",
+    "Obvaldo",
+    "Nidvaldo",
+    "Glarona",
+    "Zugo",
+    "Friburgo",
+    "Soletta",
+    "Basilea Città",
+    "Basilea Campagna",
+    "Sciaffusa",
+    "Appenzello Esterno",
+    "Appenzello Interno",
+    "San Gallo",
+    "Argovia",
+    "Grigioni",
+    "Turgovia",
+    "Ticino",
+    "Vaud",
+    "Vallese",
+    "Neuchâtel",
+    "Ginevra",
+    "Giura"
+   ]
+  },
+  {
+   "date": "2030-01-02",
+   "name": "San Basilio (festività regionale)",
+   "type": "Festa nazionale",
+   "regions": [
+    "Argovia",
+    "Berna",
+    "Friburgo",
+    "Giura",
+    "Turgovia",
+    "Vaud"
+   ]
+  },
+  {
+   "date": "2030-01-06",
+   "name": "Epifania (festività regionale)",
+   "type": "Festa nazionale",
+   "regions": [
+    "Svitto",
+    "Ticino",
+    "Uri"
+   ]
+  },
+  {
+   "date": "2030-02-14",
+   "name": "San Valentino",
+   "type": "Ricorrenza"
+  },
+  {
+   "date": "2030-03-19",
+   "name": "San Giuseppe (festività regionale)",
+   "type": "Festa nazionale",
+   "regions": [
+    "Lucerna",
+    "Nidvaldo",
+    "Soletta",
+    "Svitto",
+    "Ticino",
+    "Uri",
+    "Vallese"
+   ]
+  },
+  {
+   "date": "2030-03-31",
+   "name": "l'ora legale inizia",
+   "type": "Ricorrenza"
+  },
+  {
+   "date": "2030-04-19",
+   "name": "Venerdì Santo (festività regionale)",
+   "type": "Festa nazionale",
+   "regions": [
+    "Zurigo",
+    "Berna",
+    "Lucerna",
+    "Uri",
+    "Svitto",
+    "Obvaldo",
+    "Nidvaldo",
+    "Glarona",
+    "Zugo",
+    "Friburgo",
+    "Soletta",
+    "Basilea Città",
+    "Basilea Campagna",
+    "Sciaffusa",
+    "Appenzello Esterno",
+    "Appenzello Interno",
+    "San Gallo",
+    "Argovia",
+    "Grigioni",
+    "Turgovia",
+    "Vaud",
+    "Neuchâtel",
+    "Ginevra",
+    "Giura"
+   ]
+  },
+  {
+   "date": "2030-04-21",
+   "name": "Domenica di Pasqua",
+   "type": "Ricorrenza"
+  },
+  {
+   "date": "2030-04-22",
+   "name": "Lunedi di Pasqua (festività regionale)",
+   "type": "Festa nazionale",
+   "regions": [
+    "Zurigo",
+    "Berna",
+    "Uri",
+    "Svitto",
+    "Glarona",
+    "Friburgo",
+    "Basilea Città",
+    "Basilea Campagna",
+    "Sciaffusa",
+    "Appenzello Esterno",
+    "Appenzello Interno",
+    "San Gallo",
+    "Argovia",
+    "Grigioni",
+    "Turgovia",
+    "Ticino",
+    "Vaud",
+    "Ginevra",
+    "Giura"
+   ]
+  },
+  {
+   "date": "2030-05-01",
+   "name": "Festa del Lavoro (festività regionale)",
+   "type": "Festa nazionale",
+   "regions": [
+    "Basilea Campagna",
+    "Basilea Città",
+    "Giura",
+    "Neuchâtel",
+    "Sciaffusa",
+    "Zurigo",
+    "Turgovia",
+    "Ticino"
+   ]
+  },
+  {
+   "date": "2030-05-12",
+   "name": "Festa della mamma",
+   "type": "Ricorrenza"
+  },
+  {
+   "date": "2030-05-30",
+   "name": "Ascensione (festività regionale)",
+   "type": "Festa nazionale",
+   "regions": [
+    "Zurigo",
+    "Berna",
+    "Lucerna",
+    "Uri",
+    "Svitto",
+    "Obvaldo",
+    "Nidvaldo",
+    "Glarona",
+    "Zugo",
+    "Friburgo",
+    "Soletta",
+    "Basilea Città",
+    "Basilea Campagna",
+    "Sciaffusa",
+    "Appenzello Esterno",
+    "Appenzello Interno",
+    "San Gallo",
+    "Argovia",
+    "Grigioni",
+    "Turgovia",
+    "Ticino",
+    "Vaud",
+    "Vallese",
+    "Neuchâtel",
+    "Ginevra",
+    "Giura"
+   ]
+  },
+  {
+   "date": "2030-06-02",
+   "name": "Festa del papà",
+   "type": "Ricorrenza"
+  },
+  {
+   "date": "2030-06-09",
+   "name": "Pentecoste (festività regionale)",
+   "type": "Ricorrenza",
+   "regions": [
+    "Zurigo",
+    "Berna",
+    "Lucerna",
+    "Uri",
+    "Svitto",
+    "Obvaldo",
+    "Nidvaldo",
+    "Glarona",
+    "Zugo",
+    "Friburgo",
+    "Soletta",
+    "Basilea Città",
+    "Basilea Campagna",
+    "Sciaffusa",
+    "Appenzello Esterno",
+    "Appenzello Interno",
+    "San Gallo",
+    "Argovia",
+    "Grigioni",
+    "Turgovia",
+    "Ticino",
+    "Vaud",
+    "Vallese",
+    "Neuchâtel",
+    "Ginevra",
+    "Giura"
+   ]
+  },
+  {
+   "date": "2030-06-10",
+   "name": "Lunedi di Pentecoste (festività regionale)",
+   "type": "Festa nazionale",
+   "regions": [
+    "Zurigo",
+    "Berna",
+    "Uri",
+    "Svitto",
+    "Glarona",
+    "Friburgo",
+    "Basilea Città",
+    "Basilea Campagna",
+    "Sciaffusa",
+    "Appenzello Esterno",
+    "Appenzello Interno",
+    "San Gallo",
+    "Argovia",
+    "Grigioni",
+    "Turgovia",
+    "Ticino",
+    "Vaud",
+    "Ginevra",
+    "Giura"
+   ]
+  },
+  {
+   "date": "2030-06-20",
+   "name": "Corpus Domini (festività regionale)",
+   "type": "Festa nazionale",
+   "regions": [
+    "Argovia",
+    "Appenzello Interno",
+    "Friburgo",
+    "Giura",
+    "Lucerna",
+    "Nidvaldo",
+    "Obvaldo",
+    "Soletta",
+    "Svitto",
+    "Ticino",
+    "Uri",
+    "Vallese",
+    "Zugo"
+   ]
+  },
+  {
+   "date": "2030-08-01",
+   "name": "Festa nazionale della Svizzera",
+   "type": "Festività pubblica"
+  },
+  {
+   "date": "2030-08-15",
+   "name": "Assunzione di Maria (festività regionale)",
+   "type": "Festa nazionale",
+   "regions": [
+    "Argovia",
+    "Appenzello Interno",
+    "Friburgo",
+    "Giura",
+    "Lucerna",
+    "Nidvaldo",
+    "Obvaldo",
+    "Soletta",
+    "Svitto",
+    "Ticino",
+    "Uri",
+    "Vallese",
+    "Zugo"
+   ]
+  },
+  {
+   "date": "2030-09-07",
+   "name": "Knabenschiessen (Zurigo)",
+   "type": "Ricorrenza",
+   "regions": [
+    "Zurigo"
+   ]
+  },
+  {
+   "date": "2030-09-08",
+   "name": "Knabenschiessen (Zurigo)",
+   "type": "Ricorrenza",
+   "regions": [
+    "Zurigo"
+   ]
+  },
+  {
+   "date": "2030-09-09",
+   "name": "Knabenschiessen (Zurigo)",
+   "type": "Ricorrenza",
+   "regions": [
+    "Zurigo"
+   ]
+  },
+  {
+   "date": "2030-09-15",
+   "name": "Digiuno federale (festività regionale)",
+   "type": "Ricorrenza",
+   "regions": [
+    "Zurigo",
+    "Berna",
+    "Lucerna",
+    "Uri",
+    "Svitto",
+    "Obvaldo",
+    "Nidvaldo",
+    "Glarona",
+    "Zugo",
+    "Friburgo",
+    "Soletta",
+    "Basilea Città",
+    "Basilea Campagna",
+    "Sciaffusa",
+    "Appenzello Esterno",
+    "Appenzello Interno",
+    "San Gallo",
+    "Argovia",
+    "Grigioni",
+    "Turgovia",
+    "Ticino",
+    "Vaud",
+    "Vallese",
+    "Neuchâtel",
+    "Giura"
+   ]
+  },
+  {
+   "date": "2030-10-27",
+   "name": "l'ora legale termina",
+   "type": "Ricorrenza"
+  },
+  {
+   "date": "2030-11-01",
+   "name": "Ognissanti (festività regionale)",
+   "type": "Festa nazionale",
+   "regions": [
+    "Argovia",
+    "Appenzello Interno",
+    "Friburgo",
+    "Glarona",
+    "Giura",
+    "Lucerna",
+    "Nidvaldo",
+    "Obvaldo",
+    "San Gallo",
+    "Svitto",
+    "Ticino",
+    "Uri",
+    "Vallese",
+    "Zugo"
+   ]
+  },
+  {
+   "date": "2030-12-08",
+   "name": "Immacolata Concezione (festività regionale)",
+   "type": "Festa nazionale",
+   "regions": [
+    "Appenzello Interno",
+    "Lucerna",
+    "Nidvaldo",
+    "Obvaldo",
+    "Svitto",
+    "Ticino",
+    "Uri",
+    "Vallese",
+    "Zugo"
+   ]
+  },
+  {
+   "date": "2030-12-24",
+   "name": "Vigilia di Natale",
+   "type": "Ricorrenza"
+  },
+  {
+   "date": "2030-12-25",
+   "name": "Giorno di Natale (festività regionale)",
+   "type": "Festa nazionale",
+   "regions": [
+    "Zurigo",
+    "Berna",
+    "Lucerna",
+    "Uri",
+    "Svitto",
+    "Obvaldo",
+    "Nidvaldo",
+    "Glarona",
+    "Zugo",
+    "Friburgo",
+    "Soletta",
+    "Basilea Città",
+    "Basilea Campagna",
+    "Sciaffusa",
+    "Appenzello Esterno",
+    "Appenzello Interno",
+    "San Gallo",
+    "Argovia",
+    "Grigioni",
+    "Turgovia",
+    "Ticino",
+    "Vaud",
+    "Vallese",
+    "Neuchâtel",
+    "Ginevra",
+    "Giura"
+   ]
+  },
+  {
+   "date": "2030-12-26",
+   "name": "Giorno di Santo Stefano (festività regionale)",
+   "type": "Festa nazionale",
+   "regions": [
+    "Zurigo",
+    "Berna",
+    "Lucerna",
+    "Uri",
+    "Svitto",
+    "Glarona",
+    "Basilea Città",
+    "Basilea Campagna",
+    "Sciaffusa",
+    "Appenzello Esterno",
+    "Appenzello Interno",
+    "San Gallo",
+    "Grigioni",
+    "Turgovia",
+    "Ticino"
+   ]
+  },
+  {
+   "date": "2030-12-31",
+   "name": "Vigilia di Capodanno",
+   "type": "Ricorrenza"
+  },
+  {
+   "date": "2031-01-01",
+   "name": "Capodanno (festività regionale)",
+   "type": "Festa nazionale",
+   "regions": [
+    "Zurigo",
+    "Berna",
+    "Lucerna",
+    "Uri",
+    "Svitto",
+    "Obvaldo",
+    "Nidvaldo",
+    "Glarona",
+    "Zugo",
+    "Friburgo",
+    "Soletta",
+    "Basilea Città",
+    "Basilea Campagna",
+    "Sciaffusa",
+    "Appenzello Esterno",
+    "Appenzello Interno",
+    "San Gallo",
+    "Argovia",
+    "Grigioni",
+    "Turgovia",
+    "Ticino",
+    "Vaud",
+    "Vallese",
+    "Neuchâtel",
+    "Ginevra",
+    "Giura"
+   ]
+  },
+  {
+   "date": "2031-01-02",
+   "name": "San Basilio (festività regionale)",
+   "type": "Festa nazionale",
+   "regions": [
+    "Argovia",
+    "Berna",
+    "Friburgo",
+    "Giura",
+    "Turgovia",
+    "Vaud"
+   ]
+  },
+  {
+   "date": "2031-01-06",
+   "name": "Epifania (festività regionale)",
+   "type": "Festa nazionale",
+   "regions": [
+    "Svitto",
+    "Ticino",
+    "Uri"
+   ]
+  },
+  {
+   "date": "2031-02-14",
+   "name": "San Valentino",
+   "type": "Ricorrenza"
+  },
+  {
+   "date": "2031-03-19",
+   "name": "San Giuseppe (festività regionale)",
+   "type": "Festa nazionale",
+   "regions": [
+    "Lucerna",
+    "Nidvaldo",
+    "Soletta",
+    "Svitto",
+    "Ticino",
+    "Uri",
+    "Vallese"
+   ]
+  },
+  {
+   "date": "2031-03-30",
+   "name": "l'ora legale inizia",
+   "type": "Ricorrenza"
+  },
+  {
+   "date": "2031-04-11",
+   "name": "Venerdì Santo (festività regionale)",
+   "type": "Festa nazionale",
+   "regions": [
+    "Zurigo",
+    "Berna",
+    "Lucerna",
+    "Uri",
+    "Svitto",
+    "Obvaldo",
+    "Nidvaldo",
+    "Glarona",
+    "Zugo",
+    "Friburgo",
+    "Soletta",
+    "Basilea Città",
+    "Basilea Campagna",
+    "Sciaffusa",
+    "Appenzello Esterno",
+    "Appenzello Interno",
+    "San Gallo",
+    "Argovia",
+    "Grigioni",
+    "Turgovia",
+    "Vaud",
+    "Neuchâtel",
+    "Ginevra",
+    "Giura"
+   ]
+  },
+  {
+   "date": "2031-04-13",
+   "name": "Domenica di Pasqua",
+   "type": "Ricorrenza"
+  },
+  {
+   "date": "2031-04-14",
+   "name": "Lunedi di Pasqua (festività regionale)",
+   "type": "Festa nazionale",
+   "regions": [
+    "Zurigo",
+    "Berna",
+    "Uri",
+    "Svitto",
+    "Glarona",
+    "Friburgo",
+    "Basilea Città",
+    "Basilea Campagna",
+    "Sciaffusa",
+    "Appenzello Esterno",
+    "Appenzello Interno",
+    "San Gallo",
+    "Argovia",
+    "Grigioni",
+    "Turgovia",
+    "Ticino",
+    "Vaud",
+    "Ginevra",
+    "Giura"
+   ]
+  },
+  {
+   "date": "2031-05-01",
+   "name": "Festa del Lavoro (festività regionale)",
+   "type": "Festa nazionale",
+   "regions": [
+    "Basilea Campagna",
+    "Basilea Città",
+    "Giura",
+    "Neuchâtel",
+    "Sciaffusa",
+    "Zurigo",
+    "Turgovia",
+    "Ticino"
+   ]
+  },
+  {
+   "date": "2031-05-11",
+   "name": "Festa della mamma",
+   "type": "Ricorrenza"
+  },
+  {
+   "date": "2031-05-22",
+   "name": "Ascensione (festività regionale)",
+   "type": "Festa nazionale",
+   "regions": [
+    "Zurigo",
+    "Berna",
+    "Lucerna",
+    "Uri",
+    "Svitto",
+    "Obvaldo",
+    "Nidvaldo",
+    "Glarona",
+    "Zugo",
+    "Friburgo",
+    "Soletta",
+    "Basilea Città",
+    "Basilea Campagna",
+    "Sciaffusa",
+    "Appenzello Esterno",
+    "Appenzello Interno",
+    "San Gallo",
+    "Argovia",
+    "Grigioni",
+    "Turgovia",
+    "Ticino",
+    "Vaud",
+    "Vallese",
+    "Neuchâtel",
+    "Ginevra",
+    "Giura"
+   ]
+  },
+  {
+   "date": "2031-06-01",
+   "name": "Festa del papà",
+   "type": "Ricorrenza"
+  },
+  {
+   "date": "2031-06-01",
+   "name": "Pentecoste (festività regionale)",
+   "type": "Ricorrenza",
+   "regions": [
+    "Zurigo",
+    "Berna",
+    "Lucerna",
+    "Uri",
+    "Svitto",
+    "Obvaldo",
+    "Nidvaldo",
+    "Glarona",
+    "Zugo",
+    "Friburgo",
+    "Soletta",
+    "Basilea Città",
+    "Basilea Campagna",
+    "Sciaffusa",
+    "Appenzello Esterno",
+    "Appenzello Interno",
+    "San Gallo",
+    "Argovia",
+    "Grigioni",
+    "Turgovia",
+    "Ticino",
+    "Vaud",
+    "Vallese",
+    "Neuchâtel",
+    "Ginevra",
+    "Giura"
+   ]
+  },
+  {
+   "date": "2031-06-02",
+   "name": "Lunedi di Pentecoste (festività regionale)",
+   "type": "Festa nazionale",
+   "regions": [
+    "Zurigo",
+    "Berna",
+    "Uri",
+    "Svitto",
+    "Glarona",
+    "Friburgo",
+    "Basilea Città",
+    "Basilea Campagna",
+    "Sciaffusa",
+    "Appenzello Esterno",
+    "Appenzello Interno",
+    "San Gallo",
+    "Argovia",
+    "Grigioni",
+    "Turgovia",
+    "Ticino",
+    "Vaud",
+    "Ginevra",
+    "Giura"
+   ]
+  },
+  {
+   "date": "2031-06-12",
+   "name": "Corpus Domini (festività regionale)",
+   "type": "Festa nazionale",
+   "regions": [
+    "Argovia",
+    "Appenzello Interno",
+    "Friburgo",
+    "Giura",
+    "Lucerna",
+    "Nidvaldo",
+    "Obvaldo",
+    "Soletta",
+    "Svitto",
+    "Ticino",
+    "Uri",
+    "Vallese",
+    "Zugo"
+   ]
+  },
+  {
+   "date": "2031-08-01",
+   "name": "Festa nazionale della Svizzera",
+   "type": "Festività pubblica"
+  },
+  {
+   "date": "2031-08-15",
+   "name": "Assunzione di Maria (festività regionale)",
+   "type": "Festa nazionale",
+   "regions": [
+    "Argovia",
+    "Appenzello Interno",
+    "Friburgo",
+    "Giura",
+    "Lucerna",
+    "Nidvaldo",
+    "Obvaldo",
+    "Soletta",
+    "Svitto",
+    "Ticino",
+    "Uri",
+    "Vallese",
+    "Zugo"
+   ]
+  },
+  {
+   "date": "2031-09-13",
+   "name": "Knabenschiessen (Zurigo)",
+   "type": "Ricorrenza",
+   "regions": [
+    "Zurigo"
+   ]
+  },
+  {
+   "date": "2031-09-14",
+   "name": "Knabenschiessen (Zurigo)",
+   "type": "Ricorrenza",
+   "regions": [
+    "Zurigo"
+   ]
+  },
+  {
+   "date": "2031-09-15",
+   "name": "Knabenschiessen (Zurigo)",
+   "type": "Ricorrenza",
+   "regions": [
+    "Zurigo"
+   ]
+  },
+  {
+   "date": "2031-09-21",
+   "name": "Digiuno federale (festività regionale)",
+   "type": "Ricorrenza",
+   "regions": [
+    "Zurigo",
+    "Berna",
+    "Lucerna",
+    "Uri",
+    "Svitto",
+    "Obvaldo",
+    "Nidvaldo",
+    "Glarona",
+    "Zugo",
+    "Friburgo",
+    "Soletta",
+    "Basilea Città",
+    "Basilea Campagna",
+    "Sciaffusa",
+    "Appenzello Esterno",
+    "Appenzello Interno",
+    "San Gallo",
+    "Argovia",
+    "Grigioni",
+    "Turgovia",
+    "Ticino",
+    "Vaud",
+    "Vallese",
+    "Neuchâtel",
+    "Giura"
+   ]
+  },
+  {
+   "date": "2031-10-26",
+   "name": "l'ora legale termina",
+   "type": "Ricorrenza"
+  },
+  {
+   "date": "2031-11-01",
+   "name": "Ognissanti (festività regionale)",
+   "type": "Festa nazionale",
+   "regions": [
+    "Argovia",
+    "Appenzello Interno",
+    "Friburgo",
+    "Glarona",
+    "Giura",
+    "Lucerna",
+    "Nidvaldo",
+    "Obvaldo",
+    "San Gallo",
+    "Svitto",
+    "Ticino",
+    "Uri",
+    "Vallese",
+    "Zugo"
+   ]
+  },
+  {
+   "date": "2031-12-08",
+   "name": "Immacolata Concezione (festività regionale)",
+   "type": "Festa nazionale",
+   "regions": [
+    "Appenzello Interno",
+    "Lucerna",
+    "Nidvaldo",
+    "Obvaldo",
+    "Svitto",
+    "Ticino",
+    "Uri",
+    "Vallese",
+    "Zugo"
+   ]
+  },
+  {
+   "date": "2031-12-24",
+   "name": "Vigilia di Natale",
+   "type": "Ricorrenza"
+  },
+  {
+   "date": "2031-12-25",
+   "name": "Giorno di Natale (festività regionale)",
+   "type": "Festa nazionale",
+   "regions": [
+    "Zurigo",
+    "Berna",
+    "Lucerna",
+    "Uri",
+    "Svitto",
+    "Obvaldo",
+    "Nidvaldo",
+    "Glarona",
+    "Zugo",
+    "Friburgo",
+    "Soletta",
+    "Basilea Città",
+    "Basilea Campagna",
+    "Sciaffusa",
+    "Appenzello Esterno",
+    "Appenzello Interno",
+    "San Gallo",
+    "Argovia",
+    "Grigioni",
+    "Turgovia",
+    "Ticino",
+    "Vaud",
+    "Vallese",
+    "Neuchâtel",
+    "Ginevra",
+    "Giura"
+   ]
+  },
+  {
+   "date": "2031-12-26",
+   "name": "Giorno di Santo Stefano (festività regionale)",
+   "type": "Festa nazionale",
+   "regions": [
+    "Zurigo",
+    "Berna",
+    "Lucerna",
+    "Uri",
+    "Svitto",
+    "Glarona",
+    "Basilea Città",
+    "Basilea Campagna",
+    "Sciaffusa",
+    "Appenzello Esterno",
+    "Appenzello Interno",
+    "San Gallo",
+    "Grigioni",
+    "Turgovia",
+    "Ticino"
+   ]
+  },
+  {
+   "date": "2031-12-31",
+   "name": "Vigilia di Capodanno",
+   "type": "Ricorrenza"
+  }
+ ]
+}

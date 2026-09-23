@@ -1,0 +1,1116 @@
+{
+ "id": "en.ma",
+ "name": "Holidays in Morocco",
+ "lang": "en",
+ "from": 2021,
+ "to": 2031,
+ "count": 221,
+ "fetchedAt": "2026-09-23T12:14:40.897Z",
+ "events": [
+  {
+   "date": "2021-01-01",
+   "name": "New Year's Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2021-01-11",
+   "name": "Anniversary of the Independence Manifesto",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2021-01-14",
+   "name": "Amazigh New Year",
+   "type": "Observance"
+  },
+  {
+   "date": "2021-04-11",
+   "name": "Daylight Saving Time ends",
+   "type": "Observance"
+  },
+  {
+   "date": "2021-04-14",
+   "name": "Ramadan Start",
+   "type": "Observance"
+  },
+  {
+   "date": "2021-05-01",
+   "name": "Labour Day/May Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2021-05-13",
+   "name": "Eid al-Fitr",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2021-05-14",
+   "name": "Eid al-Fitr Holiday",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2021-05-16",
+   "name": "Daylight Saving Time starts",
+   "type": "Observance"
+  },
+  {
+   "date": "2021-07-21",
+   "name": "Eid al-Adha",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2021-07-22",
+   "name": "Eid al-Adha Holiday",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2021-07-30",
+   "name": "Feast of the Throne",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2021-08-10",
+   "name": "Hijra New Year",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2021-08-14",
+   "name": "Anniversary of the Recovery Oued Ed-Dahab",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2021-08-20",
+   "name": "Anniversary of the Revolution of the King and the People",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2021-08-21",
+   "name": "Youth Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2021-10-19",
+   "name": "The Prophet Muhammad's Birthday",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2021-10-20",
+   "name": "The Prophet Muhammad's Birthday Holiday",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2021-11-06",
+   "name": "Anniversary of the Green March",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2021-11-18",
+   "name": "Independence Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2022-01-01",
+   "name": "New Year's Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2022-01-11",
+   "name": "Anniversary of the Independence Manifesto",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2022-01-14",
+   "name": "Amazigh New Year",
+   "type": "Observance"
+  },
+  {
+   "date": "2022-03-27",
+   "name": "Daylight Saving Time ends",
+   "type": "Observance"
+  },
+  {
+   "date": "2022-04-03",
+   "name": "Ramadan Start",
+   "type": "Observance"
+  },
+  {
+   "date": "2022-05-01",
+   "name": "Labour Day/May Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2022-05-02",
+   "name": "Eid al-Fitr",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2022-05-03",
+   "name": "Eid al-Fitr Holiday",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2022-05-08",
+   "name": "Daylight Saving Time starts",
+   "type": "Observance"
+  },
+  {
+   "date": "2022-07-10",
+   "name": "Eid al-Adha",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2022-07-11",
+   "name": "Eid al-Adha Holiday",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2022-07-30",
+   "name": "Feast of the Throne",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2022-07-30",
+   "name": "Hijra New Year",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2022-08-14",
+   "name": "Anniversary of the Recovery Oued Ed-Dahab",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2022-08-20",
+   "name": "Anniversary of the Revolution of the King and the People",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2022-08-21",
+   "name": "Youth Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2022-10-09",
+   "name": "The Prophet Muhammad's Birthday",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2022-10-10",
+   "name": "The Prophet Muhammad's Birthday Holiday",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2022-11-06",
+   "name": "Anniversary of the Green March",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2022-11-18",
+   "name": "Independence Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2023-01-01",
+   "name": "New Year's Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2023-01-11",
+   "name": "Anniversary of the Independence Manifesto",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2023-01-14",
+   "name": "Amazigh New Year",
+   "type": "Observance"
+  },
+  {
+   "date": "2023-03-19",
+   "name": "Daylight Saving Time ends",
+   "type": "Observance"
+  },
+  {
+   "date": "2023-03-23",
+   "name": "Ramadan Start",
+   "type": "Observance"
+  },
+  {
+   "date": "2023-04-22",
+   "name": "Eid al-Fitr",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2023-04-23",
+   "name": "Daylight Saving Time starts",
+   "type": "Observance"
+  },
+  {
+   "date": "2023-04-23",
+   "name": "Eid al-Fitr Holiday",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2023-04-24",
+   "name": "Eid al-Fitr holiday",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2023-05-01",
+   "name": "Labour Day/May Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2023-06-29",
+   "name": "Eid al-Adha",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2023-06-30",
+   "name": "Eid al-Adha Holiday",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2023-07-19",
+   "name": "Hijra New Year",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2023-07-30",
+   "name": "Feast of the Throne",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2023-08-14",
+   "name": "Anniversary of the Recovery Oued Ed-Dahab",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2023-08-20",
+   "name": "Anniversary of the Revolution of the King and the People",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2023-08-21",
+   "name": "Youth Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2023-09-28",
+   "name": "The Prophet Muhammad's Birthday",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2023-09-29",
+   "name": "The Prophet Muhammad's Birthday Holiday",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2023-11-06",
+   "name": "Anniversary of the Green March",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2023-11-18",
+   "name": "Independence Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2024-01-01",
+   "name": "New Year's Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2024-01-11",
+   "name": "Anniversary of the Independence Manifesto",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2024-01-14",
+   "name": "Amazigh New Year",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2024-03-10",
+   "name": "Daylight Saving Time ends",
+   "type": "Observance"
+  },
+  {
+   "date": "2024-03-12",
+   "name": "Ramadan Start",
+   "type": "Observance"
+  },
+  {
+   "date": "2024-04-10",
+   "name": "Eid al-Fitr",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2024-04-11",
+   "name": "Eid al-Fitr Holiday",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2024-04-14",
+   "name": "Daylight Saving Time starts",
+   "type": "Observance"
+  },
+  {
+   "date": "2024-05-01",
+   "name": "Labour Day/May Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2024-06-17",
+   "name": "Eid al-Adha",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2024-06-18",
+   "name": "Eid al-Adha Holiday",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2024-07-07",
+   "name": "Hijra New Year",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2024-07-30",
+   "name": "Feast of the Throne",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2024-08-14",
+   "name": "Anniversary of the Recovery Oued Ed-Dahab",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2024-08-20",
+   "name": "Anniversary of the Revolution of the King and the People",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2024-08-21",
+   "name": "Youth Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2024-09-16",
+   "name": "The Prophet Muhammad's Birthday",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2024-09-17",
+   "name": "The Prophet Muhammad's Birthday Holiday",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2024-11-06",
+   "name": "Anniversary of the Green March",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2024-11-18",
+   "name": "Independence Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2025-01-01",
+   "name": "New Year's Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2025-01-11",
+   "name": "Anniversary of the Independence Manifesto",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2025-01-14",
+   "name": "Amazigh New Year",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2025-02-23",
+   "name": "Daylight Saving Time ends",
+   "type": "Observance"
+  },
+  {
+   "date": "2025-03-02",
+   "name": "Ramadan Start",
+   "type": "Observance"
+  },
+  {
+   "date": "2025-03-31",
+   "name": "Eid al-Fitr",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2025-04-01",
+   "name": "Eid al-Fitr Holiday",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2025-04-06",
+   "name": "Daylight Saving Time starts",
+   "type": "Observance"
+  },
+  {
+   "date": "2025-05-01",
+   "name": "Labour Day/May Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2025-06-07",
+   "name": "Eid al-Adha",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2025-06-08",
+   "name": "Eid al-Adha Holiday",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2025-06-09",
+   "name": "Eid al-Adha Holiday",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2025-06-27",
+   "name": "Hijra New Year",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2025-07-30",
+   "name": "Feast of the Throne",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2025-08-14",
+   "name": "Anniversary of the Recovery Oued Ed-Dahab",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2025-08-20",
+   "name": "Anniversary of the Revolution of the King and the People",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2025-08-21",
+   "name": "Youth Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2025-09-05",
+   "name": "The Prophet Muhammad's Birthday",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2025-09-06",
+   "name": "The Prophet Muhammad's Birthday Holiday",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2025-11-06",
+   "name": "Anniversary of the Green March",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2025-11-18",
+   "name": "Independence Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2026-01-01",
+   "name": "New Year's Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2026-01-11",
+   "name": "Anniversary of the Independence Manifesto",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2026-01-14",
+   "name": "Amazigh New Year",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2026-02-15",
+   "name": "Daylight Saving Time ends",
+   "type": "Observance"
+  },
+  {
+   "date": "2026-02-19",
+   "name": "Ramadan Start",
+   "type": "Observance"
+  },
+  {
+   "date": "2026-03-20",
+   "name": "Eid al-Fitr",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2026-03-21",
+   "name": "Eid al-Fitr Holiday",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2026-03-22",
+   "name": "Daylight Saving Time starts",
+   "type": "Observance"
+  },
+  {
+   "date": "2026-03-23",
+   "name": "Eid al-Fitr holiday",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2026-05-01",
+   "name": "Labour Day/May Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2026-05-27",
+   "name": "Eid al-Adha",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2026-05-28",
+   "name": "Eid al-Adha Holiday",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2026-05-29",
+   "name": "Eid al-Adha Holiday",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2026-06-17",
+   "name": "Hijra New Year",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2026-07-30",
+   "name": "Feast of the Throne",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2026-08-14",
+   "name": "Anniversary of the Recovery Oued Ed-Dahab",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2026-08-20",
+   "name": "Anniversary of the Revolution of the King and the People",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2026-08-21",
+   "name": "Youth Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2026-08-25",
+   "name": "The Prophet Muhammad's Birthday",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2026-09-20",
+   "name": "Daylight Saving Time ends",
+   "type": "Observance"
+  },
+  {
+   "date": "2026-10-31",
+   "name": "Unity Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2026-11-06",
+   "name": "Anniversary of the Green March",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2026-11-18",
+   "name": "Independence Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2027-01-01",
+   "name": "New Year's Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2027-01-11",
+   "name": "Anniversary of the Independence Manifesto",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2027-01-14",
+   "name": "Amazigh New Year",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2027-02-08",
+   "name": "Ramadan Start (tentative)",
+   "type": "Observance"
+  },
+  {
+   "date": "2027-03-10",
+   "name": "Eid al-Fitr (tentative)",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2027-03-11",
+   "name": "Eid al-Fitr Holiday (tentative)",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2027-05-01",
+   "name": "Labour Day/May Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2027-05-17",
+   "name": "Eid al-Adha (tentative)",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2027-05-18",
+   "name": "Eid al-Adha Holiday (tentative)",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2027-06-06",
+   "name": "Hijra New Year (tentative)",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2027-07-30",
+   "name": "Feast of the Throne",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2027-08-14",
+   "name": "Anniversary of the Recovery Oued Ed-Dahab",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2027-08-15",
+   "name": "The Prophet Muhammad's Birthday (tentative)",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2027-08-16",
+   "name": "The Prophet Muhammad's Birthday Holiday (tentative)",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2027-08-20",
+   "name": "Anniversary of the Revolution of the King and the People",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2027-08-21",
+   "name": "Youth Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2027-10-31",
+   "name": "Unity Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2027-11-06",
+   "name": "Anniversary of the Green March",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2027-11-18",
+   "name": "Independence Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2028-01-01",
+   "name": "New Year's Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2028-01-11",
+   "name": "Anniversary of the Independence Manifesto",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2028-01-14",
+   "name": "Amazigh New Year",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2028-01-28",
+   "name": "Ramadan Start (tentative)",
+   "type": "Observance"
+  },
+  {
+   "date": "2028-02-27",
+   "name": "Eid al-Fitr (tentative)",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2028-02-28",
+   "name": "Eid al-Fitr Holiday (tentative)",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2028-05-01",
+   "name": "Labour Day/May Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2028-05-05",
+   "name": "Eid al-Adha (tentative)",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2028-05-06",
+   "name": "Eid al-Adha Holiday (tentative)",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2028-05-25",
+   "name": "Hijra New Year (tentative)",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2028-07-30",
+   "name": "Feast of the Throne",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2028-08-03",
+   "name": "The Prophet Muhammad's Birthday (tentative)",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2028-08-04",
+   "name": "The Prophet Muhammad's Birthday Holiday (tentative)",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2028-08-14",
+   "name": "Anniversary of the Recovery Oued Ed-Dahab",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2028-08-20",
+   "name": "Anniversary of the Revolution of the King and the People",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2028-08-21",
+   "name": "Youth Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2028-10-31",
+   "name": "Unity Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2028-11-06",
+   "name": "Anniversary of the Green March",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2028-11-18",
+   "name": "Independence Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2029-01-01",
+   "name": "New Year's Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2029-01-11",
+   "name": "Anniversary of the Independence Manifesto",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2029-01-14",
+   "name": "Amazigh New Year",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2029-01-16",
+   "name": "Ramadan Start (tentative)",
+   "type": "Observance"
+  },
+  {
+   "date": "2029-02-15",
+   "name": "Eid al-Fitr (tentative)",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2029-02-16",
+   "name": "Eid al-Fitr Holiday (tentative)",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2029-04-24",
+   "name": "Eid al-Adha (tentative)",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2029-04-25",
+   "name": "Eid al-Adha Holiday (tentative)",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2029-05-01",
+   "name": "Labour Day/May Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2029-05-15",
+   "name": "Hijra New Year (tentative)",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2029-07-24",
+   "name": "The Prophet Muhammad's Birthday (tentative)",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2029-07-25",
+   "name": "The Prophet Muhammad's Birthday Holiday (tentative)",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2029-07-30",
+   "name": "Feast of the Throne",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2029-08-14",
+   "name": "Anniversary of the Recovery Oued Ed-Dahab",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2029-08-20",
+   "name": "Anniversary of the Revolution of the King and the People",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2029-08-21",
+   "name": "Youth Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2029-10-31",
+   "name": "Unity Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2029-11-06",
+   "name": "Anniversary of the Green March",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2029-11-18",
+   "name": "Independence Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2030-01-01",
+   "name": "New Year's Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2030-01-06",
+   "name": "Ramadan Start (tentative)",
+   "type": "Observance"
+  },
+  {
+   "date": "2030-01-11",
+   "name": "Anniversary of the Independence Manifesto",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2030-01-14",
+   "name": "Amazigh New Year",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2030-02-05",
+   "name": "Eid al-Fitr (tentative)",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2030-02-06",
+   "name": "Eid al-Fitr Holiday (tentative)",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2030-04-13",
+   "name": "Eid al-Adha (tentative)",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2030-04-14",
+   "name": "Eid al-Adha Holiday (tentative)",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2030-05-01",
+   "name": "Labour Day/May Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2030-05-04",
+   "name": "Hijra New Year (tentative)",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2030-07-13",
+   "name": "The Prophet Muhammad's Birthday (tentative)",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2030-07-14",
+   "name": "The Prophet Muhammad's Birthday Holiday (tentative)",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2030-07-30",
+   "name": "Feast of the Throne",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2030-08-14",
+   "name": "Anniversary of the Recovery Oued Ed-Dahab",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2030-08-20",
+   "name": "Anniversary of the Revolution of the King and the People",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2030-08-21",
+   "name": "Youth Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2030-10-31",
+   "name": "Unity Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2030-11-06",
+   "name": "Anniversary of the Green March",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2030-11-18",
+   "name": "Independence Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2030-12-26",
+   "name": "Ramadan Start (tentative)",
+   "type": "Observance"
+  },
+  {
+   "date": "2031-01-01",
+   "name": "New Year's Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2031-01-11",
+   "name": "Anniversary of the Independence Manifesto",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2031-01-14",
+   "name": "Amazigh New Year",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2031-01-25",
+   "name": "Eid al-Fitr (tentative)",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2031-01-26",
+   "name": "Eid al-Fitr Holiday (tentative)",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2031-04-03",
+   "name": "Eid al-Adha (tentative)",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2031-04-04",
+   "name": "Eid al-Adha Holiday (tentative)",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2031-04-23",
+   "name": "Hijra New Year (tentative)",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2031-05-01",
+   "name": "Labour Day/May Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2031-07-02",
+   "name": "The Prophet Muhammad's Birthday (tentative)",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2031-07-03",
+   "name": "The Prophet Muhammad's Birthday Holiday (tentative)",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2031-07-30",
+   "name": "Feast of the Throne",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2031-08-14",
+   "name": "Anniversary of the Recovery Oued Ed-Dahab",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2031-08-20",
+   "name": "Anniversary of the Revolution of the King and the People",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2031-08-21",
+   "name": "Youth Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2031-10-31",
+   "name": "Unity Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2031-11-06",
+   "name": "Anniversary of the Green March",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2031-11-18",
+   "name": "Independence Day",
+   "type": "Public holiday"
+  },
+  {
+   "date": "2031-12-15",
+   "name": "Ramadan Start (tentative)",
+   "type": "Observance"
+  }
+ ]
+}
