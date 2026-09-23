@@ -67,7 +67,7 @@ test.describe("with a Zurich profile", () => {
     await page.getByRole("tab", { name: "Holidays" }).click();
     const easter2027 = page.locator('[data-date="2027-03-29"]');
     await expect(easter2027).toHaveAttribute("data-holiday", "1");
-    await page.getByRole("checkbox", { name: "Counts as holiday: Easter Monday (regional holiday)" }).uncheck();
+    await page.getByRole("checkbox", { name: "Counts as holiday: Easter Monday", exact: true }).uncheck();
     await expect(easter2027).not.toHaveAttribute("data-holiday");
     await expect(page.getByRole("button", { name: /from 2027/ })).toBeVisible();
 
