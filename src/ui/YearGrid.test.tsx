@@ -18,6 +18,22 @@ function setup(stateOverrides = {}, onToggle = vi.fn()) {
 const day = (date: string) => document.querySelector<HTMLButtonElement>(`[data-date="${date}"]`)!;
 
 describe("YearGrid", () => {
+  test("scrolls only the grid sideways to the current month, never the page (the hero stays in view)", () => {
+    const scrollIntoView = vi.fn();
+    Element.prototype.scrollIntoView = scrollIntoView;
+    const offsetLeft = vi.spyOn(HTMLElement.prototype, "offsetLeft", "get").mockImplementation(function (this: HTMLElement) {
+      return this.dataset.month === "4" ? 276 : 0;
+    });
+    try {
+      setup();
+      expect(screen.getByTestId("grid-scroller").scrollLeft).toBe(276);
+      expect(scrollIntoView).not.toHaveBeenCalled();
+    } finally {
+      offsetLeft.mockRestore();
+      delete (Element.prototype as Partial<Element>).scrollIntoView;
+    }
+  });
+
   test("renders 12 months in calendar order with the right number of days", () => {
     setup();
     const months = screen.getByTestId("year-grid").querySelectorAll("[data-month]");

@@ -7,8 +7,9 @@ export function WeeklyPlanPanel({ plan, onCycle }: { plan: WeeklyPlan; onCycle(w
   const { t, weekdayShort } = useI18n();
   const label = (v: WeeklyValue) => (v === 0 ? t("weekly.work") : v === 0.5 ? t("weekly.half") : t("weekly.off"));
   return (
-    <section className="panel" aria-labelledby="weekly-title">
+    <section className="panel" aria-labelledby="weekly-title" aria-describedby="weekly-hint">
       <h2 id="weekly-title">{t("weekly.title")}</h2>
+      <p id="weekly-hint" className="panel-hint">{t("weekly.hint")}</p>
       <div className="weekly">
         {plan.map((value, i) => (
           <button

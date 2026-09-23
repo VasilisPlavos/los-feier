@@ -1,6 +1,6 @@
 import { afterEach, describe, expect, test, vi } from "vitest";
 import {
-  calendarRegions, clearCalendarCache, hasDataForYear, isCalendarId, loadCalendar, loadIndex, matchesQuery, suggestCalendarId,
+  calendarRegions, clampYear, clearCalendarCache, hasDataForYear, yearBounds, isCalendarId, loadCalendar, loadIndex, matchesQuery, suggestCalendarId,
   type FetchLike,
 } from "./calendars";
 import { zurichFixture } from "../test/fixtures";
@@ -92,6 +92,35 @@ describe("calendar helpers", () => {
   test("hasDataForYear uses from/to", () => {
     expect(hasDataForYear(zurichFixture, 2026)).toBe(true);
     expect(hasDataForYear(zurichFixture, 2019)).toBe(false);
+  });
+});
+
+describe("year bounds", () => {
+  const ranged = (id: string, from: number, to: number): CalendarIndexEntry => ({ ...entry(id), from, to });
+
+  test("yearBounds spans the first to the last year of every calendar", () => {
+    expect(yearBounds([ranged("en.a", 2023, 2027), ranged("en.b", 2021, 2025), ranged("en.c", 2024, 2031)])).toEqual({
+      min: 2021,
+      max: 2031,
+    });
+  });
+  test("yearBounds is null without calendars", () => {
+    expect(yearBounds([])).toBeNull();
+  });
+  test("yearBounds of the real data covers the current year", () => {
+    const bounds = yearBounds(realIndex as CalendarIndexEntry[])!;
+    expect(bounds.min).toBeLessThanOrEqual(2026);
+    expect(bounds.max).toBeGreaterThanOrEqual(2026);
+  });
+  test.each([
+    [2019, 2021],
+    [2026, 2026],
+    [2040, 2031],
+  ])("clampYear(%i) = %i", (year, expected) => {
+    expect(clampYear(year, { min: 2021, max: 2031 })).toBe(expected);
+  });
+  test("clampYear keeps the year when there are no bounds", () => {
+    expect(clampYear(2019, null)).toBe(2019);
   });
 });
 
