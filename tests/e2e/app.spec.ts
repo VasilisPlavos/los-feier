@@ -1,15 +1,19 @@
 import { expect, test } from "@playwright/test";
 
 const seededState = {
-  version: 1,
+  version: 2,
   language: null,
-  calendar: { id: "en.ch", regions: ["Zurich"], includeObservances: false },
-  holidayRules: {},
-  yearOverrides: {},
-  customHolidays: [],
-  weeklyPlan: [0, 0, 0, 0, 0, 1, 1],
-  leave: {},
   theme: "system",
+  leave: {},
+  profiles: {
+    "2026": {
+      calendars: [{ id: "en.ch", regions: ["Zurich"] }],
+      includeObservances: false,
+      holidayRules: {},
+      customHolidays: [],
+      weeklyPlan: [0, 0, 0, 0, 0, 1, 1],
+    },
+  },
 };
 
 test.describe("with a Zurich profile", () => {
@@ -41,6 +45,42 @@ test.describe("with a Zurich profile", () => {
     await expect(page.locator('[data-date="2026-04-07"]')).toHaveAttribute("data-leave", "1");
   });
 
+  test("adding a second calendar and a region", async ({ page }) => {
+    await page.goto("./#2026");
+    await page.getByRole("tab", { name: "Holidays" }).click();
+    await page.getByRole("button", { name: "Change" }).click();
+    const dialog = page.getByRole("dialog", { name: "Holiday calendars · from 2026 onwards" });
+    await dialog.getByRole("searchbox", { name: "Search calendars…" }).fill("christian");
+    await dialog.getByRole("checkbox", { name: "Christian Holidays" }).check();
+    const regions = dialog.getByRole("group", { name: "Regions · Holidays in Switzerland" });
+    await regions.getByRole("checkbox", { name: "Bern", exact: true }).check();
+    await dialog.getByRole("button", { name: "Save" }).click();
+    await expect(dialog).toBeHidden();
+    const panel = page.locator(".calendars-panel");
+    await panel.getByRole("button", { name: /Calendars \(2\)/ }).click();
+    await expect(panel.getByText("Holidays in Switzerland — Bern, Zurich")).toBeVisible();
+    await expect(panel.getByText("Christian Holidays", { exact: true })).toBeVisible();
+  });
+
+  test("a change in 2027 keeps 2026 as it was and can be undone", async ({ page }) => {
+    await page.goto("./#2027");
+    await page.getByRole("tab", { name: "Holidays" }).click();
+    const easter2027 = page.locator('[data-date="2027-03-29"]');
+    await expect(easter2027).toHaveAttribute("data-holiday", "1");
+    await page.getByRole("checkbox", { name: "Counts as holiday: Easter Monday (regional holiday)" }).uncheck();
+    await expect(easter2027).not.toHaveAttribute("data-holiday");
+    await expect(page.getByRole("button", { name: /from 2027/ })).toBeVisible();
+
+    await page.getByRole("button", { name: "Previous year" }).click();
+    await expect(page.locator('[data-date="2026-04-06"]')).toHaveAttribute("data-holiday", "1");
+    await expect(page.getByRole("button", { name: /from 2026/ })).toBeVisible();
+
+    await page.getByRole("button", { name: "Next year" }).click();
+    await page.getByRole("button", { name: /Calendars \(1\)/ }).click();
+    await page.getByRole("button", { name: "Remove the 2027 settings" }).click();
+    await expect(page.locator('[data-date="2027-03-29"]')).toHaveAttribute("data-holiday", "1");
+  });
+
   test("bottom tabs switch panels", async ({ page }) => {
     await page.goto("./#2026");
     await page.getByRole("tab", { name: "Plan" }).click();
@@ -70,9 +110,14 @@ test.describe("REVIEW FOCUS: timezone west of UTC", () => {
 test.describe("first run in Greek", () => {
   test.use({ locale: "el-GR" });
 
-  test("suggests the Greek calendar and shows the Greek UI", async ({ page }) => {
+  test("asks for calendars with the Greek one suggested, then shows the Greek UI", async ({ page }) => {
     await page.goto("./#2026");
-    await expect(page.getByText("Χρησιμοποιείται το «Διακοπές στην Ελλάδα».")).toBeVisible();
+    const dialog = page.getByRole("dialog", { name: "Παρακαλώ επιλέξτε ημερολόγια" });
+    await expect(dialog).toBeVisible();
+    await expect(dialog.getByRole("checkbox", { name: "Διακοπές στην Ελλάδα" })).toBeChecked();
+    await dialog.getByRole("button", { name: "Συνέχεια" }).click();
+    await expect(dialog).toBeHidden();
     await expect(page.getByRole("heading", { name: "Αργίες", level: 1 })).toBeVisible();
+    await expect(page.locator('[data-date="2026-03-25"]')).toHaveAttribute("data-holiday", "1");
   });
 });
