@@ -4,7 +4,7 @@ Plan your leave around public holidays. See the whole year as 12 months (3 × 4)
 
 A modern, open-source successor of the old argies.gr calendar.
 
-**Live:** https://vasilisplavos.github.io/los-feier/
+**Live:** <https://vasilisplavos.github.io/los-feier/>
 
 ## Why “Los Feier”?
 
@@ -71,6 +71,13 @@ The included workflow (`.github/workflows/deploy.yml`) publishes `dist/` to GitH
 ## Data source
 
 Holiday data: Google Calendar public holiday calendars (`https://calendar.google.com/calendar/ical/<id>%23holiday%40group.v.calendar.google.com/public/basic.ics`). Dates may change; always double-check with official sources.
+
+## Sources
+
+- <https://www.stadt-zuerich.ch/portal/de/index/jobs/anstellungsbedingungen/ferien-urlaub-betriebsferientage/feiertage-betriebsferientage.html>
+- <https://www.zh.ch/content/dam/zhweb/bilder-dokumente/footer/arbeiten-fuer-den-kanton/personalamt/Feiertage2023.pdf>
+- <https://www.stadt-zuerich.ch/portal/de/index/jobs/anstellungsbedingungen/ferien-urlaub-betriebsferientage/feiertage-betriebsferientage.html#:~:text=Ganzer%20Tag%20frei-,2024,-Tag>
+- <https://www.google.com/search?q=z%C3%BCrich+feiertage+2025>
 
 ## License
 
